@@ -1,29 +1,31 @@
 {
+  "firestore": {
+    "database": "(default)",
+    "location": "asia-south1",
+    "rules": "firestore.rules",
+    "indexes": "firestore.indexes.json"
+  },
   "functions": [
     {
       "source": "functions",
       "codebase": "default",
       "ignore": [
-        "node_modules",
+        "venv",
         ".git",
         "firebase-debug.log",
         "firebase-debug.*.log",
         "*.local"
       ],
-      "predeploy": [
-        "npm --prefix \"$RESOURCE_DIR\" run lint",
-        "npm --prefix \"$RESOURCE_DIR\" run build"
-      ]
+      "runtime": "python312"
     }
   ],
-  "firestore": {
-    "rules": "firestore.rules",
-    "indexes": "firestore.indexes.json"
-  },
   "storage": {
     "rules": "storage.rules"
   },
   "emulators": {
+    "auth": {
+      "port": 9099
+    },
     "functions": {
       "port": 5001
     },
@@ -36,9 +38,6 @@
     "ui": {
       "enabled": true
     },
-    "singleProjectMode": true,
-    "auth": {
-      "port": 9099
-    }
+    "singleProjectMode": true
   }
 }
