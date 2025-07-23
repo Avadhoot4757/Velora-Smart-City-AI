@@ -11,11 +11,11 @@ firebase-debug.*.log*
 .firebase/
 
 # Firebase config
-
-# Uncomment this if you'd like others to create their own Firebase project.
-# For a team working on the same Firebase project(s), it is recommended to leave
-# it commented so all members can deploy to the same project(s) in .firebaserc.
+# Uncomment if team members need individual Firebase projects
 # .firebaserc
+
+# Firebase service account keys
+backend/functions/serviceAccountKey.json
 
 # Runtime data
 pids
@@ -32,20 +32,21 @@ coverage
 # nyc test coverage
 .nyc_output
 
-# Grunt intermediate storage (http://gruntjs.com/creating-plugins#storing-task-files)
+# Grunt intermediate storage
 .grunt
 
-# Bower dependency directory (https://bower.io/)
+# Bower dependency directory
 bower_components
 
 # node-waf configuration
 .lock-wscript
 
-# Compiled binary addons (http://nodejs.org/api/addons.html)
+# Compiled binary addons
 build/Release
 
 # Dependency directories
 node_modules/
+frontend/web/node_modules/
 
 # Optional npm cache directory
 .npm
@@ -62,8 +63,24 @@ node_modules/
 # Yarn Integrity file
 .yarn-integrity
 
-# dotenv environment variables file
+# Environment variables
 .env
+frontend/web/.env.*
 
-# dataconnect generated files
+# Next.js build and cache
+frontend/web/.next/
+frontend/web/.next/trace
+frontend/web/.next/static/webpack/*.hot-update.*
+
+# Python cache
+backend/functions/**/__pycache__/
+*.pyc
+
+# Node.js lock files (choose one based on package manager)
+# If using npm, uncomment the following:
+# frontend/web/pnpm-lock.yaml
+# If using pnpm, uncomment the following:
+frontend/web/package-lock.json
+
+# Firebase Data Connect
 .dataconnect
