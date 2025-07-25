@@ -1,0 +1,4002 @@
+[
+  {
+    "poi_id": "84dac679-d113-45ff-973c-ad845fd90dfe",
+    "name": "Sahota, Yohannan and Dara",
+    "type": "park",
+    "latitude": 12.916936628230298,
+    "longitude": 77.70738836370633,
+    "locality": "Jayanagar"
+  },
+  {
+    "poi_id": "5145c6f8-9996-4a38-bdc2-42a8d1edc618",
+    "name": "Behl, Sodhi and Vohra",
+    "type": "stadium",
+    "latitude": 12.982640806356816,
+    "longitude": 77.58453930248274,
+    "locality": "HSR Layout"
+  },
+  {
+    "poi_id": "927ae04e-f58b-4c61-aba0-09ec55c87441",
+    "name": "Sastry, Nadig and Luthra",
+    "type": "temple",
+    "latitude": 13.00497901740008,
+    "longitude": 77.72545466880285,
+    "locality": "Indiranagar"
+  },
+  {
+    "poi_id": "8e44f2f8-3de8-44cd-ae15-c527fe2a0cbc",
+    "name": "Memon and Sons",
+    "type": "stadium",
+    "latitude": 12.802973452512523,
+    "longitude": 77.56932891380399,
+    "locality": "Marathahalli"
+  },
+  {
+    "poi_id": "9dc3bbee-3152-4136-a430-5373f936a968",
+    "name": "Kibe-Pathak",
+    "type": "stadium",
+    "latitude": 13.066352094032345,
+    "longitude": 77.57165718385758,
+    "locality": "Peenya"
+  },
+  {
+    "poi_id": "0d346977-d41b-48bf-a4b0-78a7a4f9a67f",
+    "name": "Shah LLC",
+    "type": "market",
+    "latitude": 13.04955500215161,
+    "longitude": 77.4419113759752,
+    "locality": "Hebbal"
+  },
+  {
+    "poi_id": "6dd9a879-93ee-46ee-ae93-a4d0cd24120c",
+    "name": "D’Alia, Khosla and Saxena",
+    "type": "temple",
+    "latitude": 12.928200235172284,
+    "longitude": 77.68092968545328,
+    "locality": "Rajajinagar"
+  },
+  {
+    "poi_id": "63f20557-a2e2-41ca-b07b-f9bb20fda784",
+    "name": "Rout, Pathak and Buch",
+    "type": "park",
+    "latitude": 12.818527577449087,
+    "longitude": 77.48643789436348,
+    "locality": "Hebbal"
+  },
+  {
+    "poi_id": "6732ceca-2c78-4c22-ba65-983dfa33fa98",
+    "name": "Tiwari-Bose",
+    "type": "temple",
+    "latitude": 13.064226388924768,
+    "longitude": 77.71486437128031,
+    "locality": "Electronic City"
+  },
+  {
+    "poi_id": "288fc36a-846c-454c-9170-a2efe777c664",
+    "name": "Sule-Karpe",
+    "type": "hospital",
+    "latitude": 13.134311306167346,
+    "longitude": 77.71878847711564,
+    "locality": "BTM Layout"
+  },
+  {
+    "poi_id": "b5c43078-197d-405f-bb20-d1546ff98cf7",
+    "name": "Sahota-Karpe",
+    "type": "hospital",
+    "latitude": 12.884053058607705,
+    "longitude": 77.73015853915595,
+    "locality": "Whitefield"
+  },
+  {
+    "poi_id": "1e4dacd6-8116-4d6c-a057-2e73cd199b5e",
+    "name": "Dass, Yogi and Konda",
+    "type": "market",
+    "latitude": 12.913233614807964,
+    "longitude": 77.58208067118609,
+    "locality": "Koramangala"
+  },
+  {
+    "poi_id": "645ae8ee-c8c6-48b1-93b1-ee1da1a61f32",
+    "name": "Devi-Lad",
+    "type": "market",
+    "latitude": 12.864334511318637,
+    "longitude": 77.63698282467428,
+    "locality": "KR Puram"
+  },
+  {
+    "poi_id": "eaaa94c8-a097-4fe3-831d-b215d7d0dc99",
+    "name": "Om-Murthy",
+    "type": "hospital",
+    "latitude": 13.001927643170694,
+    "longitude": 77.67248055802159,
+    "locality": "Indiranagar"
+  },
+  {
+    "poi_id": "28b7b541-8d8b-4728-965b-c676429e70e0",
+    "name": "Bumb Group",
+    "type": "temple",
+    "latitude": 12.854194488126609,
+    "longitude": 77.44585511652767,
+    "locality": "KR Puram"
+  },
+  {
+    "poi_id": "17df85b3-3429-48cf-9289-1c31f2de05fd",
+    "name": "Tiwari-Divan",
+    "type": "stadium",
+    "latitude": 12.924667880211484,
+    "longitude": 77.61033501824913,
+    "locality": "Koramangala"
+  },
+  {
+    "poi_id": "02f4298f-6ffa-4356-8690-5ba517e03df5",
+    "name": "Talwar, Hora and Gole",
+    "type": "stadium",
+    "latitude": 13.043954554876992,
+    "longitude": 77.41200426545616,
+    "locality": "Marathahalli"
+  },
+  {
+    "poi_id": "272e31b1-97e1-4c36-8520-d50fa0ff3498",
+    "name": "Aurora-Ganesan",
+    "type": "market",
+    "latitude": 12.996040594053273,
+    "longitude": 77.57414812918606,
+    "locality": "BTM Layout"
+  },
+  {
+    "poi_id": "8b2e1eb3-b523-41f3-9e3b-c735071f1a27",
+    "name": "Sahota LLC",
+    "type": "park",
+    "latitude": 12.935261897514778,
+    "longitude": 77.45419493856708,
+    "locality": "Malleswaram"
+  },
+  {
+    "poi_id": "926114b7-142a-4f47-b8ef-32eeebac12ef",
+    "name": "Singhal, Chaudhuri and Date",
+    "type": "park",
+    "latitude": 12.94708736063264,
+    "longitude": 77.46402302408673,
+    "locality": "HSR Layout"
+  },
+  {
+    "poi_id": "bbf282a9-be09-4835-8679-65ab61e548ca",
+    "name": "Sankar Inc",
+    "type": "park",
+    "latitude": 12.996738808918131,
+    "longitude": 77.5277666483424,
+    "locality": "Banashankari"
+  },
+  {
+    "poi_id": "a26c2d5a-7426-47e7-bbc1-085b216b9833",
+    "name": "Ganesan, Bora and Deo",
+    "type": "market",
+    "latitude": 12.802052654760507,
+    "longitude": 77.55135300835077,
+    "locality": "Vijayanagar"
+  },
+  {
+    "poi_id": "2fc2147c-5bad-4755-8710-1f3da1aa19f0",
+    "name": "Wagle, Rama and Sami",
+    "type": "hospital",
+    "latitude": 12.827478453958765,
+    "longitude": 77.61811034858627,
+    "locality": "HSR Layout"
+  },
+  {
+    "poi_id": "38c4f346-e5dd-414c-a70b-ba9c3d5e69df",
+    "name": "Datta-Ratti",
+    "type": "hospital",
+    "latitude": 13.108440323717055,
+    "longitude": 77.42604994645349,
+    "locality": "Peenya"
+  },
+  {
+    "poi_id": "d7282d30-8911-4a42-b19e-c58b4c031d16",
+    "name": "Khurana, Memon and Dani",
+    "type": "park",
+    "latitude": 12.827257646181952,
+    "longitude": 77.57629211643311,
+    "locality": "BTM Layout"
+  },
+  {
+    "poi_id": "ce9def4e-c7af-4a24-b9ef-9fa83ec8fe58",
+    "name": "Nayar-Chokshi",
+    "type": "temple",
+    "latitude": 13.047381258673678,
+    "longitude": 77.46391879558858,
+    "locality": "Marathahalli"
+  },
+  {
+    "poi_id": "42aecc90-c538-4208-a0cb-9e17c93a7471",
+    "name": "Bath, Borah and Pant",
+    "type": "park",
+    "latitude": 13.122013357438169,
+    "longitude": 77.60089131126111,
+    "locality": "Koramangala"
+  },
+  {
+    "poi_id": "153d1653-4664-4858-8d3f-69eda8c51cca",
+    "name": "Rege-Sengupta",
+    "type": "temple",
+    "latitude": 12.894739261505606,
+    "longitude": 77.62309161429141,
+    "locality": "Jayanagar"
+  },
+  {
+    "poi_id": "05ec8e9f-a09f-4700-a4ce-1460ef5a9491",
+    "name": "Sarin, Mann and Sood",
+    "type": "market",
+    "latitude": 12.92967200297083,
+    "longitude": 77.5948482397935,
+    "locality": "Basavanagudi"
+  },
+  {
+    "poi_id": "ddefb7bb-9450-44c8-bc1b-b61aa36d4d54",
+    "name": "Desai, Goswami and Upadhyay",
+    "type": "temple",
+    "latitude": 12.999122492045652,
+    "longitude": 77.65840342866741,
+    "locality": "KR Puram"
+  },
+  {
+    "poi_id": "ed5cea4e-7589-44f5-9c66-021e1a79aec1",
+    "name": "Doshi Inc",
+    "type": "school",
+    "latitude": 13.108598139373505,
+    "longitude": 77.51746323548431,
+    "locality": "Bellandur"
+  },
+  {
+    "poi_id": "244f52f4-1b69-4031-9f68-3d6f988c89db",
+    "name": "Pingle, Setty and Raghavan",
+    "type": "school",
+    "latitude": 13.129666955541147,
+    "longitude": 77.66778730707159,
+    "locality": "Marathahalli"
+  },
+  {
+    "poi_id": "2e3d9de2-e504-41c6-8312-153d484f7f7c",
+    "name": "Sarna-Goda",
+    "type": "market",
+    "latitude": 13.058847136838944,
+    "longitude": 77.55146847859787,
+    "locality": "HSR Layout"
+  },
+  {
+    "poi_id": "d83940c9-7e86-47f8-93cf-44fe17c03e28",
+    "name": "Mammen, Chatterjee and Kata",
+    "type": "market",
+    "latitude": 12.830316916299143,
+    "longitude": 77.5694645744129,
+    "locality": "Vijayanagar"
+  },
+  {
+    "poi_id": "353daedc-d69b-4eb1-a9a7-f5e05c8488db",
+    "name": "Tak-Om",
+    "type": "market",
+    "latitude": 13.034203954437197,
+    "longitude": 77.62683574454138,
+    "locality": "HSR Layout"
+  },
+  {
+    "poi_id": "cba20d38-7db4-490d-99c5-9f2d640b7b85",
+    "name": "Vasa PLC",
+    "type": "temple",
+    "latitude": 12.943606302655432,
+    "longitude": 77.40642543439974,
+    "locality": "Sarjapur Road"
+  },
+  {
+    "poi_id": "7c8c65ab-12d5-4fe5-a9eb-337c059ef8d8",
+    "name": "Trivedi, Sandhu and Mangal",
+    "type": "hospital",
+    "latitude": 12.964745349821872,
+    "longitude": 77.62889797749709,
+    "locality": "Ulsoor"
+  },
+  {
+    "poi_id": "35d5f4e5-1389-4a70-a02c-bed2f58f41b0",
+    "name": "Rajagopalan-Nagar",
+    "type": "school",
+    "latitude": 12.817201936620812,
+    "longitude": 77.61650480217524,
+    "locality": "Sarjapur Road"
+  },
+  {
+    "poi_id": "e3c443f1-6010-4b93-ab7f-0864aff54774",
+    "name": "Dhar Inc",
+    "type": "stadium",
+    "latitude": 12.866871748771226,
+    "longitude": 77.50844649086365,
+    "locality": "Vijayanagar"
+  },
+  {
+    "poi_id": "736cc67e-e886-418e-a230-735050471a3d",
+    "name": "Kade, Sani and Venkataraman",
+    "type": "market",
+    "latitude": 13.076679762636777,
+    "longitude": 77.43002799971482,
+    "locality": "Ulsoor"
+  },
+  {
+    "poi_id": "4c7b34e2-2e07-4b63-a93e-16b3cefd1224",
+    "name": "Murthy-Chaudhary",
+    "type": "temple",
+    "latitude": 12.958885591566752,
+    "longitude": 77.43182740746957,
+    "locality": "Koramangala"
+  },
+  {
+    "poi_id": "a8dfe59a-2dbd-47cf-a754-d4c302988dd2",
+    "name": "Mane-Gandhi",
+    "type": "park",
+    "latitude": 12.905581784570902,
+    "longitude": 77.72312831144482,
+    "locality": "Sarjapur Road"
+  },
+  {
+    "poi_id": "dad4c20f-9b4d-4b90-a197-339c913a2b6c",
+    "name": "Mani LLC",
+    "type": "school",
+    "latitude": 12.934406675887736,
+    "longitude": 77.64124776242905,
+    "locality": "Whitefield"
+  },
+  {
+    "poi_id": "57c26cfd-f9d5-4f7f-9e01-4975080d2370",
+    "name": "Sarna-Kapur",
+    "type": "park",
+    "latitude": 13.099039829663988,
+    "longitude": 77.44448591481977,
+    "locality": "Koramangala"
+  },
+  {
+    "poi_id": "feb2d172-7be1-4731-98c6-d166fe65b782",
+    "name": "Mani LLC",
+    "type": "temple",
+    "latitude": 13.062149656091735,
+    "longitude": 77.52485310925812,
+    "locality": "Yeshwanthpur"
+  },
+  {
+    "poi_id": "0148a245-8be6-4b98-9999-21ec9d2f6e76",
+    "name": "Cherian, Kata and Mallick",
+    "type": "park",
+    "latitude": 12.89531038901338,
+    "longitude": 77.60736904786556,
+    "locality": "BTM Layout"
+  },
+  {
+    "poi_id": "4126fa8f-bddf-47eb-8591-5036288c2222",
+    "name": "Char and Sons",
+    "type": "park",
+    "latitude": 12.841125644074332,
+    "longitude": 77.69245009678173,
+    "locality": "Malleswaram"
+  },
+  {
+    "poi_id": "9b2a1376-315e-4e80-9f20-c257ed348e32",
+    "name": "Trivedi, Ganguly and Bala",
+    "type": "park",
+    "latitude": 12.888199377575425,
+    "longitude": 77.41528132504956,
+    "locality": "Indiranagar"
+  },
+  {
+    "poi_id": "849b50bc-05e5-4461-8934-4b060790eeb4",
+    "name": "Baral, Zacharia and Yogi",
+    "type": "school",
+    "latitude": 13.122264757869157,
+    "longitude": 77.4828215960145,
+    "locality": "Basavanagudi"
+  },
+  {
+    "poi_id": "375fdd57-2700-460b-82ce-56bd8301b3a6",
+    "name": "Ahuja Group",
+    "type": "park",
+    "latitude": 13.003556093247415,
+    "longitude": 77.71141214660338,
+    "locality": "KR Puram"
+  },
+  {
+    "poi_id": "e608d6d3-1d62-46b5-9d69-7934ddeb78a4",
+    "name": "Pingle and Sons",
+    "type": "hospital",
+    "latitude": 12.986718073060674,
+    "longitude": 77.40320794256434,
+    "locality": "KR Puram"
+  },
+  {
+    "poi_id": "2378ff44-53d9-44dd-878d-27e5378a8ba6",
+    "name": "Sandhu-Saxena",
+    "type": "school",
+    "latitude": 13.008737759892362,
+    "longitude": 77.47048968597787,
+    "locality": "Basavanagudi"
+  },
+  {
+    "poi_id": "b10ccf77-ba4d-4c8e-955c-8139384243b4",
+    "name": "Date, Setty and Merchant",
+    "type": "hospital",
+    "latitude": 12.92810989301128,
+    "longitude": 77.73565846159053,
+    "locality": "Peenya"
+  },
+  {
+    "poi_id": "460f01a5-4480-402d-a067-902bf099e2b6",
+    "name": "Dar Group",
+    "type": "park",
+    "latitude": 13.08248745711183,
+    "longitude": 77.61469064628277,
+    "locality": "Sarjapur Road"
+  },
+  {
+    "poi_id": "178b55e7-f406-46e0-b301-3b087b487db6",
+    "name": "Tak-Lall",
+    "type": "hospital",
+    "latitude": 12.983150187255088,
+    "longitude": 77.49158497832313,
+    "locality": "Whitefield"
+  },
+  {
+    "poi_id": "a6e486bf-8d2e-4a22-b544-f70c593acb51",
+    "name": "Devan LLC",
+    "type": "school",
+    "latitude": 12.840861765969079,
+    "longitude": 77.42344688303855,
+    "locality": "Jayanagar"
+  },
+  {
+    "poi_id": "cf1b6490-bec5-4040-b790-2ddf4b589ceb",
+    "name": "Dada, Pandya and Brar",
+    "type": "temple",
+    "latitude": 12.845172793690173,
+    "longitude": 77.40986696915654,
+    "locality": "Vijayanagar"
+  },
+  {
+    "poi_id": "f243b5c6-833d-4595-afa1-c2327eecdc53",
+    "name": "Kapadia, Borde and Narain",
+    "type": "hospital",
+    "latitude": 12.987900701275917,
+    "longitude": 77.48566077787292,
+    "locality": "HSR Layout"
+  },
+  {
+    "poi_id": "40061add-316c-40bc-ac1f-015566629bd2",
+    "name": "Tripathi LLC",
+    "type": "stadium",
+    "latitude": 13.127799576324794,
+    "longitude": 77.70852003685611,
+    "locality": "Whitefield"
+  },
+  {
+    "poi_id": "d895ccea-afe2-4f5c-b2a8-07cc2c471336",
+    "name": "Setty-Varghese",
+    "type": "market",
+    "latitude": 12.907923242586671,
+    "longitude": 77.54556977900413,
+    "locality": "Banashankari"
+  },
+  {
+    "poi_id": "f63d3295-47f5-4a35-b7a7-45e2e327119f",
+    "name": "Borah, Murty and Barad",
+    "type": "school",
+    "latitude": 13.104339409100726,
+    "longitude": 77.6521166792081,
+    "locality": "Yeshwanthpur"
+  },
+  {
+    "poi_id": "cb0c1709-9569-48cb-9a57-4cee64903d65",
+    "name": "Chaudhry-Verma",
+    "type": "stadium",
+    "latitude": 13.067433455302607,
+    "longitude": 77.72139976238299,
+    "locality": "Indiranagar"
+  },
+  {
+    "poi_id": "2a683e18-4fc4-4b0a-966b-91e7c435fe28",
+    "name": "Gupta-Banik",
+    "type": "stadium",
+    "latitude": 12.886734355017419,
+    "longitude": 77.54281416156098,
+    "locality": "Bellandur"
+  },
+  {
+    "poi_id": "b8d8f272-f429-405d-b4b1-6488cb4a1b4b",
+    "name": "Anand, Korpal and Devan",
+    "type": "school",
+    "latitude": 12.812719261910686,
+    "longitude": 77.46694707986309,
+    "locality": "Ulsoor"
+  },
+  {
+    "poi_id": "723764ba-e202-4022-aef7-ffc37ce28b5b",
+    "name": "Puri, Kannan and Hayre",
+    "type": "temple",
+    "latitude": 12.835646542799834,
+    "longitude": 77.58099127579993,
+    "locality": "Malleswaram"
+  },
+  {
+    "poi_id": "458c6c02-bf40-4640-98a9-11876c7a0c9d",
+    "name": "Singhal-Doshi",
+    "type": "temple",
+    "latitude": 13.054972876846605,
+    "longitude": 77.71782929047095,
+    "locality": "Vijayanagar"
+  },
+  {
+    "poi_id": "1b88fe69-9f77-47ca-9199-839cd0de4fb6",
+    "name": "Grover-Taneja",
+    "type": "temple",
+    "latitude": 12.869884408314228,
+    "longitude": 77.6815310449482,
+    "locality": "Indiranagar"
+  },
+  {
+    "poi_id": "3320e68f-6de7-4482-a20f-4af49b77ba46",
+    "name": "Deep-Issac",
+    "type": "temple",
+    "latitude": 12.92994482217689,
+    "longitude": 77.42304044517711,
+    "locality": "Banashankari"
+  },
+  {
+    "poi_id": "e5dc6ce5-5fbb-4fd7-9a58-abba91303877",
+    "name": "Chakrabarti, Varty and Kala",
+    "type": "school",
+    "latitude": 12.97559470810225,
+    "longitude": 77.64240048002715,
+    "locality": "HSR Layout"
+  },
+  {
+    "poi_id": "730c19bc-1073-40c3-91c0-6099a1f886ce",
+    "name": "Saraf Inc",
+    "type": "market",
+    "latitude": 13.053913858957557,
+    "longitude": 77.60016413286064,
+    "locality": "Jayanagar"
+  },
+  {
+    "poi_id": "f545dfb3-08a4-4ee1-a3b2-f9852ad0d57e",
+    "name": "Joshi-Gokhale",
+    "type": "stadium",
+    "latitude": 12.839630928140695,
+    "longitude": 77.71761211172125,
+    "locality": "Yeshwanthpur"
+  },
+  {
+    "poi_id": "68e931d8-963d-401f-80c8-c7a382e847ae",
+    "name": "Sahota Ltd",
+    "type": "park",
+    "latitude": 12.942228241847111,
+    "longitude": 77.44286849589761,
+    "locality": "Ulsoor"
+  },
+  {
+    "poi_id": "e09397d5-d3a1-488a-9a98-04574b211512",
+    "name": "Rai-Keer",
+    "type": "park",
+    "latitude": 12.969775518199944,
+    "longitude": 77.58691263962163,
+    "locality": "BTM Layout"
+  },
+  {
+    "poi_id": "87cebaaa-f713-4245-b34b-fa59a52523e3",
+    "name": "Palla, Sule and Wali",
+    "type": "stadium",
+    "latitude": 12.98928947239004,
+    "longitude": 77.70781194272917,
+    "locality": "Banashankari"
+  },
+  {
+    "poi_id": "1d59b308-07aa-4515-a5f7-6d065a2d465b",
+    "name": "Gole, Mital and Kata",
+    "type": "market",
+    "latitude": 13.086426224488326,
+    "longitude": 77.54350832535961,
+    "locality": "Basavanagudi"
+  },
+  {
+    "poi_id": "6dec4b0d-529b-4b96-8f1d-46be2e0e343d",
+    "name": "Sundaram-Suri",
+    "type": "school",
+    "latitude": 12.860087368265127,
+    "longitude": 77.5686982212065,
+    "locality": "HSR Layout"
+  },
+  {
+    "poi_id": "3ecd2b8c-5b95-4506-af98-1e44ca782f58",
+    "name": "Ramanathan, Parikh and Srivastava",
+    "type": "school",
+    "latitude": 13.082741008139319,
+    "longitude": 77.42466123718344,
+    "locality": "Indiranagar"
+  },
+  {
+    "poi_id": "5f25210e-a82e-4d61-b716-4f3112988e9c",
+    "name": "Char-Kanda",
+    "type": "stadium",
+    "latitude": 13.04250744969383,
+    "longitude": 77.49735027415713,
+    "locality": "Jayanagar"
+  },
+  {
+    "poi_id": "507ffc32-c78e-4415-a521-51f95f390d2b",
+    "name": "Mani Group",
+    "type": "hospital",
+    "latitude": 12.994554784969637,
+    "longitude": 77.51357732720913,
+    "locality": "Rajajinagar"
+  },
+  {
+    "poi_id": "b033ee83-518f-4ed4-8277-4ef31f4f4a0f",
+    "name": "Nanda-Kota",
+    "type": "park",
+    "latitude": 13.0448347546409,
+    "longitude": 77.7307928570607,
+    "locality": "Electronic City"
+  },
+  {
+    "poi_id": "36b9ca35-5430-48c3-b780-606a02ca68d5",
+    "name": "Sandal, D’Alia and Goda",
+    "type": "hospital",
+    "latitude": 12.94420620863308,
+    "longitude": 77.49893357618942,
+    "locality": "Banashankari"
+  },
+  {
+    "poi_id": "5251d645-cb94-4f8d-9145-aa387722ec2c",
+    "name": "Nagar-Comar",
+    "type": "school",
+    "latitude": 12.848439155088844,
+    "longitude": 77.56130405734439,
+    "locality": "Banashankari"
+  },
+  {
+    "poi_id": "10f4c941-8fc7-4d79-bb8e-de31e61415dd",
+    "name": "Rao-Dave",
+    "type": "market",
+    "latitude": 13.03301783409288,
+    "longitude": 77.6349565482475,
+    "locality": "Jayanagar"
+  },
+  {
+    "poi_id": "36511c93-9a0f-40b8-889a-f19562b61594",
+    "name": "Suresh-Sabharwal",
+    "type": "hospital",
+    "latitude": 12.983635307339968,
+    "longitude": 77.45676418034276,
+    "locality": "Yeshwanthpur"
+  },
+  {
+    "poi_id": "8f9afd51-1a58-4a44-b7ab-aed786faaa83",
+    "name": "Keer, Balakrishnan and Mannan",
+    "type": "school",
+    "latitude": 13.023781180189973,
+    "longitude": 77.57025483549965,
+    "locality": "Marathahalli"
+  },
+  {
+    "poi_id": "f23ed1fc-9b9f-4efe-b75d-2f0c472e2f3b",
+    "name": "Tripathi-Kale",
+    "type": "school",
+    "latitude": 12.918299573359972,
+    "longitude": 77.65848866381657,
+    "locality": "Ulsoor"
+  },
+  {
+    "poi_id": "abdd439a-dc23-4c06-8eb3-80ace223e389",
+    "name": "Bhat-Naidu",
+    "type": "park",
+    "latitude": 13.117403302068944,
+    "longitude": 77.70339932455947,
+    "locality": "Jayanagar"
+  },
+  {
+    "poi_id": "a571f542-e485-4118-92ee-48201327adb9",
+    "name": "Nadkarni-Sabharwal",
+    "type": "temple",
+    "latitude": 13.005579454001452,
+    "longitude": 77.61919074613185,
+    "locality": "Electronic City"
+  },
+  {
+    "poi_id": "6f69a1cf-c196-46e9-aea0-32926bf7d125",
+    "name": "Sathe-Sandal",
+    "type": "market",
+    "latitude": 12.829890869501806,
+    "longitude": 77.63416873036094,
+    "locality": "Bellandur"
+  },
+  {
+    "poi_id": "32b9fc56-51f3-4a1f-903a-9ed2515a3eea",
+    "name": "Lad-Bhagat",
+    "type": "market",
+    "latitude": 12.95743139674655,
+    "longitude": 77.44419921540461,
+    "locality": "KR Puram"
+  },
+  {
+    "poi_id": "7e7279ce-cd7f-45f6-8cb6-80293276ab75",
+    "name": "Sunder-Kanda",
+    "type": "temple",
+    "latitude": 13.064724619160273,
+    "longitude": 77.73102177403622,
+    "locality": "Vijayanagar"
+  },
+  {
+    "poi_id": "46401757-fd81-4925-8bfa-8cd57fa79708",
+    "name": "Bath-Morar",
+    "type": "stadium",
+    "latitude": 13.077947096606296,
+    "longitude": 77.44640092711957,
+    "locality": "HSR Layout"
+  },
+  {
+    "poi_id": "73e9b99b-1fc4-49b3-9e87-c27e6bd63443",
+    "name": "Rout-Kant",
+    "type": "school",
+    "latitude": 12.973108968467317,
+    "longitude": 77.67113552801364,
+    "locality": "BTM Layout"
+  },
+  {
+    "poi_id": "9756fd33-53ae-4065-99f7-5c762bcfd03f",
+    "name": "Ganesan, Wason and Jhaveri",
+    "type": "park",
+    "latitude": 13.113161649790955,
+    "longitude": 77.49268571262242,
+    "locality": "Banashankari"
+  },
+  {
+    "poi_id": "0571dd83-938f-4b37-bc86-25826202f35d",
+    "name": "Choudhary, Narayan and Dayal",
+    "type": "temple",
+    "latitude": 12.893683953018005,
+    "longitude": 77.72675760029544,
+    "locality": "Electronic City"
+  },
+  {
+    "poi_id": "c886b7c6-a4c7-45b0-8490-eb6848f82df6",
+    "name": "Zacharia, Bahri and Bail",
+    "type": "stadium",
+    "latitude": 12.943709544033394,
+    "longitude": 77.65198583877932,
+    "locality": "Rajajinagar"
+  },
+  {
+    "poi_id": "01308be0-fcea-4a96-9364-ecb5db29920a",
+    "name": "Chana-Nath",
+    "type": "school",
+    "latitude": 13.11450891869914,
+    "longitude": 77.66383479954243,
+    "locality": "Hebbal"
+  },
+  {
+    "poi_id": "218d0520-48cc-42c6-b636-ae1ce96171f3",
+    "name": "Bhatnagar-Bawa",
+    "type": "park",
+    "latitude": 13.113689850765052,
+    "longitude": 77.47667071057096,
+    "locality": "Bellandur"
+  },
+  {
+    "poi_id": "09795e75-671e-4bb8-b783-b6f6d775e809",
+    "name": "Kade, Pathak and Wason",
+    "type": "stadium",
+    "latitude": 13.039999469088638,
+    "longitude": 77.55506399182231,
+    "locality": "Rajajinagar"
+  },
+  {
+    "poi_id": "870b230c-eb04-4ecb-8891-4b26e5551570",
+    "name": "Dugar PLC",
+    "type": "school",
+    "latitude": 13.100643191492777,
+    "longitude": 77.61623461810625,
+    "locality": "Whitefield"
+  },
+  {
+    "poi_id": "042a6bd7-a510-44b8-965f-2ea80a03c8cd",
+    "name": "Karnik-Mannan",
+    "type": "hospital",
+    "latitude": 12.831070643434682,
+    "longitude": 77.6694907663723,
+    "locality": "Vijayanagar"
+  },
+  {
+    "poi_id": "d471104f-1859-45ae-b84a-ee4311c7beb2",
+    "name": "Prakash LLC",
+    "type": "park",
+    "latitude": 13.102748241672723,
+    "longitude": 77.43638578156934,
+    "locality": "Indiranagar"
+  },
+  {
+    "poi_id": "4d0e391d-b927-4714-aa42-9bd5cd7182b4",
+    "name": "Kale-Kothari",
+    "type": "hospital",
+    "latitude": 12.91221696729258,
+    "longitude": 77.73682786075908,
+    "locality": "HSR Layout"
+  },
+  {
+    "poi_id": "5887f3d2-c0f1-4a3a-9133-577b46510173",
+    "name": "Banik Inc",
+    "type": "school",
+    "latitude": 12.862416029349877,
+    "longitude": 77.71157723469409,
+    "locality": "Marathahalli"
+  },
+  {
+    "poi_id": "c64d10e3-8e73-4520-946b-9fbc667cf788",
+    "name": "Chaudry, Thaker and Rao",
+    "type": "market",
+    "latitude": 12.883779442719717,
+    "longitude": 77.49462200667345,
+    "locality": "Sarjapur Road"
+  },
+  {
+    "poi_id": "0c0cf61e-9cc1-4bd8-be6a-e55c502c36f1",
+    "name": "Basak-Dugar",
+    "type": "school",
+    "latitude": 12.94628897780486,
+    "longitude": 77.68796608506132,
+    "locality": "Jayanagar"
+  },
+  {
+    "poi_id": "fbe5403b-b24b-407b-8c66-d04f64b11c49",
+    "name": "Mitra-Bajwa",
+    "type": "stadium",
+    "latitude": 12.887917201611565,
+    "longitude": 77.58141337306394,
+    "locality": "KR Puram"
+  },
+  {
+    "poi_id": "a41ef111-d942-46b6-be4b-4f10745f780e",
+    "name": "Kota Inc",
+    "type": "stadium",
+    "latitude": 12.912198655105776,
+    "longitude": 77.5616322685467,
+    "locality": "Vijayanagar"
+  },
+  {
+    "poi_id": "d7d3ce21-1f14-4b34-a914-ae70f7974ec8",
+    "name": "Dasgupta-Purohit",
+    "type": "temple",
+    "latitude": 12.847242470125076,
+    "longitude": 77.51005193703399,
+    "locality": "KR Puram"
+  },
+  {
+    "poi_id": "1a4d67db-9e33-4dbc-b00d-5a655fb84f18",
+    "name": "Rattan, Deep and Madan",
+    "type": "market",
+    "latitude": 12.903661867945651,
+    "longitude": 77.60333900532106,
+    "locality": "Sarjapur Road"
+  },
+  {
+    "poi_id": "d3511e95-0c3e-4d5c-b959-0149077f6e36",
+    "name": "Bose Inc",
+    "type": "stadium",
+    "latitude": 13.0002993350897,
+    "longitude": 77.65546119119627,
+    "locality": "Marathahalli"
+  },
+  {
+    "poi_id": "fe58a970-1aea-4c2c-a384-197702a95064",
+    "name": "Sagar, Bahri and Aurora",
+    "type": "market",
+    "latitude": 12.954648797831872,
+    "longitude": 77.54382651673697,
+    "locality": "Vijayanagar"
+  },
+  {
+    "poi_id": "b968ab06-b006-4b61-9c83-f96f52a6e3d4",
+    "name": "Doshi, Chandran and Raman",
+    "type": "market",
+    "latitude": 12.92135156643257,
+    "longitude": 77.62022671755291,
+    "locality": "Marathahalli"
+  },
+  {
+    "poi_id": "16884399-2b91-4ace-b9f1-80276f88e2c0",
+    "name": "Muni LLC",
+    "type": "school",
+    "latitude": 13.06125824509999,
+    "longitude": 77.64475952240436,
+    "locality": "Yeshwanthpur"
+  },
+  {
+    "poi_id": "cff1b675-e6fb-476b-b95f-22d530efd76b",
+    "name": "Vala-Bajaj",
+    "type": "school",
+    "latitude": 13.112728489987662,
+    "longitude": 77.64889263595535,
+    "locality": "Bellandur"
+  },
+  {
+    "poi_id": "899d6cd2-e723-4e8a-90ef-0cd45e6ee398",
+    "name": "Mahal-Shanker",
+    "type": "park",
+    "latitude": 13.064876228015839,
+    "longitude": 77.41818813434593,
+    "locality": "Basavanagudi"
+  },
+  {
+    "poi_id": "b0309415-ef21-4b2c-8143-d636fd54225b",
+    "name": "Chaudhry LLC",
+    "type": "school",
+    "latitude": 12.916200245741189,
+    "longitude": 77.70091173198978,
+    "locality": "Koramangala"
+  },
+  {
+    "poi_id": "e2213776-427a-4472-8d70-0c8bde36390a",
+    "name": "Sinha, Puri and Manne",
+    "type": "school",
+    "latitude": 13.060554758743145,
+    "longitude": 77.56038866016777,
+    "locality": "HSR Layout"
+  },
+  {
+    "poi_id": "0c49f33a-1c5d-4fe9-8b07-0a68c8f217a3",
+    "name": "Chander-Kapadia",
+    "type": "temple",
+    "latitude": 12.853193063865918,
+    "longitude": 77.49184562859368,
+    "locality": "Sarjapur Road"
+  },
+  {
+    "poi_id": "43839f12-1335-46c3-8de5-f4aff27815f6",
+    "name": "Mallick-Subramanian",
+    "type": "school",
+    "latitude": 12.845611295831953,
+    "longitude": 77.4846175776179,
+    "locality": "Malleswaram"
+  },
+  {
+    "poi_id": "caa81f13-9cdd-49a7-b01b-a134544ee743",
+    "name": "Walla-Toor",
+    "type": "hospital",
+    "latitude": 12.920969462962656,
+    "longitude": 77.56905493949539,
+    "locality": "Banashankari"
+  },
+  {
+    "poi_id": "b2dbb2c5-4518-44c6-a12a-9cc6cfff0d34",
+    "name": "Raja Inc",
+    "type": "stadium",
+    "latitude": 13.08269582916542,
+    "longitude": 77.71039103881414,
+    "locality": "Whitefield"
+  },
+  {
+    "poi_id": "955d3078-2344-4519-acc3-85552b9b4ffc",
+    "name": "Ramesh-Pradhan",
+    "type": "hospital",
+    "latitude": 12.886221886534805,
+    "longitude": 77.53242165358893,
+    "locality": "BTM Layout"
+  },
+  {
+    "poi_id": "51bfc946-2054-44fa-9eb1-dc0c75f006c0",
+    "name": "Chokshi, Sethi and Kapur",
+    "type": "stadium",
+    "latitude": 12.822138693114539,
+    "longitude": 77.66240401137424,
+    "locality": "Sarjapur Road"
+  },
+  {
+    "poi_id": "95899035-c0c6-43ff-a5e3-6ccddca524f2",
+    "name": "Bakshi, Ranganathan and Kata",
+    "type": "school",
+    "latitude": 12.846098337322225,
+    "longitude": 77.43388655584553,
+    "locality": "Yeshwanthpur"
+  },
+  {
+    "poi_id": "e53dfc49-f741-4b94-99a3-ac28e346c1b7",
+    "name": "Pingle-Sood",
+    "type": "temple",
+    "latitude": 13.100560738985353,
+    "longitude": 77.56661984575287,
+    "locality": "Sarjapur Road"
+  },
+  {
+    "poi_id": "ab117736-7260-482f-a30c-1e0e69cda159",
+    "name": "Chopra, Mukhopadhyay and Natarajan",
+    "type": "school",
+    "latitude": 13.021824149661551,
+    "longitude": 77.74709014913746,
+    "locality": "Whitefield"
+  },
+  {
+    "poi_id": "3d92f1cb-8710-4172-8592-4e5f1f53db6e",
+    "name": "Chacko Inc",
+    "type": "market",
+    "latitude": 12.888620407179493,
+    "longitude": 77.66965323097732,
+    "locality": "Malleswaram"
+  },
+  {
+    "poi_id": "7d7771f8-a948-4c66-ba59-697d93f040c7",
+    "name": "Gara, Johal and Suri",
+    "type": "market",
+    "latitude": 12.994353538864864,
+    "longitude": 77.47368497095422,
+    "locality": "Indiranagar"
+  },
+  {
+    "poi_id": "c5cbfedd-5268-4879-87d1-931cf9f209ab",
+    "name": "Krish, Chacko and Dhaliwal",
+    "type": "stadium",
+    "latitude": 12.984652867848872,
+    "longitude": 77.57550451579426,
+    "locality": "BTM Layout"
+  },
+  {
+    "poi_id": "178029e9-39d0-4762-bb92-a41dbb19f0fe",
+    "name": "Solanki-Virk",
+    "type": "temple",
+    "latitude": 13.029402592454232,
+    "longitude": 77.48176866727701,
+    "locality": "Koramangala"
+  },
+  {
+    "poi_id": "b61d170a-4bd6-40e6-8425-d02043892f66",
+    "name": "Kaul, Bhargava and Tak",
+    "type": "park",
+    "latitude": 12.881615644047566,
+    "longitude": 77.54334632454189,
+    "locality": "Basavanagudi"
+  },
+  {
+    "poi_id": "d5e6162f-8efa-4aa1-9a5e-d7eb15320177",
+    "name": "Sabharwal-Mukhopadhyay",
+    "type": "market",
+    "latitude": 13.10254104551804,
+    "longitude": 77.67302940830724,
+    "locality": "Ulsoor"
+  },
+  {
+    "poi_id": "a5aa9765-a8d3-4b7d-be0c-5ec5df748fb5",
+    "name": "Nazareth, Dora and Bansal",
+    "type": "market",
+    "latitude": 12.908278996728004,
+    "longitude": 77.66992868535164,
+    "locality": "Ulsoor"
+  },
+  {
+    "poi_id": "b1e93b1a-34b5-49be-9b19-de67bc3a8abb",
+    "name": "Ray-Ahluwalia",
+    "type": "hospital",
+    "latitude": 13.042946078891683,
+    "longitude": 77.47983513226583,
+    "locality": "Banashankari"
+  },
+  {
+    "poi_id": "7e9e7b8a-f8c5-4ac6-933c-a9cf13f8e789",
+    "name": "Kadakia-Suresh",
+    "type": "stadium",
+    "latitude": 12.805643626230276,
+    "longitude": 77.7227781613542,
+    "locality": "Bellandur"
+  },
+  {
+    "poi_id": "aba5d1c9-035c-4d03-b664-cafa0f6da751",
+    "name": "Tata, Munshi and Keer",
+    "type": "temple",
+    "latitude": 12.930429995462951,
+    "longitude": 77.60739886396769,
+    "locality": "Whitefield"
+  },
+  {
+    "poi_id": "62934e8e-d189-4750-b7d8-b4283754a771",
+    "name": "Shenoy-Subramanian",
+    "type": "market",
+    "latitude": 12.923098436285583,
+    "longitude": 77.53297350183671,
+    "locality": "Jayanagar"
+  },
+  {
+    "poi_id": "5727bd83-1ac2-499a-bcd6-572f301b5b4e",
+    "name": "Bumb, Cheema and Sandal",
+    "type": "stadium",
+    "latitude": 12.990219550004056,
+    "longitude": 77.5756774532733,
+    "locality": "Yeshwanthpur"
+  },
+  {
+    "poi_id": "c2f86229-972c-4583-9062-00e3356ad651",
+    "name": "Brahmbhatt, Prashad and Datta",
+    "type": "stadium",
+    "latitude": 12.82545769162202,
+    "longitude": 77.6117749387032,
+    "locality": "Yeshwanthpur"
+  },
+  {
+    "poi_id": "50384c0d-dbc3-4559-8390-bd948713b81f",
+    "name": "Edwin PLC",
+    "type": "park",
+    "latitude": 13.076545980804138,
+    "longitude": 77.59596168614603,
+    "locality": "Sarjapur Road"
+  },
+  {
+    "poi_id": "b56110f6-4fd3-4a88-b1c2-fa18c2af56a6",
+    "name": "Dara, Ganesan and Hora",
+    "type": "temple",
+    "latitude": 12.87622328061865,
+    "longitude": 77.57024176243766,
+    "locality": "Whitefield"
+  },
+  {
+    "poi_id": "d909e0c9-276c-4935-a7c1-0adb743ac892",
+    "name": "Comar-Barad",
+    "type": "temple",
+    "latitude": 13.036963235208704,
+    "longitude": 77.5767264814313,
+    "locality": "KR Puram"
+  },
+  {
+    "poi_id": "214ba540-ea04-4d0b-9b0c-90928127a8f7",
+    "name": "Tandon-Garde",
+    "type": "school",
+    "latitude": 13.081124243135433,
+    "longitude": 77.46174416864976,
+    "locality": "Peenya"
+  },
+  {
+    "poi_id": "62b51781-5d17-425d-aaac-abb43802485f",
+    "name": "Vohra, Sur and Dey",
+    "type": "market",
+    "latitude": 12.99665693468453,
+    "longitude": 77.68445651650664,
+    "locality": "Koramangala"
+  },
+  {
+    "poi_id": "9ed7a652-de2b-4e58-b3d2-939ef99dd6d5",
+    "name": "Sahota, Rastogi and Andra",
+    "type": "park",
+    "latitude": 13.059309122352696,
+    "longitude": 77.58961611197935,
+    "locality": "Bellandur"
+  },
+  {
+    "poi_id": "6673d42d-c7af-45de-b3f9-2a8783726123",
+    "name": "Dalal-Saran",
+    "type": "stadium",
+    "latitude": 13.031651109275252,
+    "longitude": 77.44587795159666,
+    "locality": "Basavanagudi"
+  },
+  {
+    "poi_id": "6c4fe33d-4720-4b6c-9192-5880301db817",
+    "name": "Madan-Virk",
+    "type": "temple",
+    "latitude": 12.924435429003204,
+    "longitude": 77.66815498555397,
+    "locality": "HSR Layout"
+  },
+  {
+    "poi_id": "f3952657-4ea1-4bd9-afaf-20ec2a08c526",
+    "name": "Prabhu-Gandhi",
+    "type": "hospital",
+    "latitude": 13.083100488661747,
+    "longitude": 77.72635539243207,
+    "locality": "Basavanagudi"
+  },
+  {
+    "poi_id": "1a20e3ba-a5fc-4d09-93c6-267ddead44fc",
+    "name": "Mannan PLC",
+    "type": "school",
+    "latitude": 12.903145479459935,
+    "longitude": 77.73155741473293,
+    "locality": "Banashankari"
+  },
+  {
+    "poi_id": "1b6fb706-e04e-4585-b601-16cf25b4c7aa",
+    "name": "Jayaraman, Prabhu and Venkataraman",
+    "type": "school",
+    "latitude": 12.999924521213032,
+    "longitude": 77.52915620634391,
+    "locality": "Malleswaram"
+  },
+  {
+    "poi_id": "043f1b5f-3d95-4061-9c36-036fbeba0619",
+    "name": "Krishnamurthy, Sodhi and Shere",
+    "type": "school",
+    "latitude": 13.060889208699539,
+    "longitude": 77.44743090574627,
+    "locality": "Bellandur"
+  },
+  {
+    "poi_id": "444a2a48-2fe1-4ed8-b5fa-0ebee4e39c20",
+    "name": "Narayanan Ltd",
+    "type": "market",
+    "latitude": 12.932634568434379,
+    "longitude": 77.58143986932157,
+    "locality": "BTM Layout"
+  },
+  {
+    "poi_id": "87e81b25-a971-4404-b9ea-e46107516daa",
+    "name": "Deshmukh, Gala and Viswanathan",
+    "type": "temple",
+    "latitude": 12.9059686626661,
+    "longitude": 77.43941323027224,
+    "locality": "Peenya"
+  },
+  {
+    "poi_id": "1e4aa016-43fc-47b7-9a19-d7ab73e0467e",
+    "name": "Som, Anne and Nadkarni",
+    "type": "park",
+    "latitude": 12.96077110356049,
+    "longitude": 77.72689559647942,
+    "locality": "Sarjapur Road"
+  },
+  {
+    "poi_id": "5abbb78f-1585-465d-8ce0-bd8fed4b229f",
+    "name": "Gola-Doctor",
+    "type": "stadium",
+    "latitude": 13.086287223022204,
+    "longitude": 77.46425286957431,
+    "locality": "Koramangala"
+  },
+  {
+    "poi_id": "659d12db-268f-490a-b649-f5856e750e7a",
+    "name": "Bhavsar-Ahluwalia",
+    "type": "school",
+    "latitude": 13.125472617100984,
+    "longitude": 77.48846805098292,
+    "locality": "Vijayanagar"
+  },
+  {
+    "poi_id": "556ff3c1-8207-4e01-ae4c-1501808f8cb9",
+    "name": "Guha-Iyengar",
+    "type": "stadium",
+    "latitude": 12.990779194500963,
+    "longitude": 77.54232278440975,
+    "locality": "Whitefield"
+  },
+  {
+    "poi_id": "5ea9f259-45c8-4249-b0fb-b28e0d9bb3b5",
+    "name": "Chandra, Yogi and Shanker",
+    "type": "park",
+    "latitude": 13.031513171863278,
+    "longitude": 77.5341075639957,
+    "locality": "Ulsoor"
+  },
+  {
+    "poi_id": "61ecff07-a60c-4329-8c94-1263190a40d6",
+    "name": "Chandra-Bhat",
+    "type": "market",
+    "latitude": 13.116145767783621,
+    "longitude": 77.67813201233926,
+    "locality": "Vijayanagar"
+  },
+  {
+    "poi_id": "31a580d7-6c2e-407e-ad92-b753bb647511",
+    "name": "Sidhu, Dugar and Bhavsar",
+    "type": "temple",
+    "latitude": 12.83449139799453,
+    "longitude": 77.55971088719284,
+    "locality": "HSR Layout"
+  },
+  {
+    "poi_id": "2d389d1f-6716-4461-b07f-c5764b43f873",
+    "name": "Kara-Pai",
+    "type": "park",
+    "latitude": 12.881227502253159,
+    "longitude": 77.45976889100118,
+    "locality": "KR Puram"
+  },
+  {
+    "poi_id": "9b81b898-8791-4cbe-86a3-110a98139b31",
+    "name": "Atwal, Hans and Maharaj",
+    "type": "hospital",
+    "latitude": 13.048115002188055,
+    "longitude": 77.49352346342013,
+    "locality": "Yeshwanthpur"
+  },
+  {
+    "poi_id": "1bf384ef-6efe-4368-84c4-2de17e5da21a",
+    "name": "Sandhu-Mohan",
+    "type": "school",
+    "latitude": 13.088310561669305,
+    "longitude": 77.57818968481564,
+    "locality": "Yeshwanthpur"
+  },
+  {
+    "poi_id": "3fbacf5f-a576-4b48-8cc4-6000ae608948",
+    "name": "Rau-Kumar",
+    "type": "stadium",
+    "latitude": 13.099960159915703,
+    "longitude": 77.45160887109915,
+    "locality": "BTM Layout"
+  },
+  {
+    "poi_id": "1d7cf46d-3836-413c-9c6f-ec01f57f2bba",
+    "name": "Jain, Brahmbhatt and Dua",
+    "type": "park",
+    "latitude": 12.945287511899227,
+    "longitude": 77.6140794864761,
+    "locality": "BTM Layout"
+  },
+  {
+    "poi_id": "93424e7c-0922-488d-a522-8d310d9a6fce",
+    "name": "Kalita LLC",
+    "type": "park",
+    "latitude": 12.831268965802154,
+    "longitude": 77.5980115572929,
+    "locality": "Yeshwanthpur"
+  },
+  {
+    "poi_id": "8839c8e4-10db-4fdc-bd1f-d7c0442441ec",
+    "name": "Lall PLC",
+    "type": "temple",
+    "latitude": 12.953223517054868,
+    "longitude": 77.65014581073379,
+    "locality": "Sarjapur Road"
+  },
+  {
+    "poi_id": "e1f217be-39f9-4c64-8684-833e19dd3b90",
+    "name": "Date PLC",
+    "type": "stadium",
+    "latitude": 12.880757106572469,
+    "longitude": 77.72819661538279,
+    "locality": "Indiranagar"
+  },
+  {
+    "poi_id": "6791346c-b740-4274-b313-3c8e9ec6c95e",
+    "name": "Rajagopal, Narayanan and Malhotra",
+    "type": "temple",
+    "latitude": 12.901918759248819,
+    "longitude": 77.71928909638541,
+    "locality": "HSR Layout"
+  },
+  {
+    "poi_id": "384a9967-19ef-43bf-a494-23aa645416be",
+    "name": "Solanki, Kadakia and Ganguly",
+    "type": "school",
+    "latitude": 13.070293644893127,
+    "longitude": 77.73112646632408,
+    "locality": "Ulsoor"
+  },
+  {
+    "poi_id": "b1123048-e128-49a8-92f6-29cabbe277ba",
+    "name": "Kata and Sons",
+    "type": "park",
+    "latitude": 12.82643448010906,
+    "longitude": 77.4856504589583,
+    "locality": "Basavanagudi"
+  },
+  {
+    "poi_id": "2bc8906f-34a9-4b86-bec3-91ef44ad2484",
+    "name": "Din and Sons",
+    "type": "park",
+    "latitude": 13.089653426118247,
+    "longitude": 77.44604785732378,
+    "locality": "Hebbal"
+  },
+  {
+    "poi_id": "a30bd3b5-58fe-4bd2-b41d-85cdc9257285",
+    "name": "Soman Inc",
+    "type": "school",
+    "latitude": 12.94968418003846,
+    "longitude": 77.50579684517376,
+    "locality": "Marathahalli"
+  },
+  {
+    "poi_id": "49b8f7ba-98a7-4ea2-b4b2-ce1449b9e124",
+    "name": "Brahmbhatt-Ben",
+    "type": "school",
+    "latitude": 13.008622375885208,
+    "longitude": 77.71327981046821,
+    "locality": "Electronic City"
+  },
+  {
+    "poi_id": "2f615360-1820-47f7-80cb-9caabbdfb574",
+    "name": "Vaidya Group",
+    "type": "market",
+    "latitude": 12.831378280932489,
+    "longitude": 77.74021871611822,
+    "locality": "Bellandur"
+  },
+  {
+    "poi_id": "9f4325f4-b352-4505-a864-6e0c80d458b9",
+    "name": "Sodhi-Narain",
+    "type": "hospital",
+    "latitude": 12.918075677425048,
+    "longitude": 77.70076373287466,
+    "locality": "Sarjapur Road"
+  },
+  {
+    "poi_id": "da41a15f-4e29-49da-bd35-0d2a7a0cd56d",
+    "name": "Tella-Dalal",
+    "type": "park",
+    "latitude": 12.831395321655197,
+    "longitude": 77.43850620239465,
+    "locality": "Koramangala"
+  },
+  {
+    "poi_id": "2b945cbb-3d16-4ab9-b01c-9191e81b60ff",
+    "name": "Ramaswamy Group",
+    "type": "park",
+    "latitude": 13.136540303008388,
+    "longitude": 77.73159979932093,
+    "locality": "Sarjapur Road"
+  },
+  {
+    "poi_id": "2aa946d4-11c7-476c-ae73-03c050ab3660",
+    "name": "Som-Pant",
+    "type": "hospital",
+    "latitude": 13.082541577264188,
+    "longitude": 77.54817530957278,
+    "locality": "Hebbal"
+  },
+  {
+    "poi_id": "74890e8c-e65d-4443-9508-21672ff5cdab",
+    "name": "Vig-Nadig",
+    "type": "stadium",
+    "latitude": 12.96087146402476,
+    "longitude": 77.40325860176684,
+    "locality": "Basavanagudi"
+  },
+  {
+    "poi_id": "aa810850-0342-46fa-b655-8f35244f35c6",
+    "name": "Brar, Kala and Ganesan",
+    "type": "temple",
+    "latitude": 12.878260891913285,
+    "longitude": 77.55483780926187,
+    "locality": "Malleswaram"
+  },
+  {
+    "poi_id": "0554e88b-5584-42ba-ad8c-5504797f6e4d",
+    "name": "Mall, Dhar and Sarkar",
+    "type": "temple",
+    "latitude": 13.126709286837448,
+    "longitude": 77.41612420938642,
+    "locality": "HSR Layout"
+  },
+  {
+    "poi_id": "e19a17f6-438a-419e-b970-5e4b2d71a040",
+    "name": "Sathe, Suri and Krishna",
+    "type": "school",
+    "latitude": 12.92060880850444,
+    "longitude": 77.5903572724064,
+    "locality": "Jayanagar"
+  },
+  {
+    "poi_id": "c2a072dd-ade0-4e6c-abb4-a40813b4c4f6",
+    "name": "Dara, Saran and Pall",
+    "type": "temple",
+    "latitude": 12.856344551090581,
+    "longitude": 77.51849390960297,
+    "locality": "Jayanagar"
+  },
+  {
+    "poi_id": "5a2615f8-9810-48c1-827d-eb45da6415b5",
+    "name": "Bakshi LLC",
+    "type": "temple",
+    "latitude": 12.997107535958884,
+    "longitude": 77.56570222675792,
+    "locality": "Vijayanagar"
+  },
+  {
+    "poi_id": "0041f5d4-9549-4631-b94c-eef2f833dfa7",
+    "name": "Pal-Samra",
+    "type": "park",
+    "latitude": 13.130320942120687,
+    "longitude": 77.61460962626009,
+    "locality": "Marathahalli"
+  },
+  {
+    "poi_id": "78fa3b84-3f5c-47ed-9f8b-40087d01b5a3",
+    "name": "Halder Group",
+    "type": "stadium",
+    "latitude": 12.801340601675113,
+    "longitude": 77.70408038353624,
+    "locality": "Banashankari"
+  },
+  {
+    "poi_id": "0473b982-d1a5-49db-8b90-b03d1c00b895",
+    "name": "Gola-Anne",
+    "type": "temple",
+    "latitude": 12.8833436951389,
+    "longitude": 77.63166555176518,
+    "locality": "Hebbal"
+  },
+  {
+    "poi_id": "4a68998f-fd8b-4697-ae17-82f691386474",
+    "name": "Sathe LLC",
+    "type": "temple",
+    "latitude": 13.128456674143642,
+    "longitude": 77.55191710396737,
+    "locality": "Electronic City"
+  },
+  {
+    "poi_id": "80ce3505-8678-4a98-ba71-0f9ed5da16fd",
+    "name": "Hayer, Ahluwalia and Mukherjee",
+    "type": "park",
+    "latitude": 12.859880088400008,
+    "longitude": 77.68679974878462,
+    "locality": "Whitefield"
+  },
+  {
+    "poi_id": "c67736bc-2586-45e9-8147-2ff22ad47bba",
+    "name": "Chandra-Pillay",
+    "type": "hospital",
+    "latitude": 12.839635208073938,
+    "longitude": 77.7169537481506,
+    "locality": "Banashankari"
+  },
+  {
+    "poi_id": "cdcbe818-4dfa-4a17-9999-1b39180a7e01",
+    "name": "Thakkar-Arya",
+    "type": "school",
+    "latitude": 12.999565525529933,
+    "longitude": 77.44191598825127,
+    "locality": "Rajajinagar"
+  },
+  {
+    "poi_id": "7d9c03c7-73de-4a56-95ee-f366bc76b752",
+    "name": "Mahajan, Bandi and Maharaj",
+    "type": "stadium",
+    "latitude": 13.10164533815319,
+    "longitude": 77.58617654214348,
+    "locality": "Yeshwanthpur"
+  },
+  {
+    "poi_id": "8bb3fbb2-fd63-44f2-99cc-c94abc1cd60d",
+    "name": "Srinivas, Rao and Bassi",
+    "type": "park",
+    "latitude": 12.966988436192874,
+    "longitude": 77.49957918590987,
+    "locality": "Vijayanagar"
+  },
+  {
+    "poi_id": "40e7ca76-7c8a-437a-a9d5-240141e1008c",
+    "name": "Kulkarni, Mahal and Bhandari",
+    "type": "park",
+    "latitude": 13.148097489839584,
+    "longitude": 77.41647141925694,
+    "locality": "Hebbal"
+  },
+  {
+    "poi_id": "d3e763d1-0378-4cb7-b570-b0ac5d4210d5",
+    "name": "Balasubramanian, Sinha and Sha",
+    "type": "school",
+    "latitude": 13.037710094838298,
+    "longitude": 77.63399134328989,
+    "locality": "Basavanagudi"
+  },
+  {
+    "poi_id": "556fe90e-b5cc-4be6-8d17-1ebc5a45b8ea",
+    "name": "Ghose-Solanki",
+    "type": "park",
+    "latitude": 12.825926217523657,
+    "longitude": 77.70196977211073,
+    "locality": "Whitefield"
+  },
+  {
+    "poi_id": "a9f7c6d1-c647-4ae2-8490-9370e430fb91",
+    "name": "Chawla, Barad and Pingle",
+    "type": "temple",
+    "latitude": 13.147491246088691,
+    "longitude": 77.4570159290671,
+    "locality": "Yeshwanthpur"
+  },
+  {
+    "poi_id": "d7fc88c5-e6f4-47b9-9d79-02fcdb617a80",
+    "name": "Dua Ltd",
+    "type": "market",
+    "latitude": 12.942762982873067,
+    "longitude": 77.68434478016836,
+    "locality": "Whitefield"
+  },
+  {
+    "poi_id": "451a9ec7-1cdd-48ca-bbfe-add19882a61a",
+    "name": "Goel, Deep and Butala",
+    "type": "temple",
+    "latitude": 12.900590886845919,
+    "longitude": 77.69868850673792,
+    "locality": "Malleswaram"
+  },
+  {
+    "poi_id": "a3c9f400-ba6c-457c-84f1-6d9daf8f8cf0",
+    "name": "Dar-Bhalla",
+    "type": "market",
+    "latitude": 12.99525771425226,
+    "longitude": 77.72001915493327,
+    "locality": "Sarjapur Road"
+  },
+  {
+    "poi_id": "690aa98b-fa87-4ba5-a5dc-cca2054e6210",
+    "name": "Bhatia-Murthy",
+    "type": "stadium",
+    "latitude": 12.906507657137302,
+    "longitude": 77.49284978118013,
+    "locality": "Whitefield"
+  },
+  {
+    "poi_id": "fe7c7d6e-a8cc-4515-b862-abcfdb3437bb",
+    "name": "Mall and Sons",
+    "type": "market",
+    "latitude": 12.830260127492053,
+    "longitude": 77.71638357281647,
+    "locality": "Jayanagar"
+  },
+  {
+    "poi_id": "07e95e6d-7f71-4ef6-9b71-17bd24421191",
+    "name": "Badal, Natarajan and Nadig",
+    "type": "park",
+    "latitude": 12.800499920077712,
+    "longitude": 77.51223196415775,
+    "locality": "Peenya"
+  },
+  {
+    "poi_id": "b22058f9-bdb2-4d9e-93dc-8eea3e8ee36a",
+    "name": "Gara, Peri and Varty",
+    "type": "park",
+    "latitude": 12.957354173522093,
+    "longitude": 77.59331830470943,
+    "locality": "Malleswaram"
+  },
+  {
+    "poi_id": "34d091d1-5c02-41da-ae43-b319f9299271",
+    "name": "Rau Group",
+    "type": "stadium",
+    "latitude": 13.092902197779308,
+    "longitude": 77.4176776147913,
+    "locality": "Hebbal"
+  },
+  {
+    "poi_id": "ebaf89c7-319f-42f7-96da-a8f5be8eb66f",
+    "name": "Bhat, Bhattacharyya and Hans",
+    "type": "park",
+    "latitude": 13.000310314970527,
+    "longitude": 77.41535838092906,
+    "locality": "Ulsoor"
+  },
+  {
+    "poi_id": "1ba168b8-a384-4e2b-a0b6-1367f46eb787",
+    "name": "Divan, Loke and Chacko",
+    "type": "temple",
+    "latitude": 13.149722554630205,
+    "longitude": 77.65213062445628,
+    "locality": "Vijayanagar"
+  },
+  {
+    "poi_id": "a07bf99b-e08c-42ea-861f-e028f727ee90",
+    "name": "Sawhney Inc",
+    "type": "temple",
+    "latitude": 12.900396325976521,
+    "longitude": 77.55556799229223,
+    "locality": "Sarjapur Road"
+  },
+  {
+    "poi_id": "e9926bad-e633-4f58-8b7f-a47eadc5efc7",
+    "name": "Issac-Tiwari",
+    "type": "park",
+    "latitude": 12.89815927266602,
+    "longitude": 77.48970233137923,
+    "locality": "KR Puram"
+  },
+  {
+    "poi_id": "e0479ecb-f553-4cd3-bcc1-c48c730350ca",
+    "name": "Ghose-Aggarwal",
+    "type": "temple",
+    "latitude": 12.85591231108188,
+    "longitude": 77.46664472360872,
+    "locality": "Marathahalli"
+  },
+  {
+    "poi_id": "e90b3651-43eb-4ff0-acc9-abb686e35e9b",
+    "name": "Mahal-Panchal",
+    "type": "school",
+    "latitude": 12.857422255892867,
+    "longitude": 77.63448372180073,
+    "locality": "Peenya"
+  },
+  {
+    "poi_id": "54c93d44-e353-4243-994d-e8d7add74b0f",
+    "name": "Om Group",
+    "type": "market",
+    "latitude": 12.899815308603518,
+    "longitude": 77.40014054040887,
+    "locality": "Basavanagudi"
+  },
+  {
+    "poi_id": "f1fcfc36-6ad3-4c40-96d2-6487641a4b74",
+    "name": "Chadha, Sheth and Chakrabarti",
+    "type": "school",
+    "latitude": 13.077494015845735,
+    "longitude": 77.6820619092189,
+    "locality": "Vijayanagar"
+  },
+  {
+    "poi_id": "30c95ec4-4f2f-4fd6-86b8-21c7fe731856",
+    "name": "Chana and Sons",
+    "type": "park",
+    "latitude": 13.117014876722758,
+    "longitude": 77.42773736214548,
+    "locality": "Rajajinagar"
+  },
+  {
+    "poi_id": "b3ab800b-8523-4070-945b-37110a858722",
+    "name": "Chadha, Grewal and Nadkarni",
+    "type": "market",
+    "latitude": 13.141280509397689,
+    "longitude": 77.46702136521785,
+    "locality": "Rajajinagar"
+  },
+  {
+    "poi_id": "1f7a63af-9cc4-4ca3-958c-449e57e0d57b",
+    "name": "Bahri, Gara and Anne",
+    "type": "stadium",
+    "latitude": 12.88130137893376,
+    "longitude": 77.53518273835469,
+    "locality": "Basavanagudi"
+  },
+  {
+    "poi_id": "9110c9fd-747c-418f-8b9a-efff6ef735aa",
+    "name": "Prasad Group",
+    "type": "stadium",
+    "latitude": 13.108454140964932,
+    "longitude": 77.56970055890064,
+    "locality": "Hebbal"
+  },
+  {
+    "poi_id": "58d4d949-cad6-43ef-8ae2-f489f7d8e086",
+    "name": "Koshy LLC",
+    "type": "hospital",
+    "latitude": 12.914889281247069,
+    "longitude": 77.52424829053489,
+    "locality": "Whitefield"
+  },
+  {
+    "poi_id": "02223c10-f82f-4dc3-9c35-730b49d52453",
+    "name": "Halder, Deo and Mukherjee",
+    "type": "park",
+    "latitude": 12.83949419058091,
+    "longitude": 77.5122492577445,
+    "locality": "Yeshwanthpur"
+  },
+  {
+    "poi_id": "25aa620f-af7e-4d9e-ad5f-24c37fb9ae49",
+    "name": "Raghavan Ltd",
+    "type": "park",
+    "latitude": 13.104508723932058,
+    "longitude": 77.73737060422562,
+    "locality": "Bellandur"
+  },
+  {
+    "poi_id": "85ef875e-2675-4363-ae50-f96e776094f6",
+    "name": "Gokhale-Mallick",
+    "type": "market",
+    "latitude": 13.022636972125268,
+    "longitude": 77.62455288843519,
+    "locality": "Vijayanagar"
+  },
+  {
+    "poi_id": "8ee25180-9fb1-49a3-8a2f-2373f777c816",
+    "name": "Mutti Group",
+    "type": "stadium",
+    "latitude": 12.857655813628373,
+    "longitude": 77.40820153437859,
+    "locality": "Malleswaram"
+  },
+  {
+    "poi_id": "7ca08cde-4dbb-47cd-a9a0-99deaa10e595",
+    "name": "Guha LLC",
+    "type": "market",
+    "latitude": 12.950440940129551,
+    "longitude": 77.55056156795551,
+    "locality": "Jayanagar"
+  },
+  {
+    "poi_id": "4b73361f-ccbe-46db-908a-b4de49cb6790",
+    "name": "Goel LLC",
+    "type": "temple",
+    "latitude": 12.900540193206973,
+    "longitude": 77.70625304491038,
+    "locality": "Banashankari"
+  },
+  {
+    "poi_id": "37a2a180-0a7b-46e7-b430-0ccc03fddd08",
+    "name": "Sarraf-Lalla",
+    "type": "stadium",
+    "latitude": 13.057878099048569,
+    "longitude": 77.50550966524374,
+    "locality": "Peenya"
+  },
+  {
+    "poi_id": "1f997c80-97d3-4ab9-9352-0a914873d252",
+    "name": "Suri LLC",
+    "type": "temple",
+    "latitude": 12.958695680718494,
+    "longitude": 77.43309472067104,
+    "locality": "Yeshwanthpur"
+  },
+  {
+    "poi_id": "014d9829-4e4a-416f-bd05-955b0d9e1328",
+    "name": "Patla, Palla and Virk",
+    "type": "market",
+    "latitude": 13.146247980787235,
+    "longitude": 77.66543467005647,
+    "locality": "Indiranagar"
+  },
+  {
+    "poi_id": "d5883c8f-a906-4c79-9a2d-6aee6e29a319",
+    "name": "Garde-Bansal",
+    "type": "market",
+    "latitude": 12.819160743790858,
+    "longitude": 77.61210484117763,
+    "locality": "BTM Layout"
+  },
+  {
+    "poi_id": "234189c5-405d-4186-8cc6-6163002a0e3d",
+    "name": "Rajan, Dugal and Yogi",
+    "type": "school",
+    "latitude": 12.924255343147687,
+    "longitude": 77.59960937773928,
+    "locality": "Whitefield"
+  },
+  {
+    "poi_id": "c90703e8-4884-4707-a0f3-ee6659a7e6e4",
+    "name": "Kade, Saraf and Palan",
+    "type": "stadium",
+    "latitude": 12.968665058488492,
+    "longitude": 77.4187517958626,
+    "locality": "Koramangala"
+  },
+  {
+    "poi_id": "f561d900-aa52-4df3-8082-a0eedbe81d7a",
+    "name": "Mani, Johal and Oommen",
+    "type": "park",
+    "latitude": 12.976096744161913,
+    "longitude": 77.44917465342843,
+    "locality": "Malleswaram"
+  },
+  {
+    "poi_id": "f424b79c-27b0-416b-8f8d-4107c4d5ac13",
+    "name": "Thakur, Luthra and Chana",
+    "type": "market",
+    "latitude": 12.910577537834973,
+    "longitude": 77.6178922886746,
+    "locality": "Peenya"
+  },
+  {
+    "poi_id": "2484557f-454a-4e82-b694-15c7160452b7",
+    "name": "Kade, Kuruvilla and Kamdar",
+    "type": "school",
+    "latitude": 13.05523408718415,
+    "longitude": 77.4727383445106,
+    "locality": "Banashankari"
+  },
+  {
+    "poi_id": "6e9ae156-325c-4a4e-bba9-5ec4fef43c9c",
+    "name": "Lal-Balay",
+    "type": "park",
+    "latitude": 13.10616147572114,
+    "longitude": 77.57642452791195,
+    "locality": "Marathahalli"
+  },
+  {
+    "poi_id": "4a720071-14a9-4e59-ab13-13b795d14b6d",
+    "name": "Varughese Ltd",
+    "type": "market",
+    "latitude": 13.128551755692252,
+    "longitude": 77.5907085901103,
+    "locality": "Vijayanagar"
+  },
+  {
+    "poi_id": "eed4d005-7922-4d87-883a-1c2738071019",
+    "name": "Grewal, Soman and Dey",
+    "type": "temple",
+    "latitude": 13.081782681879835,
+    "longitude": 77.49922751659483,
+    "locality": "Jayanagar"
+  },
+  {
+    "poi_id": "adb231a2-cfcc-4abd-bfac-abcc5ac92db2",
+    "name": "Naidu-Pradhan",
+    "type": "temple",
+    "latitude": 13.09770306905731,
+    "longitude": 77.73194880443953,
+    "locality": "Peenya"
+  },
+  {
+    "poi_id": "662c4f00-6c2d-4b96-a2e0-adf7a3155bbb",
+    "name": "Purohit, Bandi and Naidu",
+    "type": "school",
+    "latitude": 12.992690855216999,
+    "longitude": 77.69486243739246,
+    "locality": "Yeshwanthpur"
+  },
+  {
+    "poi_id": "e49dda44-191f-4e05-a777-3701f7873461",
+    "name": "Cheema, Parmer and Anand",
+    "type": "stadium",
+    "latitude": 13.089060879249386,
+    "longitude": 77.65283072767149,
+    "locality": "Sarjapur Road"
+  },
+  {
+    "poi_id": "98d788d9-4d51-4b58-ab91-d7bc42e1feb9",
+    "name": "Sama Group",
+    "type": "hospital",
+    "latitude": 12.906226368201784,
+    "longitude": 77.4272978532433,
+    "locality": "Malleswaram"
+  },
+  {
+    "poi_id": "6f91a7be-905c-4fd9-ac5d-849c4f8c61b9",
+    "name": "Nayar-Chaudhry",
+    "type": "hospital",
+    "latitude": 12.939467566738225,
+    "longitude": 77.43714550675816,
+    "locality": "Bellandur"
+  },
+  {
+    "poi_id": "cdebdd3c-528e-4ae8-a03d-1b30adcde95f",
+    "name": "Parmar LLC",
+    "type": "hospital",
+    "latitude": 12.910919554836491,
+    "longitude": 77.57247347105273,
+    "locality": "Indiranagar"
+  },
+  {
+    "poi_id": "c48563a3-aeee-4302-a3a1-0fdd9402c7be",
+    "name": "Sibal PLC",
+    "type": "market",
+    "latitude": 12.963585567406774,
+    "longitude": 77.45624967221686,
+    "locality": "Banashankari"
+  },
+  {
+    "poi_id": "6a93716a-22bc-4104-8001-570a3312de73",
+    "name": "Bains Group",
+    "type": "market",
+    "latitude": 12.899952865683524,
+    "longitude": 77.74239291223532,
+    "locality": "Peenya"
+  },
+  {
+    "poi_id": "4e143977-4d12-4ab1-b313-f36c8de58a88",
+    "name": "Shan, Saran and Rastogi",
+    "type": "temple",
+    "latitude": 13.136564004789056,
+    "longitude": 77.4554820819096,
+    "locality": "Malleswaram"
+  },
+  {
+    "poi_id": "ed57a5c8-9110-4698-8c1e-172a15e9bee4",
+    "name": "Kohli-Krishnan",
+    "type": "stadium",
+    "latitude": 12.909495619801984,
+    "longitude": 77.57061374241239,
+    "locality": "Koramangala"
+  },
+  {
+    "poi_id": "2ef17a90-8bbb-4f3f-b60e-36aaa0d980ba",
+    "name": "Prakash, Nazareth and Subramanian",
+    "type": "school",
+    "latitude": 12.83431558833883,
+    "longitude": 77.52744236989453,
+    "locality": "Peenya"
+  },
+  {
+    "poi_id": "d57758f5-e03c-43df-884b-bdf5603f4ddc",
+    "name": "Rattan, Mital and Baria",
+    "type": "temple",
+    "latitude": 12.984386008117646,
+    "longitude": 77.62378524750893,
+    "locality": "Banashankari"
+  },
+  {
+    "poi_id": "86cd6214-237b-4fd1-9896-3a6e6fd83533",
+    "name": "Tripathi Inc",
+    "type": "market",
+    "latitude": 12.819984677455812,
+    "longitude": 77.4451627431113,
+    "locality": "Hebbal"
+  },
+  {
+    "poi_id": "80fa07e3-5031-4661-b1b2-b9c67120721e",
+    "name": "Sandhu-Luthra",
+    "type": "school",
+    "latitude": 12.838690108208004,
+    "longitude": 77.55061074981484,
+    "locality": "Hebbal"
+  },
+  {
+    "poi_id": "5b88fc72-b66c-4b02-af66-dc57ef544897",
+    "name": "Rattan, Balakrishnan and Gade",
+    "type": "temple",
+    "latitude": 12.876786286218687,
+    "longitude": 77.4961467614825,
+    "locality": "Sarjapur Road"
+  },
+  {
+    "poi_id": "776ffd03-6d7b-4a17-9aac-72b177e7ad81",
+    "name": "Ganesan, Mital and Viswanathan",
+    "type": "hospital",
+    "latitude": 12.96252258745875,
+    "longitude": 77.71071303363509,
+    "locality": "Banashankari"
+  },
+  {
+    "poi_id": "7616b503-6906-4588-b621-62ab6ba64252",
+    "name": "Dewan and Sons",
+    "type": "park",
+    "latitude": 12.95163782630816,
+    "longitude": 77.41420499924715,
+    "locality": "Hebbal"
+  },
+  {
+    "poi_id": "06c3998e-8f14-4ac7-a99d-6b91071592d9",
+    "name": "Nath, Bhagat and Chana",
+    "type": "stadium",
+    "latitude": 13.079892151700978,
+    "longitude": 77.71980462290226,
+    "locality": "Peenya"
+  },
+  {
+    "poi_id": "16a34833-6bc1-42ad-844b-04e8f51e2df3",
+    "name": "Dhaliwal-Pal",
+    "type": "school",
+    "latitude": 13.05881612885944,
+    "longitude": 77.69154794849355,
+    "locality": "Rajajinagar"
+  },
+  {
+    "poi_id": "e8273dee-9d7e-4eb7-a3fd-6adec17fcf19",
+    "name": "Randhawa-Gandhi",
+    "type": "temple",
+    "latitude": 12.949211402896745,
+    "longitude": 77.5041497507543,
+    "locality": "Bellandur"
+  },
+  {
+    "poi_id": "9490029d-3e1e-4693-8960-b8514d696e19",
+    "name": "Acharya-Divan",
+    "type": "school",
+    "latitude": 12.916796472651471,
+    "longitude": 77.676251729137,
+    "locality": "BTM Layout"
+  },
+  {
+    "poi_id": "9ef2a148-2095-45d5-9f84-3666831ffc00",
+    "name": "Gera LLC",
+    "type": "market",
+    "latitude": 12.910764074421525,
+    "longitude": 77.41092474611857,
+    "locality": "Marathahalli"
+  },
+  {
+    "poi_id": "e0b7d818-90c9-4f32-a660-a8e08b13b689",
+    "name": "Buch-Goyal",
+    "type": "stadium",
+    "latitude": 13.070898280552903,
+    "longitude": 77.73840294260269,
+    "locality": "Peenya"
+  },
+  {
+    "poi_id": "d858f464-c15d-4547-8db4-897a4b188a0d",
+    "name": "Jani Group",
+    "type": "stadium",
+    "latitude": 12.818225342177445,
+    "longitude": 77.58430822990643,
+    "locality": "Marathahalli"
+  },
+  {
+    "poi_id": "ab8a5015-6727-4710-a03d-54c96485525e",
+    "name": "Konda and Sons",
+    "type": "park",
+    "latitude": 12.804487577328713,
+    "longitude": 77.5061483591229,
+    "locality": "Yeshwanthpur"
+  },
+  {
+    "poi_id": "c353ac87-ceb7-438a-b67a-92b701862029",
+    "name": "Prasad, Ahluwalia and Sood",
+    "type": "market",
+    "latitude": 13.078440537174327,
+    "longitude": 77.52690412440813,
+    "locality": "Hebbal"
+  },
+  {
+    "poi_id": "d6d5aed2-75d1-46f2-849c-30c6dffa28ae",
+    "name": "Padmanabhan Inc",
+    "type": "park",
+    "latitude": 12.967001231596168,
+    "longitude": 77.42324187371118,
+    "locality": "HSR Layout"
+  },
+  {
+    "poi_id": "452a2da7-0e00-483d-95ac-37f00de9a283",
+    "name": "Ramesh-Kala",
+    "type": "market",
+    "latitude": 12.845808398493752,
+    "longitude": 77.74627232991472,
+    "locality": "Bellandur"
+  },
+  {
+    "poi_id": "1b678ec1-a65e-483b-bc75-de3dd473f3b5",
+    "name": "Puri-Sheth",
+    "type": "market",
+    "latitude": 12.882448077108076,
+    "longitude": 77.41375218080275,
+    "locality": "Peenya"
+  },
+  {
+    "poi_id": "d26aab27-18ef-4501-9826-a55f555f2bf4",
+    "name": "Kibe, Char and Ram",
+    "type": "temple",
+    "latitude": 13.126376383584084,
+    "longitude": 77.62921749310175,
+    "locality": "Indiranagar"
+  },
+  {
+    "poi_id": "b0cab249-7b41-4aed-90c0-e6074a633fc3",
+    "name": "Nadkarni and Sons",
+    "type": "temple",
+    "latitude": 13.100826041468714,
+    "longitude": 77.55495757469727,
+    "locality": "Yeshwanthpur"
+  },
+  {
+    "poi_id": "1f16de17-0f94-4562-9d43-b0cf54d09314",
+    "name": "Narain-Mandal",
+    "type": "stadium",
+    "latitude": 13.04842476757839,
+    "longitude": 77.73212067636605,
+    "locality": "Malleswaram"
+  },
+  {
+    "poi_id": "82c52802-aca6-4492-95a9-7dd7bd8fa26f",
+    "name": "Samra, Ramesh and Walla",
+    "type": "stadium",
+    "latitude": 12.968778830618065,
+    "longitude": 77.48609990910738,
+    "locality": "HSR Layout"
+  },
+  {
+    "poi_id": "b39a442b-0d92-4c7e-b78a-2037bd46ebd5",
+    "name": "Palan Group",
+    "type": "park",
+    "latitude": 12.982113269166986,
+    "longitude": 77.58623038837831,
+    "locality": "Koramangala"
+  },
+  {
+    "poi_id": "8fe275b1-24e7-4383-8429-e12c347f1a8c",
+    "name": "Bala, Kapadia and Gokhale",
+    "type": "hospital",
+    "latitude": 13.141335587349387,
+    "longitude": 77.56882467300396,
+    "locality": "KR Puram"
+  },
+  {
+    "poi_id": "22eb4a7f-7ecc-492d-b79f-8fa9bd8c6f4f",
+    "name": "Pillay LLC",
+    "type": "stadium",
+    "latitude": 13.138019655359502,
+    "longitude": 77.64600325541754,
+    "locality": "Koramangala"
+  },
+  {
+    "poi_id": "a3c14a53-acf9-4a12-a522-266c393a26ee",
+    "name": "Thaker-Agarwal",
+    "type": "market",
+    "latitude": 12.875344166025043,
+    "longitude": 77.42380358118335,
+    "locality": "Malleswaram"
+  },
+  {
+    "poi_id": "a0d44d24-4d07-4581-a79f-5df0da2d6df9",
+    "name": "Rao, Brahmbhatt and Karpe",
+    "type": "stadium",
+    "latitude": 13.083886598206862,
+    "longitude": 77.46782619550818,
+    "locality": "Malleswaram"
+  },
+  {
+    "poi_id": "efc08273-fd39-4fe7-b819-b15d4f968a84",
+    "name": "Tata and Sons",
+    "type": "temple",
+    "latitude": 12.869034933158456,
+    "longitude": 77.4750976870325,
+    "locality": "BTM Layout"
+  },
+  {
+    "poi_id": "9fa87040-7c26-4521-8e3c-e7ce01a6c260",
+    "name": "Kakar LLC",
+    "type": "temple",
+    "latitude": 12.874738117259383,
+    "longitude": 77.65835276419459,
+    "locality": "Basavanagudi"
+  },
+  {
+    "poi_id": "113038f5-1d5d-4f65-b361-1134b01200ab",
+    "name": "Chander-Nori",
+    "type": "school",
+    "latitude": 13.036632561957603,
+    "longitude": 77.46619854371437,
+    "locality": "Marathahalli"
+  },
+  {
+    "poi_id": "e14110b6-9a92-4655-a72c-74820002572a",
+    "name": "Gole-Sandal",
+    "type": "market",
+    "latitude": 12.941750384505642,
+    "longitude": 77.60072211736184,
+    "locality": "Hebbal"
+  },
+  {
+    "poi_id": "3f48e5f0-18cc-4e29-8513-176c1efc1c94",
+    "name": "Mane LLC",
+    "type": "school",
+    "latitude": 13.126040542487283,
+    "longitude": 77.47533533717534,
+    "locality": "Whitefield"
+  },
+  {
+    "poi_id": "064fe164-7947-4ea4-9a85-fd69344c96cc",
+    "name": "Srivastava-Banerjee",
+    "type": "temple",
+    "latitude": 12.831153407213604,
+    "longitude": 77.7015687325294,
+    "locality": "Hebbal"
+  },
+  {
+    "poi_id": "6405d362-719d-4add-817c-6779d52d8f91",
+    "name": "Sama-Gola",
+    "type": "market",
+    "latitude": 12.979033974283324,
+    "longitude": 77.72976490907138,
+    "locality": "Yeshwanthpur"
+  },
+  {
+    "poi_id": "4cc7cda2-1f2f-487d-ad11-3faf0e3f4912",
+    "name": "Rao Ltd",
+    "type": "stadium",
+    "latitude": 13.121482535655092,
+    "longitude": 77.58147254122979,
+    "locality": "HSR Layout"
+  },
+  {
+    "poi_id": "2f1d80ea-fb91-4b90-bbd5-0aeb679111dd",
+    "name": "Cherian, Shroff and Butala",
+    "type": "market",
+    "latitude": 13.116439781167827,
+    "longitude": 77.52330810947322,
+    "locality": "Malleswaram"
+  },
+  {
+    "poi_id": "d904b887-d77b-43b3-bc24-3b45d1fd4711",
+    "name": "Chaudhuri-Ravel",
+    "type": "temple",
+    "latitude": 12.85478522469551,
+    "longitude": 77.48192022125613,
+    "locality": "Yeshwanthpur"
+  },
+  {
+    "poi_id": "9cddd7c2-d25a-4b3f-82a1-279b8bf5caed",
+    "name": "Dyal LLC",
+    "type": "school",
+    "latitude": 12.92832319503376,
+    "longitude": 77.41742335053307,
+    "locality": "Vijayanagar"
+  },
+  {
+    "poi_id": "a87d2106-dbfb-4ea4-b06a-d042ae6b0455",
+    "name": "Tripathi Group",
+    "type": "park",
+    "latitude": 13.016692490016345,
+    "longitude": 77.49397502666913,
+    "locality": "Ulsoor"
+  },
+  {
+    "poi_id": "257066e8-6eae-4b60-9f89-cec29dfe19d2",
+    "name": "Sha, Apte and Sunder",
+    "type": "temple",
+    "latitude": 12.855788209669992,
+    "longitude": 77.62898252298086,
+    "locality": "BTM Layout"
+  },
+  {
+    "poi_id": "24458bad-2f4f-414c-858b-5ee1a2ddd15a",
+    "name": "Ratti, Sami and Bhagat",
+    "type": "stadium",
+    "latitude": 13.13880776021601,
+    "longitude": 77.58676592595823,
+    "locality": "Basavanagudi"
+  },
+  {
+    "poi_id": "3d9d542a-a84f-467f-be9e-01a9d18c7fde",
+    "name": "Sandal-Kuruvilla",
+    "type": "stadium",
+    "latitude": 13.120162265054681,
+    "longitude": 77.73041444739833,
+    "locality": "Yeshwanthpur"
+  },
+  {
+    "poi_id": "b31add22-bddd-4d36-82f2-a59e2bb7f146",
+    "name": "D’Alia, Seshadri and Thakkar",
+    "type": "temple",
+    "latitude": 12.858432562662065,
+    "longitude": 77.5386970418721,
+    "locality": "Yeshwanthpur"
+  },
+  {
+    "poi_id": "7affd9bd-79e5-4450-b34a-34a88bf349a3",
+    "name": "Solanki-Nayak",
+    "type": "hospital",
+    "latitude": 12.842404411441345,
+    "longitude": 77.64285216981494,
+    "locality": "Jayanagar"
+  },
+  {
+    "poi_id": "199ae3da-aae3-4bc0-8a19-54ec4a3fcfda",
+    "name": "Patla, Choudhury and Gola",
+    "type": "hospital",
+    "latitude": 12.829892968982893,
+    "longitude": 77.5712629616163,
+    "locality": "Yeshwanthpur"
+  },
+  {
+    "poi_id": "5e09f48e-7e32-45d0-96b9-3974f58703c5",
+    "name": "Wali-Rajagopal",
+    "type": "school",
+    "latitude": 13.118305282412821,
+    "longitude": 77.57940167557348,
+    "locality": "Rajajinagar"
+  },
+  {
+    "poi_id": "62c526ab-6424-4a05-8672-48f6aaee5d68",
+    "name": "Buch, Doctor and Amble",
+    "type": "park",
+    "latitude": 12.867768333428412,
+    "longitude": 77.49372101011144,
+    "locality": "Ulsoor"
+  },
+  {
+    "poi_id": "76c6533e-1b7a-4c94-8cc3-4f70b2995e18",
+    "name": "Kuruvilla-Hora",
+    "type": "hospital",
+    "latitude": 12.945699724990524,
+    "longitude": 77.5592327718947,
+    "locality": "Yeshwanthpur"
+  },
+  {
+    "poi_id": "25ee3dfd-6cc1-4a4d-9041-1dec6ab9ba0f",
+    "name": "Sha, Saran and Bava",
+    "type": "stadium",
+    "latitude": 12.9570979779782,
+    "longitude": 77.56477474895445,
+    "locality": "Bellandur"
+  },
+  {
+    "poi_id": "1ec09c35-7503-4829-888e-5bd8072915c7",
+    "name": "Manda-Baral",
+    "type": "hospital",
+    "latitude": 13.00965386547475,
+    "longitude": 77.64732488261212,
+    "locality": "BTM Layout"
+  },
+  {
+    "poi_id": "949e24ad-02d2-4ee7-a3b1-a52e907001b6",
+    "name": "Suri Group",
+    "type": "temple",
+    "latitude": 12.8251073703116,
+    "longitude": 77.72922399971515,
+    "locality": "Whitefield"
+  },
+  {
+    "poi_id": "a68213c7-a525-4cd0-88b9-b2e94d81c859",
+    "name": "Bedi-Pingle",
+    "type": "stadium",
+    "latitude": 12.879365516090182,
+    "longitude": 77.51526244711889,
+    "locality": "Sarjapur Road"
+  },
+  {
+    "poi_id": "71c966b3-9eb0-4954-a83d-b2dfe4aa212a",
+    "name": "Sandal-Nazareth",
+    "type": "school",
+    "latitude": 13.126021635421624,
+    "longitude": 77.41477016400346,
+    "locality": "Whitefield"
+  },
+  {
+    "poi_id": "5acf614a-e834-4b5b-a879-c9a60ae9eacc",
+    "name": "Minhas, Bajwa and Loke",
+    "type": "market",
+    "latitude": 13.117943537543999,
+    "longitude": 77.57370329392522,
+    "locality": "Basavanagudi"
+  },
+  {
+    "poi_id": "e1e68d35-77c8-4297-a3a9-654df679d544",
+    "name": "Memon LLC",
+    "type": "stadium",
+    "latitude": 13.073451726591992,
+    "longitude": 77.59056146625221,
+    "locality": "Bellandur"
+  },
+  {
+    "poi_id": "0255b13b-46e3-4efc-b556-6ff1b91ace28",
+    "name": "Badal-Sekhon",
+    "type": "school",
+    "latitude": 12.806790435966375,
+    "longitude": 77.45895419289617,
+    "locality": "Peenya"
+  },
+  {
+    "poi_id": "8029d633-5b95-49d0-a887-4d02fb5435ba",
+    "name": "Mishra-Banik",
+    "type": "park",
+    "latitude": 12.914452368973636,
+    "longitude": 77.66616261219663,
+    "locality": "Whitefield"
+  },
+  {
+    "poi_id": "35f5afea-80d2-457b-9c6b-f2c8db184d46",
+    "name": "Choudhury, Parikh and Bansal",
+    "type": "temple",
+    "latitude": 13.019785557370017,
+    "longitude": 77.74472518795453,
+    "locality": "Malleswaram"
+  },
+  {
+    "poi_id": "866a0c09-b4cb-42f4-a70d-8d07594d30a9",
+    "name": "Randhawa, Kothari and Gill",
+    "type": "market",
+    "latitude": 12.896316574120718,
+    "longitude": 77.73102115095296,
+    "locality": "Bellandur"
+  },
+  {
+    "poi_id": "2cabd3d7-1011-4af4-8356-ed6163fff4b5",
+    "name": "Warrior Inc",
+    "type": "market",
+    "latitude": 13.118355343268822,
+    "longitude": 77.46898711358828,
+    "locality": "Marathahalli"
+  },
+  {
+    "poi_id": "a7eb4008-5a13-44bb-a6c2-5405a7ea52f0",
+    "name": "Dhillon Ltd",
+    "type": "park",
+    "latitude": 13.021861311641356,
+    "longitude": 77.70637713396526,
+    "locality": "Vijayanagar"
+  },
+  {
+    "poi_id": "75a09875-56db-47ac-902a-73aeb81e1682",
+    "name": "Sankar-Maharaj",
+    "type": "school",
+    "latitude": 12.825167351060756,
+    "longitude": 77.6465727727441,
+    "locality": "Banashankari"
+  },
+  {
+    "poi_id": "23d99d90-c964-4746-9bd1-65a3b716307d",
+    "name": "Shanker-Kohli",
+    "type": "stadium",
+    "latitude": 13.118151956092497,
+    "longitude": 77.55884629733242,
+    "locality": "Indiranagar"
+  },
+  {
+    "poi_id": "a88fc85a-c33a-402e-88f3-332a47414ca4",
+    "name": "Viswanathan, Shanker and Baria",
+    "type": "market",
+    "latitude": 13.135218330361678,
+    "longitude": 77.58921384801366,
+    "locality": "BTM Layout"
+  },
+  {
+    "poi_id": "117637b2-64d8-4360-ac68-fc074d8cd019",
+    "name": "Narain LLC",
+    "type": "temple",
+    "latitude": 12.827199346437105,
+    "longitude": 77.69736006124386,
+    "locality": "Vijayanagar"
+  },
+  {
+    "poi_id": "7bd6b0b5-a527-4097-96de-0902ea897692",
+    "name": "Din PLC",
+    "type": "market",
+    "latitude": 12.98632608220146,
+    "longitude": 77.56804722887344,
+    "locality": "Marathahalli"
+  },
+  {
+    "poi_id": "9b1872ac-78c4-427f-b66a-015b6063cb32",
+    "name": "Chaudhuri, Raja and Vala",
+    "type": "park",
+    "latitude": 12.90617749877496,
+    "longitude": 77.5306225791868,
+    "locality": "Marathahalli"
+  },
+  {
+    "poi_id": "b5604484-9377-49f6-ae2d-0681a8b26070",
+    "name": "Brar, Nazareth and Mittal",
+    "type": "stadium",
+    "latitude": 12.937493676768492,
+    "longitude": 77.5726366225591,
+    "locality": "Rajajinagar"
+  },
+  {
+    "poi_id": "a8ae013a-c680-4bb4-81c9-74a0ed6ae39f",
+    "name": "Rattan-Bains",
+    "type": "park",
+    "latitude": 12.862877926284371,
+    "longitude": 77.60269543141227,
+    "locality": "Vijayanagar"
+  },
+  {
+    "poi_id": "b2a0f851-2121-4c4f-825c-a2e38682d62f",
+    "name": "Kurian Ltd",
+    "type": "stadium",
+    "latitude": 13.002325235704346,
+    "longitude": 77.46617717882242,
+    "locality": "Indiranagar"
+  },
+  {
+    "poi_id": "94aa600a-f487-421f-96bf-02dd52f6af5a",
+    "name": "Buch, Sant and Dada",
+    "type": "hospital",
+    "latitude": 13.135292773637111,
+    "longitude": 77.71531770559345,
+    "locality": "HSR Layout"
+  },
+  {
+    "poi_id": "d4736d37-9e12-47cf-95a1-5905591cc4b6",
+    "name": "Lal LLC",
+    "type": "stadium",
+    "latitude": 12.976075410095063,
+    "longitude": 77.63596543209037,
+    "locality": "BTM Layout"
+  },
+  {
+    "poi_id": "078ebe4e-0b80-49d7-914c-440d675db93b",
+    "name": "Varkey, Zacharia and Kohli",
+    "type": "school",
+    "latitude": 12.82902010348807,
+    "longitude": 77.62164412106813,
+    "locality": "Vijayanagar"
+  },
+  {
+    "poi_id": "3b50f94f-28bf-4fdd-bb9d-dc31da1eb729",
+    "name": "Bawa, Prasad and Solanki",
+    "type": "market",
+    "latitude": 13.017000466717093,
+    "longitude": 77.43482367916323,
+    "locality": "KR Puram"
+  },
+  {
+    "poi_id": "7fdae666-1b31-4321-aa4e-8b0318b6dfc7",
+    "name": "Sarkar LLC",
+    "type": "market",
+    "latitude": 12.91907804805794,
+    "longitude": 77.6114608783604,
+    "locality": "Peenya"
+  },
+  {
+    "poi_id": "52db575a-79f6-43e8-ade8-1084ef29f413",
+    "name": "Grewal, Malhotra and Thaker",
+    "type": "hospital",
+    "latitude": 13.099573816356955,
+    "longitude": 77.44233623178347,
+    "locality": "Hebbal"
+  },
+  {
+    "poi_id": "c590f851-fb38-4671-bb45-d977c2896a30",
+    "name": "Bath, Rastogi and Golla",
+    "type": "park",
+    "latitude": 12.952137351910766,
+    "longitude": 77.4275441863184,
+    "locality": "Banashankari"
+  },
+  {
+    "poi_id": "cbacc3c6-bb8e-41cb-aad2-17d1cefd7dee",
+    "name": "Mane, Mahajan and Ahluwalia",
+    "type": "temple",
+    "latitude": 12.867493863129786,
+    "longitude": 77.58455881347484,
+    "locality": "HSR Layout"
+  },
+  {
+    "poi_id": "e1792fcd-e658-4b6a-9afd-943c3c92f1ab",
+    "name": "Johal-Bahl",
+    "type": "market",
+    "latitude": 12.866886967941902,
+    "longitude": 77.54097493691627,
+    "locality": "Ulsoor"
+  },
+  {
+    "poi_id": "62534b28-e479-49dd-ba68-e69f2c8b2151",
+    "name": "Dayal-Maharaj",
+    "type": "stadium",
+    "latitude": 13.069067463252406,
+    "longitude": 77.60608359455468,
+    "locality": "Indiranagar"
+  },
+  {
+    "poi_id": "ec20d201-6b88-4cd0-b92b-7b46c17d049c",
+    "name": "Shere-Nadkarni",
+    "type": "hospital",
+    "latitude": 12.892955659407576,
+    "longitude": 77.43122775882004,
+    "locality": "Bellandur"
+  },
+  {
+    "poi_id": "401fb5a6-9ca5-474f-8fda-6ca4107a8bcc",
+    "name": "Kant and Sons",
+    "type": "temple",
+    "latitude": 13.068531687955728,
+    "longitude": 77.55084407199655,
+    "locality": "Jayanagar"
+  },
+  {
+    "poi_id": "bffbbc83-d8c8-4184-8994-3e761d4e2772",
+    "name": "Nair and Sons",
+    "type": "temple",
+    "latitude": 12.872060558768311,
+    "longitude": 77.4611753502658,
+    "locality": "Rajajinagar"
+  },
+  {
+    "poi_id": "5fd392e2-c36b-4890-b108-022a12a85ff7",
+    "name": "Mani Ltd",
+    "type": "hospital",
+    "latitude": 12.91259022904546,
+    "longitude": 77.74548503007344,
+    "locality": "Koramangala"
+  },
+  {
+    "poi_id": "078aa79e-d736-4320-a19c-7caf9b45c430",
+    "name": "Sharma, Salvi and Narasimhan",
+    "type": "stadium",
+    "latitude": 12.962920440353896,
+    "longitude": 77.59640257435231,
+    "locality": "Sarjapur Road"
+  },
+  {
+    "poi_id": "1b8fabe9-5237-4d88-ac8f-abbcec6dd411",
+    "name": "Ramachandran, Soni and Arora",
+    "type": "school",
+    "latitude": 13.130118547392708,
+    "longitude": 77.6406029013293,
+    "locality": "Peenya"
+  },
+  {
+    "poi_id": "221a7c4e-60ac-4a64-b313-1038b2dfb075",
+    "name": "Oak-Nagarajan",
+    "type": "market",
+    "latitude": 13.126105998663839,
+    "longitude": 77.51389639823891,
+    "locality": "Malleswaram"
+  },
+  {
+    "poi_id": "8e74b39c-92e3-4940-a32c-5e99fd26a41b",
+    "name": "Saxena-Doshi",
+    "type": "park",
+    "latitude": 12.872405156397802,
+    "longitude": 77.43315862017278,
+    "locality": "Jayanagar"
+  },
+  {
+    "poi_id": "7db8ed71-40a3-423b-b21a-92403321cbb0",
+    "name": "Tara-Kade",
+    "type": "market",
+    "latitude": 12.925376664435076,
+    "longitude": 77.74155480197423,
+    "locality": "Bellandur"
+  },
+  {
+    "poi_id": "39ba243a-493d-469e-adc9-0caa7000f93b",
+    "name": "Garde, Ramakrishnan and Kumer",
+    "type": "park",
+    "latitude": 12.85228978595882,
+    "longitude": 77.50019066238411,
+    "locality": "Malleswaram"
+  },
+  {
+    "poi_id": "6f1ec0de-297e-43f4-bdfd-cc7b33815e0d",
+    "name": "Bali-Brar",
+    "type": "market",
+    "latitude": 12.978494777759725,
+    "longitude": 77.54833286481076,
+    "locality": "Banashankari"
+  },
+  {
+    "poi_id": "ca3db769-cf05-4461-874d-b4a6d057ab85",
+    "name": "Sur, Pai and Chacko",
+    "type": "hospital",
+    "latitude": 12.961203892743134,
+    "longitude": 77.6274523725959,
+    "locality": "Vijayanagar"
+  },
+  {
+    "poi_id": "0634caf6-9505-46dd-9605-4b9e313a4c74",
+    "name": "Wagle LLC",
+    "type": "stadium",
+    "latitude": 13.115266056857756,
+    "longitude": 77.40864405419015,
+    "locality": "Banashankari"
+  },
+  {
+    "poi_id": "18a0f6c0-ab2d-4fef-b5b7-9271a10db956",
+    "name": "Manne-Murty",
+    "type": "market",
+    "latitude": 13.125501882226876,
+    "longitude": 77.68359069568105,
+    "locality": "BTM Layout"
+  },
+  {
+    "poi_id": "23fbe8f2-cf5c-4d7f-8882-5d14341b2c09",
+    "name": "Sibal-Balan",
+    "type": "hospital",
+    "latitude": 12.934248586852553,
+    "longitude": 77.58780236651002,
+    "locality": "Banashankari"
+  },
+  {
+    "poi_id": "c63e23bf-5c0c-409c-8157-2a56e4aeb85f",
+    "name": "Ganesan PLC",
+    "type": "hospital",
+    "latitude": 12.972108280056647,
+    "longitude": 77.49737601547409,
+    "locality": "Ulsoor"
+  },
+  {
+    "poi_id": "dd4f4af2-8bec-48cc-917b-c86668747b44",
+    "name": "Sankar-Sagar",
+    "type": "stadium",
+    "latitude": 13.113682687201146,
+    "longitude": 77.42156279485236,
+    "locality": "Indiranagar"
+  },
+  {
+    "poi_id": "aeaf3951-2f70-4b32-9738-db52126c4e50",
+    "name": "Mander PLC",
+    "type": "stadium",
+    "latitude": 13.082347732710772,
+    "longitude": 77.45687444541606,
+    "locality": "HSR Layout"
+  },
+  {
+    "poi_id": "ba70c9f6-e936-4ad0-b52e-af63badfc7a8",
+    "name": "Swaminathan, Keer and Prashad",
+    "type": "park",
+    "latitude": 12.801279708970627,
+    "longitude": 77.7132618505987,
+    "locality": "BTM Layout"
+  },
+  {
+    "poi_id": "30accfda-7f05-4b10-8735-2231a4695757",
+    "name": "Deep, Radhakrishnan and Dasgupta",
+    "type": "school",
+    "latitude": 12.912020847464255,
+    "longitude": 77.64010847837757,
+    "locality": "Banashankari"
+  },
+  {
+    "poi_id": "d3dc00ee-9203-45d2-b51d-1137d5185b72",
+    "name": "Randhawa and Sons",
+    "type": "stadium",
+    "latitude": 12.947620984677645,
+    "longitude": 77.48746560257291,
+    "locality": "Hebbal"
+  },
+  {
+    "poi_id": "5b429d0e-5a23-4f52-8037-b96979468eae",
+    "name": "Choudhry PLC",
+    "type": "park",
+    "latitude": 12.880400699289131,
+    "longitude": 77.42296026773077,
+    "locality": "Basavanagudi"
+  },
+  {
+    "poi_id": "da79d686-8f06-4963-a656-64ac9e54a175",
+    "name": "Gokhale-Dutt",
+    "type": "hospital",
+    "latitude": 12.869850065563579,
+    "longitude": 77.64171535933532,
+    "locality": "Koramangala"
+  },
+  {
+    "poi_id": "705a501c-1131-4c8b-8d35-637c234bae09",
+    "name": "Rattan, Rege and Pandey",
+    "type": "market",
+    "latitude": 12.813224577308489,
+    "longitude": 77.60034270408872,
+    "locality": "KR Puram"
+  },
+  {
+    "poi_id": "dfbcf340-6049-48be-a01e-d90e6d7168e9",
+    "name": "Sahota PLC",
+    "type": "market",
+    "latitude": 13.025179403774416,
+    "longitude": 77.54158183356039,
+    "locality": "Peenya"
+  },
+  {
+    "poi_id": "208fae02-1401-4b99-91b3-f9211224615f",
+    "name": "Nagarajan-Patil",
+    "type": "stadium",
+    "latitude": 12.89187860166911,
+    "longitude": 77.52726400721653,
+    "locality": "Malleswaram"
+  },
+  {
+    "poi_id": "19d56f42-4c58-4a8e-846a-4a71c84a89b8",
+    "name": "Cherian, Nadkarni and Thakkar",
+    "type": "stadium",
+    "latitude": 12.81832151245096,
+    "longitude": 77.47588499657519,
+    "locality": "KR Puram"
+  },
+  {
+    "poi_id": "0d2dba72-3b06-4d82-bfab-9b071e307f10",
+    "name": "Walia, Ramanathan and Kar",
+    "type": "market",
+    "latitude": 12.880842758684823,
+    "longitude": 77.63436393978813,
+    "locality": "Yeshwanthpur"
+  },
+  {
+    "poi_id": "05c55810-54b7-48fa-8a60-b33299fb38a9",
+    "name": "Talwar-Shetty",
+    "type": "market",
+    "latitude": 13.080669883492645,
+    "longitude": 77.73973380972785,
+    "locality": "Yeshwanthpur"
+  },
+  {
+    "poi_id": "4a36a7c0-f0cc-4f56-9242-89ea39597465",
+    "name": "Sengupta-Dugar",
+    "type": "park",
+    "latitude": 13.098021213576292,
+    "longitude": 77.46150033604289,
+    "locality": "Electronic City"
+  },
+  {
+    "poi_id": "63f2fc26-405a-4f9e-9401-8a45ec1a1adc",
+    "name": "Ratta LLC",
+    "type": "stadium",
+    "latitude": 12.969073185817656,
+    "longitude": 77.60899081700543,
+    "locality": "Marathahalli"
+  },
+  {
+    "poi_id": "df5864d5-1165-4b1e-9b9f-acdeb409b855",
+    "name": "Walia LLC",
+    "type": "stadium",
+    "latitude": 12.94562473464304,
+    "longitude": 77.5484647695111,
+    "locality": "Basavanagudi"
+  },
+  {
+    "poi_id": "49bee3dd-f7d6-4f6a-a869-b5eedf18e065",
+    "name": "Gera-Chaudhari",
+    "type": "park",
+    "latitude": 13.142248792725624,
+    "longitude": 77.55634105261063,
+    "locality": "Ulsoor"
+  },
+  {
+    "poi_id": "3dcc4915-934a-45d9-88cf-ffa2132497ee",
+    "name": "Sahota-Sahota",
+    "type": "market",
+    "latitude": 12.870197630855825,
+    "longitude": 77.48895154804474,
+    "locality": "Rajajinagar"
+  },
+  {
+    "poi_id": "9c7ab4e3-ee8b-49a3-848b-e725da6b0060",
+    "name": "Gulati-Balakrishnan",
+    "type": "park",
+    "latitude": 12.875375748999113,
+    "longitude": 77.6887972064815,
+    "locality": "Hebbal"
+  },
+  {
+    "poi_id": "9e5f8378-6633-427e-8fee-ea91800314a8",
+    "name": "Kapur, Devi and Thakur",
+    "type": "temple",
+    "latitude": 12.90215351196274,
+    "longitude": 77.56983946145154,
+    "locality": "Koramangala"
+  },
+  {
+    "poi_id": "e44d8dc2-b290-4892-8bc2-d46d0e807f03",
+    "name": "Rege Inc",
+    "type": "school",
+    "latitude": 12.860465061398381,
+    "longitude": 77.5901920482694,
+    "locality": "Jayanagar"
+  },
+  {
+    "poi_id": "efda70bf-7892-4f72-9530-94501c6244f4",
+    "name": "Krish-Ganesan",
+    "type": "school",
+    "latitude": 12.932777959371466,
+    "longitude": 77.50666631947907,
+    "locality": "Malleswaram"
+  },
+  {
+    "poi_id": "a73a366e-4357-4225-bc24-a159eada2885",
+    "name": "Sodhi, Chand and Prabhakar",
+    "type": "temple",
+    "latitude": 13.118791979446414,
+    "longitude": 77.46363296298344,
+    "locality": "Yeshwanthpur"
+  },
+  {
+    "poi_id": "6be13e78-568a-420d-8843-280a07aca3fe",
+    "name": "Ramachandran PLC",
+    "type": "school",
+    "latitude": 13.015371744220001,
+    "longitude": 77.430068635871,
+    "locality": "Malleswaram"
+  },
+  {
+    "poi_id": "e355ce16-55a4-4eab-b354-b4be42c91aaf",
+    "name": "Hans, Edwin and Shankar",
+    "type": "school",
+    "latitude": 12.944181292014292,
+    "longitude": 77.64994169932372,
+    "locality": "Electronic City"
+  },
+  {
+    "poi_id": "3448a247-23a8-4b61-8f34-4fe1c3c5bbb5",
+    "name": "Khatri-Gill",
+    "type": "hospital",
+    "latitude": 13.127043778099926,
+    "longitude": 77.46868199859075,
+    "locality": "Whitefield"
+  },
+  {
+    "poi_id": "54614433-bbdf-444c-9117-56d58c0dea8b",
+    "name": "Iyengar-Naidu",
+    "type": "stadium",
+    "latitude": 12.816962481366538,
+    "longitude": 77.64152637396609,
+    "locality": "Malleswaram"
+  },
+  {
+    "poi_id": "e98dc5f7-a9d0-4567-81e1-58aaec96af27",
+    "name": "Memon Inc",
+    "type": "park",
+    "latitude": 12.873596662265651,
+    "longitude": 77.53663175611644,
+    "locality": "HSR Layout"
+  },
+  {
+    "poi_id": "7e59a0d1-3c51-48b0-8ff4-c2d6e0d65081",
+    "name": "Jhaveri PLC",
+    "type": "stadium",
+    "latitude": 12.998061011785616,
+    "longitude": 77.54552118034638,
+    "locality": "Malleswaram"
+  },
+  {
+    "poi_id": "9058e121-f2af-486f-8e3f-de9a12aa5ab4",
+    "name": "Sharaf-Konda",
+    "type": "school",
+    "latitude": 13.015443418117613,
+    "longitude": 77.56421212363247,
+    "locality": "Bellandur"
+  },
+  {
+    "poi_id": "d5c2c94d-b3fd-42b8-9c29-1269e781c4cc",
+    "name": "Sawhney, Khurana and Goel",
+    "type": "school",
+    "latitude": 12.813845127296915,
+    "longitude": 77.52869797784464,
+    "locality": "HSR Layout"
+  },
+  {
+    "poi_id": "588955c0-090d-4d2f-8eb7-803ec3fcac0e",
+    "name": "Tella-Choudhry",
+    "type": "stadium",
+    "latitude": 12.941063565267497,
+    "longitude": 77.43521699202792,
+    "locality": "Hebbal"
+  },
+  {
+    "poi_id": "6a8eb758-f32d-4812-921d-87acfb267d27",
+    "name": "Narula, Dutta and Konda",
+    "type": "hospital",
+    "latitude": 13.027203887690806,
+    "longitude": 77.508371133501,
+    "locality": "BTM Layout"
+  },
+  {
+    "poi_id": "edeac5b8-9cc8-42cd-bd42-11d1992033eb",
+    "name": "Boase-Amble",
+    "type": "market",
+    "latitude": 13.044324691241192,
+    "longitude": 77.63230702624288,
+    "locality": "Rajajinagar"
+  },
+  {
+    "poi_id": "7a90c486-8d2a-4484-a334-6bd814a1c64b",
+    "name": "Bali, Ray and Venkatesh",
+    "type": "temple",
+    "latitude": 13.023348965880695,
+    "longitude": 77.6330245405141,
+    "locality": "Basavanagudi"
+  },
+  {
+    "poi_id": "b92c23e3-4540-49f2-a124-9735f2546c17",
+    "name": "Rajan-Bobal",
+    "type": "temple",
+    "latitude": 12.912197128526325,
+    "longitude": 77.500178507534,
+    "locality": "Electronic City"
+  },
+  {
+    "poi_id": "7f20f661-091d-4643-9aa3-c18e0aaf8962",
+    "name": "Lad-Yogi",
+    "type": "market",
+    "latitude": 12.832732043259268,
+    "longitude": 77.5610359192952,
+    "locality": "Bellandur"
+  },
+  {
+    "poi_id": "59aa7cd5-a67c-4bd7-b9a9-a8a981f25a73",
+    "name": "Walla Ltd",
+    "type": "stadium",
+    "latitude": 12.949489356246767,
+    "longitude": 77.46770652980419,
+    "locality": "Banashankari"
+  },
+  {
+    "poi_id": "c8132025-4dac-433c-ba43-82176e77cdd3",
+    "name": "Sarna Group",
+    "type": "market",
+    "latitude": 12.84506405307882,
+    "longitude": 77.47363022853544,
+    "locality": "Sarjapur Road"
+  },
+  {
+    "poi_id": "3a4e2920-f8b1-4902-a05f-039cd98eb024",
+    "name": "Bhasin, Master and Rao",
+    "type": "hospital",
+    "latitude": 13.131668280482234,
+    "longitude": 77.40806648094232,
+    "locality": "Sarjapur Road"
+  },
+  {
+    "poi_id": "06bf1fb7-0e2b-48c9-ae66-2c46057d4e28",
+    "name": "Baral, Patla and Ratta",
+    "type": "market",
+    "latitude": 12.96630980310792,
+    "longitude": 77.71386129246771,
+    "locality": "Rajajinagar"
+  },
+  {
+    "poi_id": "32387a5a-cfb5-4f2e-8825-85fac60b846e",
+    "name": "Vaidya, Sarraf and Sangha",
+    "type": "temple",
+    "latitude": 12.911040711024905,
+    "longitude": 77.47374733277623,
+    "locality": "HSR Layout"
+  },
+  {
+    "poi_id": "611f98ef-dc3c-423a-9bae-fd9e88c06786",
+    "name": "Chawla and Sons",
+    "type": "market",
+    "latitude": 13.068206424891615,
+    "longitude": 77.47963685692777,
+    "locality": "BTM Layout"
+  },
+  {
+    "poi_id": "04a1dd66-bce8-4f22-af00-1605ae93b319",
+    "name": "Choudhury-Gara",
+    "type": "stadium",
+    "latitude": 12.974282007403794,
+    "longitude": 77.4978605014258,
+    "locality": "Bellandur"
+  },
+  {
+    "poi_id": "631a9c3c-0d59-4303-bb6f-b65b8d70600f",
+    "name": "Sachar-Nori",
+    "type": "stadium",
+    "latitude": 12.908511908404359,
+    "longitude": 77.44459282509341,
+    "locality": "Basavanagudi"
+  },
+  {
+    "poi_id": "200f8ed9-b208-4418-a092-0068c403b430",
+    "name": "Kibe Group",
+    "type": "stadium",
+    "latitude": 13.08418870983678,
+    "longitude": 77.62374200911349,
+    "locality": "KR Puram"
+  },
+  {
+    "poi_id": "8caef9ec-6d44-4723-b38a-df826e020a88",
+    "name": "Lalla Inc",
+    "type": "school",
+    "latitude": 13.103503252850393,
+    "longitude": 77.42630003361216,
+    "locality": "Marathahalli"
+  },
+  {
+    "poi_id": "1e34c29a-701d-4db0-9d96-dc532344ec54",
+    "name": "Borah-Shanker",
+    "type": "temple",
+    "latitude": 13.035552858201038,
+    "longitude": 77.44697084921422,
+    "locality": "Hebbal"
+  },
+  {
+    "poi_id": "e74f232b-fb87-4271-9d9b-72b9e5ab686c",
+    "name": "Swamy, Konda and Lad",
+    "type": "temple",
+    "latitude": 12.816437547842684,
+    "longitude": 77.62566485430654,
+    "locality": "BTM Layout"
+  },
+  {
+    "poi_id": "57d714f1-3192-429c-9a0e-d9b75e2227d4",
+    "name": "Merchant-Saxena",
+    "type": "stadium",
+    "latitude": 12.998213008058286,
+    "longitude": 77.51888121716851,
+    "locality": "Malleswaram"
+  },
+  {
+    "poi_id": "3cf8b913-0ed4-4264-ab06-8b1e6fc0174f",
+    "name": "Seshadri-Kuruvilla",
+    "type": "stadium",
+    "latitude": 13.06715321919905,
+    "longitude": 77.64778173934542,
+    "locality": "KR Puram"
+  },
+  {
+    "poi_id": "02929d3d-96af-428a-978c-b5a03b668afa",
+    "name": "Maharaj, Banik and Dey",
+    "type": "park",
+    "latitude": 12.847776054229254,
+    "longitude": 77.59509866063455,
+    "locality": "HSR Layout"
+  },
+  {
+    "poi_id": "c0a85dbd-bf5a-410f-a9be-a8c93a24ec19",
+    "name": "Vig LLC",
+    "type": "school",
+    "latitude": 12.880034762984613,
+    "longitude": 77.48960741057154,
+    "locality": "HSR Layout"
+  },
+  {
+    "poi_id": "89458e1b-cb0d-465c-8ec7-b903e369f1c0",
+    "name": "Kant LLC",
+    "type": "stadium",
+    "latitude": 13.108873286773848,
+    "longitude": 77.62778978267127,
+    "locality": "BTM Layout"
+  },
+  {
+    "poi_id": "cd409bc9-fdae-4920-8bb8-382f916ba250",
+    "name": "Patil, Manne and Mohanty",
+    "type": "hospital",
+    "latitude": 12.807042602648577,
+    "longitude": 77.44069578810252,
+    "locality": "KR Puram"
+  },
+  {
+    "poi_id": "3ffaea11-b846-4295-9f8d-b15703d06453",
+    "name": "Dutt, Mody and Soman",
+    "type": "park",
+    "latitude": 13.063454498239093,
+    "longitude": 77.58774363407801,
+    "locality": "Electronic City"
+  },
+  {
+    "poi_id": "0e80ea41-139c-42b0-8e8f-ed60d007fd07",
+    "name": "Sarraf, Menon and Dubey",
+    "type": "park",
+    "latitude": 12.96582065238005,
+    "longitude": 77.55300183676576,
+    "locality": "Yeshwanthpur"
+  },
+  {
+    "poi_id": "485835db-2e3b-4fd6-b045-32d5207073f0",
+    "name": "Dave, Din and Master",
+    "type": "temple",
+    "latitude": 12.956370255593862,
+    "longitude": 77.49375575398611,
+    "locality": "Jayanagar"
+  },
+  {
+    "poi_id": "9a37ef9d-5983-4e94-906a-8dd30b31324f",
+    "name": "Kurian-Kari",
+    "type": "hospital",
+    "latitude": 12.80248378637321,
+    "longitude": 77.61140174920882,
+    "locality": "Electronic City"
+  },
+  {
+    "poi_id": "ff82bf84-3e86-4c14-a3f2-df80a7bbc612",
+    "name": "Kakar PLC",
+    "type": "market",
+    "latitude": 13.086789380838272,
+    "longitude": 77.7049667573191,
+    "locality": "Basavanagudi"
+  },
+  {
+    "poi_id": "65d77163-9b2a-4ea6-a135-15744adb8f79",
+    "name": "Divan-Arora",
+    "type": "stadium",
+    "latitude": 12.925938715222799,
+    "longitude": 77.74961664491708,
+    "locality": "Yeshwanthpur"
+  },
+  {
+    "poi_id": "a8164d18-1f54-4e96-a857-59007a8c2c36",
+    "name": "Patla-Trivedi",
+    "type": "temple",
+    "latitude": 12.98926797095519,
+    "longitude": 77.6127169690602,
+    "locality": "Jayanagar"
+  },
+  {
+    "poi_id": "f0390686-400d-483a-938d-800613a96a92",
+    "name": "Varughese, Ravi and Sood",
+    "type": "market",
+    "latitude": 13.037055240217482,
+    "longitude": 77.54164705601521,
+    "locality": "KR Puram"
+  },
+  {
+    "poi_id": "b48b9a8c-7eb3-4efc-b4b3-4dcb8b2c65b5",
+    "name": "Garde, Padmanabhan and Dugal",
+    "type": "stadium",
+    "latitude": 13.04592035175327,
+    "longitude": 77.47882248507568,
+    "locality": "Peenya"
+  },
+  {
+    "poi_id": "e5cbbf13-5b61-4ebe-903c-9c2cbc3749b1",
+    "name": "Thaker, Murthy and Virk",
+    "type": "hospital",
+    "latitude": 13.134593020589126,
+    "longitude": 77.4899836312883,
+    "locality": "Jayanagar"
+  },
+  {
+    "poi_id": "718bf53a-3864-4f75-9bd7-b4b4ea440cc9",
+    "name": "Radhakrishnan-Sundaram",
+    "type": "stadium",
+    "latitude": 12.985968983632814,
+    "longitude": 77.56780924235242,
+    "locality": "KR Puram"
+  },
+  {
+    "poi_id": "5def5cc2-f101-4bfe-8d7e-fc8eb68ff0dc",
+    "name": "Gara, Vohra and Subramaniam",
+    "type": "hospital",
+    "latitude": 12.939901842841051,
+    "longitude": 77.52854719544825,
+    "locality": "Basavanagudi"
+  },
+  {
+    "poi_id": "de74e122-4aed-4cc8-8d28-eef5c7bbbcf8",
+    "name": "Sule Group",
+    "type": "temple",
+    "latitude": 13.133796269272098,
+    "longitude": 77.71983508291873,
+    "locality": "Basavanagudi"
+  },
+  {
+    "poi_id": "e49a3cd9-86df-42bd-be84-455fa7553468",
+    "name": "Bhattacharyya LLC",
+    "type": "park",
+    "latitude": 13.024738582258934,
+    "longitude": 77.5289034136795,
+    "locality": "HSR Layout"
+  },
+  {
+    "poi_id": "8a9a727f-b2a1-4a55-91a0-bd7c447d30b8",
+    "name": "More and Sons",
+    "type": "school",
+    "latitude": 12.904352624696795,
+    "longitude": 77.53070560690091,
+    "locality": "Basavanagudi"
+  },
+  {
+    "poi_id": "58bd19da-0dd2-4843-9ab8-873380e1cc41",
+    "name": "Doctor LLC",
+    "type": "park",
+    "latitude": 12.844262485891251,
+    "longitude": 77.5342370793519,
+    "locality": "Marathahalli"
+  },
+  {
+    "poi_id": "f358206d-b49b-41ef-a92c-6843e6824710",
+    "name": "Dar, Hegde and Parikh",
+    "type": "stadium",
+    "latitude": 13.094894075512814,
+    "longitude": 77.69281707362867,
+    "locality": "Marathahalli"
+  },
+  {
+    "poi_id": "14150ad9-479f-4a14-bc78-1b989f32fd3e",
+    "name": "Sharaf-Arora",
+    "type": "school",
+    "latitude": 12.926763560977953,
+    "longitude": 77.62777591229641,
+    "locality": "BTM Layout"
+  },
+  {
+    "poi_id": "d767a6da-231b-4c86-a97c-0ea5341c2d10",
+    "name": "Viswanathan, Kari and Jain",
+    "type": "school",
+    "latitude": 13.031164402477552,
+    "longitude": 77.61495909761162,
+    "locality": "Bellandur"
+  },
+  {
+    "poi_id": "4e107ed6-3b04-4707-855f-ecc6f9d71979",
+    "name": "Bali-Rastogi",
+    "type": "hospital",
+    "latitude": 12.964785746778064,
+    "longitude": 77.51695005783435,
+    "locality": "Whitefield"
+  },
+  {
+    "poi_id": "1f6c6a86-35f4-4fba-8d8f-2868bdedb9cc",
+    "name": "Chaudhary, Narayan and Tripathi",
+    "type": "hospital",
+    "latitude": 12.869625422928264,
+    "longitude": 77.68626646189135,
+    "locality": "Indiranagar"
+  },
+  {
+    "poi_id": "c9b67093-d0fe-42af-b993-c0415f54f332",
+    "name": "Madan PLC",
+    "type": "school",
+    "latitude": 13.010590313017163,
+    "longitude": 77.4134273514745,
+    "locality": "Ulsoor"
+  },
+  {
+    "poi_id": "3c2fdb76-fa58-4a4b-892e-9fab24579251",
+    "name": "Yogi, Buch and Bhalla",
+    "type": "park",
+    "latitude": 12.82123907413274,
+    "longitude": 77.70477901031835,
+    "locality": "Rajajinagar"
+  },
+  {
+    "poi_id": "c3a215ff-a660-404f-b0b6-052fb2c68986",
+    "name": "Virk-Kota",
+    "type": "school",
+    "latitude": 12.944669860954917,
+    "longitude": 77.57946246492787,
+    "locality": "Koramangala"
+  },
+  {
+    "poi_id": "05733d10-1d3e-4e5b-b3fa-c1507429cf81",
+    "name": "Kunda Ltd",
+    "type": "temple",
+    "latitude": 12.991315228882286,
+    "longitude": 77.5393875822022,
+    "locality": "Sarjapur Road"
+  },
+  {
+    "poi_id": "4532499e-08a4-4ec0-9619-68aa7fb866b2",
+    "name": "Konda and Sons",
+    "type": "park",
+    "latitude": 12.952616440941503,
+    "longitude": 77.57400854825119,
+    "locality": "Ulsoor"
+  },
+  {
+    "poi_id": "4ce7db3f-6259-46cc-9696-e8334728ddf6",
+    "name": "Shan, Goel and Baria",
+    "type": "school",
+    "latitude": 13.062035261337847,
+    "longitude": 77.63359543568684,
+    "locality": "Marathahalli"
+  },
+  {
+    "poi_id": "0f49d01a-15a1-4a52-b710-900bd3c1fe3f",
+    "name": "Lata, Mall and Chand",
+    "type": "park",
+    "latitude": 13.08977373409086,
+    "longitude": 77.40446789928127,
+    "locality": "BTM Layout"
+  },
+  {
+    "poi_id": "6249a586-9c18-4d49-9ac5-609e47729adf",
+    "name": "Gupta, Bhatt and Deo",
+    "type": "market",
+    "latitude": 13.069935075911612,
+    "longitude": 77.70504314976039,
+    "locality": "Electronic City"
+  },
+  {
+    "poi_id": "61f14c98-dcde-4dc8-84d3-40e87ecfbfc6",
+    "name": "Mitter, Bhat and Johal",
+    "type": "stadium",
+    "latitude": 12.813584531734131,
+    "longitude": 77.556358833859,
+    "locality": "Sarjapur Road"
+  },
+  {
+    "poi_id": "39757433-0b5e-4148-b1ab-471162794a6e",
+    "name": "Kohli PLC",
+    "type": "market",
+    "latitude": 12.867945069656091,
+    "longitude": 77.52003828189503,
+    "locality": "Sarjapur Road"
+  },
+  {
+    "poi_id": "a8f0e3e0-2f36-4832-a11b-92ab34aababd",
+    "name": "Sood, Shetty and Chaudhari",
+    "type": "park",
+    "latitude": 12.987812628242322,
+    "longitude": 77.44838594797193,
+    "locality": "Yeshwanthpur"
+  },
+  {
+    "poi_id": "a91022b8-0d60-4364-8851-64476e5b9598",
+    "name": "Behl, Nagar and Bora",
+    "type": "hospital",
+    "latitude": 13.127187714155331,
+    "longitude": 77.55381288102546,
+    "locality": "HSR Layout"
+  },
+  {
+    "poi_id": "c353b9e4-8aa2-4756-8803-ad314e1e2f3d",
+    "name": "Sridhar Inc",
+    "type": "stadium",
+    "latitude": 13.092234871268241,
+    "longitude": 77.57371296994954,
+    "locality": "Jayanagar"
+  },
+  {
+    "poi_id": "e8f94c88-06a7-4b07-afed-e7bb5909b7d6",
+    "name": "Chacko-Soni",
+    "type": "market",
+    "latitude": 13.094887077923131,
+    "longitude": 77.54127634307272,
+    "locality": "Bellandur"
+  },
+  {
+    "poi_id": "561266fb-e4a6-4f51-8125-798e9bd65690",
+    "name": "Chaudhry PLC",
+    "type": "school",
+    "latitude": 12.906122867815887,
+    "longitude": 77.63753103283942,
+    "locality": "Malleswaram"
+  },
+  {
+    "poi_id": "43355860-e84e-4da0-9402-2243ec35fb0c",
+    "name": "Kale, Sur and Mital",
+    "type": "stadium",
+    "latitude": 12.950306763977547,
+    "longitude": 77.54731378506574,
+    "locality": "BTM Layout"
+  },
+  {
+    "poi_id": "376f6fff-9749-4088-80d9-78e7cf6c2143",
+    "name": "Andra, Sani and Choudhury",
+    "type": "market",
+    "latitude": 12.964747081560578,
+    "longitude": 77.7364961522463,
+    "locality": "Bellandur"
+  },
+  {
+    "poi_id": "b9cd213b-5748-418a-8700-1750c1db480a",
+    "name": "Savant, Hayer and Shan",
+    "type": "park",
+    "latitude": 12.85508005417247,
+    "longitude": 77.60974713123827,
+    "locality": "Whitefield"
+  },
+  {
+    "poi_id": "dda1497a-6f1f-4af1-9f1c-9fd4d4490964",
+    "name": "Krishnamurthy Group",
+    "type": "market",
+    "latitude": 12.81087384558556,
+    "longitude": 77.68261727747817,
+    "locality": "Malleswaram"
+  },
+  {
+    "poi_id": "edb68854-baae-405c-8859-4dfb6d73dd1d",
+    "name": "Madan, Tailor and Goda",
+    "type": "stadium",
+    "latitude": 13.131416014811181,
+    "longitude": 77.43827456608832,
+    "locality": "Hebbal"
+  },
+  {
+    "poi_id": "ceb18cd3-0e9f-42f7-809d-557fbc441fbc",
+    "name": "Tripathi-Subramanian",
+    "type": "school",
+    "latitude": 12.884249404982228,
+    "longitude": 77.53905195253107,
+    "locality": "Peenya"
+  },
+  {
+    "poi_id": "f3d54f3e-635b-46bd-8da4-afbe1bf53332",
+    "name": "Mander, Mistry and Lalla",
+    "type": "market",
+    "latitude": 12.883982116303272,
+    "longitude": 77.51789669550651,
+    "locality": "Koramangala"
+  },
+  {
+    "poi_id": "499441c5-ad8f-4932-aeb6-87c3b8a6ebf6",
+    "name": "Kothari, Om and Maharaj",
+    "type": "temple",
+    "latitude": 12.829182668819067,
+    "longitude": 77.59931883584781,
+    "locality": "Electronic City"
+  },
+  {
+    "poi_id": "88e61f32-f01f-433c-bdab-0afadbc7945d",
+    "name": "Thakur, More and Sarraf",
+    "type": "temple",
+    "latitude": 13.124977713180323,
+    "longitude": 77.7013897320215,
+    "locality": "Sarjapur Road"
+  },
+  {
+    "poi_id": "b81ed083-9296-44b5-ac80-73b776a81a27",
+    "name": "Gopal Group",
+    "type": "park",
+    "latitude": 13.002907990228922,
+    "longitude": 77.4274183762167,
+    "locality": "Bellandur"
+  },
+  {
+    "poi_id": "4295f5c9-84d7-4929-84dd-fe54917c4f11",
+    "name": "Nagar PLC",
+    "type": "market",
+    "latitude": 13.033462899993875,
+    "longitude": 77.42540117931566,
+    "locality": "Rajajinagar"
+  },
+  {
+    "poi_id": "77a319c6-619c-4a06-b5d6-8c8f299ccd73",
+    "name": "Tandon-Gade",
+    "type": "hospital",
+    "latitude": 13.119051910542069,
+    "longitude": 77.69761119785517,
+    "locality": "Whitefield"
+  },
+  {
+    "poi_id": "3cfc7050-ecb6-47a2-be1b-e3e9bee1dc65",
+    "name": "Bhatti Group",
+    "type": "hospital",
+    "latitude": 12.920967059115277,
+    "longitude": 77.47449753011342,
+    "locality": "Malleswaram"
+  },
+  {
+    "poi_id": "47dbf6a2-03e3-4f78-a85f-da5521c268f3",
+    "name": "Modi, Chandra and Savant",
+    "type": "park",
+    "latitude": 13.01752755889833,
+    "longitude": 77.63406363905743,
+    "locality": "Electronic City"
+  },
+  {
+    "poi_id": "463e9bb3-f372-46a2-aebe-ca58ccb1dc1e",
+    "name": "Yohannan-Goswami",
+    "type": "market",
+    "latitude": 12.813579809155112,
+    "longitude": 77.59000734632629,
+    "locality": "Koramangala"
+  },
+  {
+    "poi_id": "c5767c74-3ffb-4577-bfb1-c19215e5be78",
+    "name": "Chopra and Sons",
+    "type": "temple",
+    "latitude": 12.865370384880896,
+    "longitude": 77.69151275821054,
+    "locality": "Banashankari"
+  },
+  {
+    "poi_id": "923278bf-5668-4530-8bbb-2e9a8af53d42",
+    "name": "Mohanty PLC",
+    "type": "market",
+    "latitude": 13.09093603178148,
+    "longitude": 77.44378111844274,
+    "locality": "BTM Layout"
+  },
+  {
+    "poi_id": "46368d12-9d94-413f-89e2-18a7650495b5",
+    "name": "Nagarajan-Wali",
+    "type": "stadium",
+    "latitude": 13.068368924718419,
+    "longitude": 77.44542403800291,
+    "locality": "Whitefield"
+  },
+  {
+    "poi_id": "4021a347-a8c3-4b25-84cc-a0575c9808f4",
+    "name": "Chauhan-Mital",
+    "type": "market",
+    "latitude": 12.922724942010001,
+    "longitude": 77.5948864260974,
+    "locality": "BTM Layout"
+  },
+  {
+    "poi_id": "c58536b7-cf6d-4a9d-a72d-0bf4c84d16c0",
+    "name": "Kade, Dubey and Naik",
+    "type": "school",
+    "latitude": 12.931883719720975,
+    "longitude": 77.73123252867543,
+    "locality": "Sarjapur Road"
+  },
+  {
+    "poi_id": "4e90ae4a-1fd2-4b9e-8328-a80d9ba5d58b",
+    "name": "Handa Group",
+    "type": "temple",
+    "latitude": 12.986744051743754,
+    "longitude": 77.54524921542976,
+    "locality": "Jayanagar"
+  },
+  {
+    "poi_id": "d604153c-522c-4c44-a928-a5b291855abd",
+    "name": "Dugar PLC",
+    "type": "hospital",
+    "latitude": 12.800084351639798,
+    "longitude": 77.51442973508915,
+    "locality": "HSR Layout"
+  },
+  {
+    "poi_id": "719d722f-2dc4-4065-98fb-d54243b76bf2",
+    "name": "Dugar, Nanda and Varty",
+    "type": "market",
+    "latitude": 12.88443551761331,
+    "longitude": 77.61234126311926,
+    "locality": "HSR Layout"
+  },
+  {
+    "poi_id": "024559a5-709d-4505-846b-96f976751903",
+    "name": "Saha-Luthra",
+    "type": "park",
+    "latitude": 12.872881133012875,
+    "longitude": 77.72565701019076,
+    "locality": "Ulsoor"
+  },
+  {
+    "poi_id": "5bd55037-f744-4596-8979-140877689441",
+    "name": "Lall Group",
+    "type": "hospital",
+    "latitude": 12.887669031362417,
+    "longitude": 77.69292474149562,
+    "locality": "Electronic City"
+  },
+  {
+    "poi_id": "8e7de390-d825-4478-a343-21bf7aeee7df",
+    "name": "Prabhakar-Dhillon",
+    "type": "school",
+    "latitude": 13.082067044886704,
+    "longitude": 77.74841926375663,
+    "locality": "Jayanagar"
+  },
+  {
+    "poi_id": "945eb87f-0eff-4a6b-a89a-b92d37c486a1",
+    "name": "Nath-Pandya",
+    "type": "park",
+    "latitude": 12.897885849791257,
+    "longitude": 77.40789900412084,
+    "locality": "Hebbal"
+  },
+  {
+    "poi_id": "e5a4b1b4-46c5-44a5-945d-2f7ef057712b",
+    "name": "Murty, Sengupta and Morar",
+    "type": "temple",
+    "latitude": 12.867032462717553,
+    "longitude": 77.43950035064947,
+    "locality": "Hebbal"
+  },
+  {
+    "poi_id": "f40b0779-5064-4ae6-8d2b-b00b9c3e7d79",
+    "name": "Ramaswamy-Sahni",
+    "type": "stadium",
+    "latitude": 12.976492211277561,
+    "longitude": 77.61331371717831,
+    "locality": "Bellandur"
+  },
+  {
+    "poi_id": "420cbe74-2e07-411f-b0c0-a4f610652764",
+    "name": "Raval Inc",
+    "type": "school",
+    "latitude": 13.102975762730457,
+    "longitude": 77.68720175376684,
+    "locality": "BTM Layout"
+  },
+  {
+    "poi_id": "42714418-46b1-454a-8967-82fbc4170ebd",
+    "name": "Pandya-Dey",
+    "type": "hospital",
+    "latitude": 12.884472396343126,
+    "longitude": 77.49983551980738,
+    "locality": "Hebbal"
+  },
+  {
+    "poi_id": "3a38204b-2091-4706-beb3-a98fde7a69b4",
+    "name": "Mahal-Bahl",
+    "type": "stadium",
+    "latitude": 12.82748768497748,
+    "longitude": 77.48372388081198,
+    "locality": "Rajajinagar"
+  },
+  {
+    "poi_id": "df0987e9-259b-4aea-acab-b9ada15dd7c4",
+    "name": "Jain, Joshi and Kunda",
+    "type": "school",
+    "latitude": 12.924741657547383,
+    "longitude": 77.67544152978343,
+    "locality": "Yeshwanthpur"
+  },
+  {
+    "poi_id": "3b906c08-0cb1-40ed-a7ee-2f239e31ecfd",
+    "name": "Prakash-Bajwa",
+    "type": "market",
+    "latitude": 13.061678138597742,
+    "longitude": 77.41973364884863,
+    "locality": "Ulsoor"
+  },
+  {
+    "poi_id": "2f2b5e31-09db-40a9-a793-eb811d4c5eb7",
+    "name": "Sane-Raja",
+    "type": "stadium",
+    "latitude": 12.992741690643179,
+    "longitude": 77.5292839266539,
+    "locality": "Banashankari"
+  },
+  {
+    "poi_id": "70b81530-dc4e-457f-81b8-5934af378cf9",
+    "name": "Iyengar-Kale",
+    "type": "market",
+    "latitude": 13.085877679351022,
+    "longitude": 77.57703322790732,
+    "locality": "Marathahalli"
+  },
+  {
+    "poi_id": "8dac20f9-0abd-49fd-913c-d4649473b7cd",
+    "name": "Thakur, Sarraf and Mahal",
+    "type": "market",
+    "latitude": 13.135857251663232,
+    "longitude": 77.59612203602262,
+    "locality": "KR Puram"
+  },
+  {
+    "poi_id": "f3a2dc1d-0f91-4e97-ba5b-171cb7a4c108",
+    "name": "Borde and Sons",
+    "type": "temple",
+    "latitude": 13.077431866863066,
+    "longitude": 77.65501530487748,
+    "locality": "Marathahalli"
+  },
+  {
+    "poi_id": "f9ac1a4f-4251-4974-bdf1-d205b6ecb84e",
+    "name": "Nanda Ltd",
+    "type": "hospital",
+    "latitude": 13.011331077595313,
+    "longitude": 77.52419600320073,
+    "locality": "Yeshwanthpur"
+  },
+  {
+    "poi_id": "d84d6427-adaa-42f9-8420-521e41e7ebba",
+    "name": "Singhal-Batra",
+    "type": "market",
+    "latitude": 12.972669555818333,
+    "longitude": 77.61443952063611,
+    "locality": "Sarjapur Road"
+  },
+  {
+    "poi_id": "8a5a5d57-5a74-4a53-9972-c236db847c06",
+    "name": "Ramakrishnan, Sur and Krish",
+    "type": "hospital",
+    "latitude": 12.814024180221894,
+    "longitude": 77.60488139797684,
+    "locality": "Jayanagar"
+  },
+  {
+    "poi_id": "3c1517fc-99bf-48ed-8b73-a040b7e3c615",
+    "name": "Prashad-Bhargava",
+    "type": "school",
+    "latitude": 13.144512692584915,
+    "longitude": 77.59166563522881,
+    "locality": "Marathahalli"
+  },
+  {
+    "poi_id": "81c6af40-13d5-4c4f-9bf2-235c5987e1e6",
+    "name": "Bhalla Ltd",
+    "type": "school",
+    "latitude": 12.934218392901265,
+    "longitude": 77.62416915259978,
+    "locality": "KR Puram"
+  },
+  {
+    "poi_id": "13d3c726-82d3-4948-9cf9-8855719db54f",
+    "name": "Majumdar-Yogi",
+    "type": "park",
+    "latitude": 12.853279874870903,
+    "longitude": 77.49080720987384,
+    "locality": "Rajajinagar"
+  },
+  {
+    "poi_id": "92037fc2-5366-4938-b43c-17523caaa31e",
+    "name": "Sarma-Mane",
+    "type": "stadium",
+    "latitude": 13.03334809938876,
+    "longitude": 77.42962706375462,
+    "locality": "Koramangala"
+  },
+  {
+    "poi_id": "ae5714e8-d29c-4131-9442-60d25f116839",
+    "name": "Sodhi and Sons",
+    "type": "market",
+    "latitude": 12.899500901183412,
+    "longitude": 77.44174508521391,
+    "locality": "Hebbal"
+  },
+  {
+    "poi_id": "6d2d7cb9-a452-4559-9246-d2a56a7cfd08",
+    "name": "Borah, Nair and Sachdev",
+    "type": "market",
+    "latitude": 13.005022394825867,
+    "longitude": 77.47860383392887,
+    "locality": "Whitefield"
+  },
+  {
+    "poi_id": "065262a2-24a0-4b6e-8878-383ae037e953",
+    "name": "Dora PLC",
+    "type": "hospital",
+    "latitude": 13.005368767745608,
+    "longitude": 77.57506927743297,
+    "locality": "Sarjapur Road"
+  },
+  {
+    "poi_id": "5c3bc3e5-c9c5-4567-9b62-2c0a53982922",
+    "name": "Iyengar-Chakrabarti",
+    "type": "market",
+    "latitude": 12.956005437316005,
+    "longitude": 77.6941549626911,
+    "locality": "Vijayanagar"
+  },
+  {
+    "poi_id": "e5bb7f3b-687b-43ce-b9a0-13be55c1a0d9",
+    "name": "Korpal-Narang",
+    "type": "hospital",
+    "latitude": 13.092641515440766,
+    "longitude": 77.64545266973093,
+    "locality": "Malleswaram"
+  },
+  {
+    "poi_id": "f14656f1-787e-406b-9fed-5cb7a6e80b4f",
+    "name": "Lad, Wali and Manne",
+    "type": "stadium",
+    "latitude": 12.892738471544405,
+    "longitude": 77.67616421147072,
+    "locality": "Electronic City"
+  },
+  {
+    "poi_id": "07f9ee87-9f35-495d-8b47-b715f9375fff",
+    "name": "Bains, Dey and Bir",
+    "type": "park",
+    "latitude": 12.957021407066208,
+    "longitude": 77.52284146837414,
+    "locality": "Rajajinagar"
+  },
+  {
+    "poi_id": "4a76a0ea-0b6b-4944-9e49-08c8290a42d2",
+    "name": "Murthy, Patel and Sehgal",
+    "type": "hospital",
+    "latitude": 12.988192245006841,
+    "longitude": 77.54162880957699,
+    "locality": "HSR Layout"
+  },
+  {
+    "poi_id": "975aae69-e970-4c9e-a66a-8b90ee28b2f4",
+    "name": "Kala, Gour and Nagi",
+    "type": "stadium",
+    "latitude": 13.032268652268556,
+    "longitude": 77.53778866009672,
+    "locality": "Sarjapur Road"
+  },
+  {
+    "poi_id": "362387b4-9be9-4c86-9b32-06f006897b1c",
+    "name": "Kari-Sharma",
+    "type": "park",
+    "latitude": 13.074390147676956,
+    "longitude": 77.46715561454158,
+    "locality": "Koramangala"
+  },
+  {
+    "poi_id": "b73c91ca-82c3-492b-9027-b309cedb5488",
+    "name": "Nath-Issac",
+    "type": "stadium",
+    "latitude": 12.93818254900739,
+    "longitude": 77.42142583035026,
+    "locality": "Indiranagar"
+  },
+  {
+    "poi_id": "c8914d99-8218-4bb9-bdf6-8eb0c7e75797",
+    "name": "Lad, Kumer and Bajaj",
+    "type": "temple",
+    "latitude": 13.02611643043381,
+    "longitude": 77.60682063248953,
+    "locality": "Jayanagar"
+  },
+  {
+    "poi_id": "f09fe5ab-5813-472f-b67c-b2ac94dc4c97",
+    "name": "Dar Ltd",
+    "type": "stadium",
+    "latitude": 12.852713833573983,
+    "longitude": 77.74622583919721,
+    "locality": "Basavanagudi"
+  },
+  {
+    "poi_id": "952aed00-d4aa-426d-a0fb-a34c3701a2fd",
+    "name": "Sane-Randhawa",
+    "type": "school",
+    "latitude": 13.126426835189868,
+    "longitude": 77.4583903967326,
+    "locality": "HSR Layout"
+  },
+  {
+    "poi_id": "266b4b6d-b9ec-48ff-a835-0a400858714d",
+    "name": "Bava-Wadhwa",
+    "type": "stadium",
+    "latitude": 12.934070582247351,
+    "longitude": 77.41633968696475,
+    "locality": "Marathahalli"
+  },
+  {
+    "poi_id": "a632c350-ff71-4ff4-833a-8761618f178a",
+    "name": "Vala LLC",
+    "type": "school",
+    "latitude": 13.055332497691754,
+    "longitude": 77.67283608863838,
+    "locality": "Indiranagar"
+  },
+  {
+    "poi_id": "f5687574-13ca-4eb6-b486-a2511414f827",
+    "name": "Sarkar Inc",
+    "type": "stadium",
+    "latitude": 12.807119378658763,
+    "longitude": 77.48840510233966,
+    "locality": "KR Puram"
+  },
+  {
+    "poi_id": "90be35ee-397e-441d-be08-a540ef7e1940",
+    "name": "Narain, Yohannan and Swamy",
+    "type": "school",
+    "latitude": 12.871815500016684,
+    "longitude": 77.69037533187353,
+    "locality": "HSR Layout"
+  },
+  {
+    "poi_id": "a15cf032-930e-4347-bf70-abaa80e51b3d",
+    "name": "Nath-Bhavsar",
+    "type": "school",
+    "latitude": 12.970478890513252,
+    "longitude": 77.64637783346208,
+    "locality": "BTM Layout"
+  }
+]

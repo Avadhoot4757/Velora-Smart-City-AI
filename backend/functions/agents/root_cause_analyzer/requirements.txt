@@ -1,0 +1,5 @@
+transformers
+google-cloud-aiplatform
+torch
+openai
+sentence-transformers

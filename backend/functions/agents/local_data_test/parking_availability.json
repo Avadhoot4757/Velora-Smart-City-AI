@@ -1,0 +1,4502 @@
+[
+  {
+    "parking_id": "f4b3f20e-aed0-4b57-87be-b021f63614f5",
+    "location_name": "Patil Group Parking",
+    "latitude": 13.042325622861371,
+    "longitude": 77.53071028079646,
+    "available_slots": 41,
+    "capacity": 58,
+    "timestamp": "2025-07-23 17:58:21.745906"
+  },
+  {
+    "parking_id": "8802d74a-eaef-4ec2-98ec-de2b0a802167",
+    "location_name": "Pillai, Morar and Bail Parking",
+    "latitude": 12.892421694642803,
+    "longitude": 77.48936773081714,
+    "available_slots": 52,
+    "capacity": 54,
+    "timestamp": "2025-07-23 17:46:21.745932"
+  },
+  {
+    "parking_id": "d82010d1-f4c8-43a7-9a94-7a40a32e3ab5",
+    "location_name": "Banerjee, Bhagat and Khatri Parking",
+    "latitude": 13.128673967807602,
+    "longitude": 77.4370560113746,
+    "available_slots": 31,
+    "capacity": 84,
+    "timestamp": "2025-07-23 17:56:21.745937"
+  },
+  {
+    "parking_id": "a6edcadd-eb04-4d29-9c48-c8306e8984f4",
+    "location_name": "Rajagopalan-More Parking",
+    "latitude": 13.022730998536682,
+    "longitude": 77.5242141892203,
+    "available_slots": 58,
+    "capacity": 110,
+    "timestamp": "2025-07-23 18:14:21.745940"
+  },
+  {
+    "parking_id": "453417b5-55c0-4c8e-85c8-7f41dbbd3290",
+    "location_name": "Patil, Dara and Warrior Parking",
+    "latitude": 12.91357913006137,
+    "longitude": 77.54461038102271,
+    "available_slots": 9,
+    "capacity": 75,
+    "timestamp": "2025-07-23 17:27:21.745944"
+  },
+  {
+    "parking_id": "415e3805-1928-4ae5-8d64-9aff445fdde1",
+    "location_name": "Savant Group Parking",
+    "latitude": 12.894329151802296,
+    "longitude": 77.63653802378643,
+    "available_slots": 58,
+    "capacity": 53,
+    "timestamp": "2025-07-23 17:50:21.745948"
+  },
+  {
+    "parking_id": "760b3673-6422-473e-958c-9cfda7830a8f",
+    "location_name": "Ramaswamy LLC Parking",
+    "latitude": 12.866824304775076,
+    "longitude": 77.63035593850415,
+    "available_slots": 38,
+    "capacity": 104,
+    "timestamp": "2025-07-23 17:30:21.745952"
+  },
+  {
+    "parking_id": "3de667f9-bfc4-4c0e-acdf-e0ffc5ed3982",
+    "location_name": "Chana-Keer Parking",
+    "latitude": 13.043124335612806,
+    "longitude": 77.42453784887445,
+    "available_slots": 57,
+    "capacity": 55,
+    "timestamp": "2025-07-23 17:25:21.745957"
+  },
+  {
+    "parking_id": "c53f4f7e-96b6-4287-ac00-f929bbfbf76c",
+    "location_name": "Kade-Dyal Parking",
+    "latitude": 12.876550464549275,
+    "longitude": 77.53834076040091,
+    "available_slots": 14,
+    "capacity": 57,
+    "timestamp": "2025-07-23 17:44:21.745962"
+  },
+  {
+    "parking_id": "ad7eeff7-5660-4762-851b-986031e6a645",
+    "location_name": "Nadig-Ray Parking",
+    "latitude": 13.008356143074622,
+    "longitude": 77.46362260352608,
+    "available_slots": 6,
+    "capacity": 32,
+    "timestamp": "2025-07-23 17:39:21.745966"
+  },
+  {
+    "parking_id": "5032739c-2e0f-4484-be43-541ab0b6148c",
+    "location_name": "Mahal Inc Parking",
+    "latitude": 12.892622259423876,
+    "longitude": 77.45488444686089,
+    "available_slots": 28,
+    "capacity": 104,
+    "timestamp": "2025-07-23 17:32:21.745970"
+  },
+  {
+    "parking_id": "022b7e76-ac3c-4e34-82b5-3d3d8c30563f",
+    "location_name": "Sinha-Sachar Parking",
+    "latitude": 13.031689130677854,
+    "longitude": 77.68955575240804,
+    "available_slots": 58,
+    "capacity": 67,
+    "timestamp": "2025-07-23 17:37:21.745973"
+  },
+  {
+    "parking_id": "69479974-030f-473e-9165-4cb3d4e99a65",
+    "location_name": "Sami-Chaudhry Parking",
+    "latitude": 13.085228904989188,
+    "longitude": 77.4146703258507,
+    "available_slots": 46,
+    "capacity": 90,
+    "timestamp": "2025-07-23 18:06:21.745977"
+  },
+  {
+    "parking_id": "af7ce609-1a99-4ae0-8677-b81d1902c93b",
+    "location_name": "Lal PLC Parking",
+    "latitude": 13.072308835100628,
+    "longitude": 77.54671400656575,
+    "available_slots": 2,
+    "capacity": 107,
+    "timestamp": "2025-07-23 18:10:21.745980"
+  },
+  {
+    "parking_id": "b9aa06f5-382b-4b11-99fc-faeb722944a9",
+    "location_name": "Pandey Group Parking",
+    "latitude": 13.066297965825774,
+    "longitude": 77.45887127951829,
+    "available_slots": 18,
+    "capacity": 80,
+    "timestamp": "2025-07-23 17:52:21.745983"
+  },
+  {
+    "parking_id": "08b6f61d-316d-4914-807c-43704886274c",
+    "location_name": "Narain, Setty and Bala Parking",
+    "latitude": 12.865702841992288,
+    "longitude": 77.70776557548747,
+    "available_slots": 9,
+    "capacity": 119,
+    "timestamp": "2025-07-23 18:16:21.745986"
+  },
+  {
+    "parking_id": "0e8fd00b-1789-46de-9e90-d10706113bfe",
+    "location_name": "Gour Ltd Parking",
+    "latitude": 12.830934731444582,
+    "longitude": 77.59496417964627,
+    "available_slots": 27,
+    "capacity": 77,
+    "timestamp": "2025-07-23 17:29:21.745989"
+  },
+  {
+    "parking_id": "e4db04c8-a817-4c85-9819-7749f041e4f7",
+    "location_name": "Deshpande-Aggarwal Parking",
+    "latitude": 13.044632089970586,
+    "longitude": 77.48098322273191,
+    "available_slots": 28,
+    "capacity": 50,
+    "timestamp": "2025-07-23 17:26:21.745993"
+  },
+  {
+    "parking_id": "99714b2b-f353-4e8a-b781-d306d5e0a664",
+    "location_name": "Iyengar-Mody Parking",
+    "latitude": 12.928921524828024,
+    "longitude": 77.57584955050824,
+    "available_slots": 14,
+    "capacity": 83,
+    "timestamp": "2025-07-23 18:18:21.745996"
+  },
+  {
+    "parking_id": "f5321352-b544-48e4-9f2d-a344a3596667",
+    "location_name": "Butala-Choudhry Parking",
+    "latitude": 12.951321179241171,
+    "longitude": 77.65602022589609,
+    "available_slots": 34,
+    "capacity": 85,
+    "timestamp": "2025-07-23 18:02:21.746000"
+  },
+  {
+    "parking_id": "9accb00d-db3f-44a2-961d-6acf1eb6d1f0",
+    "location_name": "Krish PLC Parking",
+    "latitude": 12.810902182477687,
+    "longitude": 77.7353413031218,
+    "available_slots": 5,
+    "capacity": 88,
+    "timestamp": "2025-07-23 18:19:21.746002"
+  },
+  {
+    "parking_id": "c38c2eaf-a809-4a77-a03e-cfef21419a14",
+    "location_name": "De, Roy and Nagarajan Parking",
+    "latitude": 12.890851757246267,
+    "longitude": 77.4771561014859,
+    "available_slots": 11,
+    "capacity": 101,
+    "timestamp": "2025-07-23 18:00:21.746006"
+  },
+  {
+    "parking_id": "cd9e84ec-90e9-4294-a5dd-2836e65fa9fa",
+    "location_name": "Sridhar-Deol Parking",
+    "latitude": 12.811786741356062,
+    "longitude": 77.71016362024527,
+    "available_slots": 46,
+    "capacity": 80,
+    "timestamp": "2025-07-23 18:04:21.746009"
+  },
+  {
+    "parking_id": "1c6057fe-e560-4cfb-af4c-fefbf79828a2",
+    "location_name": "Ghose-Narang Parking",
+    "latitude": 13.107715020410437,
+    "longitude": 77.72700643995863,
+    "available_slots": 37,
+    "capacity": 49,
+    "timestamp": "2025-07-23 17:20:21.746012"
+  },
+  {
+    "parking_id": "4b68d94d-40da-4c7d-af2b-dc13b2165b5a",
+    "location_name": "Issac-Chad Parking",
+    "latitude": 12.885188839126487,
+    "longitude": 77.72074719058622,
+    "available_slots": 12,
+    "capacity": 115,
+    "timestamp": "2025-07-23 18:14:21.746016"
+  },
+  {
+    "parking_id": "13620119-efa9-40a3-a915-1364778a669f",
+    "location_name": "Pillai-Gopal Parking",
+    "latitude": 12.995068009350554,
+    "longitude": 77.62239502490166,
+    "available_slots": 28,
+    "capacity": 88,
+    "timestamp": "2025-07-23 18:16:21.746020"
+  },
+  {
+    "parking_id": "fec88839-ec35-43de-b414-e3e1a3871e92",
+    "location_name": "Purohit-Kapur Parking",
+    "latitude": 12.813642762231396,
+    "longitude": 77.62043722905214,
+    "available_slots": 18,
+    "capacity": 100,
+    "timestamp": "2025-07-23 17:59:21.746023"
+  },
+  {
+    "parking_id": "b1356d67-6d4e-48a4-84f4-b84446c112a5",
+    "location_name": "Bajaj PLC Parking",
+    "latitude": 13.03339658695698,
+    "longitude": 77.54112372161434,
+    "available_slots": 2,
+    "capacity": 38,
+    "timestamp": "2025-07-23 18:10:21.746027"
+  },
+  {
+    "parking_id": "c5268f0f-c516-4394-aae6-787ee744aa30",
+    "location_name": "Karnik, Chakraborty and Shere Parking",
+    "latitude": 12.913059571013934,
+    "longitude": 77.66333925880633,
+    "available_slots": 7,
+    "capacity": 30,
+    "timestamp": "2025-07-23 17:24:21.746030"
+  },
+  {
+    "parking_id": "c7de01a9-2976-4b0f-81e0-cfaf52ca9ced",
+    "location_name": "Lala Ltd Parking",
+    "latitude": 13.114271715435184,
+    "longitude": 77.58595290642283,
+    "available_slots": 7,
+    "capacity": 58,
+    "timestamp": "2025-07-23 17:56:21.746033"
+  },
+  {
+    "parking_id": "0ff89e8a-c6f0-4a71-86fc-4ff212f178bd",
+    "location_name": "Bawa Group Parking",
+    "latitude": 13.110841366126913,
+    "longitude": 77.63710332492991,
+    "available_slots": 54,
+    "capacity": 92,
+    "timestamp": "2025-07-23 18:10:21.746036"
+  },
+  {
+    "parking_id": "fef72410-5528-4c45-a37a-a99961ff1d9a",
+    "location_name": "Sanghvi, Lad and Dixit Parking",
+    "latitude": 12.913851716426612,
+    "longitude": 77.54996026634709,
+    "available_slots": 57,
+    "capacity": 101,
+    "timestamp": "2025-07-23 17:34:21.746040"
+  },
+  {
+    "parking_id": "d013b7a3-f4a2-4332-821b-ecca0f6000f3",
+    "location_name": "Pillai and Sons Parking",
+    "latitude": 13.115336313491664,
+    "longitude": 77.6560237624151,
+    "available_slots": 19,
+    "capacity": 85,
+    "timestamp": "2025-07-23 18:16:21.746043"
+  },
+  {
+    "parking_id": "11c4194a-70c9-4336-ad8c-c97343c1136c",
+    "location_name": "Dalal, Atwal and Vora Parking",
+    "latitude": 13.148655185724573,
+    "longitude": 77.68856503116159,
+    "available_slots": 46,
+    "capacity": 97,
+    "timestamp": "2025-07-23 17:45:21.746046"
+  },
+  {
+    "parking_id": "335f0d14-edb7-44e4-babb-66097de17a85",
+    "location_name": "Setty-Talwar Parking",
+    "latitude": 13.088895482443382,
+    "longitude": 77.45125268981099,
+    "available_slots": 3,
+    "capacity": 64,
+    "timestamp": "2025-07-23 17:20:21.746050"
+  },
+  {
+    "parking_id": "a53e62ba-2dae-42c0-a483-b0e79c3cbe9d",
+    "location_name": "Kapur Ltd Parking",
+    "latitude": 13.09570497171433,
+    "longitude": 77.69152540045098,
+    "available_slots": 50,
+    "capacity": 32,
+    "timestamp": "2025-07-23 17:23:21.746053"
+  },
+  {
+    "parking_id": "8a66de67-24d4-45a3-9bc2-197e7df77791",
+    "location_name": "Halder LLC Parking",
+    "latitude": 12.887153057638182,
+    "longitude": 77.58910378612661,
+    "available_slots": 20,
+    "capacity": 36,
+    "timestamp": "2025-07-23 18:15:21.746056"
+  },
+  {
+    "parking_id": "9d2ce51b-37e8-4d71-ae66-a273c4ca00d7",
+    "location_name": "Talwar-Raja Parking",
+    "latitude": 13.001845839600215,
+    "longitude": 77.69563306818158,
+    "available_slots": 2,
+    "capacity": 56,
+    "timestamp": "2025-07-23 17:59:21.746060"
+  },
+  {
+    "parking_id": "710b7fa9-e9a0-420d-9b33-2e43a4b1cf6a",
+    "location_name": "Sankar and Sons Parking",
+    "latitude": 12.82353956988858,
+    "longitude": 77.55095559721936,
+    "available_slots": 44,
+    "capacity": 30,
+    "timestamp": "2025-07-23 17:42:21.746063"
+  },
+  {
+    "parking_id": "08eca4c8-1a71-464d-824d-9430b72479b7",
+    "location_name": "Kale, Mandal and Gulati Parking",
+    "latitude": 12.833221277887585,
+    "longitude": 77.53266416988407,
+    "available_slots": 7,
+    "capacity": 109,
+    "timestamp": "2025-07-23 17:41:21.746066"
+  },
+  {
+    "parking_id": "ba40662f-9243-4301-9206-8ad612aada4b",
+    "location_name": "Gole-Rege Parking",
+    "latitude": 13.149612414211653,
+    "longitude": 77.72027125638103,
+    "available_slots": 22,
+    "capacity": 100,
+    "timestamp": "2025-07-23 17:23:21.746069"
+  },
+  {
+    "parking_id": "04cdc4e8-7225-439d-86f9-03cf40271514",
+    "location_name": "Balakrishnan LLC Parking",
+    "latitude": 12.91432373729907,
+    "longitude": 77.48790924364195,
+    "available_slots": 15,
+    "capacity": 73,
+    "timestamp": "2025-07-23 17:50:21.746073"
+  },
+  {
+    "parking_id": "a7222ea2-261b-4048-bf69-5b97e581d601",
+    "location_name": "Keer-Seshadri Parking",
+    "latitude": 13.061864369217096,
+    "longitude": 77.69547431385016,
+    "available_slots": 12,
+    "capacity": 116,
+    "timestamp": "2025-07-23 17:35:21.746076"
+  },
+  {
+    "parking_id": "09af9883-eed2-4f94-8038-dc84a3ed033a",
+    "location_name": "Pingle PLC Parking",
+    "latitude": 13.082332768559386,
+    "longitude": 77.5694072003783,
+    "available_slots": 2,
+    "capacity": 70,
+    "timestamp": "2025-07-23 18:19:21.746079"
+  },
+  {
+    "parking_id": "26cfbf51-4435-4e6f-a3f6-bf77aa239ba2",
+    "location_name": "Shanker, Chada and Anne Parking",
+    "latitude": 13.10030814485253,
+    "longitude": 77.57993340489294,
+    "available_slots": 47,
+    "capacity": 104,
+    "timestamp": "2025-07-23 17:53:21.746082"
+  },
+  {
+    "parking_id": "642e3a16-e795-43fb-946f-cba3b336d143",
+    "location_name": "Deol-Naik Parking",
+    "latitude": 13.149169904090755,
+    "longitude": 77.50796389852133,
+    "available_slots": 8,
+    "capacity": 71,
+    "timestamp": "2025-07-23 17:20:21.746085"
+  },
+  {
+    "parking_id": "b525a4d9-83f0-43fd-80f2-baa4931b9fae",
+    "location_name": "Rao, Kala and Rajagopal Parking",
+    "latitude": 12.884523769839904,
+    "longitude": 77.60056477021666,
+    "available_slots": 59,
+    "capacity": 62,
+    "timestamp": "2025-07-23 17:39:21.746088"
+  },
+  {
+    "parking_id": "7a675870-7d9d-4b3b-855f-a445f09e0302",
+    "location_name": "Sampath, Kunda and Bora Parking",
+    "latitude": 12.814122789400896,
+    "longitude": 77.51382391869667,
+    "available_slots": 13,
+    "capacity": 79,
+    "timestamp": "2025-07-23 18:10:21.746092"
+  },
+  {
+    "parking_id": "ba4ef72f-d813-4af7-a766-d37b6fa179a5",
+    "location_name": "Bhargava Inc Parking",
+    "latitude": 12.943917031298106,
+    "longitude": 77.41374429498458,
+    "available_slots": 12,
+    "capacity": 92,
+    "timestamp": "2025-07-23 17:42:21.746095"
+  },
+  {
+    "parking_id": "11f20d9b-c90e-4689-8ff1-4c0ec7eb7d43",
+    "location_name": "Keer-Sinha Parking",
+    "latitude": 12.845528234440133,
+    "longitude": 77.49519951187052,
+    "available_slots": 52,
+    "capacity": 66,
+    "timestamp": "2025-07-23 17:24:21.746098"
+  },
+  {
+    "parking_id": "62699a44-00d8-4046-b9d1-19508a45e02e",
+    "location_name": "Bath-Ahluwalia Parking",
+    "latitude": 12.80784906120672,
+    "longitude": 77.40223266519232,
+    "available_slots": 56,
+    "capacity": 88,
+    "timestamp": "2025-07-23 17:53:21.746101"
+  },
+  {
+    "parking_id": "c7a2ee6f-d166-4b08-b073-6dd1f443864c",
+    "location_name": "Thaman-Raj Parking",
+    "latitude": 12.926149389499521,
+    "longitude": 77.7424241754699,
+    "available_slots": 6,
+    "capacity": 110,
+    "timestamp": "2025-07-23 18:10:21.746105"
+  },
+  {
+    "parking_id": "8909b003-9136-4530-9f07-33df7b68b323",
+    "location_name": "Rana-Prabhakar Parking",
+    "latitude": 13.074308387876334,
+    "longitude": 77.73801152343691,
+    "available_slots": 14,
+    "capacity": 77,
+    "timestamp": "2025-07-23 18:17:21.746108"
+  },
+  {
+    "parking_id": "555c4e18-5be2-424f-bdd9-9681ef5eeca5",
+    "location_name": "Barman PLC Parking",
+    "latitude": 12.998163241928776,
+    "longitude": 77.53830435411531,
+    "available_slots": 6,
+    "capacity": 34,
+    "timestamp": "2025-07-23 18:14:21.746112"
+  },
+  {
+    "parking_id": "0e213ce5-668e-410e-8d86-2412ae8cc97b",
+    "location_name": "Lad and Sons Parking",
+    "latitude": 12.909472296223624,
+    "longitude": 77.65492979901887,
+    "available_slots": 37,
+    "capacity": 77,
+    "timestamp": "2025-07-23 17:59:21.746115"
+  },
+  {
+    "parking_id": "a5a6ab3a-f575-4b77-bf3c-6d4ea1dc9cab",
+    "location_name": "Tailor, Nori and Sidhu Parking",
+    "latitude": 13.029019701922453,
+    "longitude": 77.52103213444366,
+    "available_slots": 33,
+    "capacity": 32,
+    "timestamp": "2025-07-23 18:07:21.746118"
+  },
+  {
+    "parking_id": "da74a056-88dd-44cc-9d87-edd21735f36b",
+    "location_name": "Chakraborty LLC Parking",
+    "latitude": 12.881206363108085,
+    "longitude": 77.63488260498009,
+    "available_slots": 40,
+    "capacity": 76,
+    "timestamp": "2025-07-23 18:08:21.746121"
+  },
+  {
+    "parking_id": "d757ad38-1498-40dd-970e-5af5f5ff3705",
+    "location_name": "Wali, Sant and Dhar Parking",
+    "latitude": 12.80503350612523,
+    "longitude": 77.68190051506609,
+    "available_slots": 21,
+    "capacity": 91,
+    "timestamp": "2025-07-23 17:54:21.746124"
+  },
+  {
+    "parking_id": "4a3abb3a-c439-4fcf-82ad-0d9775aaecb0",
+    "location_name": "Dada-Munshi Parking",
+    "latitude": 13.06752368525275,
+    "longitude": 77.73136468564229,
+    "available_slots": 23,
+    "capacity": 43,
+    "timestamp": "2025-07-23 17:36:21.746128"
+  },
+  {
+    "parking_id": "8df21ad5-2d36-4b7e-b3ff-b402a5d5bbf9",
+    "location_name": "Datta Group Parking",
+    "latitude": 13.018310079702404,
+    "longitude": 77.54007429654739,
+    "available_slots": 48,
+    "capacity": 92,
+    "timestamp": "2025-07-23 17:45:21.746131"
+  },
+  {
+    "parking_id": "a925de85-6258-4ce9-b7ae-ede80a119bac",
+    "location_name": "Patel-Sani Parking",
+    "latitude": 13.066805918575337,
+    "longitude": 77.67415429403462,
+    "available_slots": 36,
+    "capacity": 90,
+    "timestamp": "2025-07-23 17:34:21.746134"
+  },
+  {
+    "parking_id": "63dde733-b225-474e-8c82-c44530e59543",
+    "location_name": "Lall-Lalla Parking",
+    "latitude": 12.813628305840684,
+    "longitude": 77.49307495772125,
+    "available_slots": 43,
+    "capacity": 60,
+    "timestamp": "2025-07-23 17:21:21.746137"
+  },
+  {
+    "parking_id": "b057fcd4-a170-4e8e-9b55-2618e57e72d3",
+    "location_name": "Munshi, Sarin and Gala Parking",
+    "latitude": 13.092991869740729,
+    "longitude": 77.74661630632778,
+    "available_slots": 0,
+    "capacity": 46,
+    "timestamp": "2025-07-23 17:34:21.746140"
+  },
+  {
+    "parking_id": "e29d650a-15b9-4c20-bc8b-7f1e5bf88967",
+    "location_name": "Swamy-Dora Parking",
+    "latitude": 13.016834170012707,
+    "longitude": 77.40901935956752,
+    "available_slots": 9,
+    "capacity": 53,
+    "timestamp": "2025-07-23 17:46:21.746144"
+  },
+  {
+    "parking_id": "3080bed6-bc3e-44af-b01f-b3eaa1fe9bc6",
+    "location_name": "Sarraf, Bera and Gulati Parking",
+    "latitude": 12.997188372749424,
+    "longitude": 77.6112350822754,
+    "available_slots": 42,
+    "capacity": 52,
+    "timestamp": "2025-07-23 18:04:21.746147"
+  },
+  {
+    "parking_id": "067e4b72-316e-4645-8923-85fe23d34d22",
+    "location_name": "Bhagat and Sons Parking",
+    "latitude": 13.018614916840086,
+    "longitude": 77.63082709357796,
+    "available_slots": 15,
+    "capacity": 111,
+    "timestamp": "2025-07-23 17:38:21.746151"
+  },
+  {
+    "parking_id": "3d0d5c8f-97cb-4585-bf12-fe28b840d136",
+    "location_name": "Banik Group Parking",
+    "latitude": 13.102551636403927,
+    "longitude": 77.64081594497594,
+    "available_slots": 45,
+    "capacity": 79,
+    "timestamp": "2025-07-23 18:02:21.746154"
+  },
+  {
+    "parking_id": "caf0f442-1020-48e6-a386-44e07d3e5830",
+    "location_name": "Gade-Sibal Parking",
+    "latitude": 13.005427777295617,
+    "longitude": 77.44213565257618,
+    "available_slots": 7,
+    "capacity": 107,
+    "timestamp": "2025-07-23 18:01:21.746157"
+  },
+  {
+    "parking_id": "7feb4cf3-4ec7-4371-a4b6-5cfa8a619e64",
+    "location_name": "D’Alia-Talwar Parking",
+    "latitude": 13.003332632960863,
+    "longitude": 77.72848542421559,
+    "available_slots": 55,
+    "capacity": 108,
+    "timestamp": "2025-07-23 18:05:21.746160"
+  },
+  {
+    "parking_id": "cfd0b040-d591-4d49-b707-371288b04b77",
+    "location_name": "Sathe LLC Parking",
+    "latitude": 13.146737704973019,
+    "longitude": 77.46341414766754,
+    "available_slots": 48,
+    "capacity": 108,
+    "timestamp": "2025-07-23 18:14:21.746173"
+  },
+  {
+    "parking_id": "0433fd20-feee-43e1-b771-67007305cd23",
+    "location_name": "Sundaram, Shankar and Tailor Parking",
+    "latitude": 13.064855558474,
+    "longitude": 77.61796369113395,
+    "available_slots": 24,
+    "capacity": 99,
+    "timestamp": "2025-07-23 18:17:21.746176"
+  },
+  {
+    "parking_id": "5674b9e2-0e59-45aa-96db-638a097ba119",
+    "location_name": "Divan Inc Parking",
+    "latitude": 12.954802831907898,
+    "longitude": 77.47793662769308,
+    "available_slots": 49,
+    "capacity": 56,
+    "timestamp": "2025-07-23 17:55:21.746180"
+  },
+  {
+    "parking_id": "67cf5ce0-0af5-44a9-b894-3df8c9abda91",
+    "location_name": "Chander-Jani Parking",
+    "latitude": 13.047588950011525,
+    "longitude": 77.50752574595745,
+    "available_slots": 11,
+    "capacity": 44,
+    "timestamp": "2025-07-23 17:44:21.746183"
+  },
+  {
+    "parking_id": "a762b59c-ce9e-4929-b630-8a601e4182bb",
+    "location_name": "Gole-Ganguly Parking",
+    "latitude": 12.936230665092127,
+    "longitude": 77.59126048960485,
+    "available_slots": 24,
+    "capacity": 79,
+    "timestamp": "2025-07-23 17:45:21.746186"
+  },
+  {
+    "parking_id": "f0a9b97f-7557-428c-85eb-2b3faad53fb8",
+    "location_name": "Trivedi, Mahajan and Kala Parking",
+    "latitude": 12.880106411869225,
+    "longitude": 77.5460176964976,
+    "available_slots": 16,
+    "capacity": 65,
+    "timestamp": "2025-07-23 17:27:21.746189"
+  },
+  {
+    "parking_id": "895c167f-dfcf-438c-9ec5-6dc3ad968213",
+    "location_name": "Agrawal, Vora and Gole Parking",
+    "latitude": 13.008898156910716,
+    "longitude": 77.45607896034178,
+    "available_slots": 59,
+    "capacity": 37,
+    "timestamp": "2025-07-23 17:49:21.746192"
+  },
+  {
+    "parking_id": "3ba4f2ba-9450-4024-bdb5-8d062621d32d",
+    "location_name": "Bose-Koshy Parking",
+    "latitude": 13.124863734339883,
+    "longitude": 77.4598277408473,
+    "available_slots": 25,
+    "capacity": 108,
+    "timestamp": "2025-07-23 18:11:21.746195"
+  },
+  {
+    "parking_id": "bc4716ad-0970-409d-9270-c935ecc0baa6",
+    "location_name": "Chandra-Narasimhan Parking",
+    "latitude": 13.125198832005413,
+    "longitude": 77.54635067585698,
+    "available_slots": 45,
+    "capacity": 32,
+    "timestamp": "2025-07-23 18:17:21.746199"
+  },
+  {
+    "parking_id": "04e1502a-a761-40c7-bd28-3421243f45fe",
+    "location_name": "Mane Ltd Parking",
+    "latitude": 12.919666847336922,
+    "longitude": 77.66504904239643,
+    "available_slots": 47,
+    "capacity": 91,
+    "timestamp": "2025-07-23 17:57:21.746202"
+  },
+  {
+    "parking_id": "9e4da214-eb03-4c4e-a83c-dff978a1d988",
+    "location_name": "Dara, Ramesh and Prakash Parking",
+    "latitude": 12.984687113177594,
+    "longitude": 77.71428762639673,
+    "available_slots": 13,
+    "capacity": 76,
+    "timestamp": "2025-07-23 18:20:21.746205"
+  },
+  {
+    "parking_id": "a616dde4-b388-400a-be20-718a0bb9a8f6",
+    "location_name": "Cherian, Naik and Dube Parking",
+    "latitude": 12.874072564499452,
+    "longitude": 77.42944468179078,
+    "available_slots": 40,
+    "capacity": 106,
+    "timestamp": "2025-07-23 17:53:21.746209"
+  },
+  {
+    "parking_id": "a1f619ed-2c18-42c9-83ad-702e216aebcf",
+    "location_name": "Bumb Group Parking",
+    "latitude": 13.14847088832461,
+    "longitude": 77.53758636764579,
+    "available_slots": 35,
+    "capacity": 117,
+    "timestamp": "2025-07-23 18:15:21.746212"
+  },
+  {
+    "parking_id": "d21bf733-4ead-48d3-a797-f3ae0cca0c05",
+    "location_name": "Srinivasan, Setty and Luthra Parking",
+    "latitude": 13.143391267753778,
+    "longitude": 77.43508594730301,
+    "available_slots": 56,
+    "capacity": 90,
+    "timestamp": "2025-07-23 18:02:21.746215"
+  },
+  {
+    "parking_id": "9c794cdb-74c8-4361-98e8-24e9cb2fbbc3",
+    "location_name": "Ahluwalia, Narayan and Bassi Parking",
+    "latitude": 13.027328125397608,
+    "longitude": 77.40580736822142,
+    "available_slots": 22,
+    "capacity": 61,
+    "timestamp": "2025-07-23 17:28:21.746218"
+  },
+  {
+    "parking_id": "105f86aa-974e-4f83-95d9-a3852bb24cbc",
+    "location_name": "Sethi, Nair and Dayal Parking",
+    "latitude": 13.081544920887117,
+    "longitude": 77.63160153892538,
+    "available_slots": 42,
+    "capacity": 42,
+    "timestamp": "2025-07-23 17:38:21.746222"
+  },
+  {
+    "parking_id": "1d3ae131-1b38-4581-9145-bd7fd15b5a37",
+    "location_name": "Bava Ltd Parking",
+    "latitude": 13.050285056449296,
+    "longitude": 77.61085730468831,
+    "available_slots": 5,
+    "capacity": 30,
+    "timestamp": "2025-07-23 17:40:21.746225"
+  },
+  {
+    "parking_id": "9d99d4c5-cc96-4f43-9850-70727f44cbca",
+    "location_name": "Naidu-Bhakta Parking",
+    "latitude": 13.007605376663815,
+    "longitude": 77.45705668983521,
+    "available_slots": 46,
+    "capacity": 63,
+    "timestamp": "2025-07-23 17:42:21.746228"
+  },
+  {
+    "parking_id": "33e04a38-cdf0-4aba-9027-fbf7387770f0",
+    "location_name": "Bobal, Raj and Chanda Parking",
+    "latitude": 12.818671798946115,
+    "longitude": 77.48183449158257,
+    "available_slots": 4,
+    "capacity": 91,
+    "timestamp": "2025-07-23 17:50:21.746231"
+  },
+  {
+    "parking_id": "d5fd46d7-cfbf-4796-965c-1e3f6d1c31d6",
+    "location_name": "Kumer-Gokhale Parking",
+    "latitude": 12.959167519893432,
+    "longitude": 77.40829771377558,
+    "available_slots": 42,
+    "capacity": 108,
+    "timestamp": "2025-07-23 18:08:21.746234"
+  },
+  {
+    "parking_id": "66ea0949-adab-4b01-bce8-e033fb70fbf3",
+    "location_name": "Rastogi Inc Parking",
+    "latitude": 13.036175205758594,
+    "longitude": 77.69223152199304,
+    "available_slots": 24,
+    "capacity": 107,
+    "timestamp": "2025-07-23 18:14:21.746238"
+  },
+  {
+    "parking_id": "af206a9d-f9d1-4507-9eec-e89153010fb9",
+    "location_name": "Joshi and Sons Parking",
+    "latitude": 13.03713606485929,
+    "longitude": 77.741141708617,
+    "available_slots": 17,
+    "capacity": 111,
+    "timestamp": "2025-07-23 18:19:21.746241"
+  },
+  {
+    "parking_id": "5253b6f7-2328-451e-8bbf-1b30937292e6",
+    "location_name": "Rau-Mane Parking",
+    "latitude": 12.930592916447836,
+    "longitude": 77.44741083787815,
+    "available_slots": 12,
+    "capacity": 100,
+    "timestamp": "2025-07-23 18:07:21.746244"
+  },
+  {
+    "parking_id": "36965c84-cb08-4605-b6f6-1488d62015f0",
+    "location_name": "Dube, Dara and Misra Parking",
+    "latitude": 13.12959219533031,
+    "longitude": 77.48101632481786,
+    "available_slots": 42,
+    "capacity": 60,
+    "timestamp": "2025-07-23 18:10:21.746247"
+  },
+  {
+    "parking_id": "2c6710bd-97d4-4f61-8bab-8f53c3a4704f",
+    "location_name": "Sankaran-Mukherjee Parking",
+    "latitude": 12.858574961282875,
+    "longitude": 77.70394333338143,
+    "available_slots": 13,
+    "capacity": 93,
+    "timestamp": "2025-07-23 17:40:21.746251"
+  },
+  {
+    "parking_id": "461de017-1ee9-4d3b-902f-4f5c55e39295",
+    "location_name": "Deep, Parmer and Char Parking",
+    "latitude": 12.975125806175447,
+    "longitude": 77.72426232928467,
+    "available_slots": 27,
+    "capacity": 54,
+    "timestamp": "2025-07-23 18:02:21.746254"
+  },
+  {
+    "parking_id": "2b056167-6a47-4ddf-81ee-cd7a2428185a",
+    "location_name": "Vala-Iyengar Parking",
+    "latitude": 13.041809391792789,
+    "longitude": 77.54686958398239,
+    "available_slots": 17,
+    "capacity": 67,
+    "timestamp": "2025-07-23 18:15:21.746257"
+  },
+  {
+    "parking_id": "2a3dd769-8dac-410d-9eb3-8ef5b24070ca",
+    "location_name": "Sehgal-Rama Parking",
+    "latitude": 13.043997532062134,
+    "longitude": 77.41771786529418,
+    "available_slots": 58,
+    "capacity": 43,
+    "timestamp": "2025-07-23 17:50:21.746260"
+  },
+  {
+    "parking_id": "94fd0594-ecf9-4245-be5f-7e23704c19e2",
+    "location_name": "Loyal-Sampath Parking",
+    "latitude": 13.027023634869085,
+    "longitude": 77.4137871417925,
+    "available_slots": 59,
+    "capacity": 37,
+    "timestamp": "2025-07-23 17:26:21.746263"
+  },
+  {
+    "parking_id": "ca826730-1997-4e2e-a224-98130a6b3e3d",
+    "location_name": "Sami LLC Parking",
+    "latitude": 12.896350874708151,
+    "longitude": 77.60088245312416,
+    "available_slots": 56,
+    "capacity": 83,
+    "timestamp": "2025-07-23 18:13:21.746267"
+  },
+  {
+    "parking_id": "604a1fe2-9cc8-4772-a1d7-8199d8ed0649",
+    "location_name": "Grewal, Saraf and Sandhu Parking",
+    "latitude": 12.854672299040319,
+    "longitude": 77.53751328811262,
+    "available_slots": 27,
+    "capacity": 31,
+    "timestamp": "2025-07-23 18:01:21.746270"
+  },
+  {
+    "parking_id": "e12f3b21-0400-4940-a862-8b4ec714d549",
+    "location_name": "Baria PLC Parking",
+    "latitude": 13.02257911438935,
+    "longitude": 77.41002834965218,
+    "available_slots": 50,
+    "capacity": 110,
+    "timestamp": "2025-07-23 17:30:21.746273"
+  },
+  {
+    "parking_id": "01d96e96-01a0-4047-94aa-3ca37ca9e68f",
+    "location_name": "Sheth-Kapur Parking",
+    "latitude": 13.009755740648803,
+    "longitude": 77.6041383373094,
+    "available_slots": 55,
+    "capacity": 107,
+    "timestamp": "2025-07-23 17:55:21.746276"
+  },
+  {
+    "parking_id": "b4ecfe8d-16d1-45ca-ad17-4fdd2dee003e",
+    "location_name": "Dubey, Tandon and Vyas Parking",
+    "latitude": 12.862774603601235,
+    "longitude": 77.40395588780616,
+    "available_slots": 26,
+    "capacity": 118,
+    "timestamp": "2025-07-23 17:50:21.746279"
+  },
+  {
+    "parking_id": "48a2a172-e30c-4ee2-97fe-b937a6d977a1",
+    "location_name": "Vohra, Chacko and Mannan Parking",
+    "latitude": 13.046798700949697,
+    "longitude": 77.67558018535225,
+    "available_slots": 31,
+    "capacity": 85,
+    "timestamp": "2025-07-23 17:49:21.746283"
+  },
+  {
+    "parking_id": "cad04982-ceb2-4a32-b189-727f6a8d8a70",
+    "location_name": "Sarkar-Buch Parking",
+    "latitude": 12.959310197106781,
+    "longitude": 77.50725148794618,
+    "available_slots": 46,
+    "capacity": 113,
+    "timestamp": "2025-07-23 17:23:21.746286"
+  },
+  {
+    "parking_id": "207c0594-b13e-455f-b9db-f407c5c6ab7d",
+    "location_name": "Mital-Dixit Parking",
+    "latitude": 13.033716207061104,
+    "longitude": 77.41409030105324,
+    "available_slots": 8,
+    "capacity": 114,
+    "timestamp": "2025-07-23 17:38:21.746289"
+  },
+  {
+    "parking_id": "455cf668-a3cb-4e18-a4a1-67fd34c6ea9b",
+    "location_name": "Mital and Sons Parking",
+    "latitude": 13.093078477919553,
+    "longitude": 77.6059232773441,
+    "available_slots": 39,
+    "capacity": 90,
+    "timestamp": "2025-07-23 18:04:21.746292"
+  },
+  {
+    "parking_id": "3d3fbbec-697a-4294-b34e-ab1085e9054f",
+    "location_name": "Sane, Merchant and Batta Parking",
+    "latitude": 12.859404950001924,
+    "longitude": 77.53918954505157,
+    "available_slots": 31,
+    "capacity": 51,
+    "timestamp": "2025-07-23 18:15:21.746294"
+  },
+  {
+    "parking_id": "b11184e7-9c4c-47b3-acaf-3d2ff026a418",
+    "location_name": "Bose, Bath and Varghese Parking",
+    "latitude": 12.806700703798894,
+    "longitude": 77.740830144675,
+    "available_slots": 19,
+    "capacity": 64,
+    "timestamp": "2025-07-23 17:39:21.746298"
+  },
+  {
+    "parking_id": "b79a566b-2e14-42be-98a5-47b209a18b34",
+    "location_name": "Uppal Group Parking",
+    "latitude": 13.072685905238526,
+    "longitude": 77.5904695318763,
+    "available_slots": 27,
+    "capacity": 45,
+    "timestamp": "2025-07-23 17:46:21.746301"
+  },
+  {
+    "parking_id": "16888e84-f346-4be7-9caf-4bfe7ff8a2c6",
+    "location_name": "Chandra-Shetty Parking",
+    "latitude": 13.013394098803417,
+    "longitude": 77.49633371336296,
+    "available_slots": 32,
+    "capacity": 79,
+    "timestamp": "2025-07-23 17:56:21.746304"
+  },
+  {
+    "parking_id": "4d1b6d80-c857-4c8a-9394-6dc7a08fa1c6",
+    "location_name": "Kulkarni, Pant and Kumar Parking",
+    "latitude": 13.044873849367743,
+    "longitude": 77.6483036026219,
+    "available_slots": 3,
+    "capacity": 72,
+    "timestamp": "2025-07-23 18:09:21.746308"
+  },
+  {
+    "parking_id": "8ec61be5-012b-409e-ab35-8d15590cee67",
+    "location_name": "Bumb, Thakur and Babu Parking",
+    "latitude": 13.093354241246026,
+    "longitude": 77.49502220088995,
+    "available_slots": 45,
+    "capacity": 46,
+    "timestamp": "2025-07-23 17:57:21.746311"
+  },
+  {
+    "parking_id": "fc920c73-1e14-4e04-b120-8bde3c52d68a",
+    "location_name": "Shere and Sons Parking",
+    "latitude": 13.080983827188575,
+    "longitude": 77.71648515199264,
+    "available_slots": 56,
+    "capacity": 109,
+    "timestamp": "2025-07-23 17:24:21.746315"
+  },
+  {
+    "parking_id": "9e719a56-187e-4ca4-ba0f-01a487bb1f6d",
+    "location_name": "Ramaswamy Inc Parking",
+    "latitude": 13.13632205142509,
+    "longitude": 77.53115268967758,
+    "available_slots": 33,
+    "capacity": 87,
+    "timestamp": "2025-07-23 17:56:21.746318"
+  },
+  {
+    "parking_id": "fc9dc0d0-c2d9-4cc9-9cdb-f14e5ca59057",
+    "location_name": "Saha Ltd Parking",
+    "latitude": 12.987577277598241,
+    "longitude": 77.59245399697167,
+    "available_slots": 47,
+    "capacity": 31,
+    "timestamp": "2025-07-23 17:57:21.746321"
+  },
+  {
+    "parking_id": "76d6dc39-3822-4b0d-81ee-30e48a2b466e",
+    "location_name": "Murthy-Sha Parking",
+    "latitude": 12.970973471430968,
+    "longitude": 77.41770058633848,
+    "available_slots": 2,
+    "capacity": 33,
+    "timestamp": "2025-07-23 18:09:21.746324"
+  },
+  {
+    "parking_id": "35469cb1-a8c9-4a31-a05f-f5e6c5346e41",
+    "location_name": "Sengupta, Lanka and Om Parking",
+    "latitude": 12.940660519961757,
+    "longitude": 77.54914243328328,
+    "available_slots": 25,
+    "capacity": 114,
+    "timestamp": "2025-07-23 17:52:21.746328"
+  },
+  {
+    "parking_id": "1cd889e2-3197-4167-8d95-ee7246c3e497",
+    "location_name": "Kakar and Sons Parking",
+    "latitude": 12.853791864995472,
+    "longitude": 77.69132723888134,
+    "available_slots": 7,
+    "capacity": 68,
+    "timestamp": "2025-07-23 18:18:21.746331"
+  },
+  {
+    "parking_id": "d80213ba-af6c-4278-a633-1cc6cbeed3e3",
+    "location_name": "Lad Ltd Parking",
+    "latitude": 13.000412531508708,
+    "longitude": 77.68197708187716,
+    "available_slots": 5,
+    "capacity": 35,
+    "timestamp": "2025-07-23 18:04:21.746334"
+  },
+  {
+    "parking_id": "7f5d21f2-7973-4ea8-a957-0a2af7f47477",
+    "location_name": "Saraf PLC Parking",
+    "latitude": 12.896954383514093,
+    "longitude": 77.47851149559874,
+    "available_slots": 15,
+    "capacity": 110,
+    "timestamp": "2025-07-23 17:52:21.746337"
+  },
+  {
+    "parking_id": "ec344cf0-ab8e-47a1-a8e6-01302d238ed1",
+    "location_name": "Ahluwalia Group Parking",
+    "latitude": 13.122457629274543,
+    "longitude": 77.4791276748537,
+    "available_slots": 23,
+    "capacity": 118,
+    "timestamp": "2025-07-23 17:51:21.746340"
+  },
+  {
+    "parking_id": "5d3bc1d3-a515-4982-8dd4-c0e60b099fcc",
+    "location_name": "Arya and Sons Parking",
+    "latitude": 13.004116781496984,
+    "longitude": 77.68605685927463,
+    "available_slots": 47,
+    "capacity": 98,
+    "timestamp": "2025-07-23 18:04:21.746343"
+  },
+  {
+    "parking_id": "405a8e7e-6f46-441f-b5a7-ac9b48f9fd0d",
+    "location_name": "Sood, Sharma and Ravel Parking",
+    "latitude": 13.00749406317784,
+    "longitude": 77.72563944705927,
+    "available_slots": 38,
+    "capacity": 98,
+    "timestamp": "2025-07-23 18:06:21.746347"
+  },
+  {
+    "parking_id": "e3dc419d-ce1e-4d1f-9de7-df7b5594552b",
+    "location_name": "Sur, Mitter and Patel Parking",
+    "latitude": 12.924223631306955,
+    "longitude": 77.43337632244555,
+    "available_slots": 29,
+    "capacity": 49,
+    "timestamp": "2025-07-23 17:27:21.746350"
+  },
+  {
+    "parking_id": "1abb574e-0b16-4ac4-b401-7bb3c2270738",
+    "location_name": "Rana, Mittal and Chahal Parking",
+    "latitude": 12.818196273192198,
+    "longitude": 77.55752052379918,
+    "available_slots": 44,
+    "capacity": 93,
+    "timestamp": "2025-07-23 18:03:21.746353"
+  },
+  {
+    "parking_id": "8990779c-ecc3-4699-8d6d-cb42bd8bf603",
+    "location_name": "Deshmukh Inc Parking",
+    "latitude": 12.811110317880546,
+    "longitude": 77.51810899763748,
+    "available_slots": 12,
+    "capacity": 45,
+    "timestamp": "2025-07-23 17:44:21.746356"
+  },
+  {
+    "parking_id": "0770d18f-c916-4147-a875-ad5d2d06f862",
+    "location_name": "Choudhury Inc Parking",
+    "latitude": 12.948167300453619,
+    "longitude": 77.7047409594101,
+    "available_slots": 4,
+    "capacity": 80,
+    "timestamp": "2025-07-23 18:17:21.746359"
+  },
+  {
+    "parking_id": "1223d906-1db6-4101-83d0-bae77c2cfbcf",
+    "location_name": "Guha, Bala and Kadakia Parking",
+    "latitude": 12.829597882334033,
+    "longitude": 77.42923372013801,
+    "available_slots": 24,
+    "capacity": 66,
+    "timestamp": "2025-07-23 18:11:21.746362"
+  },
+  {
+    "parking_id": "71dfc82c-b8ad-4f54-bc3c-9c08e523e8a9",
+    "location_name": "Dhillon-Khurana Parking",
+    "latitude": 13.012396434439049,
+    "longitude": 77.47389407989532,
+    "available_slots": 19,
+    "capacity": 102,
+    "timestamp": "2025-07-23 17:32:21.746366"
+  },
+  {
+    "parking_id": "6b47ed61-5372-4bed-946b-448297bb9fbf",
+    "location_name": "Yohannan-Halder Parking",
+    "latitude": 13.10834055197388,
+    "longitude": 77.66336391815527,
+    "available_slots": 53,
+    "capacity": 98,
+    "timestamp": "2025-07-23 17:36:21.746369"
+  },
+  {
+    "parking_id": "e5fbc1c0-ad46-4549-bf41-13cb32e15f17",
+    "location_name": "Mitra Group Parking",
+    "latitude": 13.109020185781553,
+    "longitude": 77.41795284714343,
+    "available_slots": 17,
+    "capacity": 71,
+    "timestamp": "2025-07-23 17:38:21.746372"
+  },
+  {
+    "parking_id": "1c31aaf3-c76a-4c88-bae5-6c8d536016e7",
+    "location_name": "Som Group Parking",
+    "latitude": 13.030665893546281,
+    "longitude": 77.57238738325,
+    "available_slots": 46,
+    "capacity": 86,
+    "timestamp": "2025-07-23 18:14:21.746375"
+  },
+  {
+    "parking_id": "3cb3c9fa-191a-4b3d-ba4f-ece7537d66c6",
+    "location_name": "Dada and Sons Parking",
+    "latitude": 12.873931141015527,
+    "longitude": 77.55473746213791,
+    "available_slots": 17,
+    "capacity": 95,
+    "timestamp": "2025-07-23 18:15:21.746378"
+  },
+  {
+    "parking_id": "33304e33-deb0-4e7d-a99f-db02bcdd0b48",
+    "location_name": "Saxena Group Parking",
+    "latitude": 13.102048890975606,
+    "longitude": 77.51704041264607,
+    "available_slots": 1,
+    "capacity": 38,
+    "timestamp": "2025-07-23 17:38:21.746382"
+  },
+  {
+    "parking_id": "12d2d7e6-387d-4add-a430-81aa6022e3ff",
+    "location_name": "Bahri-Sengupta Parking",
+    "latitude": 13.110132702359623,
+    "longitude": 77.53810031036163,
+    "available_slots": 9,
+    "capacity": 115,
+    "timestamp": "2025-07-23 17:58:21.746385"
+  },
+  {
+    "parking_id": "0de92f1b-7c02-44e5-95c8-9b2d7892d145",
+    "location_name": "Kibe, Jaggi and Menon Parking",
+    "latitude": 12.868828754733537,
+    "longitude": 77.58547920542559,
+    "available_slots": 54,
+    "capacity": 93,
+    "timestamp": "2025-07-23 17:29:21.746388"
+  },
+  {
+    "parking_id": "3756999b-251a-4f0e-af94-da50e3f713a7",
+    "location_name": "Ramanathan, Behl and Nath Parking",
+    "latitude": 13.058099130019738,
+    "longitude": 77.45647857543594,
+    "available_slots": 44,
+    "capacity": 115,
+    "timestamp": "2025-07-23 17:46:21.746391"
+  },
+  {
+    "parking_id": "2d9563ed-747a-4829-9c03-d65ced8a028c",
+    "location_name": "Chauhan Ltd Parking",
+    "latitude": 12.900281842124494,
+    "longitude": 77.60019855739927,
+    "available_slots": 49,
+    "capacity": 51,
+    "timestamp": "2025-07-23 17:54:21.746394"
+  },
+  {
+    "parking_id": "752e7613-22eb-49b1-9f9c-b7e06328143e",
+    "location_name": "Sankaran, Sagar and Tandon Parking",
+    "latitude": 13.080924109323526,
+    "longitude": 77.68190131525499,
+    "available_slots": 46,
+    "capacity": 63,
+    "timestamp": "2025-07-23 17:32:21.746398"
+  },
+  {
+    "parking_id": "5bcc90fc-a1cc-42d8-b1b4-2308b8463413",
+    "location_name": "Mannan, Bansal and Sura Parking",
+    "latitude": 13.149033264966262,
+    "longitude": 77.66605632542655,
+    "available_slots": 11,
+    "capacity": 84,
+    "timestamp": "2025-07-23 17:43:21.746401"
+  },
+  {
+    "parking_id": "55fcf991-33c4-47d5-850a-b36df9be07f3",
+    "location_name": "Sunder-Varghese Parking",
+    "latitude": 12.810509101865287,
+    "longitude": 77.45386496664283,
+    "available_slots": 46,
+    "capacity": 58,
+    "timestamp": "2025-07-23 18:06:21.746405"
+  },
+  {
+    "parking_id": "91941591-b134-458f-8837-59f82090f35e",
+    "location_name": "Sura, Kata and Bhat Parking",
+    "latitude": 13.114078053026827,
+    "longitude": 77.45223731440952,
+    "available_slots": 12,
+    "capacity": 67,
+    "timestamp": "2025-07-23 17:45:21.746408"
+  },
+  {
+    "parking_id": "1c71a821-22f1-432b-87d5-ac920f4555da",
+    "location_name": "Bahl, Sami and Mutti Parking",
+    "latitude": 13.017920686759531,
+    "longitude": 77.49386102871073,
+    "available_slots": 49,
+    "capacity": 47,
+    "timestamp": "2025-07-23 18:17:21.746411"
+  },
+  {
+    "parking_id": "6b10b786-7565-4daf-b72d-416dda05d2fc",
+    "location_name": "Bhatt, Loyal and Sahni Parking",
+    "latitude": 13.140683916707689,
+    "longitude": 77.52637615421936,
+    "available_slots": 46,
+    "capacity": 100,
+    "timestamp": "2025-07-23 17:27:21.746414"
+  },
+  {
+    "parking_id": "384852b6-57f4-48e0-82a5-9d7b2bd3d971",
+    "location_name": "Dada-Talwar Parking",
+    "latitude": 12.96275333113425,
+    "longitude": 77.54295945349297,
+    "available_slots": 56,
+    "capacity": 94,
+    "timestamp": "2025-07-23 17:56:21.746416"
+  },
+  {
+    "parking_id": "2823442c-9a87-4357-8b8f-b475e2ebb2d2",
+    "location_name": "Palan, Sen and Sarin Parking",
+    "latitude": 13.096585775699982,
+    "longitude": 77.63789402589167,
+    "available_slots": 54,
+    "capacity": 30,
+    "timestamp": "2025-07-23 17:28:21.746419"
+  },
+  {
+    "parking_id": "f3e816b5-a353-4a98-8b68-a34eca1fbff2",
+    "location_name": "Edwin LLC Parking",
+    "latitude": 12.821837924009397,
+    "longitude": 77.41983815125805,
+    "available_slots": 10,
+    "capacity": 117,
+    "timestamp": "2025-07-23 17:47:21.746423"
+  },
+  {
+    "parking_id": "93ffc45f-2b80-444a-a7d3-f7709c8d1ade",
+    "location_name": "Handa, Singh and Padmanabhan Parking",
+    "latitude": 12.917347667527403,
+    "longitude": 77.41213544647913,
+    "available_slots": 18,
+    "capacity": 33,
+    "timestamp": "2025-07-23 17:54:21.746426"
+  },
+  {
+    "parking_id": "3acdc514-dae1-4b28-8d81-64b0f85ad287",
+    "location_name": "Kata-Tripathi Parking",
+    "latitude": 12.823455788212923,
+    "longitude": 77.53716869703037,
+    "available_slots": 34,
+    "capacity": 33,
+    "timestamp": "2025-07-23 17:46:21.746430"
+  },
+  {
+    "parking_id": "8592a38f-db62-41f7-a964-eb1616232e87",
+    "location_name": "Nori PLC Parking",
+    "latitude": 13.141370096717676,
+    "longitude": 77.64400729224829,
+    "available_slots": 38,
+    "capacity": 111,
+    "timestamp": "2025-07-23 17:37:21.746433"
+  },
+  {
+    "parking_id": "3768c85b-fee3-4baa-9cb9-13b47d3d16ca",
+    "location_name": "Sidhu, Deep and Memon Parking",
+    "latitude": 13.085940867545144,
+    "longitude": 77.46770237003477,
+    "available_slots": 52,
+    "capacity": 56,
+    "timestamp": "2025-07-23 17:25:21.746436"
+  },
+  {
+    "parking_id": "7677a166-d644-49ae-b936-931e9771d80b",
+    "location_name": "Ramakrishnan, Saha and Parsa Parking",
+    "latitude": 13.09839159743609,
+    "longitude": 77.62452656843969,
+    "available_slots": 25,
+    "capacity": 72,
+    "timestamp": "2025-07-23 17:21:21.746439"
+  },
+  {
+    "parking_id": "6d98a416-bae2-4198-83b6-86574777be21",
+    "location_name": "Edwin-Johal Parking",
+    "latitude": 13.128287831001863,
+    "longitude": 77.49093984827911,
+    "available_slots": 45,
+    "capacity": 88,
+    "timestamp": "2025-07-23 17:50:21.746442"
+  },
+  {
+    "parking_id": "3f71e1ae-3f24-4a6a-9f62-9d0cbc7637a0",
+    "location_name": "Chadha-Subramanian Parking",
+    "latitude": 12.829786220141926,
+    "longitude": 77.71013013808474,
+    "available_slots": 13,
+    "capacity": 61,
+    "timestamp": "2025-07-23 17:44:21.746445"
+  },
+  {
+    "parking_id": "38efa3bc-9457-4388-af2a-ec8a53c9aacb",
+    "location_name": "Ghose and Sons Parking",
+    "latitude": 12.934959157379668,
+    "longitude": 77.71349148049332,
+    "available_slots": 53,
+    "capacity": 62,
+    "timestamp": "2025-07-23 17:24:21.746448"
+  },
+  {
+    "parking_id": "f23d9820-977e-4877-ad6f-4ee3e44e7cd1",
+    "location_name": "Swamy Inc Parking",
+    "latitude": 12.824862211165401,
+    "longitude": 77.50405052149847,
+    "available_slots": 44,
+    "capacity": 57,
+    "timestamp": "2025-07-23 18:05:21.746451"
+  },
+  {
+    "parking_id": "e5f3d466-92de-4df8-a9eb-d4462622e0d6",
+    "location_name": "Tak-Mitter Parking",
+    "latitude": 12.873777585542511,
+    "longitude": 77.48049781388714,
+    "available_slots": 43,
+    "capacity": 84,
+    "timestamp": "2025-07-23 17:50:21.746455"
+  },
+  {
+    "parking_id": "0b5246f3-faed-4777-aaf3-1899014cc3a1",
+    "location_name": "Kadakia PLC Parking",
+    "latitude": 12.880278021963186,
+    "longitude": 77.54395639022319,
+    "available_slots": 23,
+    "capacity": 89,
+    "timestamp": "2025-07-23 18:01:21.746458"
+  },
+  {
+    "parking_id": "bbc51a50-787c-40d3-bdc4-19b20a414919",
+    "location_name": "Badami LLC Parking",
+    "latitude": 12.964187523866652,
+    "longitude": 77.48418605481305,
+    "available_slots": 40,
+    "capacity": 99,
+    "timestamp": "2025-07-23 18:15:21.746461"
+  },
+  {
+    "parking_id": "6cfa855f-089b-4b49-8114-5252c4c36368",
+    "location_name": "Parikh-Dutt Parking",
+    "latitude": 12.893996758608775,
+    "longitude": 77.6353343451521,
+    "available_slots": 0,
+    "capacity": 91,
+    "timestamp": "2025-07-23 17:55:21.746464"
+  },
+  {
+    "parking_id": "cf4994e0-7ab1-4533-a4f2-2a7c87f797fa",
+    "location_name": "Thakur Inc Parking",
+    "latitude": 12.835342337386217,
+    "longitude": 77.6891226395919,
+    "available_slots": 50,
+    "capacity": 109,
+    "timestamp": "2025-07-23 17:23:21.746467"
+  },
+  {
+    "parking_id": "191679d3-d240-45ea-b257-e257cc4ae02c",
+    "location_name": "Nazareth Group Parking",
+    "latitude": 12.858621881182938,
+    "longitude": 77.63558224581892,
+    "available_slots": 42,
+    "capacity": 63,
+    "timestamp": "2025-07-23 17:26:21.746470"
+  },
+  {
+    "parking_id": "15457c64-3d92-4952-becb-002e73d3328c",
+    "location_name": "Karan Inc Parking",
+    "latitude": 12.851546447243232,
+    "longitude": 77.68852265653727,
+    "available_slots": 54,
+    "capacity": 116,
+    "timestamp": "2025-07-23 17:35:21.746473"
+  },
+  {
+    "parking_id": "b172ec53-032e-4730-80c9-c3ed8ef90060",
+    "location_name": "Kapur, Sur and Kuruvilla Parking",
+    "latitude": 13.140576879269306,
+    "longitude": 77.53894725677262,
+    "available_slots": 21,
+    "capacity": 117,
+    "timestamp": "2025-07-23 18:18:21.746476"
+  },
+  {
+    "parking_id": "37cf45f6-f32e-4e3c-a818-1f5bbb56588b",
+    "location_name": "Pant-Batra Parking",
+    "latitude": 13.065752377421466,
+    "longitude": 77.45471093974811,
+    "available_slots": 22,
+    "capacity": 85,
+    "timestamp": "2025-07-23 17:48:21.746479"
+  },
+  {
+    "parking_id": "3d333164-4bb8-4be2-9bc0-798821f969e9",
+    "location_name": "Loke, Dora and Varma Parking",
+    "latitude": 13.138716512844347,
+    "longitude": 77.65828283158916,
+    "available_slots": 55,
+    "capacity": 42,
+    "timestamp": "2025-07-23 17:44:21.746482"
+  },
+  {
+    "parking_id": "0413ffc7-173a-4c96-bfbb-4bcca5cbbf6f",
+    "location_name": "Chawla, Bedi and Sarma Parking",
+    "latitude": 12.953909170277768,
+    "longitude": 77.52616607679954,
+    "available_slots": 53,
+    "capacity": 85,
+    "timestamp": "2025-07-23 17:23:21.746486"
+  },
+  {
+    "parking_id": "296be903-4e09-4596-ab45-eaf07ad30e2a",
+    "location_name": "Choudhry-Cherian Parking",
+    "latitude": 12.89742896858193,
+    "longitude": 77.6349447888302,
+    "available_slots": 18,
+    "capacity": 47,
+    "timestamp": "2025-07-23 17:47:21.746489"
+  },
+  {
+    "parking_id": "920479ce-dba0-489e-b593-8f5ab40bc353",
+    "location_name": "Chaudry, Barman and Tripathi Parking",
+    "latitude": 13.079402619023217,
+    "longitude": 77.49472537969362,
+    "available_slots": 17,
+    "capacity": 83,
+    "timestamp": "2025-07-23 17:29:21.746492"
+  },
+  {
+    "parking_id": "f9f6b641-063f-461e-956a-bfdfbf4e2e46",
+    "location_name": "Ganesh Ltd Parking",
+    "latitude": 12.914188871314401,
+    "longitude": 77.42843037218235,
+    "available_slots": 11,
+    "capacity": 106,
+    "timestamp": "2025-07-23 17:44:21.746495"
+  },
+  {
+    "parking_id": "237cdb55-c596-4ab7-b6b9-04727470724c",
+    "location_name": "Jha LLC Parking",
+    "latitude": 12.904784180796872,
+    "longitude": 77.74740362842071,
+    "available_slots": 54,
+    "capacity": 72,
+    "timestamp": "2025-07-23 17:37:21.746498"
+  },
+  {
+    "parking_id": "2f589a81-67c5-429b-b400-a5e1dfcb821b",
+    "location_name": "Master Ltd Parking",
+    "latitude": 12.881377097272741,
+    "longitude": 77.45467052777572,
+    "available_slots": 27,
+    "capacity": 68,
+    "timestamp": "2025-07-23 17:41:21.746501"
+  },
+  {
+    "parking_id": "a076aed6-5ed3-400e-9f1e-04cbca342e3c",
+    "location_name": "Toor-Tara Parking",
+    "latitude": 12.845387642378483,
+    "longitude": 77.74594734788722,
+    "available_slots": 27,
+    "capacity": 90,
+    "timestamp": "2025-07-23 18:11:21.746505"
+  },
+  {
+    "parking_id": "00595e29-a226-475b-b432-ece976dc16b5",
+    "location_name": "Chaudhary, Dube and Patla Parking",
+    "latitude": 12.889762071355868,
+    "longitude": 77.74204797639825,
+    "available_slots": 59,
+    "capacity": 71,
+    "timestamp": "2025-07-23 18:13:21.746508"
+  },
+  {
+    "parking_id": "6287729e-1219-4d94-a097-0ff4dc420980",
+    "location_name": "Devi-Das Parking",
+    "latitude": 12.924361911965862,
+    "longitude": 77.67783633636782,
+    "available_slots": 58,
+    "capacity": 110,
+    "timestamp": "2025-07-23 17:20:21.746511"
+  },
+  {
+    "parking_id": "87ea651b-5539-462b-b0d5-08a9e4b81e89",
+    "location_name": "Sarna Group Parking",
+    "latitude": 13.035897972851005,
+    "longitude": 77.6307980367287,
+    "available_slots": 32,
+    "capacity": 108,
+    "timestamp": "2025-07-23 17:32:21.746514"
+  },
+  {
+    "parking_id": "c0bd44c0-6d07-4e0b-8bed-523c085ff4d1",
+    "location_name": "Korpal Group Parking",
+    "latitude": 12.821897694776808,
+    "longitude": 77.60223246758788,
+    "available_slots": 18,
+    "capacity": 47,
+    "timestamp": "2025-07-23 17:52:21.746517"
+  },
+  {
+    "parking_id": "9ccce19f-f233-4074-b2b3-bb394510eaad",
+    "location_name": "Mangat-Tiwari Parking",
+    "latitude": 12.873677428882871,
+    "longitude": 77.70313554088224,
+    "available_slots": 27,
+    "capacity": 52,
+    "timestamp": "2025-07-23 18:09:21.746521"
+  },
+  {
+    "parking_id": "35078c5d-cb62-45b6-9342-3b4f8add06f9",
+    "location_name": "Chada LLC Parking",
+    "latitude": 13.083158274102088,
+    "longitude": 77.50130383256682,
+    "available_slots": 58,
+    "capacity": 83,
+    "timestamp": "2025-07-23 17:20:21.746524"
+  },
+  {
+    "parking_id": "9ed62705-14b9-4b4d-af46-37b3c9a62c37",
+    "location_name": "Sachdeva-Patel Parking",
+    "latitude": 12.851422673254321,
+    "longitude": 77.56368842436972,
+    "available_slots": 51,
+    "capacity": 59,
+    "timestamp": "2025-07-23 18:10:21.746527"
+  },
+  {
+    "parking_id": "eea77ea8-bc5a-4195-95f0-1600e17f348d",
+    "location_name": "Korpal, Doshi and Wagle Parking",
+    "latitude": 12.919925801282883,
+    "longitude": 77.61678648927828,
+    "available_slots": 48,
+    "capacity": 87,
+    "timestamp": "2025-07-23 18:07:21.746530"
+  },
+  {
+    "parking_id": "e8f60796-f200-432c-83c5-c5100e082343",
+    "location_name": "Kari-Devi Parking",
+    "latitude": 13.102630622650349,
+    "longitude": 77.54391666655432,
+    "available_slots": 36,
+    "capacity": 97,
+    "timestamp": "2025-07-23 17:29:21.746533"
+  },
+  {
+    "parking_id": "0d333496-e352-4539-9d2e-7b90acb60e81",
+    "location_name": "Sachdev-Rout Parking",
+    "latitude": 12.854223858900205,
+    "longitude": 77.5496202589316,
+    "available_slots": 25,
+    "capacity": 96,
+    "timestamp": "2025-07-23 18:08:21.746536"
+  },
+  {
+    "parking_id": "77215daa-5d97-4cdc-a209-56a81c684db0",
+    "location_name": "Varty-Pathak Parking",
+    "latitude": 12.828957892466367,
+    "longitude": 77.51559963362574,
+    "available_slots": 34,
+    "capacity": 100,
+    "timestamp": "2025-07-23 18:12:21.746539"
+  },
+  {
+    "parking_id": "5dce8d9b-5d96-420d-8a76-bd919e7f87a7",
+    "location_name": "Savant and Sons Parking",
+    "latitude": 12.969588298278005,
+    "longitude": 77.59748113583959,
+    "available_slots": 33,
+    "capacity": 47,
+    "timestamp": "2025-07-23 18:18:21.746542"
+  },
+  {
+    "parking_id": "b47299b6-8f0c-4422-a5ee-a4a22cde531f",
+    "location_name": "Varughese Inc Parking",
+    "latitude": 12.905846828947489,
+    "longitude": 77.69770108480529,
+    "available_slots": 34,
+    "capacity": 36,
+    "timestamp": "2025-07-23 17:53:21.746545"
+  },
+  {
+    "parking_id": "c6090b78-b597-4e43-8f8d-d99511274cb2",
+    "location_name": "Nigam LLC Parking",
+    "latitude": 12.99719292756935,
+    "longitude": 77.47053493230221,
+    "available_slots": 39,
+    "capacity": 69,
+    "timestamp": "2025-07-23 18:15:21.746549"
+  },
+  {
+    "parking_id": "55bdf39e-fb33-4e61-a36e-900734680b6e",
+    "location_name": "Gala-Saraf Parking",
+    "latitude": 13.081331711669216,
+    "longitude": 77.7270515635637,
+    "available_slots": 15,
+    "capacity": 99,
+    "timestamp": "2025-07-23 17:37:21.746552"
+  },
+  {
+    "parking_id": "a6276167-1d12-4daf-8a25-71593d170879",
+    "location_name": "Ramaswamy Inc Parking",
+    "latitude": 12.848001970853462,
+    "longitude": 77.64118067881188,
+    "available_slots": 37,
+    "capacity": 115,
+    "timestamp": "2025-07-23 17:53:21.746555"
+  },
+  {
+    "parking_id": "c0953c13-f06b-4fa4-bcc4-f0877a7e8c31",
+    "location_name": "Dora, Bhardwaj and Venkatesh Parking",
+    "latitude": 13.003244679594001,
+    "longitude": 77.68814562443801,
+    "available_slots": 12,
+    "capacity": 94,
+    "timestamp": "2025-07-23 18:08:21.746558"
+  },
+  {
+    "parking_id": "b3ed8f33-f587-426d-9f02-774d9482b42f",
+    "location_name": "Saini-Ratti Parking",
+    "latitude": 12.976928066136454,
+    "longitude": 77.5946667424205,
+    "available_slots": 22,
+    "capacity": 97,
+    "timestamp": "2025-07-23 17:28:21.746561"
+  },
+  {
+    "parking_id": "c2c96b28-beb9-4a4a-80cf-fa7335b50ec5",
+    "location_name": "Modi, Murthy and Padmanabhan Parking",
+    "latitude": 12.85042757510462,
+    "longitude": 77.67283084549842,
+    "available_slots": 59,
+    "capacity": 78,
+    "timestamp": "2025-07-23 17:40:21.746564"
+  },
+  {
+    "parking_id": "e5def08e-5a4b-4fdb-9209-eaab39b6410e",
+    "location_name": "Mammen PLC Parking",
+    "latitude": 13.018399469935144,
+    "longitude": 77.40567013906882,
+    "available_slots": 53,
+    "capacity": 81,
+    "timestamp": "2025-07-23 18:11:21.746567"
+  },
+  {
+    "parking_id": "6c451540-ae23-46f3-80e9-b30044719067",
+    "location_name": "Din, Raval and Sehgal Parking",
+    "latitude": 12.89577414625127,
+    "longitude": 77.68643314867283,
+    "available_slots": 21,
+    "capacity": 58,
+    "timestamp": "2025-07-23 17:27:21.746570"
+  },
+  {
+    "parking_id": "5f70b951-1038-4676-8df1-172a46f2ff38",
+    "location_name": "Jha, Sathe and Pai Parking",
+    "latitude": 12.970742011490405,
+    "longitude": 77.41404860067988,
+    "available_slots": 15,
+    "capacity": 50,
+    "timestamp": "2025-07-23 17:42:21.746573"
+  },
+  {
+    "parking_id": "805f0892-7c79-4dd9-b3d1-2f3e5860c4f4",
+    "location_name": "Ravel, Hora and Mitra Parking",
+    "latitude": 12.828795313496972,
+    "longitude": 77.711469681727,
+    "available_slots": 27,
+    "capacity": 119,
+    "timestamp": "2025-07-23 18:04:21.746577"
+  },
+  {
+    "parking_id": "785ca87b-1f69-42b1-945e-087f86d4aba8",
+    "location_name": "Bansal PLC Parking",
+    "latitude": 12.960854420024768,
+    "longitude": 77.74718696153353,
+    "available_slots": 47,
+    "capacity": 107,
+    "timestamp": "2025-07-23 18:00:21.746580"
+  },
+  {
+    "parking_id": "d34c0a09-ada5-4cb2-882a-e449b5b71c24",
+    "location_name": "Ramakrishnan-Date Parking",
+    "latitude": 12.907262213814988,
+    "longitude": 77.50292361176187,
+    "available_slots": 34,
+    "capacity": 38,
+    "timestamp": "2025-07-23 17:22:21.746583"
+  },
+  {
+    "parking_id": "73b4daf3-4ad1-4634-a642-6f0b8869372a",
+    "location_name": "Zachariah, Mander and Kala Parking",
+    "latitude": 13.087833423914875,
+    "longitude": 77.47361149470004,
+    "available_slots": 59,
+    "capacity": 76,
+    "timestamp": "2025-07-23 17:34:21.746586"
+  },
+  {
+    "parking_id": "ac5dd02d-ccc6-4ffd-9e3e-ce609ef6a99f",
+    "location_name": "Vaidya PLC Parking",
+    "latitude": 12.81994255444908,
+    "longitude": 77.66787717735032,
+    "available_slots": 44,
+    "capacity": 105,
+    "timestamp": "2025-07-23 17:22:21.746589"
+  },
+  {
+    "parking_id": "fa63bde0-cf0d-4f06-b177-116df2037633",
+    "location_name": "Verma-Oak Parking",
+    "latitude": 12.946512546221417,
+    "longitude": 77.4885592193221,
+    "available_slots": 45,
+    "capacity": 71,
+    "timestamp": "2025-07-23 17:29:21.746593"
+  },
+  {
+    "parking_id": "3037f0b7-10cc-485f-a214-d458f0dd3de0",
+    "location_name": "Dutta, Bajaj and Bala Parking",
+    "latitude": 12.960450998446003,
+    "longitude": 77.70294683411028,
+    "available_slots": 7,
+    "capacity": 80,
+    "timestamp": "2025-07-23 18:16:21.746596"
+  },
+  {
+    "parking_id": "1659ddcc-7537-4d14-a24c-724be453c4c2",
+    "location_name": "Kuruvilla, Khurana and Modi Parking",
+    "latitude": 13.053752126704692,
+    "longitude": 77.43599490725512,
+    "available_slots": 43,
+    "capacity": 85,
+    "timestamp": "2025-07-23 18:15:21.752000"
+  },
+  {
+    "parking_id": "2dc69c90-e5df-47af-a403-c4bc14860c2d",
+    "location_name": "Sami, Tiwari and Choudhry Parking",
+    "latitude": 13.001000651281574,
+    "longitude": 77.44408431873278,
+    "available_slots": 54,
+    "capacity": 80,
+    "timestamp": "2025-07-23 17:56:21.752023"
+  },
+  {
+    "parking_id": "13b2d1ab-f4e5-40aa-b550-4c5249d2cac0",
+    "location_name": "Bhasin, Pradhan and Lad Parking",
+    "latitude": 13.033524318017964,
+    "longitude": 77.74270304428522,
+    "available_slots": 54,
+    "capacity": 99,
+    "timestamp": "2025-07-23 17:45:21.752028"
+  },
+  {
+    "parking_id": "1cada48a-46a4-4ee1-aa2e-1e6a1bff56f4",
+    "location_name": "Tripathi, Pandya and Dasgupta Parking",
+    "latitude": 13.071967249978115,
+    "longitude": 77.6358436143945,
+    "available_slots": 21,
+    "capacity": 49,
+    "timestamp": "2025-07-23 17:55:21.752031"
+  },
+  {
+    "parking_id": "26870a98-7f0f-4662-a5e0-50f6b273f93c",
+    "location_name": "Dash Group Parking",
+    "latitude": 13.101771040780367,
+    "longitude": 77.69641052855013,
+    "available_slots": 20,
+    "capacity": 117,
+    "timestamp": "2025-07-23 17:45:21.752034"
+  },
+  {
+    "parking_id": "f3bd2348-854b-48fa-b44a-21b7dfff8cea",
+    "location_name": "Ahluwalia-Setty Parking",
+    "latitude": 12.909856423852865,
+    "longitude": 77.51351528207303,
+    "available_slots": 25,
+    "capacity": 56,
+    "timestamp": "2025-07-23 18:00:21.752038"
+  },
+  {
+    "parking_id": "6aa22571-4b0d-4716-85cf-079ea0952c4d",
+    "location_name": "Keer-Walla Parking",
+    "latitude": 12.988307946877367,
+    "longitude": 77.63676931233222,
+    "available_slots": 39,
+    "capacity": 67,
+    "timestamp": "2025-07-23 17:26:21.752041"
+  },
+  {
+    "parking_id": "ee854c72-8a9b-4b20-aeb1-fcd3f8360a87",
+    "location_name": "Kaur, Palla and Mistry Parking",
+    "latitude": 13.09403782745372,
+    "longitude": 77.60798463955801,
+    "available_slots": 20,
+    "capacity": 101,
+    "timestamp": "2025-07-23 18:03:21.752044"
+  },
+  {
+    "parking_id": "6b8da340-58c1-48e2-b951-d52b21cc8ba7",
+    "location_name": "Dey-Purohit Parking",
+    "latitude": 13.14630789583777,
+    "longitude": 77.61110254204303,
+    "available_slots": 24,
+    "capacity": 94,
+    "timestamp": "2025-07-23 17:47:21.752047"
+  },
+  {
+    "parking_id": "057fdd20-a50a-4a29-bcda-835f71a0cff8",
+    "location_name": "Kota, Cheema and Narang Parking",
+    "latitude": 13.111331758865317,
+    "longitude": 77.6388863608382,
+    "available_slots": 40,
+    "capacity": 83,
+    "timestamp": "2025-07-23 17:51:21.752051"
+  },
+  {
+    "parking_id": "05a43113-101d-459e-b066-478c4aa0d842",
+    "location_name": "Hans, Patel and Sha Parking",
+    "latitude": 12.930013541918532,
+    "longitude": 77.60137571059519,
+    "available_slots": 0,
+    "capacity": 53,
+    "timestamp": "2025-07-23 17:22:21.752054"
+  },
+  {
+    "parking_id": "d5bf1edb-3b79-4a1e-8d4f-2875df2ddf20",
+    "location_name": "Din Ltd Parking",
+    "latitude": 12.868308281026529,
+    "longitude": 77.55017182925593,
+    "available_slots": 5,
+    "capacity": 76,
+    "timestamp": "2025-07-23 17:25:21.752057"
+  },
+  {
+    "parking_id": "55fc0f2b-a509-49f1-8505-d91df28bffb9",
+    "location_name": "Sabharwal-Bumb Parking",
+    "latitude": 12.971287388092307,
+    "longitude": 77.4965729430332,
+    "available_slots": 22,
+    "capacity": 100,
+    "timestamp": "2025-07-23 18:20:21.752060"
+  },
+  {
+    "parking_id": "a7dfeb92-57c1-4f7e-9425-fc3a6964a112",
+    "location_name": "Bhatia Group Parking",
+    "latitude": 13.059574508142616,
+    "longitude": 77.66900346581963,
+    "available_slots": 50,
+    "capacity": 112,
+    "timestamp": "2025-07-23 17:30:21.752064"
+  },
+  {
+    "parking_id": "7c743895-5388-4128-896d-525ea5639cf4",
+    "location_name": "Soni and Sons Parking",
+    "latitude": 12.972399174763655,
+    "longitude": 77.47919535050112,
+    "available_slots": 22,
+    "capacity": 115,
+    "timestamp": "2025-07-23 17:36:21.752067"
+  },
+  {
+    "parking_id": "87b8f95c-b265-46c2-aa75-7eeb97e642d6",
+    "location_name": "Brahmbhatt-Pingle Parking",
+    "latitude": 12.969113302159785,
+    "longitude": 77.64232400715404,
+    "available_slots": 42,
+    "capacity": 92,
+    "timestamp": "2025-07-23 17:41:21.752070"
+  },
+  {
+    "parking_id": "753ff3e2-71fc-4136-8c68-720ed787463d",
+    "location_name": "Vora, Rau and Venkataraman Parking",
+    "latitude": 13.09338064737863,
+    "longitude": 77.48166648792727,
+    "available_slots": 42,
+    "capacity": 86,
+    "timestamp": "2025-07-23 17:43:21.752073"
+  },
+  {
+    "parking_id": "e5f5cdc8-21c7-40f6-9137-67ab4dd85715",
+    "location_name": "Lalla-Tara Parking",
+    "latitude": 12.926491322673515,
+    "longitude": 77.61886555948406,
+    "available_slots": 22,
+    "capacity": 84,
+    "timestamp": "2025-07-23 17:47:21.752076"
+  },
+  {
+    "parking_id": "ca0d72ce-2bf6-46c4-8e76-74e9ca12ba49",
+    "location_name": "Sampath, Sarraf and Suri Parking",
+    "latitude": 13.100928136184077,
+    "longitude": 77.66147739349516,
+    "available_slots": 31,
+    "capacity": 89,
+    "timestamp": "2025-07-23 17:30:21.752079"
+  },
+  {
+    "parking_id": "5f34fd6c-7bf7-4b57-ba0e-618f428fd941",
+    "location_name": "Saha, Gaba and Dhawan Parking",
+    "latitude": 12.942381680333105,
+    "longitude": 77.47654986111729,
+    "available_slots": 29,
+    "capacity": 91,
+    "timestamp": "2025-07-23 17:54:21.752082"
+  },
+  {
+    "parking_id": "d8739636-c50e-4194-89c3-f48bf8815f18",
+    "location_name": "Datta, Sundaram and Shankar Parking",
+    "latitude": 12.91488158698742,
+    "longitude": 77.42098015530146,
+    "available_slots": 12,
+    "capacity": 59,
+    "timestamp": "2025-07-23 18:13:21.752085"
+  },
+  {
+    "parking_id": "48cd42c0-5a66-419e-a5f9-80460c1d180e",
+    "location_name": "Varghese PLC Parking",
+    "latitude": 12.958896468919896,
+    "longitude": 77.44584081004797,
+    "available_slots": 42,
+    "capacity": 51,
+    "timestamp": "2025-07-23 17:54:21.752088"
+  },
+  {
+    "parking_id": "9e5e8cfe-2a96-4526-b4ca-6e7074b799ec",
+    "location_name": "Kala Group Parking",
+    "latitude": 13.066856435536204,
+    "longitude": 77.61209893854486,
+    "available_slots": 17,
+    "capacity": 104,
+    "timestamp": "2025-07-23 18:11:21.752091"
+  },
+  {
+    "parking_id": "890a83b4-b639-429e-a929-8691ec93e43d",
+    "location_name": "Bali-Dugar Parking",
+    "latitude": 12.844100709752398,
+    "longitude": 77.69730624217901,
+    "available_slots": 22,
+    "capacity": 113,
+    "timestamp": "2025-07-23 18:11:21.752094"
+  },
+  {
+    "parking_id": "2ce4599d-f924-48c3-aea9-ef6c4905eb93",
+    "location_name": "Pingle, Dani and Rege Parking",
+    "latitude": 12.868746725555207,
+    "longitude": 77.4157488874324,
+    "available_slots": 14,
+    "capacity": 58,
+    "timestamp": "2025-07-23 17:44:21.752097"
+  },
+  {
+    "parking_id": "e79b265a-b15f-4994-b546-c5c0d6de70c5",
+    "location_name": "Dara LLC Parking",
+    "latitude": 13.133005688982083,
+    "longitude": 77.65695294066458,
+    "available_slots": 32,
+    "capacity": 70,
+    "timestamp": "2025-07-23 17:43:21.752101"
+  },
+  {
+    "parking_id": "2947fd26-274a-47a7-8b61-8d75aa964dfb",
+    "location_name": "Mann, Baria and Virk Parking",
+    "latitude": 12.861422069583476,
+    "longitude": 77.51946152608252,
+    "available_slots": 20,
+    "capacity": 71,
+    "timestamp": "2025-07-23 17:43:21.752104"
+  },
+  {
+    "parking_id": "fe67e8e9-0a88-46ca-9dee-4b6d3ce75d1e",
+    "location_name": "Dalal LLC Parking",
+    "latitude": 12.99870456127587,
+    "longitude": 77.56748492947183,
+    "available_slots": 56,
+    "capacity": 94,
+    "timestamp": "2025-07-23 17:32:21.752107"
+  },
+  {
+    "parking_id": "70de13fc-2060-417a-9314-14e8510e641f",
+    "location_name": "Prasad-Mitter Parking",
+    "latitude": 13.002760063331678,
+    "longitude": 77.72510084244595,
+    "available_slots": 38,
+    "capacity": 60,
+    "timestamp": "2025-07-23 17:20:21.752110"
+  },
+  {
+    "parking_id": "34850fcd-2f3b-4b18-9ea2-d56b42aa0bc7",
+    "location_name": "Sunder-Bala Parking",
+    "latitude": 12.971368561717586,
+    "longitude": 77.51619002665755,
+    "available_slots": 22,
+    "capacity": 59,
+    "timestamp": "2025-07-23 18:14:21.752114"
+  },
+  {
+    "parking_id": "aa61b32f-08e1-424e-b506-c24d8fff29f7",
+    "location_name": "Dhar PLC Parking",
+    "latitude": 13.025660837001887,
+    "longitude": 77.56286792687882,
+    "available_slots": 26,
+    "capacity": 47,
+    "timestamp": "2025-07-23 17:21:21.752119"
+  },
+  {
+    "parking_id": "25dfac07-5806-4bae-ba5f-afdb512339fa",
+    "location_name": "Bava-Mody Parking",
+    "latitude": 12.880439354029168,
+    "longitude": 77.40478884516624,
+    "available_slots": 44,
+    "capacity": 46,
+    "timestamp": "2025-07-23 18:14:21.752123"
+  },
+  {
+    "parking_id": "f9b81e65-8a34-426b-b2cc-3fc55f775a7a",
+    "location_name": "Kale-Goswami Parking",
+    "latitude": 12.993431793721863,
+    "longitude": 77.4285595520017,
+    "available_slots": 43,
+    "capacity": 67,
+    "timestamp": "2025-07-23 17:44:21.752126"
+  },
+  {
+    "parking_id": "1f19f85b-4d33-4569-889c-d33d299fff30",
+    "location_name": "Suresh, Agate and Das Parking",
+    "latitude": 12.930260639336415,
+    "longitude": 77.49050705689717,
+    "available_slots": 17,
+    "capacity": 43,
+    "timestamp": "2025-07-23 17:31:21.752131"
+  },
+  {
+    "parking_id": "ee5a8856-6791-459c-8661-7f95eba18fa8",
+    "location_name": "Palla, Bir and Basu Parking",
+    "latitude": 13.031583540870217,
+    "longitude": 77.40974828428737,
+    "available_slots": 23,
+    "capacity": 116,
+    "timestamp": "2025-07-23 18:14:21.752133"
+  },
+  {
+    "parking_id": "f2a24da4-2537-40d6-84bd-9b597fd9c96f",
+    "location_name": "Srivastava-Mukherjee Parking",
+    "latitude": 12.849428240180602,
+    "longitude": 77.62098136411689,
+    "available_slots": 50,
+    "capacity": 118,
+    "timestamp": "2025-07-23 17:30:21.752136"
+  },
+  {
+    "parking_id": "27f31b78-51f9-4d77-ad85-0a6d75422851",
+    "location_name": "Sethi, Nazareth and Purohit Parking",
+    "latitude": 12.999807095893818,
+    "longitude": 77.54923942488057,
+    "available_slots": 46,
+    "capacity": 108,
+    "timestamp": "2025-07-23 18:02:21.752140"
+  },
+  {
+    "parking_id": "8bd03267-bd0e-41ce-b85b-c2d301196e6d",
+    "location_name": "Deo-Devi Parking",
+    "latitude": 12.864844624384164,
+    "longitude": 77.5918508209548,
+    "available_slots": 39,
+    "capacity": 85,
+    "timestamp": "2025-07-23 17:25:21.752143"
+  },
+  {
+    "parking_id": "a5b1c799-54ce-4ee7-81e5-8eeef9c0fd4d",
+    "location_name": "Sharma, Sengupta and Sen Parking",
+    "latitude": 12.897525072090263,
+    "longitude": 77.46112651506373,
+    "available_slots": 50,
+    "capacity": 51,
+    "timestamp": "2025-07-23 17:46:21.752147"
+  },
+  {
+    "parking_id": "e55ec749-7952-45ad-8ba9-9d78b49875d0",
+    "location_name": "Nanda Inc Parking",
+    "latitude": 12.876548430113255,
+    "longitude": 77.50357621030282,
+    "available_slots": 41,
+    "capacity": 96,
+    "timestamp": "2025-07-23 17:24:21.752150"
+  },
+  {
+    "parking_id": "c110bcfe-f1aa-4ba0-b838-11c54a321d2a",
+    "location_name": "Rout, Ram and Kaul Parking",
+    "latitude": 12.863993222954086,
+    "longitude": 77.63233856619846,
+    "available_slots": 6,
+    "capacity": 85,
+    "timestamp": "2025-07-23 17:58:21.752153"
+  },
+  {
+    "parking_id": "aab9278d-92df-4f99-be7b-178dfb0e7c28",
+    "location_name": "Nori-Zachariah Parking",
+    "latitude": 13.088998833046233,
+    "longitude": 77.73785595327064,
+    "available_slots": 49,
+    "capacity": 48,
+    "timestamp": "2025-07-23 17:24:21.752156"
+  },
+  {
+    "parking_id": "ba81d860-90b3-432d-8cb1-063d25a74338",
+    "location_name": "Savant Ltd Parking",
+    "latitude": 12.899997648681312,
+    "longitude": 77.41764587076078,
+    "available_slots": 47,
+    "capacity": 86,
+    "timestamp": "2025-07-23 17:54:21.752159"
+  },
+  {
+    "parking_id": "56b405d7-712d-4406-ac1b-55dde82956cf",
+    "location_name": "Chakrabarti-Gandhi Parking",
+    "latitude": 13.124493323652558,
+    "longitude": 77.71163451229934,
+    "available_slots": 19,
+    "capacity": 73,
+    "timestamp": "2025-07-23 18:04:21.752162"
+  },
+  {
+    "parking_id": "7a9e8394-bb4c-4b14-9cc0-b764b06befca",
+    "location_name": "Bakshi, More and Dasgupta Parking",
+    "latitude": 13.139474283870817,
+    "longitude": 77.60190842045893,
+    "available_slots": 26,
+    "capacity": 64,
+    "timestamp": "2025-07-23 17:56:21.752165"
+  },
+  {
+    "parking_id": "ad91f456-23b1-4ebd-8a42-be3fe671d582",
+    "location_name": "Chada, Hans and Bera Parking",
+    "latitude": 12.999941164477985,
+    "longitude": 77.59737184836447,
+    "available_slots": 5,
+    "capacity": 30,
+    "timestamp": "2025-07-23 17:39:21.752168"
+  },
+  {
+    "parking_id": "0659010a-4ede-49b6-9deb-979d8d0bb6d7",
+    "location_name": "Vig, Gulati and Soni Parking",
+    "latitude": 12.850050392933005,
+    "longitude": 77.57509748732272,
+    "available_slots": 26,
+    "capacity": 81,
+    "timestamp": "2025-07-23 17:49:21.752171"
+  },
+  {
+    "parking_id": "3869d3c9-d743-45a8-9e15-ebcc66d137f6",
+    "location_name": "Bahl, Dara and Wali Parking",
+    "latitude": 12.931091885182854,
+    "longitude": 77.42428793006647,
+    "available_slots": 8,
+    "capacity": 114,
+    "timestamp": "2025-07-23 17:44:21.752174"
+  },
+  {
+    "parking_id": "538cc0ca-17ac-47e9-9b7e-24ca722b4439",
+    "location_name": "Bahl LLC Parking",
+    "latitude": 13.079206292171875,
+    "longitude": 77.43145689810765,
+    "available_slots": 52,
+    "capacity": 99,
+    "timestamp": "2025-07-23 17:42:21.752177"
+  },
+  {
+    "parking_id": "31f55560-a42d-40f5-9baf-cc200e16af3f",
+    "location_name": "Korpal Ltd Parking",
+    "latitude": 12.928586755043975,
+    "longitude": 77.61031920198069,
+    "available_slots": 44,
+    "capacity": 66,
+    "timestamp": "2025-07-23 17:50:21.752180"
+  },
+  {
+    "parking_id": "c8022f8e-38de-4b6e-86c4-5e42955bc346",
+    "location_name": "Sawhney, Chad and Walla Parking",
+    "latitude": 12.830456026405976,
+    "longitude": 77.51933550000246,
+    "available_slots": 56,
+    "capacity": 94,
+    "timestamp": "2025-07-23 18:18:21.752183"
+  },
+  {
+    "parking_id": "321a6c3f-4726-4c24-8460-5896ef87bf0d",
+    "location_name": "Nagi, Ratti and Bath Parking",
+    "latitude": 12.994874718824866,
+    "longitude": 77.72104382330218,
+    "available_slots": 30,
+    "capacity": 80,
+    "timestamp": "2025-07-23 18:09:21.752187"
+  },
+  {
+    "parking_id": "d975a562-89d5-4357-9566-1feb05c5bf8d",
+    "location_name": "Bajaj-Oak Parking",
+    "latitude": 13.095792298023612,
+    "longitude": 77.54230668807583,
+    "available_slots": 20,
+    "capacity": 30,
+    "timestamp": "2025-07-23 18:03:21.752191"
+  },
+  {
+    "parking_id": "f526d3b0-abeb-45d1-ad54-06bc72098a7b",
+    "location_name": "Gole-Sachdeva Parking",
+    "latitude": 13.078574235500227,
+    "longitude": 77.45014851054593,
+    "available_slots": 25,
+    "capacity": 50,
+    "timestamp": "2025-07-23 17:55:21.752194"
+  },
+  {
+    "parking_id": "64f8f226-8304-41c2-b9d0-9e26165e55b5",
+    "location_name": "Wable LLC Parking",
+    "latitude": 12.861293099045625,
+    "longitude": 77.65015159172572,
+    "available_slots": 39,
+    "capacity": 82,
+    "timestamp": "2025-07-23 18:11:21.752197"
+  },
+  {
+    "parking_id": "9a6978cf-5158-4375-bd8f-235031c77a44",
+    "location_name": "Kurian-Chand Parking",
+    "latitude": 13.035467615044364,
+    "longitude": 77.50267369750436,
+    "available_slots": 47,
+    "capacity": 45,
+    "timestamp": "2025-07-23 17:41:21.752200"
+  },
+  {
+    "parking_id": "0e5922e9-f182-4df7-82f5-52c89ae66149",
+    "location_name": "Chaudhary PLC Parking",
+    "latitude": 12.877176492202477,
+    "longitude": 77.58391460757457,
+    "available_slots": 44,
+    "capacity": 90,
+    "timestamp": "2025-07-23 17:42:21.752203"
+  },
+  {
+    "parking_id": "65c65c7b-5c6e-4f5a-aab1-33bae88ffab5",
+    "location_name": "Mangal and Sons Parking",
+    "latitude": 12.876372637093262,
+    "longitude": 77.64424147492682,
+    "available_slots": 12,
+    "capacity": 83,
+    "timestamp": "2025-07-23 17:37:21.752206"
+  },
+  {
+    "parking_id": "6d79d8bf-da92-4740-b749-66cb25dfc8fa",
+    "location_name": "Kumer Inc Parking",
+    "latitude": 13.105925120656815,
+    "longitude": 77.71509243892072,
+    "available_slots": 48,
+    "capacity": 69,
+    "timestamp": "2025-07-23 17:36:21.752209"
+  },
+  {
+    "parking_id": "031eef96-5f71-4cc4-a2d8-46d05ea011cd",
+    "location_name": "Mohanty Group Parking",
+    "latitude": 12.887384133459081,
+    "longitude": 77.67726691818059,
+    "available_slots": 22,
+    "capacity": 55,
+    "timestamp": "2025-07-23 17:55:21.752212"
+  },
+  {
+    "parking_id": "4edeae5f-59f2-474c-984c-b0f748ded8be",
+    "location_name": "Gara, Bhargava and Nanda Parking",
+    "latitude": 12.892136571281304,
+    "longitude": 77.63672637375545,
+    "available_slots": 19,
+    "capacity": 109,
+    "timestamp": "2025-07-23 18:18:21.752216"
+  },
+  {
+    "parking_id": "8f9fdc15-dfd2-4d15-b211-4575fa3efd03",
+    "location_name": "Bala Ltd Parking",
+    "latitude": 12.800228686766456,
+    "longitude": 77.6378716138383,
+    "available_slots": 36,
+    "capacity": 94,
+    "timestamp": "2025-07-23 17:55:21.752219"
+  },
+  {
+    "parking_id": "e3472e25-ba54-48fd-b737-cc38166cdd33",
+    "location_name": "Misra Group Parking",
+    "latitude": 13.10473416194393,
+    "longitude": 77.73107362541123,
+    "available_slots": 53,
+    "capacity": 103,
+    "timestamp": "2025-07-23 17:24:21.752222"
+  },
+  {
+    "parking_id": "6a6566e8-fe1a-4905-bdd4-c1f271b86ce0",
+    "location_name": "Nagarajan and Sons Parking",
+    "latitude": 13.077408184623197,
+    "longitude": 77.5035384341238,
+    "available_slots": 52,
+    "capacity": 93,
+    "timestamp": "2025-07-23 17:24:21.752225"
+  },
+  {
+    "parking_id": "29ee29f4-49e3-4b48-b147-f758cdbe5548",
+    "location_name": "Naik-Kuruvilla Parking",
+    "latitude": 13.019565127281737,
+    "longitude": 77.40038923296868,
+    "available_slots": 27,
+    "capacity": 72,
+    "timestamp": "2025-07-23 17:59:21.752228"
+  },
+  {
+    "parking_id": "e5d136e2-f869-4e93-ba5e-4066ce40924a",
+    "location_name": "Dara-Ben Parking",
+    "latitude": 13.062593017378596,
+    "longitude": 77.49518409578937,
+    "available_slots": 16,
+    "capacity": 46,
+    "timestamp": "2025-07-23 17:36:21.752231"
+  },
+  {
+    "parking_id": "6a089aa0-e57c-4c02-ba85-e4036c80444b",
+    "location_name": "Khatri PLC Parking",
+    "latitude": 12.853216998598572,
+    "longitude": 77.47626198286936,
+    "available_slots": 27,
+    "capacity": 88,
+    "timestamp": "2025-07-23 18:05:21.752234"
+  },
+  {
+    "parking_id": "99125090-9651-4ec2-95e4-157d23bab528",
+    "location_name": "Khalsa, Tailor and Trivedi Parking",
+    "latitude": 12.960413258105651,
+    "longitude": 77.6316421047899,
+    "available_slots": 40,
+    "capacity": 52,
+    "timestamp": "2025-07-23 18:17:21.752237"
+  },
+  {
+    "parking_id": "4da08e48-3531-418a-a4c5-8b47160934d1",
+    "location_name": "Rajan, Contractor and Luthra Parking",
+    "latitude": 12.922926785572074,
+    "longitude": 77.62179905991793,
+    "available_slots": 1,
+    "capacity": 36,
+    "timestamp": "2025-07-23 17:33:21.752240"
+  },
+  {
+    "parking_id": "867a211a-de16-4c17-bd06-a17979803efa",
+    "location_name": "Nadkarni Group Parking",
+    "latitude": 12.832821784189957,
+    "longitude": 77.60771148394666,
+    "available_slots": 24,
+    "capacity": 73,
+    "timestamp": "2025-07-23 17:50:21.752243"
+  },
+  {
+    "parking_id": "eee31d47-10ec-46ae-95dd-df38fc9454ae",
+    "location_name": "Ray, Bhatti and Sule Parking",
+    "latitude": 12.970145669825223,
+    "longitude": 77.40568520512332,
+    "available_slots": 57,
+    "capacity": 82,
+    "timestamp": "2025-07-23 17:22:21.752246"
+  },
+  {
+    "parking_id": "60329ee6-c190-40cf-9736-bb4ff5c8ce3c",
+    "location_name": "Reddy Ltd Parking",
+    "latitude": 13.122258877619922,
+    "longitude": 77.65507231905772,
+    "available_slots": 49,
+    "capacity": 100,
+    "timestamp": "2025-07-23 18:03:21.752249"
+  },
+  {
+    "parking_id": "a388ca32-68d2-4992-81b1-c62616a48bfa",
+    "location_name": "Bahl LLC Parking",
+    "latitude": 12.814020691667745,
+    "longitude": 77.51323564436993,
+    "available_slots": 40,
+    "capacity": 108,
+    "timestamp": "2025-07-23 17:23:21.752253"
+  },
+  {
+    "parking_id": "2cc5c9de-6a1d-4731-85f8-e14dea16ce6e",
+    "location_name": "Chaudhuri, Koshy and Dass Parking",
+    "latitude": 12.902011319722828,
+    "longitude": 77.63276959615233,
+    "available_slots": 5,
+    "capacity": 63,
+    "timestamp": "2025-07-23 17:57:21.752256"
+  },
+  {
+    "parking_id": "9162f6db-b5d2-4f7f-b64d-7e7c8e49d0f9",
+    "location_name": "Ray-Sehgal Parking",
+    "latitude": 12.872639327671997,
+    "longitude": 77.59480244997576,
+    "available_slots": 10,
+    "capacity": 75,
+    "timestamp": "2025-07-23 18:19:21.752259"
+  },
+  {
+    "parking_id": "33028b32-230d-4680-aa35-0f17c157a761",
+    "location_name": "Tella and Sons Parking",
+    "latitude": 12.883351328782995,
+    "longitude": 77.51995582389978,
+    "available_slots": 56,
+    "capacity": 97,
+    "timestamp": "2025-07-23 17:59:21.752262"
+  },
+  {
+    "parking_id": "4a1a4219-61bb-45fb-9510-8bc02f9e1ddb",
+    "location_name": "Prakash PLC Parking",
+    "latitude": 13.11795209315778,
+    "longitude": 77.44710169348645,
+    "available_slots": 37,
+    "capacity": 107,
+    "timestamp": "2025-07-23 17:28:21.752265"
+  },
+  {
+    "parking_id": "d2a2f839-0acf-46ac-bd97-04fe8dca3908",
+    "location_name": "Korpal PLC Parking",
+    "latitude": 12.963824168982002,
+    "longitude": 77.43304661418118,
+    "available_slots": 5,
+    "capacity": 107,
+    "timestamp": "2025-07-23 17:30:21.752268"
+  },
+  {
+    "parking_id": "95d03545-d5a7-4023-8d4f-6814d3850240",
+    "location_name": "Seth-Barman Parking",
+    "latitude": 12.963204794528938,
+    "longitude": 77.69103141658928,
+    "available_slots": 44,
+    "capacity": 45,
+    "timestamp": "2025-07-23 18:01:21.752272"
+  },
+  {
+    "parking_id": "bd673458-8f2d-4b17-be7d-5e884dcd5534",
+    "location_name": "Shetty PLC Parking",
+    "latitude": 13.06620147485935,
+    "longitude": 77.72143913972855,
+    "available_slots": 10,
+    "capacity": 100,
+    "timestamp": "2025-07-23 18:01:21.752275"
+  },
+  {
+    "parking_id": "ca8d5d5a-06de-4ca8-b97a-284f76a4c79b",
+    "location_name": "Ganesh-Acharya Parking",
+    "latitude": 12.854072271401725,
+    "longitude": 77.6274258163675,
+    "available_slots": 13,
+    "capacity": 48,
+    "timestamp": "2025-07-23 18:03:21.752278"
+  },
+  {
+    "parking_id": "4cd7e6f7-433e-4d2c-a76e-1d6700a0586e",
+    "location_name": "Subramaniam LLC Parking",
+    "latitude": 12.970542873935019,
+    "longitude": 77.43620194020117,
+    "available_slots": 1,
+    "capacity": 31,
+    "timestamp": "2025-07-23 17:27:21.752281"
+  },
+  {
+    "parking_id": "a2f5a68b-d590-4435-a3fb-6d0bf4be28b4",
+    "location_name": "Krishna, Rai and Panchal Parking",
+    "latitude": 12.950494824942371,
+    "longitude": 77.54070952591088,
+    "available_slots": 39,
+    "capacity": 39,
+    "timestamp": "2025-07-23 17:49:21.752284"
+  },
+  {
+    "parking_id": "aa794de7-a760-4977-9fca-0f1678f8755f",
+    "location_name": "Kala, Uppal and Manda Parking",
+    "latitude": 13.00891874169133,
+    "longitude": 77.6551287200368,
+    "available_slots": 2,
+    "capacity": 79,
+    "timestamp": "2025-07-23 17:26:21.752286"
+  },
+  {
+    "parking_id": "2deb57f9-6aca-4954-89a5-fd0de4871ab3",
+    "location_name": "Edwin Ltd Parking",
+    "latitude": 13.149845196137655,
+    "longitude": 77.67293730940352,
+    "available_slots": 54,
+    "capacity": 110,
+    "timestamp": "2025-07-23 17:36:21.752289"
+  },
+  {
+    "parking_id": "a510af65-b016-4db8-a823-99437dec4605",
+    "location_name": "Boase, Mital and Chakraborty Parking",
+    "latitude": 13.069307112928717,
+    "longitude": 77.44137651780188,
+    "available_slots": 52,
+    "capacity": 41,
+    "timestamp": "2025-07-23 17:37:21.752292"
+  },
+  {
+    "parking_id": "c3c49506-1e8e-46ed-8748-03793ea7f419",
+    "location_name": "Das-Dey Parking",
+    "latitude": 12.9392529960561,
+    "longitude": 77.40001075159589,
+    "available_slots": 34,
+    "capacity": 99,
+    "timestamp": "2025-07-23 18:14:21.752294"
+  },
+  {
+    "parking_id": "f87ae6de-fe8c-4aab-be38-8a1946f7b20a",
+    "location_name": "Mammen, Sankaran and Kade Parking",
+    "latitude": 13.089643568295918,
+    "longitude": 77.64924796605821,
+    "available_slots": 32,
+    "capacity": 51,
+    "timestamp": "2025-07-23 17:25:21.752297"
+  },
+  {
+    "parking_id": "5c9c4570-bedd-42a7-9950-f11a1114e0da",
+    "location_name": "Thaman, Nadkarni and Oommen Parking",
+    "latitude": 12.859747927159368,
+    "longitude": 77.52480866159517,
+    "available_slots": 23,
+    "capacity": 61,
+    "timestamp": "2025-07-23 18:06:21.752300"
+  },
+  {
+    "parking_id": "6fa22f92-90c9-4f00-bb01-1fdd94c0b9e0",
+    "location_name": "Lal, Sethi and Mahajan Parking",
+    "latitude": 12.810662290208137,
+    "longitude": 77.4890684660664,
+    "available_slots": 18,
+    "capacity": 113,
+    "timestamp": "2025-07-23 18:12:21.752303"
+  },
+  {
+    "parking_id": "af97fbd2-a0c4-4942-8206-7d80de4beb12",
+    "location_name": "Nagy LLC Parking",
+    "latitude": 12.871556930362496,
+    "longitude": 77.40451411442633,
+    "available_slots": 17,
+    "capacity": 30,
+    "timestamp": "2025-07-23 18:01:21.752305"
+  },
+  {
+    "parking_id": "d17ad9bd-b1ba-4bea-b969-057979ddcdd4",
+    "location_name": "Sharaf PLC Parking",
+    "latitude": 12.919144044639992,
+    "longitude": 77.58910479236653,
+    "available_slots": 48,
+    "capacity": 83,
+    "timestamp": "2025-07-23 17:33:21.752308"
+  },
+  {
+    "parking_id": "bba31668-8334-4524-9f8a-2e3c1e9d095b",
+    "location_name": "Babu-Deol Parking",
+    "latitude": 12.978703265110846,
+    "longitude": 77.69790275739909,
+    "available_slots": 51,
+    "capacity": 87,
+    "timestamp": "2025-07-23 17:52:21.752310"
+  },
+  {
+    "parking_id": "42710779-d864-465a-847d-d58393447b2f",
+    "location_name": "Agate, Soni and Agrawal Parking",
+    "latitude": 13.01529519918942,
+    "longitude": 77.7351710761954,
+    "available_slots": 23,
+    "capacity": 99,
+    "timestamp": "2025-07-23 17:31:21.752313"
+  },
+  {
+    "parking_id": "25693e13-0efa-4993-94e7-4f2629b05b37",
+    "location_name": "Ghose Group Parking",
+    "latitude": 13.118712001025049,
+    "longitude": 77.59801073271466,
+    "available_slots": 44,
+    "capacity": 112,
+    "timestamp": "2025-07-23 17:28:21.752315"
+  },
+  {
+    "parking_id": "b17aff6d-e0d9-4670-b606-fa3451d69f11",
+    "location_name": "Suresh, Ramaswamy and Yohannan Parking",
+    "latitude": 12.978448903342661,
+    "longitude": 77.58006146470896,
+    "available_slots": 34,
+    "capacity": 47,
+    "timestamp": "2025-07-23 18:00:21.752317"
+  },
+  {
+    "parking_id": "0d8a16f3-29ce-4bfa-9b7d-9d2d22aff503",
+    "location_name": "Brahmbhatt PLC Parking",
+    "latitude": 12.975446475619005,
+    "longitude": 77.42976973492124,
+    "available_slots": 0,
+    "capacity": 35,
+    "timestamp": "2025-07-23 18:03:21.752319"
+  },
+  {
+    "parking_id": "a2e11798-6b65-450b-9c75-352c45cdb96b",
+    "location_name": "Saxena Ltd Parking",
+    "latitude": 12.817585053438044,
+    "longitude": 77.59210548053991,
+    "available_slots": 35,
+    "capacity": 74,
+    "timestamp": "2025-07-23 17:34:21.752322"
+  },
+  {
+    "parking_id": "0c78947b-5b21-49f0-b485-2088e97fb025",
+    "location_name": "Pandit Group Parking",
+    "latitude": 12.812219043429678,
+    "longitude": 77.53299267763789,
+    "available_slots": 24,
+    "capacity": 52,
+    "timestamp": "2025-07-23 17:54:21.752325"
+  },
+  {
+    "parking_id": "a391ffdb-8794-4c7e-8aaa-7f994a34041e",
+    "location_name": "Parmar, Ram and Goel Parking",
+    "latitude": 12.992905986670731,
+    "longitude": 77.61249734830925,
+    "available_slots": 44,
+    "capacity": 52,
+    "timestamp": "2025-07-23 17:42:21.752327"
+  },
+  {
+    "parking_id": "319dd940-838c-4137-93aa-e9c8efb278fd",
+    "location_name": "Anand, Dash and Shere Parking",
+    "latitude": 12.953362514636922,
+    "longitude": 77.5360542217568,
+    "available_slots": 48,
+    "capacity": 55,
+    "timestamp": "2025-07-23 17:39:21.752330"
+  },
+  {
+    "parking_id": "c3c2aee6-2ee9-4ed9-a0c6-9223c4359252",
+    "location_name": "Hans-Saxena Parking",
+    "latitude": 13.093713138243105,
+    "longitude": 77.48410469320763,
+    "available_slots": 59,
+    "capacity": 106,
+    "timestamp": "2025-07-23 18:15:21.752333"
+  },
+  {
+    "parking_id": "2ac96b60-c0ac-430a-9948-7f821831b802",
+    "location_name": "Kant Ltd Parking",
+    "latitude": 12.856237854649146,
+    "longitude": 77.43323784632993,
+    "available_slots": 42,
+    "capacity": 36,
+    "timestamp": "2025-07-23 18:08:21.752335"
+  },
+  {
+    "parking_id": "50f32ab5-df58-4eff-9296-5cf38b30bb4c",
+    "location_name": "Mand Ltd Parking",
+    "latitude": 12.808740081740968,
+    "longitude": 77.51022145560611,
+    "available_slots": 33,
+    "capacity": 108,
+    "timestamp": "2025-07-23 17:52:21.752338"
+  },
+  {
+    "parking_id": "ccc4c0a9-af5a-41cc-9851-95acd3aa9b27",
+    "location_name": "Parmar, Handa and Chana Parking",
+    "latitude": 12.957163568775545,
+    "longitude": 77.43382569200072,
+    "available_slots": 24,
+    "capacity": 73,
+    "timestamp": "2025-07-23 18:07:21.752340"
+  },
+  {
+    "parking_id": "b2adffa6-af79-4d4a-857e-55cb4d131338",
+    "location_name": "Mitter, Kant and Kaur Parking",
+    "latitude": 12.88311749486329,
+    "longitude": 77.4619139327884,
+    "available_slots": 15,
+    "capacity": 56,
+    "timestamp": "2025-07-23 17:22:21.752343"
+  },
+  {
+    "parking_id": "88cfc53d-1888-49ce-9cce-495db0377c52",
+    "location_name": "Patil-Bansal Parking",
+    "latitude": 12.817365030668594,
+    "longitude": 77.74556765550284,
+    "available_slots": 33,
+    "capacity": 55,
+    "timestamp": "2025-07-23 17:28:21.752346"
+  },
+  {
+    "parking_id": "24caabcb-d2c4-4286-9a04-61c9947defcf",
+    "location_name": "Tailor-Kadakia Parking",
+    "latitude": 13.05360940039667,
+    "longitude": 77.55543624491732,
+    "available_slots": 28,
+    "capacity": 108,
+    "timestamp": "2025-07-23 17:54:21.752350"
+  },
+  {
+    "parking_id": "480afe9f-84a6-4693-a30f-1e69034d42fd",
+    "location_name": "Hayre Ltd Parking",
+    "latitude": 12.839057549985037,
+    "longitude": 77.58615511827676,
+    "available_slots": 18,
+    "capacity": 65,
+    "timestamp": "2025-07-23 17:33:21.752353"
+  },
+  {
+    "parking_id": "697878c1-7c22-47a0-875f-f3685f7ddbb1",
+    "location_name": "Choudhry-Mall Parking",
+    "latitude": 13.012911825002721,
+    "longitude": 77.70576648505802,
+    "available_slots": 22,
+    "capacity": 84,
+    "timestamp": "2025-07-23 17:49:21.752356"
+  },
+  {
+    "parking_id": "29bc4734-e929-46be-abc0-95f5571ec230",
+    "location_name": "Tella, Tak and Garde Parking",
+    "latitude": 12.898367412558413,
+    "longitude": 77.74844911517174,
+    "available_slots": 18,
+    "capacity": 93,
+    "timestamp": "2025-07-23 17:32:21.752358"
+  },
+  {
+    "parking_id": "80ddb386-2790-492f-b7c6-bc5d1a380e8e",
+    "location_name": "Hari, Gill and Bhattacharyya Parking",
+    "latitude": 12.860723617624258,
+    "longitude": 77.60395005727064,
+    "available_slots": 24,
+    "capacity": 86,
+    "timestamp": "2025-07-23 17:47:21.752360"
+  },
+  {
+    "parking_id": "cb8c1d76-303c-4503-94e2-0134389ae4fd",
+    "location_name": "Dave, Bhattacharyya and Datta Parking",
+    "latitude": 12.932913033021762,
+    "longitude": 77.68436583736546,
+    "available_slots": 15,
+    "capacity": 98,
+    "timestamp": "2025-07-23 17:25:21.752363"
+  },
+  {
+    "parking_id": "b08d1676-9d09-4404-8f04-0721e5a5829e",
+    "location_name": "Kari-Virk Parking",
+    "latitude": 13.080506021678033,
+    "longitude": 77.51442935851784,
+    "available_slots": 53,
+    "capacity": 90,
+    "timestamp": "2025-07-23 17:57:21.752365"
+  },
+  {
+    "parking_id": "d89806fd-8691-4efe-b3d6-b9f2d4d7b0ca",
+    "location_name": "Mahal, Handa and Bajaj Parking",
+    "latitude": 12.937232751916602,
+    "longitude": 77.50701038510655,
+    "available_slots": 50,
+    "capacity": 31,
+    "timestamp": "2025-07-23 17:28:21.752367"
+  },
+  {
+    "parking_id": "b3c7a1a8-8d15-4aef-b669-7d0a88376bbc",
+    "location_name": "Walia, Krishnan and Setty Parking",
+    "latitude": 13.06276937722387,
+    "longitude": 77.5409463023481,
+    "available_slots": 8,
+    "capacity": 84,
+    "timestamp": "2025-07-23 18:17:21.752370"
+  },
+  {
+    "parking_id": "6ad73453-1d2c-4c89-8d75-e6dec19d5186",
+    "location_name": "Sane Ltd Parking",
+    "latitude": 12.843920203879703,
+    "longitude": 77.63537754193578,
+    "available_slots": 0,
+    "capacity": 109,
+    "timestamp": "2025-07-23 17:48:21.752372"
+  },
+  {
+    "parking_id": "1dd73f1f-138e-48cc-aa81-04ad75e2c2fa",
+    "location_name": "Ben, Naidu and Sankaran Parking",
+    "latitude": 13.070469996882778,
+    "longitude": 77.63876709123929,
+    "available_slots": 41,
+    "capacity": 116,
+    "timestamp": "2025-07-23 17:30:21.752375"
+  },
+  {
+    "parking_id": "0472f9f6-ec64-44e0-a198-6e3cd19fcf31",
+    "location_name": "Mahal-Dara Parking",
+    "latitude": 12.882926663717328,
+    "longitude": 77.5103338021273,
+    "available_slots": 18,
+    "capacity": 67,
+    "timestamp": "2025-07-23 18:10:21.752377"
+  },
+  {
+    "parking_id": "b0e8b2fa-4fc3-4759-9924-48ee7ac1b4f9",
+    "location_name": "Vasa, Shukla and Tandon Parking",
+    "latitude": 13.037087595461106,
+    "longitude": 77.44662347344783,
+    "available_slots": 32,
+    "capacity": 109,
+    "timestamp": "2025-07-23 18:16:21.752380"
+  },
+  {
+    "parking_id": "7122d7a0-d129-42d3-a396-6b835cd14b22",
+    "location_name": "Varughese-Bassi Parking",
+    "latitude": 12.99802354419435,
+    "longitude": 77.62133868976294,
+    "available_slots": 33,
+    "capacity": 107,
+    "timestamp": "2025-07-23 18:01:21.752382"
+  },
+  {
+    "parking_id": "85eb43c8-98ff-405c-bcd2-280ee3c51ba8",
+    "location_name": "Kapur, Batta and Mall Parking",
+    "latitude": 13.125200651024091,
+    "longitude": 77.44491405176608,
+    "available_slots": 15,
+    "capacity": 58,
+    "timestamp": "2025-07-23 17:35:21.752385"
+  },
+  {
+    "parking_id": "2c15c4ad-5790-4515-b859-396dc37a9ab0",
+    "location_name": "Walia-Sen Parking",
+    "latitude": 12.93556288129136,
+    "longitude": 77.60247237788026,
+    "available_slots": 43,
+    "capacity": 55,
+    "timestamp": "2025-07-23 17:48:21.752387"
+  },
+  {
+    "parking_id": "be94f1cb-075c-48eb-8dff-c9aab5bbabce",
+    "location_name": "Ahluwalia-Ramanathan Parking",
+    "latitude": 12.823157816092055,
+    "longitude": 77.64269774481971,
+    "available_slots": 39,
+    "capacity": 64,
+    "timestamp": "2025-07-23 17:55:21.752390"
+  },
+  {
+    "parking_id": "20f36e92-38ec-41aa-9e5c-5da8d087edcb",
+    "location_name": "Natt Inc Parking",
+    "latitude": 12.806704419942939,
+    "longitude": 77.64521402373806,
+    "available_slots": 54,
+    "capacity": 108,
+    "timestamp": "2025-07-23 18:12:21.752392"
+  },
+  {
+    "parking_id": "b023dbc3-2471-4957-b1b9-fd9ddb583dd9",
+    "location_name": "Bakshi, Kara and Sampath Parking",
+    "latitude": 13.089400496340463,
+    "longitude": 77.66371523873086,
+    "available_slots": 17,
+    "capacity": 96,
+    "timestamp": "2025-07-23 17:31:21.752395"
+  },
+  {
+    "parking_id": "35b823e4-2016-4e6d-8eb3-9f633a00c83e",
+    "location_name": "Krish and Sons Parking",
+    "latitude": 12.983657473181502,
+    "longitude": 77.70550079754798,
+    "available_slots": 33,
+    "capacity": 116,
+    "timestamp": "2025-07-23 17:26:21.752398"
+  },
+  {
+    "parking_id": "6cc0067f-141f-446e-bb29-ff362155fba8",
+    "location_name": "Narayan LLC Parking",
+    "latitude": 13.071335418142233,
+    "longitude": 77.57498564718767,
+    "available_slots": 24,
+    "capacity": 58,
+    "timestamp": "2025-07-23 17:47:21.752400"
+  },
+  {
+    "parking_id": "1c99d366-c8b6-4c18-8355-853eb0d9751c",
+    "location_name": "Chatterjee Inc Parking",
+    "latitude": 12.882048960004031,
+    "longitude": 77.65558721633535,
+    "available_slots": 44,
+    "capacity": 63,
+    "timestamp": "2025-07-23 17:24:21.752403"
+  },
+  {
+    "parking_id": "7bf820f6-c652-4c3d-84d0-7f2913e675fd",
+    "location_name": "Sankaran-Bajwa Parking",
+    "latitude": 12.920779310929632,
+    "longitude": 77.61671045737805,
+    "available_slots": 5,
+    "capacity": 70,
+    "timestamp": "2025-07-23 17:44:21.752405"
+  },
+  {
+    "parking_id": "32440f07-0ae2-43e0-ae66-3c0ac1e0a4a1",
+    "location_name": "Natt, Krishna and Kota Parking",
+    "latitude": 12.810536355273962,
+    "longitude": 77.46532397892919,
+    "available_slots": 20,
+    "capacity": 70,
+    "timestamp": "2025-07-23 18:19:21.752408"
+  },
+  {
+    "parking_id": "a8e7ebe3-cb05-4a14-8865-1a6e1b99eb83",
+    "location_name": "Solanki and Sons Parking",
+    "latitude": 13.13652231360094,
+    "longitude": 77.4089913757043,
+    "available_slots": 57,
+    "capacity": 52,
+    "timestamp": "2025-07-23 18:09:21.752411"
+  },
+  {
+    "parking_id": "7815c7df-0f2c-41b7-97da-64cb83735f49",
+    "location_name": "Bhagat-Nath Parking",
+    "latitude": 13.033753767345285,
+    "longitude": 77.49958948498693,
+    "available_slots": 5,
+    "capacity": 100,
+    "timestamp": "2025-07-23 18:08:21.752425"
+  },
+  {
+    "parking_id": "0b147f1f-40c5-4cf6-a895-60411e71afa9",
+    "location_name": "Khalsa, Bora and Sarna Parking",
+    "latitude": 13.126621780715757,
+    "longitude": 77.55506179721817,
+    "available_slots": 31,
+    "capacity": 32,
+    "timestamp": "2025-07-23 17:24:21.752428"
+  },
+  {
+    "parking_id": "02a13629-aae6-41a1-8d38-a8d010f59651",
+    "location_name": "Sekhon PLC Parking",
+    "latitude": 12.892923742600177,
+    "longitude": 77.61598708055003,
+    "available_slots": 40,
+    "capacity": 87,
+    "timestamp": "2025-07-23 17:27:21.752431"
+  },
+  {
+    "parking_id": "1fb0ef34-c849-4436-98b4-75b1c12a34f4",
+    "location_name": "Chada Inc Parking",
+    "latitude": 13.014012263928981,
+    "longitude": 77.69748576567612,
+    "available_slots": 47,
+    "capacity": 61,
+    "timestamp": "2025-07-23 18:08:21.752433"
+  },
+  {
+    "parking_id": "966d2735-3495-4c00-9a0f-09e9eb8b8c11",
+    "location_name": "Purohit LLC Parking",
+    "latitude": 13.037474988902424,
+    "longitude": 77.46868600084716,
+    "available_slots": 42,
+    "capacity": 60,
+    "timestamp": "2025-07-23 17:27:21.752436"
+  },
+  {
+    "parking_id": "abac7bf8-2f4d-4c9b-b334-cd07e6b36561",
+    "location_name": "Bhattacharyya, Datta and Bhatia Parking",
+    "latitude": 12.911142395090156,
+    "longitude": 77.44394242646447,
+    "available_slots": 38,
+    "capacity": 111,
+    "timestamp": "2025-07-23 18:17:21.752438"
+  },
+  {
+    "parking_id": "254338df-173d-4030-877d-868859fe1c45",
+    "location_name": "Bhakta-Mitra Parking",
+    "latitude": 13.096838232255472,
+    "longitude": 77.73721798161601,
+    "available_slots": 30,
+    "capacity": 72,
+    "timestamp": "2025-07-23 18:05:21.752441"
+  },
+  {
+    "parking_id": "47021755-f11c-40a4-bf06-d520d88a617b",
+    "location_name": "Sankaran, Bhatti and Chaudry Parking",
+    "latitude": 13.131506512015086,
+    "longitude": 77.43781559578174,
+    "available_slots": 41,
+    "capacity": 36,
+    "timestamp": "2025-07-23 18:18:21.752443"
+  },
+  {
+    "parking_id": "5a29fe6b-590b-40c6-946a-95a6f2e401af",
+    "location_name": "Bhalla, Ben and Menon Parking",
+    "latitude": 13.109699291193602,
+    "longitude": 77.56747187453752,
+    "available_slots": 9,
+    "capacity": 30,
+    "timestamp": "2025-07-23 17:51:21.752446"
+  },
+  {
+    "parking_id": "c7e2a618-8029-43b1-9aea-544a291a4905",
+    "location_name": "Ratti-Char Parking",
+    "latitude": 13.058673441578781,
+    "longitude": 77.60494730507766,
+    "available_slots": 29,
+    "capacity": 90,
+    "timestamp": "2025-07-23 18:17:21.752449"
+  },
+  {
+    "parking_id": "8141bb37-3de8-44ac-9cea-b67bba82854a",
+    "location_name": "Roy, Kaul and Anne Parking",
+    "latitude": 12.897112637903735,
+    "longitude": 77.5894810473176,
+    "available_slots": 56,
+    "capacity": 43,
+    "timestamp": "2025-07-23 17:22:21.752452"
+  },
+  {
+    "parking_id": "d1d06bcd-195e-4d72-917e-894e91faf1c7",
+    "location_name": "Rajagopalan-Shetty Parking",
+    "latitude": 12.898565614736972,
+    "longitude": 77.43011125496153,
+    "available_slots": 51,
+    "capacity": 81,
+    "timestamp": "2025-07-23 17:57:21.752455"
+  },
+  {
+    "parking_id": "8761f9da-0394-49c1-8363-f61f94009191",
+    "location_name": "Chaudhuri-Nori Parking",
+    "latitude": 13.137176112156114,
+    "longitude": 77.41995941990128,
+    "available_slots": 17,
+    "capacity": 35,
+    "timestamp": "2025-07-23 17:35:21.752458"
+  },
+  {
+    "parking_id": "f6d9fe17-3109-4211-b73f-6e64378d2f8d",
+    "location_name": "Bal, Setty and Varughese Parking",
+    "latitude": 12.803599573577493,
+    "longitude": 77.43691919961137,
+    "available_slots": 59,
+    "capacity": 39,
+    "timestamp": "2025-07-23 18:08:21.752460"
+  },
+  {
+    "parking_id": "c10750bc-e6d3-4572-abf9-58614827c440",
+    "location_name": "Hans-Chokshi Parking",
+    "latitude": 13.050617490634751,
+    "longitude": 77.60495568935542,
+    "available_slots": 23,
+    "capacity": 100,
+    "timestamp": "2025-07-23 18:03:21.752463"
+  },
+  {
+    "parking_id": "b9b07ec4-f93c-4859-811b-b34889811f35",
+    "location_name": "Arora PLC Parking",
+    "latitude": 13.047186156894343,
+    "longitude": 77.59052071067201,
+    "available_slots": 51,
+    "capacity": 119,
+    "timestamp": "2025-07-23 17:57:21.752465"
+  },
+  {
+    "parking_id": "eba46463-36c9-4657-ac9a-799e19437791",
+    "location_name": "Bir, Hari and Date Parking",
+    "latitude": 13.01794133933243,
+    "longitude": 77.48180927721286,
+    "available_slots": 8,
+    "capacity": 59,
+    "timestamp": "2025-07-23 17:28:21.752468"
+  },
+  {
+    "parking_id": "7986f498-b52f-40c9-99ee-96788112f0ff",
+    "location_name": "Upadhyay, Kunda and Pant Parking",
+    "latitude": 13.146538096130403,
+    "longitude": 77.62322094964595,
+    "available_slots": 30,
+    "capacity": 50,
+    "timestamp": "2025-07-23 17:51:21.752470"
+  },
+  {
+    "parking_id": "2f64672f-96e1-4522-b2b8-d6985dd0855c",
+    "location_name": "Srivastava-Saxena Parking",
+    "latitude": 12.909157802517305,
+    "longitude": 77.68702362571948,
+    "available_slots": 14,
+    "capacity": 89,
+    "timestamp": "2025-07-23 17:48:21.752475"
+  },
+  {
+    "parking_id": "1b799e6b-f52e-44a6-ac6c-2e1b708df094",
+    "location_name": "Kibe and Sons Parking",
+    "latitude": 12.918990152327638,
+    "longitude": 77.41455263594631,
+    "available_slots": 3,
+    "capacity": 110,
+    "timestamp": "2025-07-23 17:55:21.752478"
+  },
+  {
+    "parking_id": "fb368cf4-5ad5-4309-95b1-a96a2e4c16e2",
+    "location_name": "Bhasin and Sons Parking",
+    "latitude": 12.827628791031294,
+    "longitude": 77.57434548024182,
+    "available_slots": 39,
+    "capacity": 103,
+    "timestamp": "2025-07-23 17:40:21.752481"
+  },
+  {
+    "parking_id": "83a5f421-36da-493a-ac91-4882612e73c7",
+    "location_name": "Sarin-Varghese Parking",
+    "latitude": 12.954979347790308,
+    "longitude": 77.64125864423595,
+    "available_slots": 8,
+    "capacity": 92,
+    "timestamp": "2025-07-23 17:21:21.752483"
+  },
+  {
+    "parking_id": "c2ebbaa2-1ce3-40ed-a857-07ac3a40fe39",
+    "location_name": "Parmar, Mukhopadhyay and Dhingra Parking",
+    "latitude": 12.891366984182197,
+    "longitude": 77.4883091744744,
+    "available_slots": 44,
+    "capacity": 71,
+    "timestamp": "2025-07-23 18:13:21.752486"
+  },
+  {
+    "parking_id": "77455560-1fa5-4251-9074-ac13fc0f94cd",
+    "location_name": "Singh LLC Parking",
+    "latitude": 12.920185345762176,
+    "longitude": 77.5077198168526,
+    "available_slots": 8,
+    "capacity": 80,
+    "timestamp": "2025-07-23 17:37:21.752488"
+  },
+  {
+    "parking_id": "7eedcc65-22cb-4720-850c-ddfd1c3dae19",
+    "location_name": "Oza, Manne and Pillay Parking",
+    "latitude": 13.09210012658947,
+    "longitude": 77.61477326604629,
+    "available_slots": 25,
+    "capacity": 93,
+    "timestamp": "2025-07-23 18:19:21.752491"
+  },
+  {
+    "parking_id": "49cc253f-b469-4ec4-9c7a-e8efc3245e35",
+    "location_name": "Vasa PLC Parking",
+    "latitude": 13.127419579734624,
+    "longitude": 77.71427735270531,
+    "available_slots": 3,
+    "capacity": 105,
+    "timestamp": "2025-07-23 18:05:21.752494"
+  },
+  {
+    "parking_id": "150e3388-0a65-42a5-b8dd-f15d8ea035f0",
+    "location_name": "Dhillon, Bhandari and Khanna Parking",
+    "latitude": 12.865006575201816,
+    "longitude": 77.68347354710602,
+    "available_slots": 16,
+    "capacity": 85,
+    "timestamp": "2025-07-23 17:57:21.752496"
+  },
+  {
+    "parking_id": "628103f0-1d9f-4f25-be63-f65453ff5f1f",
+    "location_name": "Bhagat, Sami and Padmanabhan Parking",
+    "latitude": 12.930378126043713,
+    "longitude": 77.60409557668486,
+    "available_slots": 15,
+    "capacity": 109,
+    "timestamp": "2025-07-23 17:49:21.752498"
+  },
+  {
+    "parking_id": "bc75ed53-99b3-4070-b4fa-65ce489ac27e",
+    "location_name": "Iyer Ltd Parking",
+    "latitude": 13.125020696740389,
+    "longitude": 77.65557760121504,
+    "available_slots": 14,
+    "capacity": 70,
+    "timestamp": "2025-07-23 17:42:21.752501"
+  },
+  {
+    "parking_id": "d751af9c-f9e6-4ebb-afe2-487f4fdfaf5d",
+    "location_name": "Biswas LLC Parking",
+    "latitude": 12.821632961241228,
+    "longitude": 77.52768786457273,
+    "available_slots": 34,
+    "capacity": 61,
+    "timestamp": "2025-07-23 17:52:21.752504"
+  },
+  {
+    "parking_id": "6843a5c3-8dcd-4e9b-b9d2-d74a71a71782",
+    "location_name": "Soni Ltd Parking",
+    "latitude": 12.832326184838983,
+    "longitude": 77.62433793483457,
+    "available_slots": 56,
+    "capacity": 44,
+    "timestamp": "2025-07-23 18:09:21.752506"
+  },
+  {
+    "parking_id": "6d8ee559-daf9-4e99-bc26-7da64a640fc1",
+    "location_name": "Sibal, Narula and Nayak Parking",
+    "latitude": 12.856976846222182,
+    "longitude": 77.56316355689465,
+    "available_slots": 51,
+    "capacity": 91,
+    "timestamp": "2025-07-23 17:25:21.752509"
+  },
+  {
+    "parking_id": "e50ea3ec-11d1-47d5-9b55-86423054366b",
+    "location_name": "Mistry, Sahota and Narasimhan Parking",
+    "latitude": 13.008324491944407,
+    "longitude": 77.46647764776016,
+    "available_slots": 4,
+    "capacity": 56,
+    "timestamp": "2025-07-23 17:50:21.752511"
+  },
+  {
+    "parking_id": "f067ad82-79c5-445a-8d6c-78ddd74f9844",
+    "location_name": "Cheema Group Parking",
+    "latitude": 12.8526652948521,
+    "longitude": 77.64560839585704,
+    "available_slots": 54,
+    "capacity": 57,
+    "timestamp": "2025-07-23 17:43:21.752514"
+  },
+  {
+    "parking_id": "0345eeda-2de6-4d5b-9e10-a3a0addb8943",
+    "location_name": "Tandon and Sons Parking",
+    "latitude": 13.138826733507758,
+    "longitude": 77.59476262307209,
+    "available_slots": 4,
+    "capacity": 110,
+    "timestamp": "2025-07-23 17:45:21.752516"
+  },
+  {
+    "parking_id": "ac0e7307-7ddc-4af6-ac95-adb1ffac54fd",
+    "location_name": "Kapoor Ltd Parking",
+    "latitude": 12.956350084540484,
+    "longitude": 77.52551755368376,
+    "available_slots": 19,
+    "capacity": 93,
+    "timestamp": "2025-07-23 17:58:21.752519"
+  },
+  {
+    "parking_id": "85cd3384-7024-4792-a578-7d0c1aec8b70",
+    "location_name": "Shukla PLC Parking",
+    "latitude": 12.975531286122559,
+    "longitude": 77.71896871652753,
+    "available_slots": 14,
+    "capacity": 88,
+    "timestamp": "2025-07-23 17:58:21.752522"
+  },
+  {
+    "parking_id": "1e850f80-15c2-4297-ad30-53cea8969e70",
+    "location_name": "Khare Group Parking",
+    "latitude": 12.886330515531894,
+    "longitude": 77.40732694123936,
+    "available_slots": 17,
+    "capacity": 87,
+    "timestamp": "2025-07-23 18:10:21.752524"
+  },
+  {
+    "parking_id": "b1edf3d3-668f-4032-a512-5d2e24b3bc8e",
+    "location_name": "Narula, Prashad and Jha Parking",
+    "latitude": 12.964836088352158,
+    "longitude": 77.51052060293733,
+    "available_slots": 46,
+    "capacity": 31,
+    "timestamp": "2025-07-23 17:27:21.752527"
+  },
+  {
+    "parking_id": "bdce7f65-1a0a-4680-ba42-156e972ec23e",
+    "location_name": "Gour-Ahuja Parking",
+    "latitude": 13.031669771422955,
+    "longitude": 77.41990848922218,
+    "available_slots": 1,
+    "capacity": 65,
+    "timestamp": "2025-07-23 17:23:21.752530"
+  },
+  {
+    "parking_id": "2b3171dc-fa54-4893-a476-231aecdfd364",
+    "location_name": "Anne-Borah Parking",
+    "latitude": 13.062911997933915,
+    "longitude": 77.66828456067758,
+    "available_slots": 28,
+    "capacity": 100,
+    "timestamp": "2025-07-23 18:04:21.752532"
+  },
+  {
+    "parking_id": "32f75350-f9a7-42dc-9d1c-19061090dc9d",
+    "location_name": "Balan-Contractor Parking",
+    "latitude": 13.06385382894847,
+    "longitude": 77.64573760893983,
+    "available_slots": 12,
+    "capacity": 42,
+    "timestamp": "2025-07-23 17:33:21.752535"
+  },
+  {
+    "parking_id": "d8125123-984f-4a56-b344-77eb56b09052",
+    "location_name": "Mannan Group Parking",
+    "latitude": 13.00226188944293,
+    "longitude": 77.51597327655772,
+    "available_slots": 3,
+    "capacity": 44,
+    "timestamp": "2025-07-23 17:27:21.752538"
+  },
+  {
+    "parking_id": "3b9d5832-1f6d-4768-a77f-7c73fd9bfaf3",
+    "location_name": "Parsa Inc Parking",
+    "latitude": 13.11652592124785,
+    "longitude": 77.63648201577247,
+    "available_slots": 41,
+    "capacity": 118,
+    "timestamp": "2025-07-23 17:36:21.752540"
+  },
+  {
+    "parking_id": "7fc5ae23-b9a6-4d75-acb9-6a2cd68e51f0",
+    "location_name": "Issac and Sons Parking",
+    "latitude": 13.086092746557139,
+    "longitude": 77.53857802916859,
+    "available_slots": 44,
+    "capacity": 116,
+    "timestamp": "2025-07-23 18:15:21.752543"
+  },
+  {
+    "parking_id": "c416c07c-b6a7-47b1-83cb-0c28474cfa29",
+    "location_name": "Ghosh-Kanda Parking",
+    "latitude": 13.06496684014452,
+    "longitude": 77.66468882699786,
+    "available_slots": 9,
+    "capacity": 89,
+    "timestamp": "2025-07-23 18:02:21.752545"
+  },
+  {
+    "parking_id": "c19d11c5-45e1-4b77-97f9-71d594f89e6c",
+    "location_name": "Ghosh-Nori Parking",
+    "latitude": 12.819461932588162,
+    "longitude": 77.55896428195786,
+    "available_slots": 30,
+    "capacity": 51,
+    "timestamp": "2025-07-23 18:19:21.752547"
+  },
+  {
+    "parking_id": "f1773294-a4d2-4eae-8d0d-4d73ca1c3218",
+    "location_name": "Korpal, Gokhale and Hayre Parking",
+    "latitude": 12.802407286776878,
+    "longitude": 77.54429790474109,
+    "available_slots": 40,
+    "capacity": 92,
+    "timestamp": "2025-07-23 17:56:21.752550"
+  },
+  {
+    "parking_id": "aaab5830-79cf-404f-9b29-317a6675d5e2",
+    "location_name": "Goda LLC Parking",
+    "latitude": 12.874356547018417,
+    "longitude": 77.72715547042091,
+    "available_slots": 7,
+    "capacity": 119,
+    "timestamp": "2025-07-23 18:17:21.752552"
+  },
+  {
+    "parking_id": "fcce5213-6789-4d92-b33c-4c369a690cad",
+    "location_name": "Bail Ltd Parking",
+    "latitude": 13.03223325786971,
+    "longitude": 77.48780768496175,
+    "available_slots": 2,
+    "capacity": 104,
+    "timestamp": "2025-07-23 18:10:21.752555"
+  },
+  {
+    "parking_id": "25ba4f03-4765-4069-82ec-0fc37c0a5867",
+    "location_name": "Raghavan Ltd Parking",
+    "latitude": 12.943919121108891,
+    "longitude": 77.4421565689988,
+    "available_slots": 47,
+    "capacity": 103,
+    "timestamp": "2025-07-23 17:26:21.752557"
+  },
+  {
+    "parking_id": "1f47d902-1ba8-4a91-b462-f144c49b9e62",
+    "location_name": "Nigam and Sons Parking",
+    "latitude": 12.94084219075476,
+    "longitude": 77.60459008964081,
+    "available_slots": 45,
+    "capacity": 54,
+    "timestamp": "2025-07-23 17:44:21.752559"
+  },
+  {
+    "parking_id": "3b172319-7f4d-45b9-bd45-7a09402d35e8",
+    "location_name": "Shan-Khatri Parking",
+    "latitude": 13.109605410880365,
+    "longitude": 77.73926263429946,
+    "available_slots": 8,
+    "capacity": 77,
+    "timestamp": "2025-07-23 17:31:21.752562"
+  },
+  {
+    "parking_id": "079bf5e6-2275-41e2-b141-52c7a0dcec7d",
+    "location_name": "Pradhan-Garg Parking",
+    "latitude": 13.113446996846143,
+    "longitude": 77.53224372480452,
+    "available_slots": 29,
+    "capacity": 72,
+    "timestamp": "2025-07-23 18:07:21.752564"
+  },
+  {
+    "parking_id": "d48f5ba3-0d87-4c72-bce0-5a63197f9b8d",
+    "location_name": "Saraf, Bhattacharyya and Dani Parking",
+    "latitude": 13.118211342418755,
+    "longitude": 77.42171286727007,
+    "available_slots": 52,
+    "capacity": 67,
+    "timestamp": "2025-07-23 17:26:21.752566"
+  },
+  {
+    "parking_id": "06d903c0-ad98-4301-bf85-c4e711776f21",
+    "location_name": "De and Sons Parking",
+    "latitude": 12.90985732678026,
+    "longitude": 77.51875684355835,
+    "available_slots": 10,
+    "capacity": 70,
+    "timestamp": "2025-07-23 18:06:21.752569"
+  },
+  {
+    "parking_id": "9ac60306-61f4-4c2b-add9-3719f8d9bf33",
+    "location_name": "Walia Group Parking",
+    "latitude": 13.041869534458742,
+    "longitude": 77.57707607901185,
+    "available_slots": 34,
+    "capacity": 74,
+    "timestamp": "2025-07-23 17:39:21.752571"
+  },
+  {
+    "parking_id": "4d8131f5-2719-4fdb-93b3-618bade05648",
+    "location_name": "Prasad, Nadkarni and Sanghvi Parking",
+    "latitude": 12.89507161344603,
+    "longitude": 77.45667305232128,
+    "available_slots": 36,
+    "capacity": 117,
+    "timestamp": "2025-07-23 18:06:21.752573"
+  },
+  {
+    "parking_id": "c29a988f-18a9-4210-9f8c-2c519f3936a5",
+    "location_name": "Konda, Batra and Gulati Parking",
+    "latitude": 12.866713441576058,
+    "longitude": 77.63033577631977,
+    "available_slots": 41,
+    "capacity": 69,
+    "timestamp": "2025-07-23 17:37:21.752576"
+  },
+  {
+    "parking_id": "851b5f38-c069-4f1d-a93c-94131396a289",
+    "location_name": "Menon, Dixit and Narang Parking",
+    "latitude": 12.86462136007158,
+    "longitude": 77.74921228615356,
+    "available_slots": 12,
+    "capacity": 46,
+    "timestamp": "2025-07-23 18:07:21.752578"
+  },
+  {
+    "parking_id": "774d34f5-caf0-4226-be00-0029c47f9b05",
+    "location_name": "Bera Ltd Parking",
+    "latitude": 12.91973766730226,
+    "longitude": 77.5581088165935,
+    "available_slots": 35,
+    "capacity": 117,
+    "timestamp": "2025-07-23 18:03:21.752580"
+  },
+  {
+    "parking_id": "7f764fce-a97e-4131-8b26-f0a333b1cca4",
+    "location_name": "Date-Trivedi Parking",
+    "latitude": 12.950485166922938,
+    "longitude": 77.52415499485558,
+    "available_slots": 55,
+    "capacity": 86,
+    "timestamp": "2025-07-23 17:39:21.752583"
+  },
+  {
+    "parking_id": "8add3976-42fc-4edf-813a-3aa57d810c21",
+    "location_name": "Suresh, Kadakia and Bumb Parking",
+    "latitude": 13.090832209869275,
+    "longitude": 77.54024645839206,
+    "available_slots": 12,
+    "capacity": 31,
+    "timestamp": "2025-07-23 17:54:21.752585"
+  },
+  {
+    "parking_id": "8a601b92-dc13-4c04-8f3a-2f8d57f731e3",
+    "location_name": "Bhattacharyya-Ganesh Parking",
+    "latitude": 12.84196188271545,
+    "longitude": 77.44030116243833,
+    "available_slots": 11,
+    "capacity": 91,
+    "timestamp": "2025-07-23 17:48:21.752588"
+  },
+  {
+    "parking_id": "c3933447-f3dc-40bf-8486-0bee8bef4a76",
+    "location_name": "Rama, Upadhyay and Prasad Parking",
+    "latitude": 13.057224046588214,
+    "longitude": 77.70914576049918,
+    "available_slots": 36,
+    "capacity": 117,
+    "timestamp": "2025-07-23 18:19:21.752590"
+  },
+  {
+    "parking_id": "e14fea78-6e2f-4d3b-bd9f-45f40816d739",
+    "location_name": "Venkataraman-Shetty Parking",
+    "latitude": 12.986009219966258,
+    "longitude": 77.54518897943248,
+    "available_slots": 9,
+    "capacity": 38,
+    "timestamp": "2025-07-23 17:25:21.752592"
+  },
+  {
+    "parking_id": "733ac54f-6235-4144-9e7f-92adea3973ff",
+    "location_name": "Nagy Ltd Parking",
+    "latitude": 12.900780869936598,
+    "longitude": 77.53554604399869,
+    "available_slots": 59,
+    "capacity": 97,
+    "timestamp": "2025-07-23 17:31:21.752595"
+  },
+  {
+    "parking_id": "714b5c03-6057-47cf-9a55-f8255086f384",
+    "location_name": "Vora-Subramanian Parking",
+    "latitude": 12.972486854586489,
+    "longitude": 77.63089159552567,
+    "available_slots": 55,
+    "capacity": 110,
+    "timestamp": "2025-07-23 17:31:21.752598"
+  },
+  {
+    "parking_id": "2d474c4f-0869-4ffa-8936-0f0275ac0819",
+    "location_name": "Talwar, Som and Loyal Parking",
+    "latitude": 12.904979724421958,
+    "longitude": 77.5547116973259,
+    "available_slots": 8,
+    "capacity": 46,
+    "timestamp": "2025-07-23 17:37:21.752621"
+  },
+  {
+    "parking_id": "c7859c05-dc40-4942-a8cf-29368e81b2f0",
+    "location_name": "Rattan, Bansal and Johal Parking",
+    "latitude": 13.008628684333408,
+    "longitude": 77.62688171408274,
+    "available_slots": 51,
+    "capacity": 79,
+    "timestamp": "2025-07-23 18:20:21.752624"
+  },
+  {
+    "parking_id": "2a055b69-b4c0-4bdf-a27b-b6c44d945434",
+    "location_name": "Jain Group Parking",
+    "latitude": 12.951845372999337,
+    "longitude": 77.42150620154578,
+    "available_slots": 6,
+    "capacity": 69,
+    "timestamp": "2025-07-23 17:50:21.752626"
+  },
+  {
+    "parking_id": "4ffd5b7a-226d-424f-ae41-1e237dd19b8f",
+    "location_name": "Randhawa and Sons Parking",
+    "latitude": 12.857541935177608,
+    "longitude": 77.68480317030279,
+    "available_slots": 1,
+    "capacity": 87,
+    "timestamp": "2025-07-23 17:22:21.752629"
+  },
+  {
+    "parking_id": "c3963bf9-7cc9-4887-a39a-c771b739a28a",
+    "location_name": "Sandal-Purohit Parking",
+    "latitude": 12.840804076094495,
+    "longitude": 77.72917638350779,
+    "available_slots": 53,
+    "capacity": 104,
+    "timestamp": "2025-07-23 18:12:21.752631"
+  },
+  {
+    "parking_id": "7d94ed9f-acce-493e-91a0-7ef21c007554",
+    "location_name": "Dugar, Prasad and Kumar Parking",
+    "latitude": 12.991343488725246,
+    "longitude": 77.62706788515578,
+    "available_slots": 55,
+    "capacity": 114,
+    "timestamp": "2025-07-23 17:39:21.752634"
+  },
+  {
+    "parking_id": "8a159e92-af74-4e63-8dc4-c81fa8fae904",
+    "location_name": "Chad, Desai and Chad Parking",
+    "latitude": 13.115844561650137,
+    "longitude": 77.73409807510059,
+    "available_slots": 59,
+    "capacity": 50,
+    "timestamp": "2025-07-23 18:09:21.752636"
+  },
+  {
+    "parking_id": "8feff87b-79d5-4e9f-b846-0474927c5ea7",
+    "location_name": "Saxena-Venkataraman Parking",
+    "latitude": 12.92038519029519,
+    "longitude": 77.45300131002949,
+    "available_slots": 22,
+    "capacity": 47,
+    "timestamp": "2025-07-23 17:42:21.752639"
+  },
+  {
+    "parking_id": "0e44c9dc-81b6-4c87-a803-feb5dab6c73d",
+    "location_name": "Karpe-Barman Parking",
+    "latitude": 13.056550037527918,
+    "longitude": 77.56709566631812,
+    "available_slots": 38,
+    "capacity": 84,
+    "timestamp": "2025-07-23 17:29:21.752641"
+  },
+  {
+    "parking_id": "974ebb87-7ea4-43e5-836d-977b6431cbbe",
+    "location_name": "Vala-Nayar Parking",
+    "latitude": 13.030531474228919,
+    "longitude": 77.61063235688091,
+    "available_slots": 39,
+    "capacity": 58,
+    "timestamp": "2025-07-23 18:20:21.752644"
+  },
+  {
+    "parking_id": "ad2e4db8-9def-423f-a0b7-59a9f88afc64",
+    "location_name": "Seshadri-Sibal Parking",
+    "latitude": 13.12604422000832,
+    "longitude": 77.60360782659741,
+    "available_slots": 38,
+    "capacity": 53,
+    "timestamp": "2025-07-23 18:06:21.752647"
+  },
+  {
+    "parking_id": "48d0e602-fa4f-4ba8-8437-6d895a4eb9f3",
+    "location_name": "Rege-Pillai Parking",
+    "latitude": 13.0873433560547,
+    "longitude": 77.54051162268117,
+    "available_slots": 20,
+    "capacity": 103,
+    "timestamp": "2025-07-23 18:04:21.752649"
+  },
+  {
+    "parking_id": "97289c5e-0734-4403-8fb9-7b5d520b28f6",
+    "location_name": "Nadig-Mahajan Parking",
+    "latitude": 12.998311840616912,
+    "longitude": 77.5183295432782,
+    "available_slots": 22,
+    "capacity": 46,
+    "timestamp": "2025-07-23 17:42:21.752652"
+  },
+  {
+    "parking_id": "5dcd0d40-d641-4102-a0d1-968f0b8ce21f",
+    "location_name": "Bakshi-Gola Parking",
+    "latitude": 13.029960674381938,
+    "longitude": 77.44438840789265,
+    "available_slots": 28,
+    "capacity": 47,
+    "timestamp": "2025-07-23 17:29:21.752655"
+  },
+  {
+    "parking_id": "957edc3c-bdf7-44c8-8f3e-e4aa594ffd27",
+    "location_name": "Kaur-Lanka Parking",
+    "latitude": 13.114435263304413,
+    "longitude": 77.5371098576968,
+    "available_slots": 13,
+    "capacity": 71,
+    "timestamp": "2025-07-23 17:20:21.752658"
+  },
+  {
+    "parking_id": "a00a06e6-e42f-4c28-83e3-c14806e2e861",
+    "location_name": "Borra, Parmer and Butala Parking",
+    "latitude": 12.939831574605428,
+    "longitude": 77.45693128528693,
+    "available_slots": 25,
+    "capacity": 113,
+    "timestamp": "2025-07-23 18:01:21.752661"
+  },
+  {
+    "parking_id": "6d9b1eb1-18eb-4ed7-a16d-41c8575c9669",
+    "location_name": "Thaker-Varghese Parking",
+    "latitude": 12.914378147050222,
+    "longitude": 77.65702798677228,
+    "available_slots": 50,
+    "capacity": 74,
+    "timestamp": "2025-07-23 17:35:21.752664"
+  },
+  {
+    "parking_id": "697437ea-5b7c-47e8-bdf0-2450585b4b17",
+    "location_name": "Brar, Malhotra and Kari Parking",
+    "latitude": 12.80378387927232,
+    "longitude": 77.4730908274231,
+    "available_slots": 4,
+    "capacity": 111,
+    "timestamp": "2025-07-23 17:35:21.752667"
+  },
+  {
+    "parking_id": "3e85c8c4-a947-4663-8e73-752359ecc846",
+    "location_name": "Dani Inc Parking",
+    "latitude": 13.089292875967013,
+    "longitude": 77.4204978568496,
+    "available_slots": 54,
+    "capacity": 46,
+    "timestamp": "2025-07-23 17:39:21.752670"
+  },
+  {
+    "parking_id": "4fe5c13b-a5e8-4198-bc10-316d3f63a065",
+    "location_name": "Barad-Iyer Parking",
+    "latitude": 13.080343245141178,
+    "longitude": 77.59332814823604,
+    "available_slots": 30,
+    "capacity": 102,
+    "timestamp": "2025-07-23 18:03:21.752672"
+  },
+  {
+    "parking_id": "b020321b-e90f-4137-95be-bdd097b027ce",
+    "location_name": "Hegde-Narayan Parking",
+    "latitude": 12.836559081335054,
+    "longitude": 77.6083304064518,
+    "available_slots": 24,
+    "capacity": 43,
+    "timestamp": "2025-07-23 17:53:21.752675"
+  },
+  {
+    "parking_id": "1d4dfdb1-4e0e-4e2e-9e72-d97010c49f9e",
+    "location_name": "Mittal-Maharaj Parking",
+    "latitude": 13.001900083396446,
+    "longitude": 77.70516957144818,
+    "available_slots": 30,
+    "capacity": 78,
+    "timestamp": "2025-07-23 17:23:21.752678"
+  },
+  {
+    "parking_id": "89d5af23-050b-4848-ab76-a718566c93cc",
+    "location_name": "Devi Ltd Parking",
+    "latitude": 12.962393594358412,
+    "longitude": 77.60194356434619,
+    "available_slots": 49,
+    "capacity": 58,
+    "timestamp": "2025-07-23 17:56:21.752680"
+  },
+  {
+    "parking_id": "a863782e-75fe-4857-8991-946d537c64b0",
+    "location_name": "Lal, Anand and Mistry Parking",
+    "latitude": 12.84154818342819,
+    "longitude": 77.52091829880321,
+    "available_slots": 19,
+    "capacity": 33,
+    "timestamp": "2025-07-23 17:26:21.752683"
+  },
+  {
+    "parking_id": "83c74cbe-916b-4f87-ac27-316bdd05b827",
+    "location_name": "Pal-Raval Parking",
+    "latitude": 13.143198879471253,
+    "longitude": 77.68105415853421,
+    "available_slots": 43,
+    "capacity": 111,
+    "timestamp": "2025-07-23 17:58:21.752686"
+  },
+  {
+    "parking_id": "05391557-4441-42a5-abd1-f826e6c2cbb7",
+    "location_name": "Arora-Sodhi Parking",
+    "latitude": 12.875143560612175,
+    "longitude": 77.5890976126156,
+    "available_slots": 54,
+    "capacity": 49,
+    "timestamp": "2025-07-23 17:51:21.752688"
+  },
+  {
+    "parking_id": "05b149a0-9686-4676-b83e-40abb22a55a6",
+    "location_name": "Vala, Dixit and Rao Parking",
+    "latitude": 12.823531963031698,
+    "longitude": 77.42774809962093,
+    "available_slots": 16,
+    "capacity": 76,
+    "timestamp": "2025-07-23 18:04:21.752691"
+  },
+  {
+    "parking_id": "9202b09c-60b3-4938-9107-1545fc5b14bd",
+    "location_name": "Karan Ltd Parking",
+    "latitude": 13.008196582825668,
+    "longitude": 77.59804769610965,
+    "available_slots": 44,
+    "capacity": 38,
+    "timestamp": "2025-07-23 18:07:21.752695"
+  },
+  {
+    "parking_id": "19048ca7-9291-4493-928a-34f363eac0a1",
+    "location_name": "Kadakia, Som and Kaur Parking",
+    "latitude": 13.058603336996562,
+    "longitude": 77.71780649089759,
+    "available_slots": 1,
+    "capacity": 106,
+    "timestamp": "2025-07-23 17:51:21.752697"
+  },
+  {
+    "parking_id": "b0dc75fb-199d-4089-bd05-121cceee7d65",
+    "location_name": "Sidhu, Shenoy and Oak Parking",
+    "latitude": 12.811355206116517,
+    "longitude": 77.53870941892438,
+    "available_slots": 24,
+    "capacity": 108,
+    "timestamp": "2025-07-23 18:01:21.752700"
+  },
+  {
+    "parking_id": "7f29c9e7-5601-46a5-b4b6-685dacd4180a",
+    "location_name": "Munshi and Sons Parking",
+    "latitude": 13.030551173554459,
+    "longitude": 77.50371403066494,
+    "available_slots": 12,
+    "capacity": 56,
+    "timestamp": "2025-07-23 17:37:21.752702"
+  },
+  {
+    "parking_id": "aad9e93d-c3d0-4de3-8fbb-a84a80b57013",
+    "location_name": "Sahni-Kadakia Parking",
+    "latitude": 12.98630215658301,
+    "longitude": 77.45021430995631,
+    "available_slots": 57,
+    "capacity": 44,
+    "timestamp": "2025-07-23 17:47:21.752705"
+  },
+  {
+    "parking_id": "4cad66c5-9d65-4c03-aaa8-14da56ec0e55",
+    "location_name": "Sengupta-Balan Parking",
+    "latitude": 12.836142753106268,
+    "longitude": 77.45300593267739,
+    "available_slots": 38,
+    "capacity": 48,
+    "timestamp": "2025-07-23 17:28:21.752708"
+  },
+  {
+    "parking_id": "33a67403-6f9d-4d74-b82c-6ad85d037a06",
+    "location_name": "Dewan-Dave Parking",
+    "latitude": 12.860383356931228,
+    "longitude": 77.55147001951964,
+    "available_slots": 27,
+    "capacity": 119,
+    "timestamp": "2025-07-23 17:41:21.752710"
+  },
+  {
+    "parking_id": "f95f17e6-d8ea-431b-a2ac-78967f383a3e",
+    "location_name": "Andra-Tata Parking",
+    "latitude": 12.998791004060628,
+    "longitude": 77.60848793845653,
+    "available_slots": 41,
+    "capacity": 81,
+    "timestamp": "2025-07-23 17:55:21.752713"
+  },
+  {
+    "parking_id": "d9af8224-d723-4ce3-9348-3fb3c982a300",
+    "location_name": "Pant, Nori and Kar Parking",
+    "latitude": 12.903725164729652,
+    "longitude": 77.42821539180936,
+    "available_slots": 54,
+    "capacity": 55,
+    "timestamp": "2025-07-23 17:43:21.752715"
+  },
+  {
+    "parking_id": "43e1346d-4990-4258-b6cd-f42f892c6b33",
+    "location_name": "Sandal-Raval Parking",
+    "latitude": 13.128410505027961,
+    "longitude": 77.72884900615881,
+    "available_slots": 5,
+    "capacity": 118,
+    "timestamp": "2025-07-23 18:14:21.752718"
+  },
+  {
+    "parking_id": "92d2408e-ff08-4739-8c1d-2e430c2b03e4",
+    "location_name": "Yogi, Mistry and Nanda Parking",
+    "latitude": 13.086559080319418,
+    "longitude": 77.66429676610582,
+    "available_slots": 2,
+    "capacity": 55,
+    "timestamp": "2025-07-23 18:20:21.752720"
+  },
+  {
+    "parking_id": "9fe3f824-39d3-49cf-8dfa-76af66eb43b0",
+    "location_name": "Bajaj, Balay and Dewan Parking",
+    "latitude": 13.144248522279783,
+    "longitude": 77.60531837139928,
+    "available_slots": 57,
+    "capacity": 55,
+    "timestamp": "2025-07-23 17:48:21.752723"
+  },
+  {
+    "parking_id": "b7bba2aa-178a-4c73-b53b-a020be2de8c8",
+    "location_name": "Narayanan PLC Parking",
+    "latitude": 12.890884793632646,
+    "longitude": 77.68995353482865,
+    "available_slots": 34,
+    "capacity": 75,
+    "timestamp": "2025-07-23 17:38:21.752725"
+  },
+  {
+    "parking_id": "9784713d-1840-4642-9404-7909d81ca1a0",
+    "location_name": "Raman, Raj and Jayaraman Parking",
+    "latitude": 13.139403271479292,
+    "longitude": 77.42806536488425,
+    "available_slots": 17,
+    "capacity": 78,
+    "timestamp": "2025-07-23 17:27:21.752728"
+  },
+  {
+    "parking_id": "910171d2-1138-478b-85fb-3e8a563b04fa",
+    "location_name": "Bhatt-Warrior Parking",
+    "latitude": 12.950931854427045,
+    "longitude": 77.5668936072066,
+    "available_slots": 10,
+    "capacity": 111,
+    "timestamp": "2025-07-23 17:27:21.752731"
+  },
+  {
+    "parking_id": "6d56cfd5-79ab-4018-87f3-c9a4cd1a810d",
+    "location_name": "Guha-Soman Parking",
+    "latitude": 12.921631578359815,
+    "longitude": 77.62053259440158,
+    "available_slots": 53,
+    "capacity": 82,
+    "timestamp": "2025-07-23 17:57:21.752733"
+  },
+  {
+    "parking_id": "13a0181b-cbaf-4542-98e9-bbad35b1773c",
+    "location_name": "Narasimhan PLC Parking",
+    "latitude": 12.817622334439275,
+    "longitude": 77.6900285171414,
+    "available_slots": 19,
+    "capacity": 32,
+    "timestamp": "2025-07-23 17:45:21.752736"
+  },
+  {
+    "parking_id": "81300e68-4d45-4885-92e0-8e57a6cb1dda",
+    "location_name": "Modi-Chander Parking",
+    "latitude": 12.818467840250861,
+    "longitude": 77.67421434601725,
+    "available_slots": 4,
+    "capacity": 95,
+    "timestamp": "2025-07-23 17:39:21.752739"
+  },
+  {
+    "parking_id": "a9d84c4f-6ed3-48be-8cc6-d67ecddb3f9e",
+    "location_name": "Chawla Ltd Parking",
+    "latitude": 13.042203939581329,
+    "longitude": 77.4969742373997,
+    "available_slots": 18,
+    "capacity": 71,
+    "timestamp": "2025-07-23 17:42:21.752742"
+  },
+  {
+    "parking_id": "6a107fb7-3338-4ec9-9037-e6698a3a0129",
+    "location_name": "Goel, Balay and Suresh Parking",
+    "latitude": 12.96027514805191,
+    "longitude": 77.72930805934573,
+    "available_slots": 21,
+    "capacity": 48,
+    "timestamp": "2025-07-23 17:42:21.752744"
+  },
+  {
+    "parking_id": "83ef3ce9-9ffd-41e7-8052-e3a566fd3215",
+    "location_name": "Grover and Sons Parking",
+    "latitude": 12.879282569112638,
+    "longitude": 77.44352104450081,
+    "available_slots": 58,
+    "capacity": 46,
+    "timestamp": "2025-07-23 18:02:21.752747"
+  },
+  {
+    "parking_id": "8c2d0e27-c370-42e2-abeb-5f497406ca32",
+    "location_name": "Raju LLC Parking",
+    "latitude": 13.014889607213831,
+    "longitude": 77.7062967665174,
+    "available_slots": 59,
+    "capacity": 62,
+    "timestamp": "2025-07-23 18:01:21.752750"
+  },
+  {
+    "parking_id": "a0ba6142-04c3-4fed-a182-701b2e3bdb69",
+    "location_name": "Kaul LLC Parking",
+    "latitude": 12.88850034138754,
+    "longitude": 77.73982908736161,
+    "available_slots": 18,
+    "capacity": 105,
+    "timestamp": "2025-07-23 17:37:21.752752"
+  },
+  {
+    "parking_id": "2fc10403-dcda-4cc1-8427-4378b40d8aef",
+    "location_name": "Viswanathan, Boase and Sha Parking",
+    "latitude": 13.002171114020548,
+    "longitude": 77.46200373312793,
+    "available_slots": 46,
+    "capacity": 78,
+    "timestamp": "2025-07-23 18:14:21.752755"
+  },
+  {
+    "parking_id": "a92a9880-3684-4339-bfcb-cf3193ac009a",
+    "location_name": "Pillay PLC Parking",
+    "latitude": 12.925723061443943,
+    "longitude": 77.65272312247133,
+    "available_slots": 15,
+    "capacity": 85,
+    "timestamp": "2025-07-23 17:50:21.752758"
+  },
+  {
+    "parking_id": "f0278488-be01-4802-92eb-a277f64d4de0",
+    "location_name": "Garg LLC Parking",
+    "latitude": 13.088243279314137,
+    "longitude": 77.41409993157231,
+    "available_slots": 23,
+    "capacity": 92,
+    "timestamp": "2025-07-23 18:16:21.752761"
+  },
+  {
+    "parking_id": "a34f2452-efe9-48c9-8497-734d77a0aa7f",
+    "location_name": "Raman-Dugar Parking",
+    "latitude": 13.087243656268374,
+    "longitude": 77.54189798879871,
+    "available_slots": 40,
+    "capacity": 32,
+    "timestamp": "2025-07-23 17:59:21.752764"
+  },
+  {
+    "parking_id": "da4f706b-9d4a-478b-8f16-43a088604b56",
+    "location_name": "Dayal PLC Parking",
+    "latitude": 12.967072639342842,
+    "longitude": 77.58069915471918,
+    "available_slots": 3,
+    "capacity": 78,
+    "timestamp": "2025-07-23 18:03:21.752768"
+  },
+  {
+    "parking_id": "ef444cf5-6f08-4155-a826-6484c4e4fe52",
+    "location_name": "Sridhar-Biswas Parking",
+    "latitude": 12.922786688267257,
+    "longitude": 77.60322582906838,
+    "available_slots": 14,
+    "capacity": 84,
+    "timestamp": "2025-07-23 17:40:21.752771"
+  },
+  {
+    "parking_id": "0f546781-a073-4e57-ba03-71f990ed01d3",
+    "location_name": "Jhaveri-De Parking",
+    "latitude": 12.926895928795684,
+    "longitude": 77.727578036887,
+    "available_slots": 24,
+    "capacity": 55,
+    "timestamp": "2025-07-23 18:00:21.752774"
+  },
+  {
+    "parking_id": "76658707-5d41-4ac5-b35d-ab4685b375aa",
+    "location_name": "Mukherjee Group Parking",
+    "latitude": 13.082000083983877,
+    "longitude": 77.63528774055297,
+    "available_slots": 43,
+    "capacity": 101,
+    "timestamp": "2025-07-23 17:25:21.752777"
+  },
+  {
+    "parking_id": "bf164454-2685-402c-bd89-25a925d287d0",
+    "location_name": "Soman, Dutt and Mukherjee Parking",
+    "latitude": 12.914862818979165,
+    "longitude": 77.56844728292674,
+    "available_slots": 54,
+    "capacity": 81,
+    "timestamp": "2025-07-23 18:03:21.752780"
+  },
+  {
+    "parking_id": "d8186112-4cde-4ddb-83f9-c78caf704164",
+    "location_name": "Jain, Thakkar and Shanker Parking",
+    "latitude": 12.873170780797397,
+    "longitude": 77.68338626269306,
+    "available_slots": 34,
+    "capacity": 36,
+    "timestamp": "2025-07-23 18:04:21.752782"
+  },
+  {
+    "parking_id": "dc352577-5193-412d-a906-d1186f75a3b2",
+    "location_name": "Jaggi-Amble Parking",
+    "latitude": 12.829640919656358,
+    "longitude": 77.73268648733405,
+    "available_slots": 54,
+    "capacity": 75,
+    "timestamp": "2025-07-23 17:39:21.752785"
+  },
+  {
+    "parking_id": "a2491260-107e-428c-a940-53afd488edff",
+    "location_name": "Sehgal Inc Parking",
+    "latitude": 12.963342592309543,
+    "longitude": 77.40772315203881,
+    "available_slots": 13,
+    "capacity": 75,
+    "timestamp": "2025-07-23 17:35:21.752788"
+  },
+  {
+    "parking_id": "4455d60e-6995-4fd1-9891-4adf341c612a",
+    "location_name": "Koshy-Vora Parking",
+    "latitude": 12.968746234621944,
+    "longitude": 77.74388244528961,
+    "available_slots": 48,
+    "capacity": 45,
+    "timestamp": "2025-07-23 17:20:21.752790"
+  },
+  {
+    "parking_id": "291c0da1-a563-4d3a-897b-c13bd2deb47d",
+    "location_name": "Swaminathan-Sharma Parking",
+    "latitude": 13.094318048641018,
+    "longitude": 77.43014624867229,
+    "available_slots": 18,
+    "capacity": 53,
+    "timestamp": "2025-07-23 17:23:21.752793"
+  },
+  {
+    "parking_id": "3c73013b-99ea-4bbd-afd5-b90b41a67c90",
+    "location_name": "Baral-Chand Parking",
+    "latitude": 12.877433543756123,
+    "longitude": 77.68503537274407,
+    "available_slots": 37,
+    "capacity": 90,
+    "timestamp": "2025-07-23 17:39:21.752796"
+  },
+  {
+    "parking_id": "2663ed11-1d12-4ccf-bd0d-3ffd67e6d49a",
+    "location_name": "Shan-Palan Parking",
+    "latitude": 12.93334694578394,
+    "longitude": 77.498117163393,
+    "available_slots": 35,
+    "capacity": 83,
+    "timestamp": "2025-07-23 18:01:21.752799"
+  },
+  {
+    "parking_id": "cc0b200d-3ede-438e-8717-9ef331216863",
+    "location_name": "Mishra, Raman and Gill Parking",
+    "latitude": 13.082942008612791,
+    "longitude": 77.44626288021387,
+    "available_slots": 6,
+    "capacity": 91,
+    "timestamp": "2025-07-23 18:08:21.752802"
+  },
+  {
+    "parking_id": "7c420494-76d3-4b96-8f7f-963ed3c544a3",
+    "location_name": "Krish-Gola Parking",
+    "latitude": 13.08826826376214,
+    "longitude": 77.55394947389985,
+    "available_slots": 29,
+    "capacity": 30,
+    "timestamp": "2025-07-23 18:11:21.752805"
+  },
+  {
+    "parking_id": "6c097204-6fa6-481c-bdc5-62858f50b11f",
+    "location_name": "Sankaran, Shankar and Rajagopalan Parking",
+    "latitude": 12.93461387659257,
+    "longitude": 77.62538480280666,
+    "available_slots": 18,
+    "capacity": 78,
+    "timestamp": "2025-07-23 17:47:21.752807"
+  },
+  {
+    "parking_id": "33b5a667-0979-43a0-a7d9-0c1ba59caeed",
+    "location_name": "Goswami, Chandran and Ramaswamy Parking",
+    "latitude": 12.96069340815034,
+    "longitude": 77.53333314575822,
+    "available_slots": 48,
+    "capacity": 54,
+    "timestamp": "2025-07-23 17:32:21.752810"
+  },
+  {
+    "parking_id": "0775d778-22ed-4e25-85d0-738228cbb7ca",
+    "location_name": "Bassi, Khatri and Dugar Parking",
+    "latitude": 12.90615006179725,
+    "longitude": 77.41909789289895,
+    "available_slots": 24,
+    "capacity": 39,
+    "timestamp": "2025-07-23 18:05:21.752813"
+  },
+  {
+    "parking_id": "471c10ae-cdb4-4dab-8a27-cd6942264ba4",
+    "location_name": "Yogi-Manne Parking",
+    "latitude": 13.12639420744676,
+    "longitude": 77.60981139888055,
+    "available_slots": 15,
+    "capacity": 109,
+    "timestamp": "2025-07-23 17:23:21.752816"
+  },
+  {
+    "parking_id": "a4f0708a-2d0d-4e1d-8cfb-137ca89ea4df",
+    "location_name": "Bhavsar, Kalla and Tak Parking",
+    "latitude": 12.841525318009554,
+    "longitude": 77.71584114663874,
+    "available_slots": 46,
+    "capacity": 45,
+    "timestamp": "2025-07-23 18:17:21.752819"
+  },
+  {
+    "parking_id": "b8f40e5e-f6ba-4ccc-8acf-bd89da3ed15a",
+    "location_name": "Dara-Pillay Parking",
+    "latitude": 13.126812298050515,
+    "longitude": 77.53412537808154,
+    "available_slots": 53,
+    "capacity": 87,
+    "timestamp": "2025-07-23 17:29:21.752821"
+  },
+  {
+    "parking_id": "0e29ed9a-0518-4d4d-8840-789b7c602399",
+    "location_name": "Cheema PLC Parking",
+    "latitude": 13.03935325814237,
+    "longitude": 77.47571647217079,
+    "available_slots": 39,
+    "capacity": 101,
+    "timestamp": "2025-07-23 17:26:21.752824"
+  },
+  {
+    "parking_id": "505c1021-157c-4813-a581-620fdc0db266",
+    "location_name": "Rout-Seshadri Parking",
+    "latitude": 12.986050253440357,
+    "longitude": 77.55490207107648,
+    "available_slots": 50,
+    "capacity": 58,
+    "timestamp": "2025-07-23 17:29:21.752827"
+  },
+  {
+    "parking_id": "1046e3df-ddfe-4849-8c48-5cfc9a0270da",
+    "location_name": "Krishnan and Sons Parking",
+    "latitude": 12.811430671274575,
+    "longitude": 77.41692694886707,
+    "available_slots": 7,
+    "capacity": 35,
+    "timestamp": "2025-07-23 17:29:21.752830"
+  },
+  {
+    "parking_id": "e592ee7c-6831-49c6-b480-ada5e68c1348",
+    "location_name": "Basu, Shere and Bala Parking",
+    "latitude": 12.966458667137703,
+    "longitude": 77.68717065456809,
+    "available_slots": 17,
+    "capacity": 45,
+    "timestamp": "2025-07-23 17:42:21.752833"
+  },
+  {
+    "parking_id": "e2be80e1-a84d-4f25-abf2-b3695d0a06d3",
+    "location_name": "Shenoy Group Parking",
+    "latitude": 12.942711836750957,
+    "longitude": 77.68921928383257,
+    "available_slots": 27,
+    "capacity": 49,
+    "timestamp": "2025-07-23 17:55:21.752836"
+  },
+  {
+    "parking_id": "d6fdd1a5-f173-42f4-a59a-e9f2171e5028",
+    "location_name": "Rastogi-Hayer Parking",
+    "latitude": 12.856426584191293,
+    "longitude": 77.60580016220037,
+    "available_slots": 15,
+    "capacity": 109,
+    "timestamp": "2025-07-23 17:38:21.752839"
+  },
+  {
+    "parking_id": "3c6d3173-23fb-401f-97be-7b4fb9676dc6",
+    "location_name": "Barad-Anne Parking",
+    "latitude": 13.029743361225231,
+    "longitude": 77.52358601112844,
+    "available_slots": 51,
+    "capacity": 100,
+    "timestamp": "2025-07-23 18:00:21.752842"
+  },
+  {
+    "parking_id": "80104995-bc06-486b-922b-4fb21ca79972",
+    "location_name": "Contractor-Deshpande Parking",
+    "latitude": 13.1399028175789,
+    "longitude": 77.67992417755603,
+    "available_slots": 18,
+    "capacity": 107,
+    "timestamp": "2025-07-23 17:37:21.752845"
+  },
+  {
+    "parking_id": "aa0a2259-859f-42bb-9ee2-6f39eed4db89",
+    "location_name": "Shetty-Sundaram Parking",
+    "latitude": 12.996766083872584,
+    "longitude": 77.59414045867594,
+    "available_slots": 41,
+    "capacity": 72,
+    "timestamp": "2025-07-23 18:12:21.752848"
+  },
+  {
+    "parking_id": "c66dfe25-f31d-4e25-9496-634fd438231d",
+    "location_name": "Bir-Butala Parking",
+    "latitude": 13.050163646755381,
+    "longitude": 77.68907630799251,
+    "available_slots": 16,
+    "capacity": 55,
+    "timestamp": "2025-07-23 17:34:21.752851"
+  },
+  {
+    "parking_id": "7f176b55-4076-4e21-8677-72d3ee7a6de6",
+    "location_name": "Kibe, Sarma and Dey Parking",
+    "latitude": 12.823957658398106,
+    "longitude": 77.62101057740406,
+    "available_slots": 44,
+    "capacity": 119,
+    "timestamp": "2025-07-23 18:19:21.752854"
+  },
+  {
+    "parking_id": "998de3d8-3cf2-4ade-971a-8b65e272d7ca",
+    "location_name": "Mallick-Edwin Parking",
+    "latitude": 12.94618344853595,
+    "longitude": 77.67454191562447,
+    "available_slots": 12,
+    "capacity": 107,
+    "timestamp": "2025-07-23 17:39:21.752857"
+  },
+  {
+    "parking_id": "503ba8c3-ce83-4e27-85ef-d6701f4d88ce",
+    "location_name": "Badami PLC Parking",
+    "latitude": 12.840725469807575,
+    "longitude": 77.60949704762622,
+    "available_slots": 6,
+    "capacity": 100,
+    "timestamp": "2025-07-23 17:49:21.752859"
+  },
+  {
+    "parking_id": "bcbb859a-9596-4725-9513-da02544c14d1",
+    "location_name": "Goel LLC Parking",
+    "latitude": 13.014478542437779,
+    "longitude": 77.54494937387548,
+    "available_slots": 26,
+    "capacity": 62,
+    "timestamp": "2025-07-23 18:02:21.752862"
+  },
+  {
+    "parking_id": "be741860-bf95-4403-8e4b-a2bb63d3ce8e",
+    "location_name": "Warrior Ltd Parking",
+    "latitude": 13.128468755374955,
+    "longitude": 77.73528105097415,
+    "available_slots": 9,
+    "capacity": 55,
+    "timestamp": "2025-07-23 18:04:21.752865"
+  },
+  {
+    "parking_id": "37cf65ca-6c41-4493-af7c-ef263c667012",
+    "location_name": "Ganguly-Brahmbhatt Parking",
+    "latitude": 13.031622206365075,
+    "longitude": 77.5893898387076,
+    "available_slots": 33,
+    "capacity": 74,
+    "timestamp": "2025-07-23 17:22:21.752868"
+  },
+  {
+    "parking_id": "36cfd2d5-2cd6-48df-9b58-29c924ef65a7",
+    "location_name": "Apte, Mahajan and Dube Parking",
+    "latitude": 12.826881066910047,
+    "longitude": 77.6117813314892,
+    "available_slots": 35,
+    "capacity": 113,
+    "timestamp": "2025-07-23 17:54:21.752871"
+  },
+  {
+    "parking_id": "688b4cfb-7081-45fd-8648-bbe8f84ce7a9",
+    "location_name": "Parmar-Gokhale Parking",
+    "latitude": 12.92413317174478,
+    "longitude": 77.47717067379517,
+    "available_slots": 24,
+    "capacity": 92,
+    "timestamp": "2025-07-23 17:55:21.752873"
+  },
+  {
+    "parking_id": "0e512083-96e8-4922-9ce7-0289411a315b",
+    "location_name": "Banerjee Ltd Parking",
+    "latitude": 12.992732182804298,
+    "longitude": 77.61897777629954,
+    "available_slots": 5,
+    "capacity": 96,
+    "timestamp": "2025-07-23 17:56:21.752876"
+  },
+  {
+    "parking_id": "b31a25b5-5fec-4a6e-8891-7cf57d8823d2",
+    "location_name": "Kalita, Sathe and Batta Parking",
+    "latitude": 12.941122714646639,
+    "longitude": 77.60006267731903,
+    "available_slots": 23,
+    "capacity": 81,
+    "timestamp": "2025-07-23 17:33:21.752879"
+  },
+  {
+    "parking_id": "8bb5f242-5105-4c35-9ceb-08fef2deb798",
+    "location_name": "Virk, Chauhan and Ramakrishnan Parking",
+    "latitude": 13.091775403666311,
+    "longitude": 77.46469343928146,
+    "available_slots": 17,
+    "capacity": 97,
+    "timestamp": "2025-07-23 18:18:21.752882"
+  },
+  {
+    "parking_id": "3f10938c-aec7-4267-b990-0a276c7ceeb7",
+    "location_name": "Morar, Sawhney and Ben Parking",
+    "latitude": 13.085134851648498,
+    "longitude": 77.42085548407361,
+    "available_slots": 22,
+    "capacity": 55,
+    "timestamp": "2025-07-23 17:43:21.752885"
+  },
+  {
+    "parking_id": "c8c621be-e122-4e75-8719-8f5cf69bd596",
+    "location_name": "Agrawal, Bava and Purohit Parking",
+    "latitude": 13.014140857036129,
+    "longitude": 77.61152576190017,
+    "available_slots": 5,
+    "capacity": 104,
+    "timestamp": "2025-07-23 17:35:21.752888"
+  }
+]

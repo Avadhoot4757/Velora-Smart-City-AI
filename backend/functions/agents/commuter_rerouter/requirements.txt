@@ -1,0 +1,7 @@
+google-cloud-pubsub 
+google-cloud-firestore 
+firebase-admin 
+vertexai 
+googlemaps 
+requests
+

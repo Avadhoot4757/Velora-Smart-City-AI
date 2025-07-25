@@ -1,0 +1,4002 @@
+[
+  {
+    "record_id": "3fec5325-edc7-4f12-b3a5-1ac6c461994d",
+    "timestamp": "2025-07-01 11:29:56.279306",
+    "latitude": 13.014603168886056,
+    "longitude": 77.40440874044513,
+    "AQI": 165,
+    "noise_dB": 69
+  },
+  {
+    "record_id": "3332432b-3d10-4a95-a8a4-42385fe8b710",
+    "timestamp": "2025-07-04 17:00:31.819671",
+    "latitude": 13.081960776569584,
+    "longitude": 77.62556977153221,
+    "AQI": 110,
+    "noise_dB": 51
+  },
+  {
+    "record_id": "07275940-6bf3-4656-841b-1878176519e7",
+    "timestamp": "2025-07-05 01:06:11.493342",
+    "latitude": 12.904884039344523,
+    "longitude": 77.46400258436421,
+    "AQI": 265,
+    "noise_dB": 82
+  },
+  {
+    "record_id": "d20e0734-564d-46aa-83ba-33a0fd42269c",
+    "timestamp": "2025-07-09 23:21:55.596622",
+    "latitude": 13.13673573645776,
+    "longitude": 77.48134141617506,
+    "AQI": 238,
+    "noise_dB": 72
+  },
+  {
+    "record_id": "102c01a3-ab40-4598-ae11-d3c23130dc8f",
+    "timestamp": "2025-07-14 20:04:37.225083",
+    "latitude": 12.987472075205652,
+    "longitude": 77.62247119952401,
+    "AQI": 228,
+    "noise_dB": 49
+  },
+  {
+    "record_id": "18bafcc9-e1dd-4fdf-b570-543638772265",
+    "timestamp": "2025-07-02 13:56:43.821121",
+    "latitude": 13.016401779564177,
+    "longitude": 77.74753021302402,
+    "AQI": 80,
+    "noise_dB": 47
+  },
+  {
+    "record_id": "aa03081b-d498-4a31-95db-cbeecc0338d3",
+    "timestamp": "2025-07-02 15:21:46.875770",
+    "latitude": 13.038235330629009,
+    "longitude": 77.67220112117539,
+    "AQI": 248,
+    "noise_dB": 88
+  },
+  {
+    "record_id": "0b44676d-2ac3-4be9-b958-d1532afa5f6a",
+    "timestamp": "2025-07-06 13:59:30.392101",
+    "latitude": 13.033356035450156,
+    "longitude": 77.4790438712782,
+    "AQI": 249,
+    "noise_dB": 75
+  },
+  {
+    "record_id": "d0ccc1a5-1b91-4adc-8333-34f66a6a0149",
+    "timestamp": "2025-07-21 16:41:38.050562",
+    "latitude": 12.978839760065773,
+    "longitude": 77.4616086642644,
+    "AQI": 192,
+    "noise_dB": 91
+  },
+  {
+    "record_id": "a0751372-8fe2-474f-929b-20e053bf8b10",
+    "timestamp": "2025-07-23 02:09:34.510744",
+    "latitude": 12.950067501890139,
+    "longitude": 77.70318150459369,
+    "AQI": 103,
+    "noise_dB": 86
+  },
+  {
+    "record_id": "ef30141d-3505-4563-9fea-97cc30862fe3",
+    "timestamp": "2025-07-03 06:45:41.940105",
+    "latitude": 12.818823687462084,
+    "longitude": 77.55546438177252,
+    "AQI": 171,
+    "noise_dB": 64
+  },
+  {
+    "record_id": "6d899035-f05d-45c7-a522-e8b98aad0665",
+    "timestamp": "2025-07-12 23:47:59.114448",
+    "latitude": 12.807730045855413,
+    "longitude": 77.44796848098986,
+    "AQI": 119,
+    "noise_dB": 63
+  },
+  {
+    "record_id": "1b1b4cd7-36ba-4918-bb7f-19981eed0236",
+    "timestamp": "2025-07-17 13:03:35.926392",
+    "latitude": 12.925286418086468,
+    "longitude": 77.70177399816268,
+    "AQI": 45,
+    "noise_dB": 92
+  },
+  {
+    "record_id": "03d6af3f-2c72-4675-92c8-3bfc5b48961f",
+    "timestamp": "2025-07-19 09:26:17.062627",
+    "latitude": 12.916781311721794,
+    "longitude": 77.68563232352,
+    "AQI": 103,
+    "noise_dB": 55
+  },
+  {
+    "record_id": "03113626-50f5-4e97-a76c-11cb66f29d1d",
+    "timestamp": "2025-07-14 17:36:10.357386",
+    "latitude": 12.935693304193652,
+    "longitude": 77.74436722736401,
+    "AQI": 133,
+    "noise_dB": 84
+  },
+  {
+    "record_id": "38583966-7572-46f6-b677-f5b463a1bcaa",
+    "timestamp": "2025-07-09 14:26:52.740588",
+    "latitude": 12.848428870310867,
+    "longitude": 77.71841029034944,
+    "AQI": 125,
+    "noise_dB": 47
+  },
+  {
+    "record_id": "4748ffb3-d0a9-4757-a870-2d9710e67176",
+    "timestamp": "2025-07-01 11:19:04.497613",
+    "latitude": 13.058358894687895,
+    "longitude": 77.69812661853119,
+    "AQI": 275,
+    "noise_dB": 67
+  },
+  {
+    "record_id": "0b3f953a-5e75-488f-9fb8-86b2a662cb92",
+    "timestamp": "2025-07-19 19:34:59.987707",
+    "latitude": 13.099937545171684,
+    "longitude": 77.41840103923386,
+    "AQI": 228,
+    "noise_dB": 51
+  },
+  {
+    "record_id": "693da46c-37f3-4aac-a2ad-828b113c9f25",
+    "timestamp": "2025-07-18 09:06:01.145393",
+    "latitude": 13.128550122380913,
+    "longitude": 77.43654537932434,
+    "AQI": 250,
+    "noise_dB": 67
+  },
+  {
+    "record_id": "7fe436d1-994f-4c31-847d-d6784d315923",
+    "timestamp": "2025-07-15 16:06:20.953844",
+    "latitude": 12.97232680623187,
+    "longitude": 77.59914411800645,
+    "AQI": 193,
+    "noise_dB": 51
+  },
+  {
+    "record_id": "b668705d-1a10-448c-bd8f-b938fbac9ade",
+    "timestamp": "2025-07-01 23:53:48.834206",
+    "latitude": 13.0453029946939,
+    "longitude": 77.58601773619864,
+    "AQI": 195,
+    "noise_dB": 90
+  },
+  {
+    "record_id": "ec16ddb7-fd93-454a-8a90-001c8943314f",
+    "timestamp": "2025-07-06 15:40:46.118364",
+    "latitude": 13.099442893202555,
+    "longitude": 77.56028712507134,
+    "AQI": 201,
+    "noise_dB": 78
+  },
+  {
+    "record_id": "407f2654-2be4-4e9c-91b7-6c45d9b81389",
+    "timestamp": "2025-07-02 21:40:17.475564",
+    "latitude": 12.94640188888272,
+    "longitude": 77.5388762638951,
+    "AQI": 128,
+    "noise_dB": 86
+  },
+  {
+    "record_id": "5308e1f2-9990-44a9-9841-2e07f5834c69",
+    "timestamp": "2025-07-04 05:55:38.704780",
+    "latitude": 12.908294478204656,
+    "longitude": 77.55092366970251,
+    "AQI": 208,
+    "noise_dB": 63
+  },
+  {
+    "record_id": "6379064f-b241-495b-a180-f402fb3e127f",
+    "timestamp": "2025-07-15 06:45:52.766818",
+    "latitude": 13.127853594548721,
+    "longitude": 77.59925427694718,
+    "AQI": 199,
+    "noise_dB": 53
+  },
+  {
+    "record_id": "c57ae3ff-f8ed-48ae-acaf-8800ad8ae364",
+    "timestamp": "2025-07-01 07:22:25.994259",
+    "latitude": 12.980486792876976,
+    "longitude": 77.40072678116003,
+    "AQI": 149,
+    "noise_dB": 92
+  },
+  {
+    "record_id": "2ce27ec9-5501-40bf-a207-cb65b197aed1",
+    "timestamp": "2025-07-22 23:57:38.641822",
+    "latitude": 12.974038860306807,
+    "longitude": 77.4912480709465,
+    "AQI": 254,
+    "noise_dB": 62
+  },
+  {
+    "record_id": "b00832da-e24b-49d4-82ff-d690a2a6861a",
+    "timestamp": "2025-07-22 19:11:02.584821",
+    "latitude": 12.862445633797224,
+    "longitude": 77.58139790224105,
+    "AQI": 222,
+    "noise_dB": 85
+  },
+  {
+    "record_id": "aa97435d-d9ff-44eb-ba5f-9e725166488b",
+    "timestamp": "2025-07-03 10:05:49.669361",
+    "latitude": 12.837854255100675,
+    "longitude": 77.65277563453577,
+    "AQI": 65,
+    "noise_dB": 92
+  },
+  {
+    "record_id": "0484a1b3-55c9-44a4-9148-90547b6ce596",
+    "timestamp": "2025-07-17 18:10:38.913170",
+    "latitude": 13.09473740186923,
+    "longitude": 77.4609548423384,
+    "AQI": 45,
+    "noise_dB": 89
+  },
+  {
+    "record_id": "72ebde4e-95c4-4ab0-a97f-995d9bc8d6f6",
+    "timestamp": "2025-07-08 16:52:32.395162",
+    "latitude": 13.014946611665632,
+    "longitude": 77.59140841082561,
+    "AQI": 121,
+    "noise_dB": 86
+  },
+  {
+    "record_id": "bde78473-a3fd-459c-82d2-9bf861e3178b",
+    "timestamp": "2025-07-17 02:30:38.835334",
+    "latitude": 12.914038604406807,
+    "longitude": 77.65006088936002,
+    "AQI": 155,
+    "noise_dB": 69
+  },
+  {
+    "record_id": "b462931f-9664-46be-80e0-22c83b803c61",
+    "timestamp": "2025-07-05 14:32:10.454603",
+    "latitude": 12.867107676086594,
+    "longitude": 77.55561968026987,
+    "AQI": 164,
+    "noise_dB": 58
+  },
+  {
+    "record_id": "056e3d78-3b8c-4f84-8367-1560fd06875b",
+    "timestamp": "2025-07-11 22:28:30.825708",
+    "latitude": 12.994424048059372,
+    "longitude": 77.40947839678452,
+    "AQI": 266,
+    "noise_dB": 88
+  },
+  {
+    "record_id": "1fc22517-e593-462b-8249-f59a9dc906df",
+    "timestamp": "2025-07-13 19:30:27.627829",
+    "latitude": 13.004371751241397,
+    "longitude": 77.55724385546297,
+    "AQI": 139,
+    "noise_dB": 69
+  },
+  {
+    "record_id": "6db2094b-bce7-4298-bc84-78214f10b422",
+    "timestamp": "2025-07-11 02:45:10.097502",
+    "latitude": 12.87244776043577,
+    "longitude": 77.50375571071046,
+    "AQI": 61,
+    "noise_dB": 63
+  },
+  {
+    "record_id": "1452e130-9ea8-4fe3-be59-034bc1dadb7d",
+    "timestamp": "2025-07-04 17:07:55.914065",
+    "latitude": 13.097992011762017,
+    "longitude": 77.72537736269547,
+    "AQI": 261,
+    "noise_dB": 83
+  },
+  {
+    "record_id": "7fac89fe-5fe0-47c3-a336-d60b0f571d6b",
+    "timestamp": "2025-07-08 13:15:05.296456",
+    "latitude": 12.829492528154548,
+    "longitude": 77.44361468498742,
+    "AQI": 36,
+    "noise_dB": 59
+  },
+  {
+    "record_id": "60310461-26d3-4222-b3b7-0b634beef160",
+    "timestamp": "2025-07-04 12:25:00.049702",
+    "latitude": 12.924632579808248,
+    "longitude": 77.62836658442754,
+    "AQI": 137,
+    "noise_dB": 60
+  },
+  {
+    "record_id": "3cf1c29e-09b4-413c-a45c-a94a345298c4",
+    "timestamp": "2025-07-02 06:31:37.119720",
+    "latitude": 13.038134544816883,
+    "longitude": 77.41845191821709,
+    "AQI": 135,
+    "noise_dB": 71
+  },
+  {
+    "record_id": "fd11b3ff-991b-449e-b9ad-d00aec648a9b",
+    "timestamp": "2025-07-16 18:05:21.160938",
+    "latitude": 12.89594212733672,
+    "longitude": 77.55615965323445,
+    "AQI": 55,
+    "noise_dB": 84
+  },
+  {
+    "record_id": "e098d2e3-bd3f-4b62-b198-0a55f224f64c",
+    "timestamp": "2025-07-15 06:49:12.352910",
+    "latitude": 13.089686318173445,
+    "longitude": 77.59389282052703,
+    "AQI": 92,
+    "noise_dB": 54
+  },
+  {
+    "record_id": "514a36bf-4733-4b73-a25f-52ab542504b8",
+    "timestamp": "2025-07-03 19:14:27.507861",
+    "latitude": 13.058953739310141,
+    "longitude": 77.5042842259609,
+    "AQI": 167,
+    "noise_dB": 48
+  },
+  {
+    "record_id": "0a23b722-c2af-4a28-8976-ec61a4c31af7",
+    "timestamp": "2025-07-19 18:41:19.619614",
+    "latitude": 13.076157995591847,
+    "longitude": 77.55927647243213,
+    "AQI": 214,
+    "noise_dB": 63
+  },
+  {
+    "record_id": "6a367425-fa41-4d2e-8ab2-14388557ec6c",
+    "timestamp": "2025-07-03 08:10:19.314241",
+    "latitude": 12.841687287556852,
+    "longitude": 77.45724382808557,
+    "AQI": 207,
+    "noise_dB": 72
+  },
+  {
+    "record_id": "c0241ac1-49d8-4188-900d-cc4fa5e65ec4",
+    "timestamp": "2025-07-07 18:07:11.496053",
+    "latitude": 12.84919149479844,
+    "longitude": 77.50644334731382,
+    "AQI": 119,
+    "noise_dB": 65
+  },
+  {
+    "record_id": "bb9d92c0-d8d0-48db-baa0-66940610c42d",
+    "timestamp": "2025-07-12 15:28:32.366697",
+    "latitude": 12.900265808210605,
+    "longitude": 77.61738721371857,
+    "AQI": 127,
+    "noise_dB": 91
+  },
+  {
+    "record_id": "34b0738e-3e04-4782-97bd-0ca854ce20ea",
+    "timestamp": "2025-07-20 01:00:13.087342",
+    "latitude": 12.981327007819147,
+    "longitude": 77.5056300195514,
+    "AQI": 54,
+    "noise_dB": 58
+  },
+  {
+    "record_id": "eaecf4e0-e819-49ce-8dd7-cac28a1055c5",
+    "timestamp": "2025-07-04 05:29:24.108561",
+    "latitude": 13.06180562684479,
+    "longitude": 77.71491007744311,
+    "AQI": 95,
+    "noise_dB": 77
+  },
+  {
+    "record_id": "cd2bf206-3f93-4507-bd06-3a58aa3dd585",
+    "timestamp": "2025-07-21 18:21:09.136778",
+    "latitude": 13.092785811766317,
+    "longitude": 77.61994243517435,
+    "AQI": 72,
+    "noise_dB": 92
+  },
+  {
+    "record_id": "38f217f0-b831-4c26-b23f-4738aff628bc",
+    "timestamp": "2025-07-01 13:06:45.414918",
+    "latitude": 13.046517360585014,
+    "longitude": 77.5535271564526,
+    "AQI": 182,
+    "noise_dB": 54
+  },
+  {
+    "record_id": "857f2f3e-61a9-4fb1-9f69-a5609baa0785",
+    "timestamp": "2025-07-10 17:21:38.939759",
+    "latitude": 13.125008908535724,
+    "longitude": 77.41356492744397,
+    "AQI": 276,
+    "noise_dB": 63
+  },
+  {
+    "record_id": "a1396d49-713e-4035-aefc-d60c5256cd59",
+    "timestamp": "2025-07-04 08:31:03.215076",
+    "latitude": 13.058560228365575,
+    "longitude": 77.57484191732163,
+    "AQI": 59,
+    "noise_dB": 74
+  },
+  {
+    "record_id": "7ddc44f5-deaf-4631-908a-bb5c018c0313",
+    "timestamp": "2025-07-15 22:03:04.853001",
+    "latitude": 12.907193760451616,
+    "longitude": 77.66767168474378,
+    "AQI": 164,
+    "noise_dB": 66
+  },
+  {
+    "record_id": "0d56e000-3145-4a6c-b423-23d911ea8815",
+    "timestamp": "2025-07-06 03:24:34.166297",
+    "latitude": 12.8927784495185,
+    "longitude": 77.49294515930436,
+    "AQI": 155,
+    "noise_dB": 47
+  },
+  {
+    "record_id": "f032c262-243b-4101-bdf4-8930a265df65",
+    "timestamp": "2025-07-21 00:13:36.195208",
+    "latitude": 13.043667357605383,
+    "longitude": 77.68237074937707,
+    "AQI": 194,
+    "noise_dB": 81
+  },
+  {
+    "record_id": "2c7604c1-177d-4b26-a024-c4073447c34a",
+    "timestamp": "2025-07-09 18:12:02.199948",
+    "latitude": 12.867504699041366,
+    "longitude": 77.48813236811782,
+    "AQI": 60,
+    "noise_dB": 85
+  },
+  {
+    "record_id": "cb946541-d4ca-4432-8c81-3e5397b6a461",
+    "timestamp": "2025-07-21 03:05:10.161798",
+    "latitude": 12.832450183783594,
+    "longitude": 77.68831123578278,
+    "AQI": 232,
+    "noise_dB": 62
+  },
+  {
+    "record_id": "81e6935f-3c7e-4208-b451-cf94ee8b46d3",
+    "timestamp": "2025-07-19 17:31:10.561054",
+    "latitude": 12.986278006199669,
+    "longitude": 77.42984391956409,
+    "AQI": 203,
+    "noise_dB": 55
+  },
+  {
+    "record_id": "77922d9e-b998-42d3-ad1e-0d7d140296ee",
+    "timestamp": "2025-07-03 13:24:47.735624",
+    "latitude": 13.087574549422635,
+    "longitude": 77.70316429810416,
+    "AQI": 101,
+    "noise_dB": 92
+  },
+  {
+    "record_id": "3291bc95-b8bf-4cae-aa06-4fd24fbc0984",
+    "timestamp": "2025-07-04 20:38:12.322817",
+    "latitude": 12.835482944864452,
+    "longitude": 77.57471525782667,
+    "AQI": 259,
+    "noise_dB": 46
+  },
+  {
+    "record_id": "9b191112-2d2a-408e-ac8c-5d0e3eb366fd",
+    "timestamp": "2025-07-03 12:10:17.116738",
+    "latitude": 13.077161963328505,
+    "longitude": 77.5037881563671,
+    "AQI": 35,
+    "noise_dB": 56
+  },
+  {
+    "record_id": "93906193-490c-4315-8d98-02023fbc75e0",
+    "timestamp": "2025-07-03 07:34:57.002138",
+    "latitude": 13.084050201523043,
+    "longitude": 77.4927896376453,
+    "AQI": 85,
+    "noise_dB": 50
+  },
+  {
+    "record_id": "338f0430-a2b6-4ddc-b7bc-e0ef72c1e68e",
+    "timestamp": "2025-07-22 18:13:04.020710",
+    "latitude": 12.96879590002854,
+    "longitude": 77.55120369562563,
+    "AQI": 39,
+    "noise_dB": 87
+  },
+  {
+    "record_id": "7b2e00e6-c802-4d0e-9cc7-eb514598ab17",
+    "timestamp": "2025-07-09 03:12:40.689126",
+    "latitude": 12.820058608503672,
+    "longitude": 77.74966732433627,
+    "AQI": 47,
+    "noise_dB": 84
+  },
+  {
+    "record_id": "5c0d8fcc-f8f9-40bd-b375-99aa147bed20",
+    "timestamp": "2025-07-15 00:22:45.332873",
+    "latitude": 12.861106447936516,
+    "longitude": 77.47711458770316,
+    "AQI": 181,
+    "noise_dB": 88
+  },
+  {
+    "record_id": "7880adc6-2af2-4718-a0b2-17f965f35984",
+    "timestamp": "2025-07-03 16:39:35.174053",
+    "latitude": 13.047599196306678,
+    "longitude": 77.43612582710766,
+    "AQI": 174,
+    "noise_dB": 73
+  },
+  {
+    "record_id": "9c014262-815a-4a5d-ac35-e33c70fe05a1",
+    "timestamp": "2025-07-22 00:26:44.393570",
+    "latitude": 13.049122280746833,
+    "longitude": 77.60476230905154,
+    "AQI": 82,
+    "noise_dB": 74
+  },
+  {
+    "record_id": "27e7a6bd-c2a4-4fd8-aef5-4ceebc243f9f",
+    "timestamp": "2025-07-21 22:33:46.720356",
+    "latitude": 13.114424346308683,
+    "longitude": 77.5709898632541,
+    "AQI": 187,
+    "noise_dB": 46
+  },
+  {
+    "record_id": "7b64665c-cb26-4809-b429-73f5d1d18e0b",
+    "timestamp": "2025-07-21 09:17:38.317725",
+    "latitude": 13.003940151294104,
+    "longitude": 77.58346869487217,
+    "AQI": 91,
+    "noise_dB": 53
+  },
+  {
+    "record_id": "6d69e88c-61a4-4230-830d-cc74051256b8",
+    "timestamp": "2025-07-14 18:15:55.846716",
+    "latitude": 12.843437578699822,
+    "longitude": 77.63342739614502,
+    "AQI": 149,
+    "noise_dB": 91
+  },
+  {
+    "record_id": "e80d9169-c244-49e1-954e-bf91daa282b4",
+    "timestamp": "2025-07-05 01:17:07.442783",
+    "latitude": 12.842495216926741,
+    "longitude": 77.49350042445474,
+    "AQI": 69,
+    "noise_dB": 46
+  },
+  {
+    "record_id": "8985c98d-985d-4fc4-8cdb-f99eebe98dd4",
+    "timestamp": "2025-07-13 01:49:20.464107",
+    "latitude": 13.05239632507489,
+    "longitude": 77.71873274838435,
+    "AQI": 110,
+    "noise_dB": 73
+  },
+  {
+    "record_id": "2cfaa174-ba05-4e68-8d87-b7be271dd0f1",
+    "timestamp": "2025-07-14 15:35:28.460275",
+    "latitude": 12.864324632787765,
+    "longitude": 77.55248522314281,
+    "AQI": 128,
+    "noise_dB": 77
+  },
+  {
+    "record_id": "4e4c01f6-76b1-48fa-a165-2fd341dddedf",
+    "timestamp": "2025-07-16 11:12:03.705571",
+    "latitude": 12.914934924865813,
+    "longitude": 77.44518016829987,
+    "AQI": 39,
+    "noise_dB": 54
+  },
+  {
+    "record_id": "8fe88b77-6009-405a-8881-7b98741f5545",
+    "timestamp": "2025-07-04 10:04:15.920856",
+    "latitude": 12.97052420242267,
+    "longitude": 77.65980456485688,
+    "AQI": 260,
+    "noise_dB": 78
+  },
+  {
+    "record_id": "554ed52c-126a-4315-bb18-9d5d9b247a55",
+    "timestamp": "2025-07-16 04:33:27.306324",
+    "latitude": 12.808667707151654,
+    "longitude": 77.62508652341624,
+    "AQI": 56,
+    "noise_dB": 88
+  },
+  {
+    "record_id": "321a6d71-7821-42e0-b701-492522fbe906",
+    "timestamp": "2025-07-07 20:45:21.949348",
+    "latitude": 12.887086659456976,
+    "longitude": 77.51051019086941,
+    "AQI": 137,
+    "noise_dB": 52
+  },
+  {
+    "record_id": "0111fa05-308b-4146-aa87-9f65279c058a",
+    "timestamp": "2025-07-19 14:39:59.182308",
+    "latitude": 12.94276136297755,
+    "longitude": 77.61753155341192,
+    "AQI": 239,
+    "noise_dB": 81
+  },
+  {
+    "record_id": "baf9706d-802d-4cc4-9c95-6e3103491b41",
+    "timestamp": "2025-07-08 22:20:12.277943",
+    "latitude": 12.897872711472623,
+    "longitude": 77.47695168472914,
+    "AQI": 219,
+    "noise_dB": 77
+  },
+  {
+    "record_id": "6790eee0-7dcf-4924-9fcf-5c22b9b03c1a",
+    "timestamp": "2025-07-03 08:46:37.078949",
+    "latitude": 12.847729614613648,
+    "longitude": 77.55569377576919,
+    "AQI": 209,
+    "noise_dB": 91
+  },
+  {
+    "record_id": "6507c321-f0b6-444f-aa73-30b3ecfa1700",
+    "timestamp": "2025-07-21 20:34:28.971150",
+    "latitude": 13.05480429022867,
+    "longitude": 77.71479438275857,
+    "AQI": 216,
+    "noise_dB": 50
+  },
+  {
+    "record_id": "625046c0-5f86-4c8e-be00-6ccbf8723487",
+    "timestamp": "2025-07-16 01:31:47.833960",
+    "latitude": 13.084601679308795,
+    "longitude": 77.44673698160626,
+    "AQI": 165,
+    "noise_dB": 88
+  },
+  {
+    "record_id": "fcce3ef8-a41b-44c2-8ecc-b0ab7d5338ca",
+    "timestamp": "2025-07-22 05:40:11.581827",
+    "latitude": 12.890117641650304,
+    "longitude": 77.53534375749561,
+    "AQI": 158,
+    "noise_dB": 84
+  },
+  {
+    "record_id": "e28f5537-68a6-4d97-923c-6a29969b6b4b",
+    "timestamp": "2025-07-19 10:55:39.970239",
+    "latitude": 13.071046823112207,
+    "longitude": 77.68739984865212,
+    "AQI": 87,
+    "noise_dB": 89
+  },
+  {
+    "record_id": "1fddc20a-ebee-40cf-be12-ace509f08f24",
+    "timestamp": "2025-07-17 04:36:52.920029",
+    "latitude": 12.93494374754046,
+    "longitude": 77.73932181479216,
+    "AQI": 246,
+    "noise_dB": 63
+  },
+  {
+    "record_id": "299094c0-90cb-4982-aea0-0af96283f50f",
+    "timestamp": "2025-07-02 17:43:25.121857",
+    "latitude": 12.9773400267989,
+    "longitude": 77.55887414774763,
+    "AQI": 193,
+    "noise_dB": 76
+  },
+  {
+    "record_id": "f5044d15-6fb1-48c2-8350-bf4f31b8f079",
+    "timestamp": "2025-07-01 01:11:25.240369",
+    "latitude": 13.099600376212603,
+    "longitude": 77.57744986705018,
+    "AQI": 103,
+    "noise_dB": 71
+  },
+  {
+    "record_id": "c0676073-e9c0-40f0-8571-f9ab41589d90",
+    "timestamp": "2025-07-22 05:47:10.739441",
+    "latitude": 13.062483788630843,
+    "longitude": 77.60026018662433,
+    "AQI": 250,
+    "noise_dB": 45
+  },
+  {
+    "record_id": "b589717e-8275-418a-993c-73f2b8e51141",
+    "timestamp": "2025-07-04 09:12:34.071833",
+    "latitude": 13.081790897960662,
+    "longitude": 77.7263218495718,
+    "AQI": 138,
+    "noise_dB": 87
+  },
+  {
+    "record_id": "5e411475-b040-475a-a28e-08417d165228",
+    "timestamp": "2025-07-15 22:19:07.659974",
+    "latitude": 12.847895808305225,
+    "longitude": 77.70037237684195,
+    "AQI": 195,
+    "noise_dB": 77
+  },
+  {
+    "record_id": "62a53193-a6a1-4c2b-8ec5-bad7b24ae6e3",
+    "timestamp": "2025-07-08 06:58:06.232762",
+    "latitude": 12.824401799041807,
+    "longitude": 77.45971039361758,
+    "AQI": 234,
+    "noise_dB": 84
+  },
+  {
+    "record_id": "3f2dbf97-bc54-4d54-ac8d-e840ed305556",
+    "timestamp": "2025-07-09 21:23:59.445711",
+    "latitude": 13.112691655180797,
+    "longitude": 77.55286523624648,
+    "AQI": 250,
+    "noise_dB": 76
+  },
+  {
+    "record_id": "ebe55cc4-08d5-4cf7-ba4c-38ef3e0ad66d",
+    "timestamp": "2025-07-17 10:05:53.472492",
+    "latitude": 12.935741994349884,
+    "longitude": 77.56240014986875,
+    "AQI": 212,
+    "noise_dB": 49
+  },
+  {
+    "record_id": "b4e10c33-a186-4de1-9c85-a58cd0290d6b",
+    "timestamp": "2025-07-18 21:10:28.554153",
+    "latitude": 12.900757887324389,
+    "longitude": 77.67618363907707,
+    "AQI": 246,
+    "noise_dB": 61
+  },
+  {
+    "record_id": "aa69b7f7-b28d-4cb8-873b-ca43ad2a3a7c",
+    "timestamp": "2025-07-11 21:23:10.130641",
+    "latitude": 13.05364368899164,
+    "longitude": 77.6110125089119,
+    "AQI": 50,
+    "noise_dB": 52
+  },
+  {
+    "record_id": "9afdd464-42e6-418c-a5db-be8da5349425",
+    "timestamp": "2025-07-02 12:46:33.870319",
+    "latitude": 13.09274545880295,
+    "longitude": 77.62897716171015,
+    "AQI": 276,
+    "noise_dB": 86
+  },
+  {
+    "record_id": "25b9de82-ae5a-4f99-b1bb-5d9b7499bb6b",
+    "timestamp": "2025-07-14 03:41:53.510101",
+    "latitude": 13.101871367664407,
+    "longitude": 77.74936996768297,
+    "AQI": 150,
+    "noise_dB": 78
+  },
+  {
+    "record_id": "940e3521-9a26-455a-bf56-938141190559",
+    "timestamp": "2025-07-22 20:15:32.547738",
+    "latitude": 12.91059899939383,
+    "longitude": 77.42623601521451,
+    "AQI": 110,
+    "noise_dB": 53
+  },
+  {
+    "record_id": "29534ea7-d76d-4612-a9a0-758ef3a7bd25",
+    "timestamp": "2025-07-07 08:08:32.725011",
+    "latitude": 13.098274336920586,
+    "longitude": 77.47805343823681,
+    "AQI": 239,
+    "noise_dB": 67
+  },
+  {
+    "record_id": "17a15a60-c55e-4efb-9de2-0f2d03288b00",
+    "timestamp": "2025-07-03 01:24:53.095309",
+    "latitude": 12.814326880531022,
+    "longitude": 77.54276357808004,
+    "AQI": 143,
+    "noise_dB": 79
+  },
+  {
+    "record_id": "62649ce8-eab8-45be-b62c-09bfa4f73a30",
+    "timestamp": "2025-07-23 15:28:57.835693",
+    "latitude": 12.817381522010903,
+    "longitude": 77.52172384106711,
+    "AQI": 268,
+    "noise_dB": 94
+  },
+  {
+    "record_id": "f9619ae2-960e-4c1a-b4c0-fd1865cd7fd1",
+    "timestamp": "2025-07-05 03:21:50.330402",
+    "latitude": 13.018231718310954,
+    "longitude": 77.40757594647145,
+    "AQI": 73,
+    "noise_dB": 51
+  },
+  {
+    "record_id": "e8f26d63-84be-47ed-9491-b51de6a7a6b0",
+    "timestamp": "2025-07-09 18:21:00.303057",
+    "latitude": 12.822087229190442,
+    "longitude": 77.43212216226492,
+    "AQI": 123,
+    "noise_dB": 59
+  },
+  {
+    "record_id": "2a736a67-6c46-4d48-a041-f0a33056b87f",
+    "timestamp": "2025-07-08 06:27:16.981560",
+    "latitude": 12.913613208978557,
+    "longitude": 77.63833365199126,
+    "AQI": 208,
+    "noise_dB": 64
+  },
+  {
+    "record_id": "b11c377f-40bc-4b56-ad47-72f8d46a77af",
+    "timestamp": "2025-07-10 15:33:21.815637",
+    "latitude": 13.035464595186424,
+    "longitude": 77.7077635621769,
+    "AQI": 258,
+    "noise_dB": 94
+  },
+  {
+    "record_id": "887fe19c-f7ba-49f9-802a-63cc4d5e42e8",
+    "timestamp": "2025-07-16 18:50:34.659402",
+    "latitude": 12.91804341361898,
+    "longitude": 77.5799794539431,
+    "AQI": 250,
+    "noise_dB": 69
+  },
+  {
+    "record_id": "960952eb-61fe-4f28-a2fb-8d66a8928ad4",
+    "timestamp": "2025-07-10 10:09:14.432004",
+    "latitude": 12.862859923504034,
+    "longitude": 77.58871687782977,
+    "AQI": 146,
+    "noise_dB": 47
+  },
+  {
+    "record_id": "c0a15dbc-695f-44ff-bbe3-0fd24ed7b3f3",
+    "timestamp": "2025-07-19 01:31:15.591660",
+    "latitude": 12.898472717648845,
+    "longitude": 77.48928270149133,
+    "AQI": 81,
+    "noise_dB": 90
+  },
+  {
+    "record_id": "de922cf1-ba47-480f-aca0-4629e05bc7ea",
+    "timestamp": "2025-07-08 14:11:06.250088",
+    "latitude": 12.960151366287652,
+    "longitude": 77.6687567272718,
+    "AQI": 206,
+    "noise_dB": 68
+  },
+  {
+    "record_id": "9296ae08-a2dc-4574-9bf9-62a516c068e8",
+    "timestamp": "2025-07-19 06:14:27.622913",
+    "latitude": 12.96638504937442,
+    "longitude": 77.66312810557854,
+    "AQI": 171,
+    "noise_dB": 78
+  },
+  {
+    "record_id": "d0713f73-582a-4099-8c2b-2f49c6d53a90",
+    "timestamp": "2025-07-15 21:16:50.897290",
+    "latitude": 13.07405008097152,
+    "longitude": 77.60592799122618,
+    "AQI": 266,
+    "noise_dB": 90
+  },
+  {
+    "record_id": "35a37765-bfac-463e-84de-950f2488dee3",
+    "timestamp": "2025-07-06 14:20:57.257711",
+    "latitude": 13.06255363030103,
+    "longitude": 77.47443250027898,
+    "AQI": 276,
+    "noise_dB": 66
+  },
+  {
+    "record_id": "b2f240e3-65e1-405b-bf8f-f33eee1595cf",
+    "timestamp": "2025-07-10 12:43:48.555146",
+    "latitude": 12.959886231594648,
+    "longitude": 77.43395637638298,
+    "AQI": 249,
+    "noise_dB": 55
+  },
+  {
+    "record_id": "2b1c2d3d-fcad-43fd-81a4-c2d14edfaa12",
+    "timestamp": "2025-07-12 07:35:11.231786",
+    "latitude": 13.09598357218457,
+    "longitude": 77.42248350155,
+    "AQI": 162,
+    "noise_dB": 92
+  },
+  {
+    "record_id": "18cc8417-0067-443e-bde1-936bd0fee4f1",
+    "timestamp": "2025-07-13 03:37:11.317398",
+    "latitude": 12.83998299850699,
+    "longitude": 77.60744362332501,
+    "AQI": 212,
+    "noise_dB": 52
+  },
+  {
+    "record_id": "6af7895b-b241-4fd3-8614-101711e121c7",
+    "timestamp": "2025-07-13 02:54:41.895628",
+    "latitude": 12.889373672580117,
+    "longitude": 77.68876236169999,
+    "AQI": 111,
+    "noise_dB": 83
+  },
+  {
+    "record_id": "49d0aac1-a78e-437c-aab6-2dbf8663e8bb",
+    "timestamp": "2025-07-19 16:45:55.026186",
+    "latitude": 13.089791762225788,
+    "longitude": 77.70041565112332,
+    "AQI": 222,
+    "noise_dB": 87
+  },
+  {
+    "record_id": "2d28a2a8-2bae-4fc7-ae52-b671bba8a7e5",
+    "timestamp": "2025-07-09 18:08:12.959239",
+    "latitude": 12.932297913519154,
+    "longitude": 77.56226772602021,
+    "AQI": 258,
+    "noise_dB": 79
+  },
+  {
+    "record_id": "2263960a-b43c-4fef-afb7-e9bd5fe92750",
+    "timestamp": "2025-07-14 05:24:12.072133",
+    "latitude": 13.143413545577845,
+    "longitude": 77.67449495475735,
+    "AQI": 276,
+    "noise_dB": 93
+  },
+  {
+    "record_id": "80ab4b7f-2e96-4660-bc89-617d32b1792b",
+    "timestamp": "2025-07-10 14:28:05.267504",
+    "latitude": 12.963188648534743,
+    "longitude": 77.73140806871936,
+    "AQI": 49,
+    "noise_dB": 90
+  },
+  {
+    "record_id": "912cf322-735e-4153-9c38-92e8f2cfcd63",
+    "timestamp": "2025-07-14 03:42:59.516646",
+    "latitude": 13.077177468037318,
+    "longitude": 77.49630953937083,
+    "AQI": 70,
+    "noise_dB": 82
+  },
+  {
+    "record_id": "3370dc1d-2f85-499d-b66b-3575d07a9518",
+    "timestamp": "2025-07-16 18:53:08.303788",
+    "latitude": 12.94080746448383,
+    "longitude": 77.53928612123327,
+    "AQI": 275,
+    "noise_dB": 52
+  },
+  {
+    "record_id": "cf265489-2ec7-4a83-bffa-7a4f0f1972db",
+    "timestamp": "2025-07-18 00:48:59.701013",
+    "latitude": 12.948733731671851,
+    "longitude": 77.72601764740884,
+    "AQI": 97,
+    "noise_dB": 81
+  },
+  {
+    "record_id": "fba26c21-4264-4318-b11f-5d4ac2589de2",
+    "timestamp": "2025-07-17 00:07:38.693619",
+    "latitude": 12.934009101549465,
+    "longitude": 77.51838083856106,
+    "AQI": 103,
+    "noise_dB": 71
+  },
+  {
+    "record_id": "70d3b5f7-68a6-4e71-9f22-3246e6fb61d3",
+    "timestamp": "2025-07-06 08:29:42.667152",
+    "latitude": 13.051676467178785,
+    "longitude": 77.71985670161263,
+    "AQI": 248,
+    "noise_dB": 72
+  },
+  {
+    "record_id": "1bf43b9f-9fda-45ac-a9b8-7e7aa0786a1f",
+    "timestamp": "2025-07-01 01:33:57.116997",
+    "latitude": 12.991631259420998,
+    "longitude": 77.74336570178906,
+    "AQI": 242,
+    "noise_dB": 84
+  },
+  {
+    "record_id": "146e6a4f-2a87-4e02-a2ed-50b9de4cf8bc",
+    "timestamp": "2025-07-23 15:00:33.840046",
+    "latitude": 13.13032233897893,
+    "longitude": 77.63163375500105,
+    "AQI": 203,
+    "noise_dB": 78
+  },
+  {
+    "record_id": "1feb21c7-60b2-414b-95f0-e5ea4b0a4742",
+    "timestamp": "2025-07-01 09:22:20.129015",
+    "latitude": 12.887811610786937,
+    "longitude": 77.68591160132647,
+    "AQI": 108,
+    "noise_dB": 76
+  },
+  {
+    "record_id": "07983bc0-5797-44ba-9073-80cb46d9e34d",
+    "timestamp": "2025-07-13 17:03:42.629611",
+    "latitude": 12.835196956229206,
+    "longitude": 77.66234094747738,
+    "AQI": 58,
+    "noise_dB": 59
+  },
+  {
+    "record_id": "7c35b274-7a57-472b-bc1a-8ce295ecec2c",
+    "timestamp": "2025-07-22 19:10:58.809111",
+    "latitude": 12.937641519784727,
+    "longitude": 77.64483699016543,
+    "AQI": 244,
+    "noise_dB": 88
+  },
+  {
+    "record_id": "026f05f6-19ce-40c3-82b2-547dac3cebe3",
+    "timestamp": "2025-07-21 23:07:33.524365",
+    "latitude": 13.015849447676372,
+    "longitude": 77.50742587554343,
+    "AQI": 83,
+    "noise_dB": 61
+  },
+  {
+    "record_id": "f488e328-c075-4119-841d-de330fa1659f",
+    "timestamp": "2025-07-02 08:32:58.061563",
+    "latitude": 13.101279627920423,
+    "longitude": 77.41998301826779,
+    "AQI": 180,
+    "noise_dB": 77
+  },
+  {
+    "record_id": "ca097b17-951b-4503-aa52-8f8501d99b33",
+    "timestamp": "2025-07-08 22:51:44.067122",
+    "latitude": 12.921168910338116,
+    "longitude": 77.52006810638188,
+    "AQI": 41,
+    "noise_dB": 91
+  },
+  {
+    "record_id": "36089374-18ca-40a9-8ab7-4b5dfcd49681",
+    "timestamp": "2025-07-20 07:42:22.272263",
+    "latitude": 13.028825362893562,
+    "longitude": 77.63342759482137,
+    "AQI": 38,
+    "noise_dB": 90
+  },
+  {
+    "record_id": "602ba256-01db-4b73-8ab2-85dc85b7b774",
+    "timestamp": "2025-07-20 17:33:06.371866",
+    "latitude": 12.922569538358127,
+    "longitude": 77.43588521937974,
+    "AQI": 124,
+    "noise_dB": 60
+  },
+  {
+    "record_id": "f6496cde-fca5-4576-8523-93d79a5d376e",
+    "timestamp": "2025-07-19 15:27:26.957146",
+    "latitude": 13.01602685404806,
+    "longitude": 77.40417129404238,
+    "AQI": 231,
+    "noise_dB": 73
+  },
+  {
+    "record_id": "7c65a804-ee9f-473c-840d-d09fc2e8bfc2",
+    "timestamp": "2025-07-07 17:00:16.814934",
+    "latitude": 13.109682781460728,
+    "longitude": 77.44889233041103,
+    "AQI": 94,
+    "noise_dB": 53
+  },
+  {
+    "record_id": "9ab8180f-5647-4889-81c4-f6187925b7d5",
+    "timestamp": "2025-07-04 06:44:58.055506",
+    "latitude": 12.880975174790795,
+    "longitude": 77.65050757424378,
+    "AQI": 89,
+    "noise_dB": 77
+  },
+  {
+    "record_id": "ae8e6075-5eeb-4618-9628-27686df0ac3c",
+    "timestamp": "2025-07-20 10:11:52.366134",
+    "latitude": 12.941484574737464,
+    "longitude": 77.74047779557975,
+    "AQI": 50,
+    "noise_dB": 93
+  },
+  {
+    "record_id": "50b281c0-ffdb-42ee-97d3-ec63e3e103bb",
+    "timestamp": "2025-07-23 02:56:35.200327",
+    "latitude": 13.14764281875041,
+    "longitude": 77.74407264486518,
+    "AQI": 261,
+    "noise_dB": 73
+  },
+  {
+    "record_id": "5c784ca4-f0e4-4a0b-bd56-3b0ed11ce5c8",
+    "timestamp": "2025-07-21 18:46:56.920054",
+    "latitude": 13.103994959887311,
+    "longitude": 77.57289270219907,
+    "AQI": 252,
+    "noise_dB": 57
+  },
+  {
+    "record_id": "9c5dfb8d-60e1-4973-a602-37edaa429203",
+    "timestamp": "2025-07-06 12:29:08.995425",
+    "latitude": 12.997623950263671,
+    "longitude": 77.70427330534733,
+    "AQI": 244,
+    "noise_dB": 65
+  },
+  {
+    "record_id": "df8200b8-5b24-4b54-b9ad-97ae0ea761a6",
+    "timestamp": "2025-07-19 20:16:17.315734",
+    "latitude": 12.980819657148997,
+    "longitude": 77.65788925951303,
+    "AQI": 63,
+    "noise_dB": 65
+  },
+  {
+    "record_id": "00ca280f-19a5-4942-8e67-b962548b9bb7",
+    "timestamp": "2025-07-02 06:31:17.764823",
+    "latitude": 12.89961013380664,
+    "longitude": 77.57536408294462,
+    "AQI": 185,
+    "noise_dB": 49
+  },
+  {
+    "record_id": "66dce997-b2c4-44a4-9edb-cef974f8a913",
+    "timestamp": "2025-07-04 03:17:10.515810",
+    "latitude": 12.981023299692735,
+    "longitude": 77.60046618653428,
+    "AQI": 279,
+    "noise_dB": 54
+  },
+  {
+    "record_id": "eccf3b91-e352-49a0-95de-293bb9a807ba",
+    "timestamp": "2025-07-22 21:36:24.047940",
+    "latitude": 13.096863524397982,
+    "longitude": 77.44802950131592,
+    "AQI": 48,
+    "noise_dB": 50
+  },
+  {
+    "record_id": "1f76043f-9a16-4853-8692-fe02238c8712",
+    "timestamp": "2025-07-17 00:36:08.928611",
+    "latitude": 13.039811079647224,
+    "longitude": 77.72818151121581,
+    "AQI": 113,
+    "noise_dB": 57
+  },
+  {
+    "record_id": "f378cb94-478b-4f00-87d7-5309de772156",
+    "timestamp": "2025-07-09 14:13:17.795116",
+    "latitude": 12.901515409862295,
+    "longitude": 77.52317541975613,
+    "AQI": 211,
+    "noise_dB": 45
+  },
+  {
+    "record_id": "3fa029a6-d0a7-4b72-805e-5adeb3030188",
+    "timestamp": "2025-07-01 14:23:39.601596",
+    "latitude": 12.870512372368736,
+    "longitude": 77.55615223976001,
+    "AQI": 67,
+    "noise_dB": 64
+  },
+  {
+    "record_id": "afa9d02c-9e4c-4be7-b3b0-e73d5e516bf8",
+    "timestamp": "2025-07-22 23:10:11.530334",
+    "latitude": 12.892822987948891,
+    "longitude": 77.63508108084926,
+    "AQI": 187,
+    "noise_dB": 91
+  },
+  {
+    "record_id": "83d1677a-79a6-4b72-9eae-b0c0a8ac1ab1",
+    "timestamp": "2025-07-09 11:03:56.351425",
+    "latitude": 12.85941572048749,
+    "longitude": 77.5168658650343,
+    "AQI": 55,
+    "noise_dB": 90
+  },
+  {
+    "record_id": "00cd11a8-301c-4108-a904-babd69c2aa17",
+    "timestamp": "2025-07-16 23:12:11.717799",
+    "latitude": 12.8334742436083,
+    "longitude": 77.48899070634613,
+    "AQI": 179,
+    "noise_dB": 52
+  },
+  {
+    "record_id": "f122d458-f521-4f35-a358-c4d3fc76627b",
+    "timestamp": "2025-07-16 02:05:05.347448",
+    "latitude": 12.94669766105472,
+    "longitude": 77.62086728764459,
+    "AQI": 57,
+    "noise_dB": 54
+  },
+  {
+    "record_id": "a23f3abf-0441-422c-927a-9f7bd007cd41",
+    "timestamp": "2025-07-02 16:18:12.966672",
+    "latitude": 12.839654861539394,
+    "longitude": 77.40874442879866,
+    "AQI": 91,
+    "noise_dB": 53
+  },
+  {
+    "record_id": "f8378be2-0bb6-4d75-9f99-67265c366f5c",
+    "timestamp": "2025-07-20 01:31:29.060403",
+    "latitude": 12.860169395204487,
+    "longitude": 77.65225378920934,
+    "AQI": 269,
+    "noise_dB": 93
+  },
+  {
+    "record_id": "ad8cc85c-5355-4e80-bc5e-3e2fcebc1bd7",
+    "timestamp": "2025-07-20 19:34:32.398804",
+    "latitude": 12.991563639518821,
+    "longitude": 77.57990817945678,
+    "AQI": 243,
+    "noise_dB": 85
+  },
+  {
+    "record_id": "7c0a8f90-9b54-4227-bbca-7ff671be0c72",
+    "timestamp": "2025-07-01 16:29:29.928372",
+    "latitude": 12.857609745794852,
+    "longitude": 77.61201380568232,
+    "AQI": 220,
+    "noise_dB": 47
+  },
+  {
+    "record_id": "cb40fcdd-9cd2-4a08-bd3c-83c3667139de",
+    "timestamp": "2025-07-09 07:32:49.998621",
+    "latitude": 12.822357918600817,
+    "longitude": 77.62115805573642,
+    "AQI": 176,
+    "noise_dB": 55
+  },
+  {
+    "record_id": "f067dba1-6d8b-4bc3-992c-6a0e14d49d3a",
+    "timestamp": "2025-07-02 19:09:25.666526",
+    "latitude": 12.911086097509761,
+    "longitude": 77.5844675547724,
+    "AQI": 127,
+    "noise_dB": 56
+  },
+  {
+    "record_id": "79e3202e-ee4b-4350-b104-ad27ee75b34e",
+    "timestamp": "2025-07-02 18:06:13.643653",
+    "latitude": 12.87711168451769,
+    "longitude": 77.60388682210426,
+    "AQI": 54,
+    "noise_dB": 54
+  },
+  {
+    "record_id": "b3126a11-db6a-47db-a888-e7affca39bae",
+    "timestamp": "2025-07-13 22:58:01.381384",
+    "latitude": 12.980356815798032,
+    "longitude": 77.63932587031145,
+    "AQI": 192,
+    "noise_dB": 69
+  },
+  {
+    "record_id": "628616f4-bbf9-404b-99b7-775fe7bb5e42",
+    "timestamp": "2025-07-19 12:33:44.391925",
+    "latitude": 12.835828479604125,
+    "longitude": 77.66359159651289,
+    "AQI": 53,
+    "noise_dB": 93
+  },
+  {
+    "record_id": "b641d449-31f0-4021-9b6f-be204b3a9a83",
+    "timestamp": "2025-07-04 09:47:46.981949",
+    "latitude": 13.063119775689042,
+    "longitude": 77.65460833695015,
+    "AQI": 215,
+    "noise_dB": 93
+  },
+  {
+    "record_id": "e050df24-8522-496a-9eaf-0fa924a63a6c",
+    "timestamp": "2025-07-05 03:39:56.360202",
+    "latitude": 13.1171817318023,
+    "longitude": 77.70436576020629,
+    "AQI": 137,
+    "noise_dB": 69
+  },
+  {
+    "record_id": "b7776609-db57-4a7f-88ec-b64192678e10",
+    "timestamp": "2025-07-17 22:14:05.368133",
+    "latitude": 13.060202310884668,
+    "longitude": 77.46630520160859,
+    "AQI": 218,
+    "noise_dB": 55
+  },
+  {
+    "record_id": "7f780428-20bb-459a-8820-7d4e812fdd98",
+    "timestamp": "2025-07-18 00:43:12.802371",
+    "latitude": 12.98648946309049,
+    "longitude": 77.54040178932213,
+    "AQI": 111,
+    "noise_dB": 80
+  },
+  {
+    "record_id": "d51528af-4d25-498f-964b-85f0cbfc721c",
+    "timestamp": "2025-07-16 21:39:10.198595",
+    "latitude": 13.10123373762611,
+    "longitude": 77.73172862310506,
+    "AQI": 244,
+    "noise_dB": 83
+  },
+  {
+    "record_id": "fcba6c80-8c7a-4939-bf0d-d3c2ac4dcd33",
+    "timestamp": "2025-07-07 19:37:58.026075",
+    "latitude": 13.043221432923527,
+    "longitude": 77.53880670103521,
+    "AQI": 185,
+    "noise_dB": 70
+  },
+  {
+    "record_id": "e57b084d-2b05-42e0-b780-6788dff1f5e3",
+    "timestamp": "2025-07-10 08:49:51.062026",
+    "latitude": 12.803692892857567,
+    "longitude": 77.44370452691707,
+    "AQI": 224,
+    "noise_dB": 58
+  },
+  {
+    "record_id": "7b6f65df-1d9d-4d80-b47e-3ca0723fd85a",
+    "timestamp": "2025-07-08 16:18:01.477120",
+    "latitude": 12.937931553471076,
+    "longitude": 77.58390579422677,
+    "AQI": 272,
+    "noise_dB": 83
+  },
+  {
+    "record_id": "3e4c943a-3dab-4a61-8a69-3650a9a2e9cd",
+    "timestamp": "2025-07-18 18:54:27.847797",
+    "latitude": 13.09783316479238,
+    "longitude": 77.43832184039407,
+    "AQI": 67,
+    "noise_dB": 84
+  },
+  {
+    "record_id": "f1b7bd1e-c0d5-4828-aba1-7f78362e17d4",
+    "timestamp": "2025-07-16 19:50:26.447770",
+    "latitude": 12.921050600291345,
+    "longitude": 77.47099863355476,
+    "AQI": 265,
+    "noise_dB": 45
+  },
+  {
+    "record_id": "1b000f9f-16e5-40e5-b32d-3c81a8e50e05",
+    "timestamp": "2025-07-07 12:40:23.430128",
+    "latitude": 12.812325310733934,
+    "longitude": 77.74941156479983,
+    "AQI": 266,
+    "noise_dB": 48
+  },
+  {
+    "record_id": "077b1426-b73c-42ab-be4c-efed6f552c9e",
+    "timestamp": "2025-07-04 13:10:02.486051",
+    "latitude": 13.061162873493295,
+    "longitude": 77.58947692343865,
+    "AQI": 52,
+    "noise_dB": 74
+  },
+  {
+    "record_id": "53958e5c-edd0-4e02-add3-2be929052dd7",
+    "timestamp": "2025-07-21 01:24:38.371658",
+    "latitude": 13.080713394599005,
+    "longitude": 77.49942043616416,
+    "AQI": 107,
+    "noise_dB": 56
+  },
+  {
+    "record_id": "47c58839-c42c-40ba-a22c-636fe713f930",
+    "timestamp": "2025-07-01 17:32:52.534695",
+    "latitude": 12.856207793265158,
+    "longitude": 77.74817123410087,
+    "AQI": 195,
+    "noise_dB": 79
+  },
+  {
+    "record_id": "aa7a907d-41f3-41b9-b81b-da1d386a9050",
+    "timestamp": "2025-07-18 02:22:24.018801",
+    "latitude": 12.988069173895115,
+    "longitude": 77.7382956214943,
+    "AQI": 194,
+    "noise_dB": 57
+  },
+  {
+    "record_id": "abac8660-e5c3-45fc-b395-c21379eef2c0",
+    "timestamp": "2025-07-12 10:58:12.006757",
+    "latitude": 12.867184403648505,
+    "longitude": 77.55425866437949,
+    "AQI": 223,
+    "noise_dB": 75
+  },
+  {
+    "record_id": "ec38704b-22c0-4ee9-aa5c-a8cd1f835b8d",
+    "timestamp": "2025-07-01 05:56:14.577235",
+    "latitude": 13.051732046665451,
+    "longitude": 77.49114108807578,
+    "AQI": 216,
+    "noise_dB": 82
+  },
+  {
+    "record_id": "7df102c2-b9b4-4225-a230-36d288d7d47c",
+    "timestamp": "2025-07-19 22:55:32.695983",
+    "latitude": 12.895042659312121,
+    "longitude": 77.69343987333227,
+    "AQI": 51,
+    "noise_dB": 87
+  },
+  {
+    "record_id": "55327432-b118-4ad6-8ba8-8a28172730d8",
+    "timestamp": "2025-07-16 11:27:28.568510",
+    "latitude": 12.910675292897166,
+    "longitude": 77.65046725094012,
+    "AQI": 53,
+    "noise_dB": 67
+  },
+  {
+    "record_id": "9372e80d-ee89-4190-b94b-5d35df377ff8",
+    "timestamp": "2025-07-20 22:34:49.002712",
+    "latitude": 13.095739798774035,
+    "longitude": 77.64042950225124,
+    "AQI": 253,
+    "noise_dB": 48
+  },
+  {
+    "record_id": "108e04ac-99c6-407f-ac81-4510c42eafc8",
+    "timestamp": "2025-07-13 14:45:25.503240",
+    "latitude": 12.966712823272417,
+    "longitude": 77.71258980946287,
+    "AQI": 104,
+    "noise_dB": 60
+  },
+  {
+    "record_id": "e900b66f-6083-4f88-97dd-a51ea4dc4d4e",
+    "timestamp": "2025-07-19 21:11:53.876008",
+    "latitude": 13.034414057926387,
+    "longitude": 77.64129599685496,
+    "AQI": 261,
+    "noise_dB": 51
+  },
+  {
+    "record_id": "b99b70d6-bc6a-48a7-be33-2380b7aa53b6",
+    "timestamp": "2025-07-21 22:10:03.974677",
+    "latitude": 12.940830567752863,
+    "longitude": 77.49932928006454,
+    "AQI": 154,
+    "noise_dB": 66
+  },
+  {
+    "record_id": "c8fb2050-a460-4f44-a767-472661b3d8f3",
+    "timestamp": "2025-07-12 10:11:33.249381",
+    "latitude": 12.904302400017816,
+    "longitude": 77.6428521066565,
+    "AQI": 135,
+    "noise_dB": 73
+  },
+  {
+    "record_id": "6fdcc21b-db2c-4eb7-b75c-07518fd8acb4",
+    "timestamp": "2025-07-17 03:32:50.013649",
+    "latitude": 13.018917321148631,
+    "longitude": 77.5070347289493,
+    "AQI": 68,
+    "noise_dB": 55
+  },
+  {
+    "record_id": "4253fb27-393a-40a9-bbbd-f80ccef66a14",
+    "timestamp": "2025-07-10 15:28:03.567566",
+    "latitude": 12.854200150927587,
+    "longitude": 77.66573364287996,
+    "AQI": 118,
+    "noise_dB": 77
+  },
+  {
+    "record_id": "1c8390ba-1672-480e-8a7d-6fa11d9ddb86",
+    "timestamp": "2025-07-04 13:39:58.786027",
+    "latitude": 12.930549942448403,
+    "longitude": 77.61691174907205,
+    "AQI": 187,
+    "noise_dB": 73
+  },
+  {
+    "record_id": "979a7368-bd96-4b0a-9719-d3e416d1d768",
+    "timestamp": "2025-07-23 03:39:17.432649",
+    "latitude": 12.873162963085074,
+    "longitude": 77.42709404319467,
+    "AQI": 230,
+    "noise_dB": 83
+  },
+  {
+    "record_id": "f1276a5c-be9f-44cb-b02b-0401efed098b",
+    "timestamp": "2025-07-12 20:54:59.206360",
+    "latitude": 13.04352823842926,
+    "longitude": 77.5794923768523,
+    "AQI": 108,
+    "noise_dB": 56
+  },
+  {
+    "record_id": "209e6e48-5e24-438e-92a5-93c81db92330",
+    "timestamp": "2025-07-23 06:16:45.951253",
+    "latitude": 13.130473093421138,
+    "longitude": 77.52015533921852,
+    "AQI": 236,
+    "noise_dB": 51
+  },
+  {
+    "record_id": "61547769-f43d-4740-9039-2a8cda73dae0",
+    "timestamp": "2025-07-03 20:21:54.912437",
+    "latitude": 13.148428838805554,
+    "longitude": 77.5149997214563,
+    "AQI": 122,
+    "noise_dB": 83
+  },
+  {
+    "record_id": "4f908490-006e-4070-bca6-a6b093b0d27e",
+    "timestamp": "2025-07-05 19:44:59.043168",
+    "latitude": 12.957596883654558,
+    "longitude": 77.61078970583205,
+    "AQI": 119,
+    "noise_dB": 86
+  },
+  {
+    "record_id": "309a8327-891d-47fe-970e-287a0fd7b0f2",
+    "timestamp": "2025-07-15 02:12:28.267911",
+    "latitude": 12.888385636372757,
+    "longitude": 77.51281368856431,
+    "AQI": 45,
+    "noise_dB": 92
+  },
+  {
+    "record_id": "6c778135-fad7-4ab7-a35d-8150d8dcc3a5",
+    "timestamp": "2025-07-05 23:35:49.730047",
+    "latitude": 12.954990279634513,
+    "longitude": 77.6719128118717,
+    "AQI": 125,
+    "noise_dB": 70
+  },
+  {
+    "record_id": "cc2a261d-5d72-43db-8572-aa5b51d41f72",
+    "timestamp": "2025-07-05 04:21:32.769759",
+    "latitude": 13.096544293486954,
+    "longitude": 77.42477700260392,
+    "AQI": 178,
+    "noise_dB": 84
+  },
+  {
+    "record_id": "2055adec-cbeb-443f-af15-b821ade6bf3c",
+    "timestamp": "2025-07-17 23:34:00.082294",
+    "latitude": 12.872101987493215,
+    "longitude": 77.63113588833853,
+    "AQI": 252,
+    "noise_dB": 53
+  },
+  {
+    "record_id": "973d1855-9a03-4d06-a9eb-0bf9850e6d30",
+    "timestamp": "2025-07-13 17:33:51.750618",
+    "latitude": 13.133233478078523,
+    "longitude": 77.68321818127986,
+    "AQI": 223,
+    "noise_dB": 85
+  },
+  {
+    "record_id": "025a2dd4-6533-4140-9b49-371038de44f1",
+    "timestamp": "2025-07-20 03:51:38.783698",
+    "latitude": 12.919653019079353,
+    "longitude": 77.63549109147215,
+    "AQI": 256,
+    "noise_dB": 78
+  },
+  {
+    "record_id": "50e08a81-75ea-4023-9a34-65d989cd90e7",
+    "timestamp": "2025-07-19 14:07:05.065592",
+    "latitude": 13.145031280807608,
+    "longitude": 77.57403021825701,
+    "AQI": 161,
+    "noise_dB": 89
+  },
+  {
+    "record_id": "4bfca0ca-f161-4bab-90ef-1299250b1c5a",
+    "timestamp": "2025-07-11 15:55:29.950171",
+    "latitude": 13.093513110636888,
+    "longitude": 77.73260745480766,
+    "AQI": 147,
+    "noise_dB": 57
+  },
+  {
+    "record_id": "ae133adc-7ff5-488e-b80a-1bb7d653d4bb",
+    "timestamp": "2025-07-08 03:06:28.001068",
+    "latitude": 13.082999686951586,
+    "longitude": 77.50497847142933,
+    "AQI": 114,
+    "noise_dB": 80
+  },
+  {
+    "record_id": "488c6ea4-99f9-4338-a5bd-ab1474ae4b96",
+    "timestamp": "2025-07-15 14:41:24.372628",
+    "latitude": 12.91126663582065,
+    "longitude": 77.40670876063375,
+    "AQI": 41,
+    "noise_dB": 69
+  },
+  {
+    "record_id": "d9606af0-aa54-4c79-bf3f-51d52557c82c",
+    "timestamp": "2025-07-19 19:57:39.909730",
+    "latitude": 12.803072024181777,
+    "longitude": 77.5511962800122,
+    "AQI": 50,
+    "noise_dB": 68
+  },
+  {
+    "record_id": "08cac260-b3f5-421c-93e7-8237cd2174d3",
+    "timestamp": "2025-07-04 18:03:00.011628",
+    "latitude": 12.933746518089096,
+    "longitude": 77.41155417756512,
+    "AQI": 261,
+    "noise_dB": 88
+  },
+  {
+    "record_id": "809bd813-4f13-423b-91f4-a72499503858",
+    "timestamp": "2025-07-19 06:53:44.527881",
+    "latitude": 12.905633279381943,
+    "longitude": 77.73387786338424,
+    "AQI": 50,
+    "noise_dB": 61
+  },
+  {
+    "record_id": "4600fc5f-1f9b-4662-b048-16fdfd869a13",
+    "timestamp": "2025-07-15 17:17:19.284091",
+    "latitude": 12.813088946643079,
+    "longitude": 77.47347131601182,
+    "AQI": 202,
+    "noise_dB": 46
+  },
+  {
+    "record_id": "92efd363-b4de-44a4-9900-da4bff317846",
+    "timestamp": "2025-07-05 10:23:20.212407",
+    "latitude": 12.976877839777076,
+    "longitude": 77.6761244583821,
+    "AQI": 46,
+    "noise_dB": 57
+  },
+  {
+    "record_id": "37387270-d424-49f3-a18e-44407a70bcf8",
+    "timestamp": "2025-07-03 11:13:25.131270",
+    "latitude": 12.941060958948958,
+    "longitude": 77.67110022911103,
+    "AQI": 69,
+    "noise_dB": 75
+  },
+  {
+    "record_id": "f76c432e-b442-4cde-8a9f-6c5c7eb9fe2d",
+    "timestamp": "2025-07-02 18:30:35.542328",
+    "latitude": 13.022094763709534,
+    "longitude": 77.47620511488903,
+    "AQI": 275,
+    "noise_dB": 73
+  },
+  {
+    "record_id": "cf69ef2d-fb2c-4c83-8f0e-5767606ffa15",
+    "timestamp": "2025-07-14 17:32:47.087627",
+    "latitude": 13.01741521276793,
+    "longitude": 77.61742928566807,
+    "AQI": 55,
+    "noise_dB": 94
+  },
+  {
+    "record_id": "b77dff3a-d3f0-4058-a717-7e595548f613",
+    "timestamp": "2025-07-20 06:32:08.900004",
+    "latitude": 12.84226132256384,
+    "longitude": 77.41682763897026,
+    "AQI": 212,
+    "noise_dB": 72
+  },
+  {
+    "record_id": "ef36feb1-bb8f-4b2b-991b-1cb635eabd3e",
+    "timestamp": "2025-07-01 15:19:27.086542",
+    "latitude": 13.141937941144318,
+    "longitude": 77.56925110499635,
+    "AQI": 205,
+    "noise_dB": 71
+  },
+  {
+    "record_id": "bc5882ec-b34d-4663-b99e-4d08cf7798cc",
+    "timestamp": "2025-07-07 10:10:50.519088",
+    "latitude": 12.865426000304508,
+    "longitude": 77.40512649454537,
+    "AQI": 262,
+    "noise_dB": 59
+  },
+  {
+    "record_id": "c6aa7991-dd8c-41ca-ac54-12b40d74fc38",
+    "timestamp": "2025-07-13 07:52:47.148111",
+    "latitude": 12.955845908667648,
+    "longitude": 77.7224003580633,
+    "AQI": 274,
+    "noise_dB": 75
+  },
+  {
+    "record_id": "ba3696cc-7ccd-4ac6-9b55-daf52dd4450c",
+    "timestamp": "2025-07-02 11:41:11.109685",
+    "latitude": 12.970841140201808,
+    "longitude": 77.74163010846985,
+    "AQI": 51,
+    "noise_dB": 84
+  },
+  {
+    "record_id": "d0a4a31a-fc00-43e7-8c91-ef0e644d852c",
+    "timestamp": "2025-07-14 14:13:29.973879",
+    "latitude": 13.084571979024943,
+    "longitude": 77.47779896832351,
+    "AQI": 66,
+    "noise_dB": 59
+  },
+  {
+    "record_id": "28c0e305-d938-4dfb-a991-7f60a8c4a0ca",
+    "timestamp": "2025-07-18 05:19:02.255869",
+    "latitude": 12.834730358633127,
+    "longitude": 77.47283711210873,
+    "AQI": 75,
+    "noise_dB": 77
+  },
+  {
+    "record_id": "646cd3c1-8c45-4c9e-8585-5672fdb651a6",
+    "timestamp": "2025-07-08 00:53:03.928918",
+    "latitude": 12.950025497722987,
+    "longitude": 77.66380206179674,
+    "AQI": 168,
+    "noise_dB": 64
+  },
+  {
+    "record_id": "793228b9-ad8a-44bc-ac24-dcaa566082e1",
+    "timestamp": "2025-07-13 13:24:38.186148",
+    "latitude": 13.019975759582671,
+    "longitude": 77.48868278959027,
+    "AQI": 250,
+    "noise_dB": 86
+  },
+  {
+    "record_id": "643058d9-c1f9-4e90-992a-a87bfd853cf8",
+    "timestamp": "2025-07-15 12:46:36.814714",
+    "latitude": 12.87530446756842,
+    "longitude": 77.71327679570665,
+    "AQI": 61,
+    "noise_dB": 56
+  },
+  {
+    "record_id": "ba0c96e2-8720-400f-9263-01a0641cb619",
+    "timestamp": "2025-07-01 17:40:59.685555",
+    "latitude": 13.019613764568126,
+    "longitude": 77.60087519764305,
+    "AQI": 182,
+    "noise_dB": 81
+  },
+  {
+    "record_id": "ec4de885-b245-47d9-8849-032c48754d16",
+    "timestamp": "2025-07-07 03:03:25.299469",
+    "latitude": 13.123282693142379,
+    "longitude": 77.5227721680536,
+    "AQI": 187,
+    "noise_dB": 53
+  },
+  {
+    "record_id": "8c4a62ba-db33-4860-b37b-db9931f18f8b",
+    "timestamp": "2025-07-23 05:35:21.586837",
+    "latitude": 13.149131345910437,
+    "longitude": 77.6914428112223,
+    "AQI": 100,
+    "noise_dB": 67
+  },
+  {
+    "record_id": "52cb8f69-2182-4518-98e9-ef7764ce4589",
+    "timestamp": "2025-07-13 20:34:14.232869",
+    "latitude": 12.811357876876738,
+    "longitude": 77.57269234514469,
+    "AQI": 171,
+    "noise_dB": 52
+  },
+  {
+    "record_id": "dda8b391-9494-465d-8a91-28fbc0948932",
+    "timestamp": "2025-07-13 19:59:34.337085",
+    "latitude": 12.882455879885638,
+    "longitude": 77.71907151979796,
+    "AQI": 126,
+    "noise_dB": 76
+  },
+  {
+    "record_id": "ef4055dd-d98d-413c-8ddb-0654ce192f51",
+    "timestamp": "2025-07-18 23:43:52.507692",
+    "latitude": 12.908607490527094,
+    "longitude": 77.72480498285529,
+    "AQI": 215,
+    "noise_dB": 92
+  },
+  {
+    "record_id": "a79617c4-7520-499e-8dd7-cb5cb5a78756",
+    "timestamp": "2025-07-02 00:57:25.588319",
+    "latitude": 12.939694135155738,
+    "longitude": 77.45789705324495,
+    "AQI": 95,
+    "noise_dB": 58
+  },
+  {
+    "record_id": "711f4ae4-2337-41e0-93c0-968729e7e176",
+    "timestamp": "2025-07-08 03:52:03.124893",
+    "latitude": 12.884790005154668,
+    "longitude": 77.40081319214619,
+    "AQI": 200,
+    "noise_dB": 71
+  },
+  {
+    "record_id": "e5b015b4-4a84-425f-bb81-4ce1b22a2428",
+    "timestamp": "2025-07-22 11:28:33.593037",
+    "latitude": 12.87122079809436,
+    "longitude": 77.74437582904984,
+    "AQI": 37,
+    "noise_dB": 69
+  },
+  {
+    "record_id": "cdea6f52-37d7-4ab3-b5b3-3f5425131cd4",
+    "timestamp": "2025-07-01 04:37:56.145736",
+    "latitude": 13.134093844846126,
+    "longitude": 77.71714813764461,
+    "AQI": 246,
+    "noise_dB": 57
+  },
+  {
+    "record_id": "a6b78891-bc3d-4bfc-b216-7340bf95ff33",
+    "timestamp": "2025-07-09 02:51:05.025331",
+    "latitude": 13.121482560969682,
+    "longitude": 77.41940583249635,
+    "AQI": 232,
+    "noise_dB": 65
+  },
+  {
+    "record_id": "db2c1379-b9d8-49f5-9cba-d41002568225",
+    "timestamp": "2025-07-07 10:17:14.537731",
+    "latitude": 12.816447375351093,
+    "longitude": 77.69156199237938,
+    "AQI": 137,
+    "noise_dB": 89
+  },
+  {
+    "record_id": "c9167a93-ada6-4c4b-9a19-40e4935fe6e2",
+    "timestamp": "2025-07-10 01:31:03.009790",
+    "latitude": 12.918584557561697,
+    "longitude": 77.56023172639573,
+    "AQI": 259,
+    "noise_dB": 75
+  },
+  {
+    "record_id": "6065f5cf-25c9-48b5-9bc2-1e42fd0d4cb1",
+    "timestamp": "2025-07-05 10:28:21.366558",
+    "latitude": 12.941801993787443,
+    "longitude": 77.49063656175875,
+    "AQI": 89,
+    "noise_dB": 81
+  },
+  {
+    "record_id": "adf01fe0-6d57-4692-bb92-4354f34d4b13",
+    "timestamp": "2025-07-18 02:45:39.166743",
+    "latitude": 12.88365508713308,
+    "longitude": 77.70756128328692,
+    "AQI": 35,
+    "noise_dB": 92
+  },
+  {
+    "record_id": "0e6bbde0-ed0d-4017-ab10-a823d7770933",
+    "timestamp": "2025-07-17 12:28:18.643433",
+    "latitude": 13.020105513945861,
+    "longitude": 77.46883353133661,
+    "AQI": 135,
+    "noise_dB": 87
+  },
+  {
+    "record_id": "794febef-f962-47e5-9b07-8b1118969587",
+    "timestamp": "2025-07-23 04:03:10.092095",
+    "latitude": 13.024133261325485,
+    "longitude": 77.73155499979703,
+    "AQI": 232,
+    "noise_dB": 49
+  },
+  {
+    "record_id": "1e0a7157-0d6e-401e-b1ef-a9632dfc6b9c",
+    "timestamp": "2025-07-16 23:53:20.170767",
+    "latitude": 13.097676479915009,
+    "longitude": 77.47196752069478,
+    "AQI": 79,
+    "noise_dB": 57
+  },
+  {
+    "record_id": "56a701ab-a66c-4f43-83f3-8f4efaf36aec",
+    "timestamp": "2025-07-03 05:12:08.706280",
+    "latitude": 13.059304243934827,
+    "longitude": 77.61478911570507,
+    "AQI": 260,
+    "noise_dB": 72
+  },
+  {
+    "record_id": "260892d6-f840-46f2-af0e-ebef97e89057",
+    "timestamp": "2025-07-10 06:30:59.761693",
+    "latitude": 12.989900664438085,
+    "longitude": 77.47808021708515,
+    "AQI": 209,
+    "noise_dB": 87
+  },
+  {
+    "record_id": "3eb862c6-676c-469f-b8f9-1075a08145d2",
+    "timestamp": "2025-07-17 21:05:02.069305",
+    "latitude": 13.028755369515547,
+    "longitude": 77.59098403273903,
+    "AQI": 241,
+    "noise_dB": 69
+  },
+  {
+    "record_id": "658a8377-3da8-437a-9e69-d7ef08b3c111",
+    "timestamp": "2025-07-03 07:10:54.591703",
+    "latitude": 12.895896073540056,
+    "longitude": 77.6393912954703,
+    "AQI": 271,
+    "noise_dB": 79
+  },
+  {
+    "record_id": "989da530-b01f-49f3-8d7d-10f37d169638",
+    "timestamp": "2025-07-19 09:09:56.811920",
+    "latitude": 13.007569666488576,
+    "longitude": 77.46657977578705,
+    "AQI": 60,
+    "noise_dB": 91
+  },
+  {
+    "record_id": "bec5715c-a71d-43a6-ac28-1bbdf45dbd91",
+    "timestamp": "2025-07-04 10:03:10.273036",
+    "latitude": 12.971229539162472,
+    "longitude": 77.58231002394524,
+    "AQI": 155,
+    "noise_dB": 83
+  },
+  {
+    "record_id": "fdbcebdb-b119-479c-869e-17c960185b17",
+    "timestamp": "2025-07-14 08:47:49.122386",
+    "latitude": 12.84667056356073,
+    "longitude": 77.56417091053655,
+    "AQI": 176,
+    "noise_dB": 51
+  },
+  {
+    "record_id": "16f0c19c-a894-411e-abb5-58e1cb9a6ed5",
+    "timestamp": "2025-07-09 16:45:45.378342",
+    "latitude": 12.88489049680404,
+    "longitude": 77.42486309749117,
+    "AQI": 216,
+    "noise_dB": 82
+  },
+  {
+    "record_id": "d1753cd1-dd69-4f6b-b6b3-5303c7195dd0",
+    "timestamp": "2025-07-14 08:21:01.628179",
+    "latitude": 12.902092707752555,
+    "longitude": 77.68640773618635,
+    "AQI": 233,
+    "noise_dB": 76
+  },
+  {
+    "record_id": "a1e09bf1-4674-4ee4-a1d1-5db2a67ac70a",
+    "timestamp": "2025-07-20 09:29:44.785244",
+    "latitude": 13.123508348468395,
+    "longitude": 77.517488840225,
+    "AQI": 80,
+    "noise_dB": 47
+  },
+  {
+    "record_id": "02f86044-5e08-4249-b1f3-4593a737d19b",
+    "timestamp": "2025-07-07 14:30:12.890979",
+    "latitude": 12.880635323785063,
+    "longitude": 77.60110376914317,
+    "AQI": 156,
+    "noise_dB": 89
+  },
+  {
+    "record_id": "1f3ec572-1527-42ac-9ddb-4f151eb85863",
+    "timestamp": "2025-07-04 10:47:27.748732",
+    "latitude": 12.901235365986885,
+    "longitude": 77.5801744822266,
+    "AQI": 65,
+    "noise_dB": 83
+  },
+  {
+    "record_id": "e8920b25-ab35-475a-a433-66c97d3d6b72",
+    "timestamp": "2025-07-11 13:00:47.044701",
+    "latitude": 12.929273945531301,
+    "longitude": 77.57964117659965,
+    "AQI": 250,
+    "noise_dB": 81
+  },
+  {
+    "record_id": "963bd564-05e5-44ff-b995-57cb827ee0b2",
+    "timestamp": "2025-07-21 03:37:17.566333",
+    "latitude": 13.032309958518885,
+    "longitude": 77.43752783797298,
+    "AQI": 93,
+    "noise_dB": 94
+  },
+  {
+    "record_id": "7ac067a6-9297-4aac-bcc2-ed1892aef13c",
+    "timestamp": "2025-07-03 02:58:06.432527",
+    "latitude": 12.84138343736525,
+    "longitude": 77.54821870323727,
+    "AQI": 257,
+    "noise_dB": 66
+  },
+  {
+    "record_id": "1834a40d-becf-4ded-b198-047f4612d424",
+    "timestamp": "2025-07-17 08:31:27.540508",
+    "latitude": 13.133880824372822,
+    "longitude": 77.5583283657223,
+    "AQI": 63,
+    "noise_dB": 52
+  },
+  {
+    "record_id": "624b31d7-2e5c-48ad-97c6-eb3ccb5a1c0e",
+    "timestamp": "2025-07-21 03:11:00.559935",
+    "latitude": 13.102949927033167,
+    "longitude": 77.65677499412756,
+    "AQI": 140,
+    "noise_dB": 61
+  },
+  {
+    "record_id": "b3e6922d-a504-4925-bffc-ff637bf3f8f5",
+    "timestamp": "2025-07-19 09:09:20.820426",
+    "latitude": 13.002025625553133,
+    "longitude": 77.69400659117224,
+    "AQI": 258,
+    "noise_dB": 71
+  },
+  {
+    "record_id": "200f7ed0-9248-48c8-8c61-8a436f041c76",
+    "timestamp": "2025-07-15 21:25:33.929585",
+    "latitude": 13.035913253598736,
+    "longitude": 77.59074379733501,
+    "AQI": 51,
+    "noise_dB": 77
+  },
+  {
+    "record_id": "b6b98240-1041-4cbc-9342-34cf1974fb71",
+    "timestamp": "2025-07-18 12:02:22.561943",
+    "latitude": 12.805831164935476,
+    "longitude": 77.43037403392275,
+    "AQI": 176,
+    "noise_dB": 90
+  },
+  {
+    "record_id": "899a5349-cb93-4ab6-9cb9-d394e8ac64c4",
+    "timestamp": "2025-07-04 15:59:10.673641",
+    "latitude": 12.918630671371957,
+    "longitude": 77.4828973147088,
+    "AQI": 266,
+    "noise_dB": 61
+  },
+  {
+    "record_id": "b363d272-d018-4ce6-a7c3-bd9e2f54f0e5",
+    "timestamp": "2025-07-22 22:29:21.199119",
+    "latitude": 13.078481080731505,
+    "longitude": 77.45772690939846,
+    "AQI": 198,
+    "noise_dB": 86
+  },
+  {
+    "record_id": "d1453eb7-8e59-4579-a4cf-d9b9050e1961",
+    "timestamp": "2025-07-12 18:04:31.250653",
+    "latitude": 12.827119040827336,
+    "longitude": 77.4436152721162,
+    "AQI": 220,
+    "noise_dB": 56
+  },
+  {
+    "record_id": "87b3d329-cfec-4804-8891-c9c689529c51",
+    "timestamp": "2025-07-17 14:07:43.057317",
+    "latitude": 12.898809841973753,
+    "longitude": 77.52806475451624,
+    "AQI": 274,
+    "noise_dB": 92
+  },
+  {
+    "record_id": "d64f10b5-84d6-4400-905d-d35c7d127b6b",
+    "timestamp": "2025-07-15 19:52:57.198133",
+    "latitude": 13.00485388991701,
+    "longitude": 77.48028772575404,
+    "AQI": 58,
+    "noise_dB": 90
+  },
+  {
+    "record_id": "d19eaf98-b6b8-4329-89fa-b5cc95b04f8a",
+    "timestamp": "2025-07-22 04:13:10.398484",
+    "latitude": 12.88974455969463,
+    "longitude": 77.47640608913403,
+    "AQI": 143,
+    "noise_dB": 71
+  },
+  {
+    "record_id": "c0e5ea1a-1fc4-4171-a6d5-dac6ca41e052",
+    "timestamp": "2025-07-08 18:31:42.760909",
+    "latitude": 13.126892290950583,
+    "longitude": 77.4191426111017,
+    "AQI": 225,
+    "noise_dB": 92
+  },
+  {
+    "record_id": "a898dac4-f736-4f7e-b51c-586ac0c3d59e",
+    "timestamp": "2025-07-18 21:04:06.527727",
+    "latitude": 12.845870520781503,
+    "longitude": 77.4061845156784,
+    "AQI": 125,
+    "noise_dB": 52
+  },
+  {
+    "record_id": "dcac41f8-2e40-41c1-9e09-14d2e5c943b1",
+    "timestamp": "2025-07-08 17:13:13.049660",
+    "latitude": 13.079088025267723,
+    "longitude": 77.43596888492743,
+    "AQI": 59,
+    "noise_dB": 67
+  },
+  {
+    "record_id": "015ce9f4-2e10-4355-b1f9-ab31995ec9de",
+    "timestamp": "2025-07-09 04:51:17.775037",
+    "latitude": 12.977782042167243,
+    "longitude": 77.46026911779828,
+    "AQI": 221,
+    "noise_dB": 86
+  },
+  {
+    "record_id": "5075b55a-ccee-4b1c-b27d-da848e023ef0",
+    "timestamp": "2025-07-20 11:38:25.456254",
+    "latitude": 13.062615771536985,
+    "longitude": 77.55084430509687,
+    "AQI": 66,
+    "noise_dB": 93
+  },
+  {
+    "record_id": "933882b3-20fa-45b7-8a05-49501f7fe5b0",
+    "timestamp": "2025-07-10 19:25:06.012425",
+    "latitude": 12.908750364909007,
+    "longitude": 77.5786820914546,
+    "AQI": 150,
+    "noise_dB": 73
+  },
+  {
+    "record_id": "167b6ea0-2945-4370-a713-72ab34cb7b9a",
+    "timestamp": "2025-07-21 06:36:47.992551",
+    "latitude": 12.980071360809214,
+    "longitude": 77.44920717136068,
+    "AQI": 116,
+    "noise_dB": 94
+  },
+  {
+    "record_id": "c0c91cd8-d9f8-424e-81bb-0e0d8fffc06d",
+    "timestamp": "2025-07-18 14:57:43.649265",
+    "latitude": 13.099892372403112,
+    "longitude": 77.54867416953347,
+    "AQI": 144,
+    "noise_dB": 64
+  },
+  {
+    "record_id": "1fed7603-fadc-4704-95a9-05b408f61b3f",
+    "timestamp": "2025-07-09 19:46:47.225849",
+    "latitude": 12.963407334693088,
+    "longitude": 77.51961209481408,
+    "AQI": 180,
+    "noise_dB": 60
+  },
+  {
+    "record_id": "f75ddff4-5d12-4e9b-8c6f-9a458192ef8f",
+    "timestamp": "2025-07-05 18:05:12.821989",
+    "latitude": 12.925901951668594,
+    "longitude": 77.46419827522429,
+    "AQI": 71,
+    "noise_dB": 61
+  },
+  {
+    "record_id": "fa236dbb-6c4d-4774-abee-2fff8b5f93fe",
+    "timestamp": "2025-07-14 21:28:42.427900",
+    "latitude": 12.987654385188458,
+    "longitude": 77.40239426185194,
+    "AQI": 60,
+    "noise_dB": 60
+  },
+  {
+    "record_id": "3f9304fa-0005-4b9d-a87d-21fff1fa7e6a",
+    "timestamp": "2025-07-02 16:58:28.209836",
+    "latitude": 13.051076963562728,
+    "longitude": 77.56345625328261,
+    "AQI": 171,
+    "noise_dB": 63
+  },
+  {
+    "record_id": "f21f9823-f23b-4efb-8bd1-8d4a4cf41edd",
+    "timestamp": "2025-07-04 11:15:46.287356",
+    "latitude": 12.955247170924476,
+    "longitude": 77.63997811224282,
+    "AQI": 261,
+    "noise_dB": 52
+  },
+  {
+    "record_id": "4b1c0df3-c865-435c-a795-24eb84fa3889",
+    "timestamp": "2025-07-15 06:59:09.860015",
+    "latitude": 13.128606941299797,
+    "longitude": 77.47919706695033,
+    "AQI": 98,
+    "noise_dB": 82
+  },
+  {
+    "record_id": "23cd8a44-71e6-4bce-88ba-ef4aa8be8d1f",
+    "timestamp": "2025-07-12 07:48:58.338691",
+    "latitude": 12.90323103841482,
+    "longitude": 77.44613239046384,
+    "AQI": 106,
+    "noise_dB": 82
+  },
+  {
+    "record_id": "501c93a3-b1f2-4be5-bd8d-a92b93baf4a3",
+    "timestamp": "2025-07-19 07:39:12.869897",
+    "latitude": 12.966412262159192,
+    "longitude": 77.71046496055644,
+    "AQI": 182,
+    "noise_dB": 73
+  },
+  {
+    "record_id": "ff2e1955-fc6b-466b-a929-15a385cd74bf",
+    "timestamp": "2025-07-04 05:55:12.969904",
+    "latitude": 13.064924680769504,
+    "longitude": 77.49625867037074,
+    "AQI": 216,
+    "noise_dB": 85
+  },
+  {
+    "record_id": "82b60c8e-89c8-48d7-9b2e-18c05a24591d",
+    "timestamp": "2025-07-20 19:33:54.051613",
+    "latitude": 13.041192381673516,
+    "longitude": 77.47826441692743,
+    "AQI": 140,
+    "noise_dB": 80
+  },
+  {
+    "record_id": "a9a14475-1958-4981-b01c-337e35b80aae",
+    "timestamp": "2025-07-13 10:55:18.677828",
+    "latitude": 13.102274368346006,
+    "longitude": 77.69998392886347,
+    "AQI": 120,
+    "noise_dB": 70
+  },
+  {
+    "record_id": "09676569-3cb2-4bf1-8b73-ca1cd1dc01e5",
+    "timestamp": "2025-07-23 01:22:25.540558",
+    "latitude": 13.148883213238388,
+    "longitude": 77.68598748470836,
+    "AQI": 245,
+    "noise_dB": 75
+  },
+  {
+    "record_id": "db2865da-4cb9-4e7b-a444-4f6430259856",
+    "timestamp": "2025-07-18 18:56:03.453889",
+    "latitude": 12.949400415078282,
+    "longitude": 77.55692126468362,
+    "AQI": 192,
+    "noise_dB": 88
+  },
+  {
+    "record_id": "225b74ad-f519-4b52-b718-31f3d527189b",
+    "timestamp": "2025-07-02 23:37:23.231375",
+    "latitude": 12.83890280792416,
+    "longitude": 77.57123360149973,
+    "AQI": 87,
+    "noise_dB": 56
+  },
+  {
+    "record_id": "977f199a-374e-4538-8d54-80389a262279",
+    "timestamp": "2025-07-03 03:25:05.379897",
+    "latitude": 12.81064555828279,
+    "longitude": 77.47621204669191,
+    "AQI": 126,
+    "noise_dB": 61
+  },
+  {
+    "record_id": "baa6961c-20e4-4bfe-8703-67f75bebb1c7",
+    "timestamp": "2025-07-08 03:23:48.527613",
+    "latitude": 13.05440691714892,
+    "longitude": 77.42740558466785,
+    "AQI": 133,
+    "noise_dB": 59
+  },
+  {
+    "record_id": "8cc2e0f0-1309-4c17-ac09-2d0a9f4fe355",
+    "timestamp": "2025-07-22 06:18:40.899570",
+    "latitude": 13.105904784958051,
+    "longitude": 77.60070113887448,
+    "AQI": 269,
+    "noise_dB": 53
+  },
+  {
+    "record_id": "a65741db-61bc-4c56-82bb-8f6341458abc",
+    "timestamp": "2025-07-04 16:13:07.474375",
+    "latitude": 12.877249405080548,
+    "longitude": 77.43442072255658,
+    "AQI": 225,
+    "noise_dB": 83
+  },
+  {
+    "record_id": "74c0db3e-666a-4a82-a9cf-4c70e75641e0",
+    "timestamp": "2025-07-07 09:02:20.632021",
+    "latitude": 12.855456813016469,
+    "longitude": 77.55724609143483,
+    "AQI": 45,
+    "noise_dB": 86
+  },
+  {
+    "record_id": "ad30c94b-4111-4681-b1da-833d15502390",
+    "timestamp": "2025-07-09 06:30:01.663062",
+    "latitude": 12.821771782033993,
+    "longitude": 77.72917401947956,
+    "AQI": 65,
+    "noise_dB": 92
+  },
+  {
+    "record_id": "24aba2a0-b1cb-4263-b0b0-e7296ce34d67",
+    "timestamp": "2025-07-03 00:44:57.946082",
+    "latitude": 13.087946022601022,
+    "longitude": 77.73349203620971,
+    "AQI": 211,
+    "noise_dB": 56
+  },
+  {
+    "record_id": "a12b61ae-1210-4787-b429-ce3b89310697",
+    "timestamp": "2025-07-05 01:53:47.284493",
+    "latitude": 12.908983678962406,
+    "longitude": 77.48376630029158,
+    "AQI": 274,
+    "noise_dB": 76
+  },
+  {
+    "record_id": "a214245c-fecf-4d72-84f7-60a8bb909511",
+    "timestamp": "2025-07-18 13:44:28.806659",
+    "latitude": 12.940593912465923,
+    "longitude": 77.61843969701599,
+    "AQI": 265,
+    "noise_dB": 69
+  },
+  {
+    "record_id": "b6e5dd9a-3150-47d2-a544-27ecb261ad5c",
+    "timestamp": "2025-07-06 20:55:29.871726",
+    "latitude": 12.975962567063364,
+    "longitude": 77.56592669243776,
+    "AQI": 134,
+    "noise_dB": 83
+  },
+  {
+    "record_id": "a5d453c4-a845-4ee9-904a-da375f44b716",
+    "timestamp": "2025-07-11 18:33:39.582536",
+    "latitude": 13.093808631973344,
+    "longitude": 77.70648979465514,
+    "AQI": 256,
+    "noise_dB": 62
+  },
+  {
+    "record_id": "29feba14-9add-47c8-82ec-e8aad20cd375",
+    "timestamp": "2025-07-06 19:52:37.910264",
+    "latitude": 13.02779162754652,
+    "longitude": 77.49500080249662,
+    "AQI": 121,
+    "noise_dB": 59
+  },
+  {
+    "record_id": "50fcfdaa-274b-469e-9252-44876b709287",
+    "timestamp": "2025-07-20 22:57:09.107027",
+    "latitude": 13.015272620450235,
+    "longitude": 77.40129584239135,
+    "AQI": 181,
+    "noise_dB": 76
+  },
+  {
+    "record_id": "61025637-6f02-4006-89ac-376cfe11230e",
+    "timestamp": "2025-07-15 19:16:48.125088",
+    "latitude": 12.861485234984569,
+    "longitude": 77.456896422076,
+    "AQI": 174,
+    "noise_dB": 50
+  },
+  {
+    "record_id": "3f5c022a-9a86-413d-b6c9-dd3806a2074c",
+    "timestamp": "2025-07-04 04:43:54.588104",
+    "latitude": 12.979616462098441,
+    "longitude": 77.52233298040929,
+    "AQI": 49,
+    "noise_dB": 88
+  },
+  {
+    "record_id": "880e6ddd-1fe7-4d21-8526-ed6213d8a6e6",
+    "timestamp": "2025-07-03 19:43:39.373206",
+    "latitude": 13.05038335601253,
+    "longitude": 77.51050239541968,
+    "AQI": 193,
+    "noise_dB": 87
+  },
+  {
+    "record_id": "6822d128-8c61-459f-af19-43901c285022",
+    "timestamp": "2025-07-13 22:43:16.892740",
+    "latitude": 13.140641309060673,
+    "longitude": 77.676977021693,
+    "AQI": 205,
+    "noise_dB": 79
+  },
+  {
+    "record_id": "16c702a1-a3e2-4c17-9450-c61f10e2b676",
+    "timestamp": "2025-07-01 21:37:51.638393",
+    "latitude": 12.870492208224674,
+    "longitude": 77.63819623314859,
+    "AQI": 135,
+    "noise_dB": 78
+  },
+  {
+    "record_id": "c72fa86e-5561-4496-a8c4-4e4c5ce1bcc2",
+    "timestamp": "2025-07-20 13:18:25.641822",
+    "latitude": 12.80334017357353,
+    "longitude": 77.50484471186522,
+    "AQI": 199,
+    "noise_dB": 82
+  },
+  {
+    "record_id": "cc501bea-de6d-4e25-a575-dbd145f3e8a4",
+    "timestamp": "2025-07-10 03:02:55.666403",
+    "latitude": 12.826355501759465,
+    "longitude": 77.56021033600818,
+    "AQI": 241,
+    "noise_dB": 49
+  },
+  {
+    "record_id": "19130b90-0286-475d-860d-b75139cbc41a",
+    "timestamp": "2025-07-20 12:12:47.483311",
+    "latitude": 12.931548362813693,
+    "longitude": 77.43344568638543,
+    "AQI": 63,
+    "noise_dB": 62
+  },
+  {
+    "record_id": "38e3c67d-f801-4a19-babf-8aef608d4b54",
+    "timestamp": "2025-07-21 21:04:10.440874",
+    "latitude": 13.087190626711095,
+    "longitude": 77.71435125568703,
+    "AQI": 148,
+    "noise_dB": 60
+  },
+  {
+    "record_id": "c8613afa-1ae1-4565-b3a8-0aa060ee0cbc",
+    "timestamp": "2025-07-03 22:28:08.908973",
+    "latitude": 12.802499728618887,
+    "longitude": 77.72739868855699,
+    "AQI": 141,
+    "noise_dB": 52
+  },
+  {
+    "record_id": "86c71c16-2cfc-4b3f-9f9d-eccdecf678c0",
+    "timestamp": "2025-07-09 08:21:36.721936",
+    "latitude": 12.959855707510044,
+    "longitude": 77.74293123738333,
+    "AQI": 188,
+    "noise_dB": 69
+  },
+  {
+    "record_id": "96bd5e9f-4e7a-481e-a021-8cafba73aa4e",
+    "timestamp": "2025-07-20 05:34:00.485487",
+    "latitude": 12.91523071536949,
+    "longitude": 77.70399349077505,
+    "AQI": 142,
+    "noise_dB": 76
+  },
+  {
+    "record_id": "1875589a-7d57-451f-8e8a-5306d2438d1b",
+    "timestamp": "2025-07-22 16:08:22.017760",
+    "latitude": 12.818368598534905,
+    "longitude": 77.46088631069368,
+    "AQI": 164,
+    "noise_dB": 70
+  },
+  {
+    "record_id": "9278f380-b351-4ddc-9951-86208769ee24",
+    "timestamp": "2025-07-09 12:09:27.759772",
+    "latitude": 12.957582700335417,
+    "longitude": 77.41616876912057,
+    "AQI": 118,
+    "noise_dB": 66
+  },
+  {
+    "record_id": "4563cafe-8d31-4f34-8830-effedd8abf0a",
+    "timestamp": "2025-07-16 12:42:47.050120",
+    "latitude": 12.889162047567853,
+    "longitude": 77.60285885459444,
+    "AQI": 49,
+    "noise_dB": 75
+  },
+  {
+    "record_id": "0c475261-e585-40a5-995c-663b9b82f430",
+    "timestamp": "2025-07-12 12:24:58.196067",
+    "latitude": 12.923159692021454,
+    "longitude": 77.71941175940908,
+    "AQI": 278,
+    "noise_dB": 87
+  },
+  {
+    "record_id": "c07abe48-f24e-4fd6-9168-36122bb61a4e",
+    "timestamp": "2025-07-06 23:35:34.514074",
+    "latitude": 13.046965356674503,
+    "longitude": 77.46207297658091,
+    "AQI": 166,
+    "noise_dB": 54
+  },
+  {
+    "record_id": "ce5b961f-585d-4011-ae40-8d5763ba6c3d",
+    "timestamp": "2025-07-20 22:20:23.489183",
+    "latitude": 12.982542844368838,
+    "longitude": 77.40246502011846,
+    "AQI": 248,
+    "noise_dB": 56
+  },
+  {
+    "record_id": "c9eb597b-f7ce-4dc4-ad85-1456bdc5a633",
+    "timestamp": "2025-07-16 12:54:24.661033",
+    "latitude": 12.843626600147486,
+    "longitude": 77.68192361611129,
+    "AQI": 84,
+    "noise_dB": 72
+  },
+  {
+    "record_id": "e1cc233c-9838-4168-8d3a-5b2d881c5211",
+    "timestamp": "2025-07-15 03:03:56.104908",
+    "latitude": 13.136495089148275,
+    "longitude": 77.42687848950037,
+    "AQI": 200,
+    "noise_dB": 50
+  },
+  {
+    "record_id": "97a1a2f6-7a13-4e90-a714-272ad9815a41",
+    "timestamp": "2025-07-15 15:46:10.714522",
+    "latitude": 13.02256876799841,
+    "longitude": 77.54479711116852,
+    "AQI": 57,
+    "noise_dB": 64
+  },
+  {
+    "record_id": "afc8d769-026e-4d11-8251-d2f020a89260",
+    "timestamp": "2025-07-17 20:51:38.069431",
+    "latitude": 13.068053948981886,
+    "longitude": 77.63761056801607,
+    "AQI": 93,
+    "noise_dB": 49
+  },
+  {
+    "record_id": "a8560b74-27ce-46ce-b695-c2bf837905ed",
+    "timestamp": "2025-07-06 13:45:10.794488",
+    "latitude": 12.827724602502931,
+    "longitude": 77.48287915490967,
+    "AQI": 124,
+    "noise_dB": 67
+  },
+  {
+    "record_id": "914ba9bb-60f9-4495-a486-07c22059ad46",
+    "timestamp": "2025-07-19 16:40:22.312907",
+    "latitude": 12.816470432811007,
+    "longitude": 77.42938689720636,
+    "AQI": 149,
+    "noise_dB": 53
+  },
+  {
+    "record_id": "eb1efddc-0d88-4933-8472-5ab7bc44a417",
+    "timestamp": "2025-07-01 04:20:22.352831",
+    "latitude": 12.806806817628829,
+    "longitude": 77.66950742995954,
+    "AQI": 109,
+    "noise_dB": 73
+  },
+  {
+    "record_id": "5ec2322f-f978-4269-a3a2-2f35b9b513c7",
+    "timestamp": "2025-07-20 10:03:35.898139",
+    "latitude": 12.866077909720707,
+    "longitude": 77.62056127971047,
+    "AQI": 190,
+    "noise_dB": 60
+  },
+  {
+    "record_id": "ad9f835f-3fc5-4786-870c-15e3b51ee0dd",
+    "timestamp": "2025-07-07 14:47:57.372315",
+    "latitude": 12.945042939201475,
+    "longitude": 77.74597166957038,
+    "AQI": 228,
+    "noise_dB": 90
+  },
+  {
+    "record_id": "75318081-b4ef-4a29-ab12-05aa9bd3f580",
+    "timestamp": "2025-07-04 14:26:02.497641",
+    "latitude": 13.127539146690989,
+    "longitude": 77.52050781166199,
+    "AQI": 157,
+    "noise_dB": 66
+  },
+  {
+    "record_id": "5a9fd637-fc7a-42dc-b05f-aecd2edff02e",
+    "timestamp": "2025-07-10 02:08:33.115627",
+    "latitude": 12.959970880743022,
+    "longitude": 77.42161683520158,
+    "AQI": 170,
+    "noise_dB": 52
+  },
+  {
+    "record_id": "496d036a-8092-489b-b7fa-7bbccc68753e",
+    "timestamp": "2025-07-02 15:52:15.994529",
+    "latitude": 12.901589286880386,
+    "longitude": 77.65702251236735,
+    "AQI": 191,
+    "noise_dB": 64
+  },
+  {
+    "record_id": "8545b11f-6d82-4335-b3de-a9dc469c558b",
+    "timestamp": "2025-07-09 20:06:05.146985",
+    "latitude": 12.996677338731883,
+    "longitude": 77.58260669659865,
+    "AQI": 173,
+    "noise_dB": 58
+  },
+  {
+    "record_id": "ec7ef0ab-e1a2-4ffa-b7ed-70cff111be9e",
+    "timestamp": "2025-07-11 12:33:39.203732",
+    "latitude": 12.839177102347177,
+    "longitude": 77.4746213759862,
+    "AQI": 263,
+    "noise_dB": 83
+  },
+  {
+    "record_id": "a2b8fdcc-4e20-4377-ba90-48ccd063d3e7",
+    "timestamp": "2025-07-03 03:05:03.900298",
+    "latitude": 13.013327061851745,
+    "longitude": 77.67360514615167,
+    "AQI": 52,
+    "noise_dB": 81
+  },
+  {
+    "record_id": "4e3fd50b-f28c-435f-9641-d960dba0bdec",
+    "timestamp": "2025-07-11 14:31:37.839349",
+    "latitude": 12.998951184015677,
+    "longitude": 77.47131442004749,
+    "AQI": 217,
+    "noise_dB": 94
+  },
+  {
+    "record_id": "d862042e-500f-46b1-8544-a04968115a5c",
+    "timestamp": "2025-07-15 15:00:51.972629",
+    "latitude": 13.077197561692,
+    "longitude": 77.49123157919153,
+    "AQI": 84,
+    "noise_dB": 78
+  },
+  {
+    "record_id": "13a22a82-1458-471d-a27a-2bda1713742b",
+    "timestamp": "2025-07-21 11:46:27.733274",
+    "latitude": 13.145340664065959,
+    "longitude": 77.43238499402835,
+    "AQI": 176,
+    "noise_dB": 55
+  },
+  {
+    "record_id": "17f85f5b-f1e2-4ce7-bd73-0c3bbade33a0",
+    "timestamp": "2025-07-11 13:58:02.636380",
+    "latitude": 12.887805715100638,
+    "longitude": 77.5398012976608,
+    "AQI": 152,
+    "noise_dB": 84
+  },
+  {
+    "record_id": "15a75ed9-0eb2-458f-9347-f4862a44da88",
+    "timestamp": "2025-07-02 22:53:17.586405",
+    "latitude": 12.978379757781317,
+    "longitude": 77.5466252283781,
+    "AQI": 236,
+    "noise_dB": 77
+  },
+  {
+    "record_id": "edf98b8d-8ddd-4a3e-892d-85a7be501500",
+    "timestamp": "2025-07-17 15:47:56.580231",
+    "latitude": 13.118102892211652,
+    "longitude": 77.58009662662191,
+    "AQI": 261,
+    "noise_dB": 75
+  },
+  {
+    "record_id": "02bce2e0-dfd5-488e-8eef-d2c97e2b73ce",
+    "timestamp": "2025-07-21 21:14:40.286747",
+    "latitude": 13.074816459547995,
+    "longitude": 77.64813749349332,
+    "AQI": 171,
+    "noise_dB": 88
+  },
+  {
+    "record_id": "ad5209e7-6c8a-40c1-b2ca-2002f6508852",
+    "timestamp": "2025-07-21 23:59:34.176928",
+    "latitude": 12.970592206085284,
+    "longitude": 77.71713532503814,
+    "AQI": 261,
+    "noise_dB": 78
+  },
+  {
+    "record_id": "22ecf870-bb15-494a-aeb4-7b07823901c4",
+    "timestamp": "2025-07-18 11:42:24.640625",
+    "latitude": 13.130880077365173,
+    "longitude": 77.44820693461074,
+    "AQI": 173,
+    "noise_dB": 94
+  },
+  {
+    "record_id": "af642572-83d7-4afc-bf70-29737acabb76",
+    "timestamp": "2025-07-05 12:58:43.751393",
+    "latitude": 12.820032842730884,
+    "longitude": 77.41902183442204,
+    "AQI": 225,
+    "noise_dB": 51
+  },
+  {
+    "record_id": "884bfa8c-e359-4ee9-ad41-1244ff79f0f4",
+    "timestamp": "2025-07-08 11:35:34.652272",
+    "latitude": 13.125849516899406,
+    "longitude": 77.40648593175803,
+    "AQI": 142,
+    "noise_dB": 93
+  },
+  {
+    "record_id": "038ef7af-67cc-4a38-9feb-c9afb2a86456",
+    "timestamp": "2025-07-08 05:20:42.530091",
+    "latitude": 12.817677587333982,
+    "longitude": 77.4502674823241,
+    "AQI": 238,
+    "noise_dB": 67
+  },
+  {
+    "record_id": "d4d6761c-e92f-49fd-b0af-e6139dc4f583",
+    "timestamp": "2025-07-23 16:23:35.640091",
+    "latitude": 12.991556660440141,
+    "longitude": 77.63028232002357,
+    "AQI": 101,
+    "noise_dB": 90
+  },
+  {
+    "record_id": "6ccb6ae1-b6d3-41ca-81dd-c628bef46f0c",
+    "timestamp": "2025-07-12 01:40:55.250066",
+    "latitude": 13.11165433180038,
+    "longitude": 77.65461697729877,
+    "AQI": 215,
+    "noise_dB": 51
+  },
+  {
+    "record_id": "5855e4a0-bfea-4d2a-88c9-82ecb3dd0cfb",
+    "timestamp": "2025-07-16 23:41:20.369308",
+    "latitude": 12.891952330246456,
+    "longitude": 77.67527699973485,
+    "AQI": 201,
+    "noise_dB": 69
+  },
+  {
+    "record_id": "a942b4d7-bd2d-4fff-be85-544c3e859c67",
+    "timestamp": "2025-07-11 20:10:38.451590",
+    "latitude": 12.965286974630805,
+    "longitude": 77.48529787416652,
+    "AQI": 112,
+    "noise_dB": 47
+  },
+  {
+    "record_id": "ffc977e4-d2c7-4176-aba3-32b1f36c1c45",
+    "timestamp": "2025-07-07 08:05:13.919299",
+    "latitude": 12.91351510769794,
+    "longitude": 77.50706318464154,
+    "AQI": 218,
+    "noise_dB": 82
+  },
+  {
+    "record_id": "af1fbe16-8732-4f52-b1e7-ada0e15d6e51",
+    "timestamp": "2025-07-01 20:54:54.508010",
+    "latitude": 13.133250370976723,
+    "longitude": 77.56909712594793,
+    "AQI": 190,
+    "noise_dB": 64
+  },
+  {
+    "record_id": "72dadc21-9b7c-4539-8ad7-d77c9bf41cc6",
+    "timestamp": "2025-07-04 13:05:14.900485",
+    "latitude": 13.088275958163582,
+    "longitude": 77.42211408390108,
+    "AQI": 109,
+    "noise_dB": 78
+  },
+  {
+    "record_id": "ee20a0b5-acad-4c07-ab24-ef63f6f32192",
+    "timestamp": "2025-07-11 16:45:42.037145",
+    "latitude": 13.048150528964234,
+    "longitude": 77.61389953312394,
+    "AQI": 73,
+    "noise_dB": 93
+  },
+  {
+    "record_id": "e75f58ba-8605-4bef-8382-8725e1c63384",
+    "timestamp": "2025-07-15 13:46:31.024560",
+    "latitude": 13.005669445315288,
+    "longitude": 77.74430726178652,
+    "AQI": 59,
+    "noise_dB": 88
+  },
+  {
+    "record_id": "5df70cc1-133b-485e-acc0-9f87399e1823",
+    "timestamp": "2025-07-08 06:55:49.766608",
+    "latitude": 13.087207126263452,
+    "longitude": 77.52628220898231,
+    "AQI": 55,
+    "noise_dB": 88
+  },
+  {
+    "record_id": "5a71504b-8380-4397-a221-2e52d6e38103",
+    "timestamp": "2025-07-01 17:06:47.233790",
+    "latitude": 12.937293464533242,
+    "longitude": 77.66349661628199,
+    "AQI": 172,
+    "noise_dB": 74
+  },
+  {
+    "record_id": "7ed99a6b-6c37-46c2-8d08-367ef3d5f737",
+    "timestamp": "2025-07-14 16:23:31.679235",
+    "latitude": 12.956643149287123,
+    "longitude": 77.57501187044936,
+    "AQI": 205,
+    "noise_dB": 61
+  },
+  {
+    "record_id": "f8401eea-5f8f-4538-aba4-d656610c5ade",
+    "timestamp": "2025-07-09 15:45:52.177711",
+    "latitude": 13.055500602378302,
+    "longitude": 77.44473414552614,
+    "AQI": 49,
+    "noise_dB": 54
+  },
+  {
+    "record_id": "add71599-e9fe-4d48-9684-74571cfcdf01",
+    "timestamp": "2025-07-22 07:37:28.537832",
+    "latitude": 12.9252141671528,
+    "longitude": 77.6037831070809,
+    "AQI": 245,
+    "noise_dB": 79
+  },
+  {
+    "record_id": "d9cc8656-8a03-4e43-94ec-05953ff09d13",
+    "timestamp": "2025-07-09 05:29:51.549575",
+    "latitude": 12.82236532971693,
+    "longitude": 77.50495599395542,
+    "AQI": 82,
+    "noise_dB": 64
+  },
+  {
+    "record_id": "4a41aed8-1e2c-4d4b-9b99-2f51c433b3bd",
+    "timestamp": "2025-07-10 18:59:08.867253",
+    "latitude": 12.826017113110126,
+    "longitude": 77.41204112295871,
+    "AQI": 120,
+    "noise_dB": 62
+  },
+  {
+    "record_id": "43c6b532-4b25-4483-bbae-0f3b4c96edc2",
+    "timestamp": "2025-07-11 18:38:32.020372",
+    "latitude": 12.840376980456996,
+    "longitude": 77.62222540554122,
+    "AQI": 183,
+    "noise_dB": 89
+  },
+  {
+    "record_id": "a194c7b1-bcef-40f8-8092-6d61368b7d68",
+    "timestamp": "2025-07-02 05:32:40.792310",
+    "latitude": 13.104388463170283,
+    "longitude": 77.70062632226366,
+    "AQI": 222,
+    "noise_dB": 88
+  },
+  {
+    "record_id": "ec4d6c00-37ab-4af8-a4c4-6086919fa02e",
+    "timestamp": "2025-07-20 18:14:01.147938",
+    "latitude": 12.965279249014673,
+    "longitude": 77.52066941841495,
+    "AQI": 150,
+    "noise_dB": 71
+  },
+  {
+    "record_id": "f589de14-eee0-4433-adda-16774e08ab81",
+    "timestamp": "2025-07-22 16:28:02.210127",
+    "latitude": 13.049508829270659,
+    "longitude": 77.53660344152448,
+    "AQI": 270,
+    "noise_dB": 93
+  },
+  {
+    "record_id": "e4b70864-d362-4ea7-83f9-b580a499eb92",
+    "timestamp": "2025-07-16 13:30:59.345990",
+    "latitude": 12.937518267461714,
+    "longitude": 77.71185758903853,
+    "AQI": 258,
+    "noise_dB": 80
+  },
+  {
+    "record_id": "e47a7b03-768a-46fb-af77-51240911e215",
+    "timestamp": "2025-07-07 03:25:42.929892",
+    "latitude": 12.890548831595472,
+    "longitude": 77.68476308467858,
+    "AQI": 84,
+    "noise_dB": 67
+  },
+  {
+    "record_id": "0eb81b17-7cff-47e3-992d-95199e24c724",
+    "timestamp": "2025-07-15 11:18:03.117176",
+    "latitude": 12.921517258646775,
+    "longitude": 77.65023348824312,
+    "AQI": 185,
+    "noise_dB": 76
+  },
+  {
+    "record_id": "75d9c07c-9d93-43ea-8182-144d5b120b1b",
+    "timestamp": "2025-07-02 21:40:09.091655",
+    "latitude": 13.077963820861015,
+    "longitude": 77.48707897231361,
+    "AQI": 175,
+    "noise_dB": 54
+  },
+  {
+    "record_id": "1b6f1a9e-5a98-4715-8c60-b543541bf89c",
+    "timestamp": "2025-07-02 13:50:20.153093",
+    "latitude": 13.018825643761003,
+    "longitude": 77.71857582923833,
+    "AQI": 103,
+    "noise_dB": 55
+  },
+  {
+    "record_id": "b8f16861-e3e3-473b-9987-5c7d0151ccb0",
+    "timestamp": "2025-07-10 05:18:17.193074",
+    "latitude": 13.128173922985265,
+    "longitude": 77.45404551513873,
+    "AQI": 38,
+    "noise_dB": 82
+  },
+  {
+    "record_id": "0244e4d7-5ac2-4176-a6ed-ef302fa80808",
+    "timestamp": "2025-07-07 18:59:35.089159",
+    "latitude": 13.037896672501892,
+    "longitude": 77.61936968179603,
+    "AQI": 254,
+    "noise_dB": 50
+  },
+  {
+    "record_id": "329245ba-7df6-4c1d-ae49-28ac19f145cc",
+    "timestamp": "2025-07-17 05:06:23.098459",
+    "latitude": 12.999563571114143,
+    "longitude": 77.41008041319128,
+    "AQI": 112,
+    "noise_dB": 85
+  },
+  {
+    "record_id": "e604bfbe-83aa-422f-8772-df4a15b1c4a6",
+    "timestamp": "2025-07-20 20:01:09.757370",
+    "latitude": 13.013568603145043,
+    "longitude": 77.62530193221373,
+    "AQI": 234,
+    "noise_dB": 91
+  },
+  {
+    "record_id": "e9c184ce-1fb4-46c0-a924-e24827599511",
+    "timestamp": "2025-07-12 22:42:24.278631",
+    "latitude": 13.129830003813945,
+    "longitude": 77.49700052315568,
+    "AQI": 43,
+    "noise_dB": 78
+  },
+  {
+    "record_id": "c4fa84a4-27d7-44ce-81c4-e2297cc70b17",
+    "timestamp": "2025-07-16 05:51:10.667825",
+    "latitude": 13.075870325453348,
+    "longitude": 77.5573869420143,
+    "AQI": 155,
+    "noise_dB": 80
+  },
+  {
+    "record_id": "787fb578-39e1-409d-8008-d4daa819213d",
+    "timestamp": "2025-07-06 21:44:46.252114",
+    "latitude": 12.808414433078253,
+    "longitude": 77.52084259321997,
+    "AQI": 149,
+    "noise_dB": 81
+  },
+  {
+    "record_id": "5d4f9715-4c9d-4049-9fd2-bec365363c77",
+    "timestamp": "2025-07-19 21:45:41.394695",
+    "latitude": 12.986948893647494,
+    "longitude": 77.46046486468617,
+    "AQI": 197,
+    "noise_dB": 61
+  },
+  {
+    "record_id": "89534e15-2ea3-4b78-a466-c9376da7c95b",
+    "timestamp": "2025-07-03 02:30:15.411497",
+    "latitude": 13.040918444041298,
+    "longitude": 77.61769327653286,
+    "AQI": 135,
+    "noise_dB": 84
+  },
+  {
+    "record_id": "fd474d95-1bd3-4f41-84fc-c054cfc15689",
+    "timestamp": "2025-07-21 12:36:07.903078",
+    "latitude": 13.062044467453704,
+    "longitude": 77.70869144429922,
+    "AQI": 183,
+    "noise_dB": 84
+  },
+  {
+    "record_id": "7079ae53-d6e0-417c-a801-f15e7046425d",
+    "timestamp": "2025-07-08 18:51:30.442488",
+    "latitude": 12.874599741759878,
+    "longitude": 77.73567948479884,
+    "AQI": 220,
+    "noise_dB": 56
+  },
+  {
+    "record_id": "bf415c98-5a8e-4f05-a3ce-cf1e296df91f",
+    "timestamp": "2025-07-18 03:29:22.473037",
+    "latitude": 13.103512074057974,
+    "longitude": 77.46732122710388,
+    "AQI": 180,
+    "noise_dB": 65
+  },
+  {
+    "record_id": "e2320dc9-5bf6-406d-817c-c74e6f180343",
+    "timestamp": "2025-07-04 17:53:27.512891",
+    "latitude": 13.134545101511307,
+    "longitude": 77.65108047092204,
+    "AQI": 131,
+    "noise_dB": 84
+  },
+  {
+    "record_id": "1c54956f-32ce-43db-b58f-67b6deda028b",
+    "timestamp": "2025-07-08 22:49:23.881217",
+    "latitude": 12.882850357045704,
+    "longitude": 77.63251877831199,
+    "AQI": 234,
+    "noise_dB": 63
+  },
+  {
+    "record_id": "2238dfc6-0a4e-4ccf-88ef-30ff308777b4",
+    "timestamp": "2025-07-10 12:58:16.801188",
+    "latitude": 13.108915410131036,
+    "longitude": 77.52018222635111,
+    "AQI": 277,
+    "noise_dB": 47
+  },
+  {
+    "record_id": "54ca6897-be71-4d60-abca-4f866500f793",
+    "timestamp": "2025-07-11 19:47:02.240608",
+    "latitude": 12.833942566880634,
+    "longitude": 77.4066847197738,
+    "AQI": 275,
+    "noise_dB": 62
+  },
+  {
+    "record_id": "aa8c662d-290a-4d67-8817-5dd0e6a7caf7",
+    "timestamp": "2025-07-16 16:20:06.279604",
+    "latitude": 12.819497392640336,
+    "longitude": 77.64142693655951,
+    "AQI": 115,
+    "noise_dB": 63
+  },
+  {
+    "record_id": "f5aed2e9-7ab3-437c-b2c8-c25e32f1227c",
+    "timestamp": "2025-07-04 15:47:26.814304",
+    "latitude": 12.845228330035964,
+    "longitude": 77.73092320119582,
+    "AQI": 77,
+    "noise_dB": 91
+  },
+  {
+    "record_id": "1e692c3f-440b-41a6-bba1-3732aa4d5bb8",
+    "timestamp": "2025-07-16 20:37:44.691252",
+    "latitude": 12.820209377813462,
+    "longitude": 77.62124204267047,
+    "AQI": 129,
+    "noise_dB": 50
+  },
+  {
+    "record_id": "7edd8483-8cd4-47bc-bd33-8ca26bcce72a",
+    "timestamp": "2025-07-09 01:46:56.414638",
+    "latitude": 13.095754283004522,
+    "longitude": 77.55235245346567,
+    "AQI": 260,
+    "noise_dB": 60
+  },
+  {
+    "record_id": "209f839f-b6dd-4d11-ae86-4837ccc10250",
+    "timestamp": "2025-07-16 18:33:33.096756",
+    "latitude": 12.820667550560396,
+    "longitude": 77.58380386293908,
+    "AQI": 40,
+    "noise_dB": 52
+  },
+  {
+    "record_id": "c7c432a0-c3af-4d93-8047-6d80532bd70a",
+    "timestamp": "2025-07-09 20:36:04.725594",
+    "latitude": 12.89508246697728,
+    "longitude": 77.46987008268097,
+    "AQI": 248,
+    "noise_dB": 92
+  },
+  {
+    "record_id": "b9dac779-8079-4dc9-a65e-467fe1bb7399",
+    "timestamp": "2025-07-01 05:25:33.500277",
+    "latitude": 12.836314720237551,
+    "longitude": 77.66269045731381,
+    "AQI": 240,
+    "noise_dB": 62
+  },
+  {
+    "record_id": "d35d1936-d7d2-488f-bdec-b67aec6e8294",
+    "timestamp": "2025-07-18 19:49:23.189643",
+    "latitude": 12.903397712709818,
+    "longitude": 77.66124694050345,
+    "AQI": 101,
+    "noise_dB": 92
+  },
+  {
+    "record_id": "f52a6cbf-1c17-429f-a1a4-96a8638b9370",
+    "timestamp": "2025-07-14 14:14:05.146128",
+    "latitude": 12.831695813660323,
+    "longitude": 77.4509310551356,
+    "AQI": 174,
+    "noise_dB": 87
+  },
+  {
+    "record_id": "2049a289-056a-4b28-8aef-3c9e1b9dff1b",
+    "timestamp": "2025-07-02 18:30:35.811375",
+    "latitude": 13.033801137760056,
+    "longitude": 77.70729243387488,
+    "AQI": 134,
+    "noise_dB": 83
+  },
+  {
+    "record_id": "037e7f60-8000-4fac-9818-48c527d19990",
+    "timestamp": "2025-07-16 04:56:02.649342",
+    "latitude": 12.846664385719903,
+    "longitude": 77.49421640881566,
+    "AQI": 46,
+    "noise_dB": 93
+  },
+  {
+    "record_id": "0d527b89-3c8b-466c-af37-4e8cc4735700",
+    "timestamp": "2025-07-15 00:49:29.484272",
+    "latitude": 13.098146074043612,
+    "longitude": 77.74378962132782,
+    "AQI": 271,
+    "noise_dB": 93
+  },
+  {
+    "record_id": "6dfe8745-5796-4d64-9470-1dd2ada5beb9",
+    "timestamp": "2025-07-08 08:52:04.026425",
+    "latitude": 13.086016867754324,
+    "longitude": 77.53401605491304,
+    "AQI": 100,
+    "noise_dB": 56
+  },
+  {
+    "record_id": "020e2e6a-bcc8-409b-98da-ae8cf9f7e004",
+    "timestamp": "2025-07-23 10:53:29.191962",
+    "latitude": 12.804781589914715,
+    "longitude": 77.46225942055707,
+    "AQI": 36,
+    "noise_dB": 89
+  },
+  {
+    "record_id": "483fca72-4a1a-4c2e-baed-edf46f302743",
+    "timestamp": "2025-07-22 08:59:44.063197",
+    "latitude": 13.11350422443029,
+    "longitude": 77.52310203897098,
+    "AQI": 177,
+    "noise_dB": 54
+  },
+  {
+    "record_id": "6dcfcb58-c2ca-45ed-9526-3fef7c65dbfb",
+    "timestamp": "2025-07-17 21:50:26.127650",
+    "latitude": 12.81013051086018,
+    "longitude": 77.55406311504402,
+    "AQI": 185,
+    "noise_dB": 51
+  },
+  {
+    "record_id": "bab008df-2709-45b2-9e1b-e56d3f6c5de5",
+    "timestamp": "2025-07-17 18:29:54.962699",
+    "latitude": 12.883876024735146,
+    "longitude": 77.4242577205634,
+    "AQI": 191,
+    "noise_dB": 90
+  },
+  {
+    "record_id": "47f8b6f1-3fdd-4e2b-afd6-129a82e09d39",
+    "timestamp": "2025-07-08 04:55:28.917920",
+    "latitude": 12.8113361982216,
+    "longitude": 77.60237643342815,
+    "AQI": 115,
+    "noise_dB": 45
+  },
+  {
+    "record_id": "4376bff9-dd3a-4936-9d71-f339c44842af",
+    "timestamp": "2025-07-04 10:13:38.911332",
+    "latitude": 12.917545220463762,
+    "longitude": 77.60917135395411,
+    "AQI": 258,
+    "noise_dB": 93
+  },
+  {
+    "record_id": "aa94a1d4-3f52-4dae-b371-d64dfe87a17b",
+    "timestamp": "2025-07-11 10:35:00.285321",
+    "latitude": 12.979853283999645,
+    "longitude": 77.65862565937232,
+    "AQI": 169,
+    "noise_dB": 80
+  },
+  {
+    "record_id": "79510a45-32cb-48ba-addd-5c02d2137565",
+    "timestamp": "2025-07-04 08:34:39.714798",
+    "latitude": 13.0788257041553,
+    "longitude": 77.41020946230176,
+    "AQI": 256,
+    "noise_dB": 65
+  },
+  {
+    "record_id": "1a6275f5-cf59-4b8e-8860-22c4b4da9f04",
+    "timestamp": "2025-07-20 16:12:06.042754",
+    "latitude": 12.918293542664443,
+    "longitude": 77.58943337505184,
+    "AQI": 190,
+    "noise_dB": 81
+  },
+  {
+    "record_id": "9c711439-8098-450d-baff-361ab37e3c41",
+    "timestamp": "2025-07-03 14:04:04.389610",
+    "latitude": 13.046921508635592,
+    "longitude": 77.41851760164474,
+    "AQI": 176,
+    "noise_dB": 68
+  },
+  {
+    "record_id": "dad8e2da-fe17-4db3-b04c-9c7b2e625a6f",
+    "timestamp": "2025-07-23 01:56:09.411595",
+    "latitude": 12.865626559991643,
+    "longitude": 77.64540047698833,
+    "AQI": 206,
+    "noise_dB": 69
+  },
+  {
+    "record_id": "2612e9e5-a26d-48f6-a100-1bc89758a25f",
+    "timestamp": "2025-07-10 06:01:29.774044",
+    "latitude": 13.062709459860445,
+    "longitude": 77.41950479499535,
+    "AQI": 192,
+    "noise_dB": 51
+  },
+  {
+    "record_id": "66ba7e51-21de-4360-9ed6-8b713ab8ec3f",
+    "timestamp": "2025-07-12 20:28:27.366566",
+    "latitude": 12.882598812068235,
+    "longitude": 77.71910474691957,
+    "AQI": 243,
+    "noise_dB": 86
+  },
+  {
+    "record_id": "31328995-fd8a-4696-861b-cbc309d261e0",
+    "timestamp": "2025-07-01 02:00:31.786904",
+    "latitude": 12.850240664580319,
+    "longitude": 77.64572889840957,
+    "AQI": 194,
+    "noise_dB": 61
+  },
+  {
+    "record_id": "0485742a-6d22-413c-a56d-f639edd9636e",
+    "timestamp": "2025-07-11 06:09:28.838951",
+    "latitude": 12.864893097630919,
+    "longitude": 77.57758641777981,
+    "AQI": 272,
+    "noise_dB": 73
+  },
+  {
+    "record_id": "dd460c91-1747-4b5c-b31b-d6029dd0ce04",
+    "timestamp": "2025-07-19 22:49:59.779058",
+    "latitude": 12.86372209510865,
+    "longitude": 77.55452637314842,
+    "AQI": 104,
+    "noise_dB": 74
+  },
+  {
+    "record_id": "866482ee-6844-40e3-a15e-ca800d0b6920",
+    "timestamp": "2025-07-03 20:41:03.238982",
+    "latitude": 12.979502007781948,
+    "longitude": 77.44573542064465,
+    "AQI": 149,
+    "noise_dB": 51
+  },
+  {
+    "record_id": "fae96dd3-a220-4a31-b33d-9c7c4e733dcc",
+    "timestamp": "2025-07-11 05:29:09.026343",
+    "latitude": 13.095679153415851,
+    "longitude": 77.50184978634763,
+    "AQI": 122,
+    "noise_dB": 77
+  },
+  {
+    "record_id": "6d134ea8-560f-4071-b8c6-430f3b3ed7bd",
+    "timestamp": "2025-07-23 01:39:09.392113",
+    "latitude": 12.827861776947378,
+    "longitude": 77.70413568675731,
+    "AQI": 40,
+    "noise_dB": 51
+  },
+  {
+    "record_id": "6d54a501-8286-4d40-8fb4-9d987aac8a0a",
+    "timestamp": "2025-07-03 05:14:18.946342",
+    "latitude": 13.047434711472699,
+    "longitude": 77.71655848404687,
+    "AQI": 61,
+    "noise_dB": 68
+  },
+  {
+    "record_id": "1c2c8fb1-4de5-42f7-8d39-4b57a4d4df15",
+    "timestamp": "2025-07-05 23:26:31.859030",
+    "latitude": 13.029021260878501,
+    "longitude": 77.4002616979297,
+    "AQI": 116,
+    "noise_dB": 55
+  },
+  {
+    "record_id": "f1685db8-47d2-4391-9d13-539c44ed4fd5",
+    "timestamp": "2025-07-23 06:53:00.675414",
+    "latitude": 13.105381983140278,
+    "longitude": 77.60794773701714,
+    "AQI": 122,
+    "noise_dB": 53
+  },
+  {
+    "record_id": "3f39562d-6b06-492f-b62a-794159dcbe0f",
+    "timestamp": "2025-07-10 13:33:31.194683",
+    "latitude": 12.885451646177419,
+    "longitude": 77.6517552131588,
+    "AQI": 263,
+    "noise_dB": 56
+  },
+  {
+    "record_id": "2e874651-0c2c-47fa-a525-aeaf51e11799",
+    "timestamp": "2025-07-13 10:20:53.860457",
+    "latitude": 12.957538450539761,
+    "longitude": 77.61656144386016,
+    "AQI": 154,
+    "noise_dB": 79
+  },
+  {
+    "record_id": "a911fd6d-0d58-4ee2-8023-1f700a77b5cc",
+    "timestamp": "2025-07-04 18:44:50.990055",
+    "latitude": 13.124039581055232,
+    "longitude": 77.42858791770323,
+    "AQI": 58,
+    "noise_dB": 48
+  },
+  {
+    "record_id": "490a886c-3644-4939-9256-f928bea83e9f",
+    "timestamp": "2025-07-09 14:16:26.193484",
+    "latitude": 13.030997707547362,
+    "longitude": 77.47620371457963,
+    "AQI": 136,
+    "noise_dB": 80
+  },
+  {
+    "record_id": "9b4503bc-e892-464d-87b8-85fa78d8cdd6",
+    "timestamp": "2025-07-08 22:10:21.977437",
+    "latitude": 12.93606894450156,
+    "longitude": 77.48761909358349,
+    "AQI": 68,
+    "noise_dB": 72
+  },
+  {
+    "record_id": "40944f95-2f51-4ca6-ae4f-f4a419cb84c8",
+    "timestamp": "2025-07-22 16:19:14.849811",
+    "latitude": 12.845994333999345,
+    "longitude": 77.69110362095678,
+    "AQI": 202,
+    "noise_dB": 57
+  },
+  {
+    "record_id": "559383cf-5d13-4906-bdc4-f12bf2c5a2da",
+    "timestamp": "2025-07-23 02:54:07.499392",
+    "latitude": 12.891869752765208,
+    "longitude": 77.56211980270812,
+    "AQI": 81,
+    "noise_dB": 67
+  },
+  {
+    "record_id": "ab402561-18cd-49c9-9c8d-23b44dea5200",
+    "timestamp": "2025-07-14 03:08:54.002519",
+    "latitude": 13.003425417121285,
+    "longitude": 77.57038987417944,
+    "AQI": 241,
+    "noise_dB": 63
+  },
+  {
+    "record_id": "c53d1af9-8d40-4eb2-aed6-90cc037f5347",
+    "timestamp": "2025-07-01 07:51:05.219778",
+    "latitude": 13.05135878164618,
+    "longitude": 77.72721256629409,
+    "AQI": 237,
+    "noise_dB": 86
+  },
+  {
+    "record_id": "5c4e3b00-54ca-4adc-a15b-def5dcaa5893",
+    "timestamp": "2025-07-19 12:35:58.313679",
+    "latitude": 12.843547660398164,
+    "longitude": 77.62298006109916,
+    "AQI": 248,
+    "noise_dB": 81
+  },
+  {
+    "record_id": "be30cae9-5c83-498e-8f5e-7840bdc551bb",
+    "timestamp": "2025-07-01 08:50:45.327348",
+    "latitude": 13.00985904101542,
+    "longitude": 77.71453369554344,
+    "AQI": 58,
+    "noise_dB": 83
+  },
+  {
+    "record_id": "9ace8631-8763-4104-96c2-e045c75ffb36",
+    "timestamp": "2025-07-21 09:52:39.713873",
+    "latitude": 12.992622947593564,
+    "longitude": 77.55977809936954,
+    "AQI": 99,
+    "noise_dB": 68
+  },
+  {
+    "record_id": "46a47588-a676-4ce1-bcfe-18e95f20ac06",
+    "timestamp": "2025-07-12 10:18:31.715334",
+    "latitude": 12.979884406341748,
+    "longitude": 77.4523026904814,
+    "AQI": 52,
+    "noise_dB": 60
+  },
+  {
+    "record_id": "1654c83f-6251-4f01-9596-77e935c4be08",
+    "timestamp": "2025-07-20 18:05:24.949092",
+    "latitude": 13.041543091188704,
+    "longitude": 77.72547745792593,
+    "AQI": 78,
+    "noise_dB": 77
+  },
+  {
+    "record_id": "a12ac11c-2167-4dca-9b3a-c54ce31f2212",
+    "timestamp": "2025-07-16 22:03:51.648582",
+    "latitude": 13.093107358279212,
+    "longitude": 77.56054679048364,
+    "AQI": 110,
+    "noise_dB": 56
+  },
+  {
+    "record_id": "0a81870a-1ecf-4aec-9a11-ddf4be1a35c9",
+    "timestamp": "2025-07-15 18:31:33.114047",
+    "latitude": 12.913046389111905,
+    "longitude": 77.4635709976576,
+    "AQI": 91,
+    "noise_dB": 78
+  },
+  {
+    "record_id": "e250891a-e984-4baa-b7e4-7c8c9628e429",
+    "timestamp": "2025-07-11 09:07:45.429498",
+    "latitude": 13.111154266538836,
+    "longitude": 77.50583850910638,
+    "AQI": 141,
+    "noise_dB": 51
+  },
+  {
+    "record_id": "3163b274-30c0-41a9-9141-b9e4a783d1c8",
+    "timestamp": "2025-07-10 08:12:37.397678",
+    "latitude": 12.856221764416494,
+    "longitude": 77.41778090639113,
+    "AQI": 190,
+    "noise_dB": 55
+  },
+  {
+    "record_id": "19404d24-eced-4c30-b21d-f83cb46499f4",
+    "timestamp": "2025-07-09 00:25:36.425451",
+    "latitude": 12.860558354412909,
+    "longitude": 77.56390520700974,
+    "AQI": 266,
+    "noise_dB": 75
+  },
+  {
+    "record_id": "9e7776ae-8bec-4a50-b11a-fc00132b4f36",
+    "timestamp": "2025-07-13 08:22:15.519219",
+    "latitude": 12.893370222268373,
+    "longitude": 77.69859486016858,
+    "AQI": 158,
+    "noise_dB": 73
+  },
+  {
+    "record_id": "796512e3-b9b0-44ac-8d2d-8efd57c8294c",
+    "timestamp": "2025-07-12 21:49:41.394045",
+    "latitude": 12.841835804341478,
+    "longitude": 77.72675315960234,
+    "AQI": 233,
+    "noise_dB": 57
+  },
+  {
+    "record_id": "88973a4a-33b6-46dc-82d0-1c42fd595978",
+    "timestamp": "2025-07-18 09:59:37.652700",
+    "latitude": 12.880611728639007,
+    "longitude": 77.72641077262628,
+    "AQI": 185,
+    "noise_dB": 75
+  },
+  {
+    "record_id": "20b99830-0b37-4468-a757-1245b8845902",
+    "timestamp": "2025-07-03 13:56:38.163891",
+    "latitude": 12.837244117015997,
+    "longitude": 77.44383050897007,
+    "AQI": 247,
+    "noise_dB": 46
+  },
+  {
+    "record_id": "b62b9f62-8ced-48ea-ab0f-fa793113b13a",
+    "timestamp": "2025-07-05 00:03:14.283774",
+    "latitude": 13.087613345944886,
+    "longitude": 77.53371885887887,
+    "AQI": 196,
+    "noise_dB": 83
+  },
+  {
+    "record_id": "c2651976-e088-4267-a43f-05c840a582f7",
+    "timestamp": "2025-07-10 18:02:33.887919",
+    "latitude": 12.84863914716032,
+    "longitude": 77.40988006587776,
+    "AQI": 173,
+    "noise_dB": 59
+  },
+  {
+    "record_id": "8f72d6af-e825-449a-9899-39bada7aee9f",
+    "timestamp": "2025-07-05 00:38:41.116708",
+    "latitude": 13.06155414514595,
+    "longitude": 77.69930787074001,
+    "AQI": 248,
+    "noise_dB": 55
+  },
+  {
+    "record_id": "5db2f6ce-e519-4530-98eb-3e59f9a1de3f",
+    "timestamp": "2025-07-14 13:00:45.704909",
+    "latitude": 12.816769853769667,
+    "longitude": 77.52556451670745,
+    "AQI": 268,
+    "noise_dB": 78
+  },
+  {
+    "record_id": "1e0fd29b-b7a2-4b33-a13e-cf1572cfbb0e",
+    "timestamp": "2025-07-13 08:31:57.428053",
+    "latitude": 13.13198211462987,
+    "longitude": 77.62089095976228,
+    "AQI": 197,
+    "noise_dB": 83
+  },
+  {
+    "record_id": "7b9a21c4-1155-481f-afa5-f03fe92d6961",
+    "timestamp": "2025-07-09 16:27:46.756269",
+    "latitude": 13.048906030634718,
+    "longitude": 77.65021445332705,
+    "AQI": 150,
+    "noise_dB": 48
+  },
+  {
+    "record_id": "f3d36295-ee6b-4b89-8615-50f66b43db40",
+    "timestamp": "2025-07-20 05:42:23.922740",
+    "latitude": 12.80237879200514,
+    "longitude": 77.55044563441011,
+    "AQI": 127,
+    "noise_dB": 55
+  },
+  {
+    "record_id": "2abc42b1-0599-47f6-8a77-736e80fd963d",
+    "timestamp": "2025-07-16 16:10:55.890064",
+    "latitude": 13.067349775070076,
+    "longitude": 77.50725481779259,
+    "AQI": 76,
+    "noise_dB": 73
+  },
+  {
+    "record_id": "f7ad3965-b25b-46dc-862e-9af399622263",
+    "timestamp": "2025-07-10 23:01:11.740927",
+    "latitude": 12.979928672268166,
+    "longitude": 77.73677451854059,
+    "AQI": 62,
+    "noise_dB": 46
+  },
+  {
+    "record_id": "f4af8005-0ba2-4c4f-8a26-eb592101d598",
+    "timestamp": "2025-07-07 10:44:58.827985",
+    "latitude": 13.072777809617293,
+    "longitude": 77.73757087875835,
+    "AQI": 157,
+    "noise_dB": 60
+  },
+  {
+    "record_id": "f8f40e49-cb5d-4aff-8f90-27d590f0d47c",
+    "timestamp": "2025-07-15 02:56:09.507639",
+    "latitude": 12.982873883111706,
+    "longitude": 77.50130272881051,
+    "AQI": 244,
+    "noise_dB": 83
+  },
+  {
+    "record_id": "d085449d-bd9f-42d7-b0b0-5a0bb19d1860",
+    "timestamp": "2025-07-22 01:26:16.119802",
+    "latitude": 13.024358700172375,
+    "longitude": 77.56786878386056,
+    "AQI": 240,
+    "noise_dB": 57
+  },
+  {
+    "record_id": "884ff1a7-af48-4fc0-beba-046465c227c0",
+    "timestamp": "2025-07-20 12:12:40.221975",
+    "latitude": 13.075216079388264,
+    "longitude": 77.740495455531,
+    "AQI": 244,
+    "noise_dB": 81
+  },
+  {
+    "record_id": "1332406f-f8b6-4dee-8373-edf3dec91438",
+    "timestamp": "2025-07-23 15:48:21.286134",
+    "latitude": 12.94178781910575,
+    "longitude": 77.40170394267943,
+    "AQI": 254,
+    "noise_dB": 61
+  },
+  {
+    "record_id": "82601132-c02f-424f-b010-0d7e2a5f66e4",
+    "timestamp": "2025-07-19 08:18:59.249761",
+    "latitude": 12.80094785243716,
+    "longitude": 77.5444373869327,
+    "AQI": 58,
+    "noise_dB": 65
+  },
+  {
+    "record_id": "63e73896-c784-4f4b-8fff-e8456257ae9c",
+    "timestamp": "2025-07-03 08:42:59.699472",
+    "latitude": 13.097481273580817,
+    "longitude": 77.43516014238834,
+    "AQI": 170,
+    "noise_dB": 88
+  },
+  {
+    "record_id": "34f902b7-4580-44ae-9b72-a9fe669e098d",
+    "timestamp": "2025-07-15 18:54:55.278309",
+    "latitude": 12.933311626918632,
+    "longitude": 77.57820528794691,
+    "AQI": 140,
+    "noise_dB": 63
+  },
+  {
+    "record_id": "9267e7e6-28f5-45c2-80eb-f7252f1ef8dc",
+    "timestamp": "2025-07-15 00:41:13.840329",
+    "latitude": 12.973614954105805,
+    "longitude": 77.40863448408918,
+    "AQI": 152,
+    "noise_dB": 51
+  },
+  {
+    "record_id": "0244bc44-b25c-4b50-9794-b38937c23f27",
+    "timestamp": "2025-07-10 08:41:53.480453",
+    "latitude": 12.80271832475389,
+    "longitude": 77.54241445098673,
+    "AQI": 271,
+    "noise_dB": 82
+  },
+  {
+    "record_id": "834693d1-ca67-4562-adba-84d1e1104d91",
+    "timestamp": "2025-07-12 07:12:19.639030",
+    "latitude": 12.972232203622536,
+    "longitude": 77.47724467617488,
+    "AQI": 87,
+    "noise_dB": 52
+  },
+  {
+    "record_id": "b877e049-b52f-4e0d-80fa-33637497c7d9",
+    "timestamp": "2025-07-18 02:41:51.975190",
+    "latitude": 13.145270590550105,
+    "longitude": 77.58665792686057,
+    "AQI": 234,
+    "noise_dB": 57
+  },
+  {
+    "record_id": "da3bce8e-4dac-49f6-8242-fc5c866b329a",
+    "timestamp": "2025-07-22 02:34:53.290656",
+    "latitude": 12.89739368128657,
+    "longitude": 77.74859777718524,
+    "AQI": 166,
+    "noise_dB": 81
+  },
+  {
+    "record_id": "44bd604f-b550-4e2b-8bde-7d883867f62d",
+    "timestamp": "2025-07-03 06:28:16.129727",
+    "latitude": 12.938396394584833,
+    "longitude": 77.68018763679436,
+    "AQI": 253,
+    "noise_dB": 46
+  },
+  {
+    "record_id": "395370c0-2bcd-4e43-9e7d-8f7b8d59c34d",
+    "timestamp": "2025-07-11 02:37:51.807687",
+    "latitude": 13.040516498764037,
+    "longitude": 77.69597473206855,
+    "AQI": 134,
+    "noise_dB": 85
+  },
+  {
+    "record_id": "4ab63e0f-3cfb-4642-8897-c4970bad4234",
+    "timestamp": "2025-07-14 05:33:02.414873",
+    "latitude": 13.08517778363328,
+    "longitude": 77.62234274557568,
+    "AQI": 39,
+    "noise_dB": 55
+  },
+  {
+    "record_id": "f129ed2f-25ec-47e4-a3bd-d4d60a01d8b6",
+    "timestamp": "2025-07-01 17:49:48.260097",
+    "latitude": 12.946087068402136,
+    "longitude": 77.4145459468953,
+    "AQI": 259,
+    "noise_dB": 68
+  },
+  {
+    "record_id": "220a69d3-ed60-4f49-871b-0cc7e233c597",
+    "timestamp": "2025-07-07 14:23:10.178360",
+    "latitude": 12.908384104640453,
+    "longitude": 77.47237918661546,
+    "AQI": 83,
+    "noise_dB": 50
+  },
+  {
+    "record_id": "0d3069bf-ca66-48a8-9f96-048a453b37f5",
+    "timestamp": "2025-07-10 13:48:45.272198",
+    "latitude": 13.128239029994774,
+    "longitude": 77.72377259475647,
+    "AQI": 132,
+    "noise_dB": 70
+  },
+  {
+    "record_id": "fd523fad-3fbe-4e33-bae2-d4a8a4752fa7",
+    "timestamp": "2025-07-06 01:46:03.827103",
+    "latitude": 13.037000738335085,
+    "longitude": 77.52813959127506,
+    "AQI": 64,
+    "noise_dB": 51
+  },
+  {
+    "record_id": "1dbe4a3c-88db-4692-b5c0-c003d2cb03eb",
+    "timestamp": "2025-07-11 08:22:55.594876",
+    "latitude": 12.8416574565726,
+    "longitude": 77.43627285426828,
+    "AQI": 106,
+    "noise_dB": 83
+  },
+  {
+    "record_id": "a1f78157-58f3-4359-a60d-a1aa005bbf73",
+    "timestamp": "2025-07-09 16:11:55.814449",
+    "latitude": 12.824124757347128,
+    "longitude": 77.64584187805318,
+    "AQI": 137,
+    "noise_dB": 63
+  },
+  {
+    "record_id": "53167cb5-5e7e-40e5-b8e3-51ea9aebbc3e",
+    "timestamp": "2025-07-05 10:50:31.983227",
+    "latitude": 12.96924244777663,
+    "longitude": 77.50481020337699,
+    "AQI": 97,
+    "noise_dB": 50
+  },
+  {
+    "record_id": "e24cee91-b499-4393-b249-1816154f9eb4",
+    "timestamp": "2025-07-11 16:32:48.481133",
+    "latitude": 12.877031523116546,
+    "longitude": 77.49409991951646,
+    "AQI": 209,
+    "noise_dB": 87
+  },
+  {
+    "record_id": "22345eac-b8da-4559-8398-018f8c9d4a84",
+    "timestamp": "2025-07-03 19:59:12.308365",
+    "latitude": 12.88889466368169,
+    "longitude": 77.74929210944539,
+    "AQI": 60,
+    "noise_dB": 73
+  },
+  {
+    "record_id": "4b7e42df-9c8a-4631-a5f9-5507688928ad",
+    "timestamp": "2025-07-23 00:38:47.669456",
+    "latitude": 13.107192262589747,
+    "longitude": 77.70034862375933,
+    "AQI": 219,
+    "noise_dB": 87
+  },
+  {
+    "record_id": "a03e9b5d-0ea8-40ee-bc3a-156a531b49d8",
+    "timestamp": "2025-07-21 19:22:12.058381",
+    "latitude": 12.83134810851071,
+    "longitude": 77.54277823642875,
+    "AQI": 71,
+    "noise_dB": 83
+  },
+  {
+    "record_id": "5b00f1a0-d2ed-4196-82aa-1c76d0e04655",
+    "timestamp": "2025-07-10 09:36:08.722554",
+    "latitude": 13.050377440330111,
+    "longitude": 77.74309142273577,
+    "AQI": 260,
+    "noise_dB": 46
+  },
+  {
+    "record_id": "4799c04b-f719-45ae-bb00-84fa3822b51b",
+    "timestamp": "2025-07-19 16:13:35.302447",
+    "latitude": 12.894899788683206,
+    "longitude": 77.62753962819673,
+    "AQI": 41,
+    "noise_dB": 63
+  },
+  {
+    "record_id": "0400e249-f8bb-4616-8188-60b92d3e854b",
+    "timestamp": "2025-07-17 00:31:57.373509",
+    "latitude": 13.066114877491449,
+    "longitude": 77.65970785815792,
+    "AQI": 161,
+    "noise_dB": 48
+  },
+  {
+    "record_id": "de34106a-fa90-4bfb-a845-f72389924e2d",
+    "timestamp": "2025-07-17 20:55:15.396502",
+    "latitude": 13.05284398456224,
+    "longitude": 77.41102956507878,
+    "AQI": 202,
+    "noise_dB": 50
+  },
+  {
+    "record_id": "95509b75-c7cf-4659-b063-6972c737327a",
+    "timestamp": "2025-07-01 04:09:17.939208",
+    "latitude": 12.802587165505503,
+    "longitude": 77.44256184077183,
+    "AQI": 126,
+    "noise_dB": 93
+  },
+  {
+    "record_id": "b0285484-beea-44d3-b8fc-75131b3fd4b0",
+    "timestamp": "2025-07-09 12:40:57.295366",
+    "latitude": 12.97819739452256,
+    "longitude": 77.62157979427369,
+    "AQI": 201,
+    "noise_dB": 81
+  },
+  {
+    "record_id": "41e15f65-a761-4e80-b216-880d61c9815e",
+    "timestamp": "2025-07-06 02:20:43.205197",
+    "latitude": 12.848761818832317,
+    "longitude": 77.71465839392732,
+    "AQI": 224,
+    "noise_dB": 72
+  },
+  {
+    "record_id": "9ab62311-a261-4918-a050-95fadeba0297",
+    "timestamp": "2025-07-07 10:56:39.134290",
+    "latitude": 13.103179460702536,
+    "longitude": 77.61831030413066,
+    "AQI": 137,
+    "noise_dB": 74
+  },
+  {
+    "record_id": "71330766-d11c-4313-b4c6-d6208d0653e2",
+    "timestamp": "2025-07-21 00:33:49.835664",
+    "latitude": 13.105055059001844,
+    "longitude": 77.44690871301165,
+    "AQI": 254,
+    "noise_dB": 51
+  },
+  {
+    "record_id": "343402ef-44cf-46ba-9302-e6e2387bccda",
+    "timestamp": "2025-07-07 00:30:22.326439",
+    "latitude": 12.946421032622816,
+    "longitude": 77.44051601618622,
+    "AQI": 240,
+    "noise_dB": 53
+  },
+  {
+    "record_id": "dbb464a3-cec7-4642-a13a-9da294e7eb2a",
+    "timestamp": "2025-07-20 02:05:48.283121",
+    "latitude": 12.95553846645788,
+    "longitude": 77.69546506353844,
+    "AQI": 87,
+    "noise_dB": 69
+  },
+  {
+    "record_id": "7230b85b-27d8-4ea0-a53d-171fc0bde748",
+    "timestamp": "2025-07-19 02:24:54.528116",
+    "latitude": 12.906149028791585,
+    "longitude": 77.44875581854778,
+    "AQI": 276,
+    "noise_dB": 77
+  },
+  {
+    "record_id": "6f144dc6-b9ed-433f-bad4-f3e03b523525",
+    "timestamp": "2025-07-10 10:34:33.169300",
+    "latitude": 13.050812204636012,
+    "longitude": 77.58208118617641,
+    "AQI": 264,
+    "noise_dB": 45
+  },
+  {
+    "record_id": "7aa03208-e6f4-4dcf-a5f9-3ab95e5f310c",
+    "timestamp": "2025-07-06 11:58:14.343463",
+    "latitude": 12.92553147705926,
+    "longitude": 77.41298966198681,
+    "AQI": 166,
+    "noise_dB": 50
+  },
+  {
+    "record_id": "759a9725-2e77-4be3-bef7-4fdb17fc2335",
+    "timestamp": "2025-07-21 11:48:27.193672",
+    "latitude": 12.893727366082922,
+    "longitude": 77.42823441858691,
+    "AQI": 268,
+    "noise_dB": 62
+  },
+  {
+    "record_id": "2d1594cb-dcc3-4cb2-90cb-079f2f5dff13",
+    "timestamp": "2025-07-10 10:29:18.744581",
+    "latitude": 12.951280870826578,
+    "longitude": 77.635321893675,
+    "AQI": 244,
+    "noise_dB": 54
+  },
+  {
+    "record_id": "f17fb786-7d92-4cc0-91d5-1b0630591fbc",
+    "timestamp": "2025-07-01 08:29:04.857772",
+    "latitude": 12.832020631435611,
+    "longitude": 77.64121349364963,
+    "AQI": 142,
+    "noise_dB": 72
+  },
+  {
+    "record_id": "48340d51-a5c6-45ae-ae2f-2127babf3375",
+    "timestamp": "2025-07-04 11:47:41.856072",
+    "latitude": 13.061311121625472,
+    "longitude": 77.51951429231296,
+    "AQI": 146,
+    "noise_dB": 55
+  }
+]

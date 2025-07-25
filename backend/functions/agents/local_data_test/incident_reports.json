@@ -1,0 +1,5002 @@
+[
+  {
+    "incident_id": "c4134dc2-c5c5-4e8a-be15-ad1290ce77e9",
+    "timestamp": "2025-07-20 00:34:48.723542",
+    "latitude": 12.903264247678955,
+    "longitude": 77.73266070970135,
+    "locality": "Banashankari",
+    "type": "accident",
+    "verified": "False",
+    "reported_by": "Victor Sachdeva"
+  },
+  {
+    "incident_id": "1cfb655f-82c4-4e48-8cba-dae57eccdaf4",
+    "timestamp": "2025-07-16 16:55:14.589537",
+    "latitude": 12.970100172829161,
+    "longitude": 77.60356780254622,
+    "locality": "Ulsoor",
+    "type": "flood",
+    "verified": "False",
+    "reported_by": "Ishaan Subramaniam"
+  },
+  {
+    "incident_id": "c66dceb3-4494-4e09-9d3c-a5a4929d6377",
+    "timestamp": "2025-07-11 21:17:02.330724",
+    "latitude": 13.002019960357094,
+    "longitude": 77.55281496641908,
+    "locality": "Whitefield",
+    "type": "roadblock",
+    "verified": "True",
+    "reported_by": "Varenya Kade"
+  },
+  {
+    "incident_id": "5deaa737-fdab-4441-92c2-a9608b0901ab",
+    "timestamp": "2025-07-10 14:24:46.737462",
+    "latitude": 12.815308675308133,
+    "longitude": 77.60303109213432,
+    "locality": "Vijayanagar",
+    "type": "roadblock",
+    "verified": "False",
+    "reported_by": "Nirja Bains"
+  },
+  {
+    "incident_id": "0aa6fcb9-c1bc-4e59-9296-a12d8ac35ac4",
+    "timestamp": "2025-07-21 04:07:27.068927",
+    "latitude": 12.843051153293311,
+    "longitude": 77.5808444348292,
+    "locality": "Bellandur",
+    "type": "accident",
+    "verified": "False",
+    "reported_by": "Caleb Datta"
+  },
+  {
+    "incident_id": "8bddcee3-70fd-4672-b80f-16c5c28fa16b",
+    "timestamp": "2025-07-04 19:07:03.906960",
+    "latitude": 12.99552483875765,
+    "longitude": 77.66557168881506,
+    "locality": "Koramangala",
+    "type": "construction",
+    "verified": "False",
+    "reported_by": "Krish Vala"
+  },
+  {
+    "incident_id": "1a37f6bd-6cd6-4011-bd61-f13b37f25d36",
+    "timestamp": "2025-07-04 00:23:46.550885",
+    "latitude": 12.920108573610431,
+    "longitude": 77.4988736230905,
+    "locality": "Indiranagar",
+    "type": "construction",
+    "verified": "False",
+    "reported_by": "Manan Bhalla"
+  },
+  {
+    "incident_id": "c0582da5-a757-475b-947f-83b1bc69c155",
+    "timestamp": "2025-07-17 12:52:00.629892",
+    "latitude": 13.055210720642307,
+    "longitude": 77.52356763706011,
+    "locality": "Bellandur",
+    "type": "construction",
+    "verified": "True",
+    "reported_by": "Aarna Gole"
+  },
+  {
+    "incident_id": "ffd2f491-dff3-49aa-8c36-a70c3f5e3b8c",
+    "timestamp": "2025-07-23 08:16:10.857538",
+    "latitude": 13.02830207700718,
+    "longitude": 77.71293300588664,
+    "locality": "BTM Layout",
+    "type": "flood",
+    "verified": "True",
+    "reported_by": "Anirudh Mander"
+  },
+  {
+    "incident_id": "593c572b-4347-4bca-b321-a8b20840405a",
+    "timestamp": "2025-07-20 05:18:05.011275",
+    "latitude": 13.095961527046468,
+    "longitude": 77.73125977960264,
+    "locality": "BTM Layout",
+    "type": "protest",
+    "verified": "False",
+    "reported_by": "Tarak Sen"
+  },
+  {
+    "incident_id": "7066e289-1644-44a0-9115-1fffdcb91d5f",
+    "timestamp": "2025-07-03 08:39:45.114341",
+    "latitude": 13.042372489334229,
+    "longitude": 77.71239537962026,
+    "locality": "Yeshwanthpur",
+    "type": "protest",
+    "verified": "False",
+    "reported_by": "Vasatika Garde"
+  },
+  {
+    "incident_id": "c68fcba5-1e0d-42b5-be74-02cddd83ad03",
+    "timestamp": "2025-07-21 17:50:19.929832",
+    "latitude": 12.950475877086552,
+    "longitude": 77.54680679788507,
+    "locality": "Vijayanagar",
+    "type": "construction",
+    "verified": "False",
+    "reported_by": "Nirja Dhar"
+  },
+  {
+    "incident_id": "cf8a368e-35ba-4357-bca8-7f31cfd7f3b9",
+    "timestamp": "2025-07-11 23:42:15.032215",
+    "latitude": 13.035538317838052,
+    "longitude": 77.67312792605242,
+    "locality": "Banashankari",
+    "type": "construction",
+    "verified": "False",
+    "reported_by": "Yasti Lalla"
+  },
+  {
+    "incident_id": "59c2f153-b06b-4f0c-9682-2e22bcd4344f",
+    "timestamp": "2025-07-13 22:50:09.888036",
+    "latitude": 12.896383410989397,
+    "longitude": 77.5667175066554,
+    "locality": "Peenya",
+    "type": "flood",
+    "verified": "False",
+    "reported_by": "Hema Setty"
+  },
+  {
+    "incident_id": "a1fd4187-9c3a-4e0b-b5f3-f8aadc6dafff",
+    "timestamp": "2025-07-10 23:23:07.806294",
+    "latitude": 12.907209724572375,
+    "longitude": 77.57413894825113,
+    "locality": "BTM Layout",
+    "type": "flood",
+    "verified": "False",
+    "reported_by": "Victor Radhakrishnan"
+  },
+  {
+    "incident_id": "23a4e70e-9dbc-45c0-aa7d-c57c6d9c5b50",
+    "timestamp": "2025-07-14 21:59:23.225515",
+    "latitude": 13.076144805972278,
+    "longitude": 77.47163803817006,
+    "locality": "Bellandur",
+    "type": "roadblock",
+    "verified": "True",
+    "reported_by": "Kevin Chopra"
+  },
+  {
+    "incident_id": "34fa32b6-d043-4e4c-b4e5-0699c8ebe27a",
+    "timestamp": "2025-07-18 17:41:16.697050",
+    "latitude": 12.956246830740554,
+    "longitude": 77.60689560614048,
+    "locality": "Yeshwanthpur",
+    "type": "protest",
+    "verified": "True",
+    "reported_by": "Samaksh Virk"
+  },
+  {
+    "incident_id": "59cf0b0d-91f0-447d-8f32-1333ce315937",
+    "timestamp": "2025-07-14 22:00:32.577558",
+    "latitude": 13.079433119181424,
+    "longitude": 77.46514756421368,
+    "locality": "Malleswaram",
+    "type": "accident",
+    "verified": "False",
+    "reported_by": "Mason Char"
+  },
+  {
+    "incident_id": "89ecbc51-98cb-4a52-87f5-301988438de2",
+    "timestamp": "2025-07-20 15:15:32.147425",
+    "latitude": 13.087847830783899,
+    "longitude": 77.51604764467352,
+    "locality": "BTM Layout",
+    "type": "roadblock",
+    "verified": "False",
+    "reported_by": "Vamakshi Barad"
+  },
+  {
+    "incident_id": "b43cde0a-fa9f-410e-92da-f6812b1ac76c",
+    "timestamp": "2025-07-21 00:45:04.623775",
+    "latitude": 13.10014681818145,
+    "longitude": 77.69926057056698,
+    "locality": "Vijayanagar",
+    "type": "flood",
+    "verified": "True",
+    "reported_by": "Girik Subramaniam"
+  },
+  {
+    "incident_id": "44709848-929e-4c92-8a11-be444aea1b8f",
+    "timestamp": "2025-07-17 13:20:26.891595",
+    "latitude": 13.120822332544423,
+    "longitude": 77.4724765332238,
+    "locality": "Basavanagudi",
+    "type": "protest",
+    "verified": "False",
+    "reported_by": "Aarav Sankar"
+  },
+  {
+    "incident_id": "fc48f615-83b0-435c-9ba6-fdf8f3d04ffb",
+    "timestamp": "2025-07-21 07:12:17.804986",
+    "latitude": 12.950844827179655,
+    "longitude": 77.42490539981071,
+    "locality": "Whitefield",
+    "type": "construction",
+    "verified": "True",
+    "reported_by": "Kamala Bassi"
+  },
+  {
+    "incident_id": "1860ad28-d0af-4235-ade6-8f51e67093a0",
+    "timestamp": "2025-07-11 23:55:31.212812",
+    "latitude": 12.911603386412398,
+    "longitude": 77.4241526574145,
+    "locality": "KR Puram",
+    "type": "roadblock",
+    "verified": "False",
+    "reported_by": "Veer Subramaniam"
+  },
+  {
+    "incident_id": "c9230c64-c006-4b5b-b678-39b222b5f457",
+    "timestamp": "2025-07-12 02:40:50.128366",
+    "latitude": 13.00376956130794,
+    "longitude": 77.72927458217609,
+    "locality": "Rajajinagar",
+    "type": "flood",
+    "verified": "True",
+    "reported_by": "Inaya Chaudhari"
+  },
+  {
+    "incident_id": "fe1393cd-0f2d-4c15-ab34-6d3a695e5ea9",
+    "timestamp": "2025-07-21 04:55:38.377188",
+    "latitude": 12.92991034820317,
+    "longitude": 77.57742215328665,
+    "locality": "BTM Layout",
+    "type": "construction",
+    "verified": "False",
+    "reported_by": "Krish Kumar"
+  },
+  {
+    "incident_id": "207bbe21-a7e8-418e-9df6-d4ac46feacd4",
+    "timestamp": "2025-07-11 00:45:54.177346",
+    "latitude": 13.010375958380083,
+    "longitude": 77.54329422513597,
+    "locality": "Yeshwanthpur",
+    "type": "construction",
+    "verified": "False",
+    "reported_by": "Viraj Chacko"
+  },
+  {
+    "incident_id": "3fead90a-21f8-472d-9db7-570eb390b059",
+    "timestamp": "2025-07-02 10:36:10.666312",
+    "latitude": 13.04695505192534,
+    "longitude": 77.68380750335277,
+    "locality": "HSR Layout",
+    "type": "protest",
+    "verified": "False",
+    "reported_by": "Nilima Kurian"
+  },
+  {
+    "incident_id": "d4176230-5274-4e11-b61d-f906257035db",
+    "timestamp": "2025-07-15 21:50:15.769705",
+    "latitude": 13.040941756472249,
+    "longitude": 77.69253907476867,
+    "locality": "HSR Layout",
+    "type": "construction",
+    "verified": "False",
+    "reported_by": "Abdul Amble"
+  },
+  {
+    "incident_id": "ad1db537-d7f3-4368-82ef-eecb3f5fbf4f",
+    "timestamp": "2025-07-01 06:45:10.326465",
+    "latitude": 12.931093510457043,
+    "longitude": 77.51626686159047,
+    "locality": "Hebbal",
+    "type": "protest",
+    "verified": "False",
+    "reported_by": "Zinal Amble"
+  },
+  {
+    "incident_id": "93d228d4-2465-4c39-bd4d-2add64880945",
+    "timestamp": "2025-07-20 18:24:14.147269",
+    "latitude": 12.858401070594564,
+    "longitude": 77.64276632011583,
+    "locality": "Ulsoor",
+    "type": "accident",
+    "verified": "True",
+    "reported_by": "Samesh Mutti"
+  },
+  {
+    "incident_id": "6a0aa7d5-a0b8-4755-84ca-a5a2a1e518a2",
+    "timestamp": "2025-07-12 22:43:42.890574",
+    "latitude": 12.950685268461774,
+    "longitude": 77.66989298554816,
+    "locality": "HSR Layout",
+    "type": "roadblock",
+    "verified": "False",
+    "reported_by": "Janaki Chhabra"
+  },
+  {
+    "incident_id": "a2356dd4-1355-48d0-b3b5-bad5600b4b35",
+    "timestamp": "2025-07-17 22:16:14.930176",
+    "latitude": 12.849907950428669,
+    "longitude": 77.62912774040309,
+    "locality": "Peenya",
+    "type": "roadblock",
+    "verified": "False",
+    "reported_by": "Pooja Kulkarni"
+  },
+  {
+    "incident_id": "17d50f59-c4d5-48f7-a14f-e093cb6ad0c7",
+    "timestamp": "2025-07-17 11:25:33.004160",
+    "latitude": 13.111533962314333,
+    "longitude": 77.45305827618004,
+    "locality": "Rajajinagar",
+    "type": "flood",
+    "verified": "True",
+    "reported_by": "Pallavi Pau"
+  },
+  {
+    "incident_id": "4739cc7b-bff3-4c8d-83ff-3e9667213a70",
+    "timestamp": "2025-07-06 02:22:18.243009",
+    "latitude": 12.92105711125825,
+    "longitude": 77.70655907923097,
+    "locality": "Whitefield",
+    "type": "construction",
+    "verified": "True",
+    "reported_by": "Mekhala Jani"
+  },
+  {
+    "incident_id": "5e7b72c8-e097-4edb-afb3-b939b1d81887",
+    "timestamp": "2025-07-22 18:10:11.651884",
+    "latitude": 12.854060911528164,
+    "longitude": 77.5886830934576,
+    "locality": "Sarjapur Road",
+    "type": "construction",
+    "verified": "True",
+    "reported_by": "Vasudha Gola"
+  },
+  {
+    "incident_id": "53c93ae7-7cf0-4bb3-b343-d9eb7466ef02",
+    "timestamp": "2025-07-20 21:01:57.097110",
+    "latitude": 12.808906715967014,
+    "longitude": 77.4988653492295,
+    "locality": "Rajajinagar",
+    "type": "accident",
+    "verified": "False",
+    "reported_by": "Veda Kulkarni"
+  },
+  {
+    "incident_id": "c62dbaea-de70-4d30-80a2-136794fb09f0",
+    "timestamp": "2025-07-12 19:36:16.149783",
+    "latitude": 13.02603783520027,
+    "longitude": 77.5488298649032,
+    "locality": "Sarjapur Road",
+    "type": "flood",
+    "verified": "True",
+    "reported_by": "Hemangini Rao"
+  },
+  {
+    "incident_id": "bb1e5ae8-17d8-41b8-bb93-cd40d8dff535",
+    "timestamp": "2025-07-16 16:00:48.117437",
+    "latitude": 13.022915811109161,
+    "longitude": 77.41314988163963,
+    "locality": "Hebbal",
+    "type": "accident",
+    "verified": "True",
+    "reported_by": "Jagat Karpe"
+  },
+  {
+    "incident_id": "aa055442-a284-48fd-b55c-ee2af8ded777",
+    "timestamp": "2025-07-15 01:46:05.479787",
+    "latitude": 12.919211458303453,
+    "longitude": 77.44475338042785,
+    "locality": "Indiranagar",
+    "type": "roadblock",
+    "verified": "True",
+    "reported_by": "Neel Chaudhry"
+  },
+  {
+    "incident_id": "1036708d-d9a0-4007-9bb4-7c18b28187c4",
+    "timestamp": "2025-07-10 20:28:54.353508",
+    "latitude": 12.825099161096679,
+    "longitude": 77.66794136268055,
+    "locality": "Banashankari",
+    "type": "flood",
+    "verified": "False",
+    "reported_by": "Yashoda Rattan"
+  },
+  {
+    "incident_id": "37c3b3c9-65d0-4517-88d0-0abdcbb18c79",
+    "timestamp": "2025-07-17 12:59:54.351187",
+    "latitude": 12.943370113213332,
+    "longitude": 77.40000407216438,
+    "locality": "Marathahalli",
+    "type": "flood",
+    "verified": "False",
+    "reported_by": "Charles Dyal"
+  },
+  {
+    "incident_id": "363be5cb-d329-4724-adfd-171af7d7465d",
+    "timestamp": "2025-07-11 23:17:49.409878",
+    "latitude": 12.908926123272188,
+    "longitude": 77.5457980399688,
+    "locality": "Electronic City",
+    "type": "construction",
+    "verified": "True",
+    "reported_by": "Abdul Chand"
+  },
+  {
+    "incident_id": "d40e53ce-52a7-4a41-84be-d4867ea5a387",
+    "timestamp": "2025-07-16 02:36:40.032384",
+    "latitude": 13.036992223907253,
+    "longitude": 77.58287856337996,
+    "locality": "Electronic City",
+    "type": "accident",
+    "verified": "False",
+    "reported_by": "Urishilla Saran"
+  },
+  {
+    "incident_id": "93f37596-8c1c-4b05-9677-1f3648998e5f",
+    "timestamp": "2025-07-15 14:25:27.747275",
+    "latitude": 13.012022737308442,
+    "longitude": 77.41912204700034,
+    "locality": "Indiranagar",
+    "type": "flood",
+    "verified": "True",
+    "reported_by": "Devansh Lall"
+  },
+  {
+    "incident_id": "7c3f1add-da38-4db5-90ee-b067216e9fe5",
+    "timestamp": "2025-07-04 09:12:56.698443",
+    "latitude": 12.92760780486914,
+    "longitude": 77.74057735704032,
+    "locality": "Malleswaram",
+    "type": "flood",
+    "verified": "True",
+    "reported_by": "Kamala Buch"
+  },
+  {
+    "incident_id": "aebbb90e-e4e7-41de-97ff-51d9c9ce44bd",
+    "timestamp": "2025-07-19 19:30:55.259932",
+    "latitude": 12.876262393989247,
+    "longitude": 77.47914386593739,
+    "locality": "Sarjapur Road",
+    "type": "protest",
+    "verified": "False",
+    "reported_by": "Leena Rattan"
+  },
+  {
+    "incident_id": "197dbae1-0bc2-4a72-8c64-8ca2c3231466",
+    "timestamp": "2025-07-21 07:22:06.042089",
+    "latitude": 13.145812588154458,
+    "longitude": 77.5064695518727,
+    "locality": "Sarjapur Road",
+    "type": "protest",
+    "verified": "True",
+    "reported_by": "Dakshesh Gill"
+  },
+  {
+    "incident_id": "75a72686-d632-4d31-88ac-ffcfa04d4d14",
+    "timestamp": "2025-07-14 22:51:32.148597",
+    "latitude": 12.95890056741864,
+    "longitude": 77.50637987928927,
+    "locality": "KR Puram",
+    "type": "construction",
+    "verified": "False",
+    "reported_by": "Reva Anne"
+  },
+  {
+    "incident_id": "db8f0e32-edef-4003-9fce-01e3042b03ca",
+    "timestamp": "2025-07-01 06:21:43.369717",
+    "latitude": 13.040895982523084,
+    "longitude": 77.48064583174107,
+    "locality": "Peenya",
+    "type": "roadblock",
+    "verified": "True",
+    "reported_by": "Zarna Mangal"
+  },
+  {
+    "incident_id": "002c4c22-74de-4f70-b0f8-1dba28719b9b",
+    "timestamp": "2025-07-22 06:29:01.331482",
+    "latitude": 12.849193538652427,
+    "longitude": 77.40051583773021,
+    "locality": "Vijayanagar",
+    "type": "construction",
+    "verified": "False",
+    "reported_by": "Bahadurjit Uppal"
+  },
+  {
+    "incident_id": "33cb202e-6d84-414d-b541-91eafde91c42",
+    "timestamp": "2025-07-12 12:12:40.917302",
+    "latitude": 12.96995639488079,
+    "longitude": 77.6552706779308,
+    "locality": "Bellandur",
+    "type": "accident",
+    "verified": "False",
+    "reported_by": "Omkaar Banik"
+  },
+  {
+    "incident_id": "21c50e41-e8ce-4951-b047-8ea4fee5ce69",
+    "timestamp": "2025-07-11 16:23:27.335659",
+    "latitude": 12.809637851954314,
+    "longitude": 77.73839592492975,
+    "locality": "Malleswaram",
+    "type": "construction",
+    "verified": "True",
+    "reported_by": "William Acharya"
+  },
+  {
+    "incident_id": "28b2bf21-4d47-4ed6-a666-3769e1d46f82",
+    "timestamp": "2025-07-12 06:53:38.554349",
+    "latitude": 12.976909291268658,
+    "longitude": 77.47850271914977,
+    "locality": "Whitefield",
+    "type": "construction",
+    "verified": "False",
+    "reported_by": "Gabriel Majumdar"
+  },
+  {
+    "incident_id": "462623be-e068-4849-aec7-1a30dfda35b2",
+    "timestamp": "2025-07-04 18:21:59.811460",
+    "latitude": 13.137406092491196,
+    "longitude": 77.6320665171312,
+    "locality": "Basavanagudi",
+    "type": "accident",
+    "verified": "True",
+    "reported_by": "Ira Rana"
+  },
+  {
+    "incident_id": "40198303-5c45-4e4d-a793-13b817e52113",
+    "timestamp": "2025-07-18 02:32:08.306090",
+    "latitude": 12.93447234954503,
+    "longitude": 77.65966371443555,
+    "locality": "Whitefield",
+    "type": "construction",
+    "verified": "True",
+    "reported_by": "Sai Vasa"
+  },
+  {
+    "incident_id": "e75f745a-aa1d-4fc6-9f31-273d1519830c",
+    "timestamp": "2025-07-08 07:10:29.321702",
+    "latitude": 12.81364860440122,
+    "longitude": 77.69694888268168,
+    "locality": "Bellandur",
+    "type": "protest",
+    "verified": "False",
+    "reported_by": "Ekapad Chana"
+  },
+  {
+    "incident_id": "6576a410-0d41-4e47-aa5f-da18a61f0b96",
+    "timestamp": "2025-07-08 12:46:50.925063",
+    "latitude": 12.810834526821772,
+    "longitude": 77.54792021895477,
+    "locality": "Koramangala",
+    "type": "roadblock",
+    "verified": "False",
+    "reported_by": "Ijaya Palan"
+  },
+  {
+    "incident_id": "b30e96e8-b9da-4f8c-8e35-da80a0279a18",
+    "timestamp": "2025-07-07 07:58:05.285093",
+    "latitude": 12.935795365981406,
+    "longitude": 77.50602581697416,
+    "locality": "Yeshwanthpur",
+    "type": "flood",
+    "verified": "True",
+    "reported_by": "Upkaar Hayer"
+  },
+  {
+    "incident_id": "a7cde143-6de2-4429-bbf0-d9c1c156e501",
+    "timestamp": "2025-07-12 12:57:19.256062",
+    "latitude": 12.856008727762118,
+    "longitude": 77.51385329690807,
+    "locality": "BTM Layout",
+    "type": "roadblock",
+    "verified": "False",
+    "reported_by": "Netra Agrawal"
+  },
+  {
+    "incident_id": "00473139-185d-4528-b425-8e191758d47e",
+    "timestamp": "2025-07-13 12:45:26.246953",
+    "latitude": 12.808173233714866,
+    "longitude": 77.64941746658448,
+    "locality": "Marathahalli",
+    "type": "construction",
+    "verified": "True",
+    "reported_by": "Parth Ray"
+  },
+  {
+    "incident_id": "21f89d06-13f3-4ade-ba10-013f36a2c52b",
+    "timestamp": "2025-07-09 14:51:52.368356",
+    "latitude": 13.064674764882563,
+    "longitude": 77.68587281327697,
+    "locality": "Yeshwanthpur",
+    "type": "protest",
+    "verified": "True",
+    "reported_by": "Elijah Thakur"
+  },
+  {
+    "incident_id": "ae13591e-84fa-4c72-b9e7-a4f197fb613a",
+    "timestamp": "2025-07-19 14:24:55.940859",
+    "latitude": 12.960483053108662,
+    "longitude": 77.46356488871481,
+    "locality": "Vijayanagar",
+    "type": "flood",
+    "verified": "True",
+    "reported_by": "Harini Dada"
+  },
+  {
+    "incident_id": "b212a6ee-0210-4371-8260-a12371efe72a",
+    "timestamp": "2025-07-02 19:04:05.671173",
+    "latitude": 12.90123567019043,
+    "longitude": 77.52982935285522,
+    "locality": "Indiranagar",
+    "type": "roadblock",
+    "verified": "True",
+    "reported_by": "Zashil Savant"
+  },
+  {
+    "incident_id": "fcf7b842-1edf-4bfa-912e-0eb557f479b5",
+    "timestamp": "2025-07-11 02:40:40.010187",
+    "latitude": 13.115029114055769,
+    "longitude": 77.7156790688622,
+    "locality": "Electronic City",
+    "type": "protest",
+    "verified": "False",
+    "reported_by": "Veda Kohli"
+  },
+  {
+    "incident_id": "21d63b0f-b1ac-440d-ac1c-c405dc3f42e0",
+    "timestamp": "2025-07-14 01:04:17.135213",
+    "latitude": 12.840648636070185,
+    "longitude": 77.68234273189316,
+    "locality": "Ulsoor",
+    "type": "roadblock",
+    "verified": "True",
+    "reported_by": "Tara Sharma"
+  },
+  {
+    "incident_id": "6210def6-3a9c-4308-9221-cddf7a4a902f",
+    "timestamp": "2025-07-03 00:05:19.312414",
+    "latitude": 13.134571590134362,
+    "longitude": 77.74470044096687,
+    "locality": "KR Puram",
+    "type": "roadblock",
+    "verified": "True",
+    "reported_by": "Vasatika Dada"
+  },
+  {
+    "incident_id": "1a38aad6-ce53-4ffd-bb13-4f0216de66c9",
+    "timestamp": "2025-07-12 08:19:34.015873",
+    "latitude": 12.909888351082074,
+    "longitude": 77.66398689088874,
+    "locality": "Malleswaram",
+    "type": "protest",
+    "verified": "True",
+    "reported_by": "Ekansh Raja"
+  },
+  {
+    "incident_id": "e1887eaf-5e18-45c3-9037-cd6b1a6b6a7d",
+    "timestamp": "2025-07-08 04:40:36.449425",
+    "latitude": 13.110941285308039,
+    "longitude": 77.53761832035978,
+    "locality": "Bellandur",
+    "type": "protest",
+    "verified": "False",
+    "reported_by": "Victor Mutti"
+  },
+  {
+    "incident_id": "c601818b-61fa-41ba-a31a-e7c74c9bff5c",
+    "timestamp": "2025-07-23 07:46:43.803444",
+    "latitude": 13.011030006767813,
+    "longitude": 77.60672324189812,
+    "locality": "Marathahalli",
+    "type": "accident",
+    "verified": "True",
+    "reported_by": "Ira Varty"
+  },
+  {
+    "incident_id": "2215df00-dfdf-4e05-80ce-f31bd038e153",
+    "timestamp": "2025-07-17 23:09:11.645706",
+    "latitude": 13.089347575909521,
+    "longitude": 77.63135498898656,
+    "locality": "Indiranagar",
+    "type": "construction",
+    "verified": "True",
+    "reported_by": "Adya Kothari"
+  },
+  {
+    "incident_id": "249204c7-ad58-4b1b-be31-537aa43e558c",
+    "timestamp": "2025-07-01 09:42:28.695772",
+    "latitude": 13.144404607123663,
+    "longitude": 77.427459535711,
+    "locality": "Ulsoor",
+    "type": "protest",
+    "verified": "False",
+    "reported_by": "Girik Rastogi"
+  },
+  {
+    "incident_id": "022b6683-9033-4a65-87cf-63fd11836c4f",
+    "timestamp": "2025-07-10 04:24:53.593499",
+    "latitude": 12.900941903236562,
+    "longitude": 77.59057393568635,
+    "locality": "Vijayanagar",
+    "type": "construction",
+    "verified": "True",
+    "reported_by": "Faqid Gokhale"
+  },
+  {
+    "incident_id": "70aa5b0d-2a03-4ad4-a667-b9829c3de1b0",
+    "timestamp": "2025-07-01 19:34:34.997123",
+    "latitude": 13.136397419892658,
+    "longitude": 77.64826228996542,
+    "locality": "Hebbal",
+    "type": "construction",
+    "verified": "False",
+    "reported_by": "Dipta Pandya"
+  },
+  {
+    "incident_id": "a0c9da72-368a-4d40-b8f1-4e3c59e7703a",
+    "timestamp": "2025-07-13 11:59:39.030643",
+    "latitude": 12.936318663215848,
+    "longitude": 77.45856245640037,
+    "locality": "Banashankari",
+    "type": "roadblock",
+    "verified": "True",
+    "reported_by": "Amruta Goswami"
+  },
+  {
+    "incident_id": "6965d1d1-eb7e-4e64-a6c0-747ebf8e8bfa",
+    "timestamp": "2025-07-19 19:13:34.690151",
+    "latitude": 12.934929166657923,
+    "longitude": 77.67322110109895,
+    "locality": "Electronic City",
+    "type": "protest",
+    "verified": "False",
+    "reported_by": "Wishi Iyengar"
+  },
+  {
+    "incident_id": "dc268108-7140-41a1-afc2-ccfc9db7284b",
+    "timestamp": "2025-07-19 00:34:55.992726",
+    "latitude": 12.919135486489077,
+    "longitude": 77.60432047317994,
+    "locality": "Sarjapur Road",
+    "type": "protest",
+    "verified": "True",
+    "reported_by": "Wyatt Lanka"
+  },
+  {
+    "incident_id": "19b814fc-e587-4d89-9631-2fc6379d58f9",
+    "timestamp": "2025-07-22 22:13:05.437713",
+    "latitude": 12.989492662571655,
+    "longitude": 77.73327762499416,
+    "locality": "Bellandur",
+    "type": "roadblock",
+    "verified": "True",
+    "reported_by": "Veer Jain"
+  },
+  {
+    "incident_id": "96ee50e5-1f87-4b46-80a0-473a23d7e6a1",
+    "timestamp": "2025-07-15 12:18:43.367476",
+    "latitude": 12.85395076511247,
+    "longitude": 77.41484780437241,
+    "locality": "Vijayanagar",
+    "type": "accident",
+    "verified": "False",
+    "reported_by": "Ishani Dugal"
+  },
+  {
+    "incident_id": "f69777a1-59fe-4d53-a24f-ea4bbae1e137",
+    "timestamp": "2025-07-21 06:18:08.808138",
+    "latitude": 12.993799019875304,
+    "longitude": 77.49286414814442,
+    "locality": "Jayanagar",
+    "type": "roadblock",
+    "verified": "True",
+    "reported_by": "Jagdish Brar"
+  },
+  {
+    "incident_id": "23cbe943-ca84-4003-9083-4fef6dec6bbd",
+    "timestamp": "2025-07-13 19:13:27.511778",
+    "latitude": 12.989596684343502,
+    "longitude": 77.61054385775495,
+    "locality": "Ulsoor",
+    "type": "construction",
+    "verified": "True",
+    "reported_by": "Abeer Basak"
+  },
+  {
+    "incident_id": "159152f2-a505-4a9c-86e7-5a2c3f6eed9d",
+    "timestamp": "2025-07-15 21:37:53.126983",
+    "latitude": 13.066665634411706,
+    "longitude": 77.50379596927208,
+    "locality": "Hebbal",
+    "type": "protest",
+    "verified": "True",
+    "reported_by": "Kamya Murty"
+  },
+  {
+    "incident_id": "999a1d86-99db-4302-8dab-66d33f87dfc2",
+    "timestamp": "2025-07-11 09:14:39.323758",
+    "latitude": 13.091777486678156,
+    "longitude": 77.65004845742493,
+    "locality": "Peenya",
+    "type": "protest",
+    "verified": "False",
+    "reported_by": "Anvi Swaminathan"
+  },
+  {
+    "incident_id": "c76a8e0f-48f0-41f0-9b8b-38aeb89f3a92",
+    "timestamp": "2025-07-08 18:13:19.199379",
+    "latitude": 12.95415447260935,
+    "longitude": 77.66565184888267,
+    "locality": "Indiranagar",
+    "type": "accident",
+    "verified": "False",
+    "reported_by": "Yasti Mammen"
+  },
+  {
+    "incident_id": "d90f74e9-06dd-46ca-b0c3-0a59f0f7ad22",
+    "timestamp": "2025-07-19 18:53:58.987880",
+    "latitude": 12.905816637273023,
+    "longitude": 77.43588058742327,
+    "locality": "Whitefield",
+    "type": "roadblock",
+    "verified": "False",
+    "reported_by": "Tristan Dave"
+  },
+  {
+    "incident_id": "4d38e415-e036-45fc-a88d-4108d8d994b8",
+    "timestamp": "2025-07-19 14:08:03.777123",
+    "latitude": 12.890767214060984,
+    "longitude": 77.57984906247238,
+    "locality": "Jayanagar",
+    "type": "roadblock",
+    "verified": "True",
+    "reported_by": "Pallavi Sridhar"
+  },
+  {
+    "incident_id": "82701238-9b5f-4f39-848b-34f034981735",
+    "timestamp": "2025-07-20 05:17:01.270880",
+    "latitude": 12.868118342846707,
+    "longitude": 77.57811169445688,
+    "locality": "Jayanagar",
+    "type": "construction",
+    "verified": "False",
+    "reported_by": "Yadavi Palan"
+  },
+  {
+    "incident_id": "4ba8a4ca-6449-4b6f-bf72-ae52304b2370",
+    "timestamp": "2025-07-08 13:22:10.731366",
+    "latitude": 12.820176653769659,
+    "longitude": 77.52924826957545,
+    "locality": "Electronic City",
+    "type": "protest",
+    "verified": "True",
+    "reported_by": "Owen Shankar"
+  },
+  {
+    "incident_id": "e5dd98f1-c8a7-48ab-8df8-3e12a56b61e0",
+    "timestamp": "2025-07-18 11:16:10.690998",
+    "latitude": 12.91985679259215,
+    "longitude": 77.72652370189938,
+    "locality": "KR Puram",
+    "type": "flood",
+    "verified": "True",
+    "reported_by": "Zarna Sharma"
+  },
+  {
+    "incident_id": "7eb0f62a-3d45-44eb-b465-5a21cb35097a",
+    "timestamp": "2025-07-14 15:46:36.523859",
+    "latitude": 12.894586692245774,
+    "longitude": 77.68962721195562,
+    "locality": "Electronic City",
+    "type": "flood",
+    "verified": "True",
+    "reported_by": "Abhiram Arora"
+  },
+  {
+    "incident_id": "7fe4a42e-3db7-48a6-9cdc-c4c262c965b2",
+    "timestamp": "2025-07-17 07:32:18.138216",
+    "latitude": 13.138246085053243,
+    "longitude": 77.64402328366837,
+    "locality": "Peenya",
+    "type": "roadblock",
+    "verified": "True",
+    "reported_by": "Ladli Chaudhuri"
+  },
+  {
+    "incident_id": "873dc8bd-122d-47be-980b-c81ea3595d1f",
+    "timestamp": "2025-07-09 06:28:55.344559",
+    "latitude": 12.995198089187516,
+    "longitude": 77.65001432250725,
+    "locality": "Sarjapur Road",
+    "type": "construction",
+    "verified": "True",
+    "reported_by": "Janaki Lad"
+  },
+  {
+    "incident_id": "fca45567-0316-42d6-ba4a-58efe3837348",
+    "timestamp": "2025-07-11 07:14:10.337986",
+    "latitude": 12.921546963660678,
+    "longitude": 77.5616006503346,
+    "locality": "Marathahalli",
+    "type": "construction",
+    "verified": "False",
+    "reported_by": "Adya Khalsa"
+  },
+  {
+    "incident_id": "21c9a15d-5104-4a16-af15-ab725c70ee97",
+    "timestamp": "2025-07-03 05:14:01.181683",
+    "latitude": 13.003163660347795,
+    "longitude": 77.7223480823838,
+    "locality": "HSR Layout",
+    "type": "flood",
+    "verified": "False",
+    "reported_by": "Urishilla Oza"
+  },
+  {
+    "incident_id": "91816091-d6c6-445c-9c5e-4e786307d4d1",
+    "timestamp": "2025-07-15 23:59:18.524301",
+    "latitude": 12.848718845470994,
+    "longitude": 77.64310839953865,
+    "locality": "Vijayanagar",
+    "type": "protest",
+    "verified": "True",
+    "reported_by": "Qarin Tara"
+  },
+  {
+    "incident_id": "aed54a46-8bde-405b-9d8b-abd76bbdb66f",
+    "timestamp": "2025-07-01 01:12:01.003056",
+    "latitude": 12.955415312220772,
+    "longitude": 77.65514337157954,
+    "locality": "Yeshwanthpur",
+    "type": "accident",
+    "verified": "True",
+    "reported_by": "Shivansh Saini"
+  },
+  {
+    "incident_id": "f45707c6-7894-4a15-8342-01db2c3aacdc",
+    "timestamp": "2025-07-09 02:01:34.800999",
+    "latitude": 13.019182012497373,
+    "longitude": 77.70159181632557,
+    "locality": "Whitefield",
+    "type": "flood",
+    "verified": "False",
+    "reported_by": "Janya Rattan"
+  },
+  {
+    "incident_id": "0445c1a8-12af-47e4-8536-c66efcc4091b",
+    "timestamp": "2025-07-15 10:11:38.116632",
+    "latitude": 12.971114241127358,
+    "longitude": 77.49592505626977,
+    "locality": "Electronic City",
+    "type": "accident",
+    "verified": "False",
+    "reported_by": "Shravya Gole"
+  },
+  {
+    "incident_id": "431e930f-0387-474d-9149-d096965d744f",
+    "timestamp": "2025-07-19 05:01:25.127295",
+    "latitude": 12.940622580229014,
+    "longitude": 77.68247481635335,
+    "locality": "Malleswaram",
+    "type": "flood",
+    "verified": "True",
+    "reported_by": "Veer Chaudhry"
+  },
+  {
+    "incident_id": "0f7ae302-ec2e-4815-8a32-17d2373aedf8",
+    "timestamp": "2025-07-13 11:13:29.337578",
+    "latitude": 13.147846936114895,
+    "longitude": 77.46833421103477,
+    "locality": "Malleswaram",
+    "type": "protest",
+    "verified": "True",
+    "reported_by": "Warinder Sankaran"
+  },
+  {
+    "incident_id": "81b13b80-65e1-40f5-8a0e-e8c4f2dcb12b",
+    "timestamp": "2025-07-09 12:16:15.412651",
+    "latitude": 13.108110166752125,
+    "longitude": 77.52086968328571,
+    "locality": "Jayanagar",
+    "type": "construction",
+    "verified": "True",
+    "reported_by": "Rohan Dhingra"
+  },
+  {
+    "incident_id": "8044beb2-b66e-4bf4-a0ea-0251495743a2",
+    "timestamp": "2025-07-03 10:05:16.793255",
+    "latitude": 13.018192085355805,
+    "longitude": 77.51746365899444,
+    "locality": "Peenya",
+    "type": "protest",
+    "verified": "True",
+    "reported_by": "Urvashi Andra"
+  },
+  {
+    "incident_id": "b3a9dcaa-6c6f-4d2e-aa59-c043c4615234",
+    "timestamp": "2025-07-21 09:59:56.751436",
+    "latitude": 12.999282076413799,
+    "longitude": 77.7424839139362,
+    "locality": "Jayanagar",
+    "type": "flood",
+    "verified": "True",
+    "reported_by": "Oviya Tata"
+  },
+  {
+    "incident_id": "895c4fde-a3fa-4069-9519-fd3866fba71d",
+    "timestamp": "2025-07-12 05:01:46.210107",
+    "latitude": 13.017231167938604,
+    "longitude": 77.69978802831177,
+    "locality": "Banashankari",
+    "type": "accident",
+    "verified": "False",
+    "reported_by": "Zansi Walla"
+  },
+  {
+    "incident_id": "4708203b-2716-40c1-9db5-428389a3c811",
+    "timestamp": "2025-07-19 17:00:09.534940",
+    "latitude": 12.870459237737853,
+    "longitude": 77.64540945155659,
+    "locality": "KR Puram",
+    "type": "accident",
+    "verified": "False",
+    "reported_by": "Vidhi Mital"
+  },
+  {
+    "incident_id": "82e4dd4a-143a-41c5-8f56-0ed515669e36",
+    "timestamp": "2025-07-17 21:39:46.011921",
+    "latitude": 12.938298210142513,
+    "longitude": 77.65446986656539,
+    "locality": "Vijayanagar",
+    "type": "construction",
+    "verified": "False",
+    "reported_by": "Champak Rao"
+  },
+  {
+    "incident_id": "cedd069d-f96c-4a0a-b404-c02aebc1bb52",
+    "timestamp": "2025-07-10 07:34:04.310722",
+    "latitude": 12.813810836511815,
+    "longitude": 77.59672547804091,
+    "locality": "Marathahalli",
+    "type": "construction",
+    "verified": "False",
+    "reported_by": "Nihal Bhasin"
+  },
+  {
+    "incident_id": "6406face-53a5-4850-8950-ddd627c6cbb1",
+    "timestamp": "2025-07-06 18:55:41.557445",
+    "latitude": 12.96644111312039,
+    "longitude": 77.73148173348798,
+    "locality": "Yeshwanthpur",
+    "type": "flood",
+    "verified": "True",
+    "reported_by": "Aachal Soni"
+  },
+  {
+    "incident_id": "d5a386d9-c362-4810-a261-1b8d9620bee6",
+    "timestamp": "2025-07-05 11:02:22.455945",
+    "latitude": 12.990058604385183,
+    "longitude": 77.57369056350883,
+    "locality": "Marathahalli",
+    "type": "flood",
+    "verified": "True",
+    "reported_by": "Shivani Natt"
+  },
+  {
+    "incident_id": "10eceb1f-a4a5-4736-ae59-aa52a65be22b",
+    "timestamp": "2025-07-03 17:58:05.389590",
+    "latitude": 12.879712407636124,
+    "longitude": 77.53318119845447,
+    "locality": "Koramangala",
+    "type": "protest",
+    "verified": "False",
+    "reported_by": "Jalsa Parsa"
+  },
+  {
+    "incident_id": "bade8d5d-6fff-45cc-b2dc-6c344f67448e",
+    "timestamp": "2025-07-20 09:35:13.786472",
+    "latitude": 13.13741009650793,
+    "longitude": 77.45706236792606,
+    "locality": "Koramangala",
+    "type": "construction",
+    "verified": "True",
+    "reported_by": "Hemangini Bahri"
+  },
+  {
+    "incident_id": "0ed2ec9d-3d17-4712-98b2-2277f413db19",
+    "timestamp": "2025-07-05 21:47:05.964572",
+    "latitude": 13.118309113828035,
+    "longitude": 77.67517197829137,
+    "locality": "Vijayanagar",
+    "type": "roadblock",
+    "verified": "True",
+    "reported_by": "Jairaj Panchal"
+  },
+  {
+    "incident_id": "6f3a5115-ecb4-478c-9612-0aa63e9639ba",
+    "timestamp": "2025-07-19 18:29:10.405481",
+    "latitude": 13.052750132409567,
+    "longitude": 77.65705537622645,
+    "locality": "Yeshwanthpur",
+    "type": "flood",
+    "verified": "False",
+    "reported_by": "Owen Mane"
+  },
+  {
+    "incident_id": "9bdc70d1-9cbf-4b8c-b410-2d5d1db14bfc",
+    "timestamp": "2025-07-05 08:07:14.315301",
+    "latitude": 12.986685320067878,
+    "longitude": 77.53452426348345,
+    "locality": "Banashankari",
+    "type": "accident",
+    "verified": "True",
+    "reported_by": "Ekta Uppal"
+  },
+  {
+    "incident_id": "bddfa03a-aa84-40f8-8f2d-a2330e165b12",
+    "timestamp": "2025-07-08 16:37:34.799987",
+    "latitude": 13.10448920587669,
+    "longitude": 77.40881769488574,
+    "locality": "Bellandur",
+    "type": "protest",
+    "verified": "False",
+    "reported_by": "Sanya Brar"
+  },
+  {
+    "incident_id": "1e93d127-2cf7-4140-bd9b-c648a8761e85",
+    "timestamp": "2025-07-18 05:39:37.225609",
+    "latitude": 12.845728320338212,
+    "longitude": 77.6936490647013,
+    "locality": "Hebbal",
+    "type": "roadblock",
+    "verified": "True",
+    "reported_by": "Bhavini Sheth"
+  },
+  {
+    "incident_id": "b3957a98-2320-4ff5-b538-f96c033e02f7",
+    "timestamp": "2025-07-02 01:24:17.888311",
+    "latitude": 13.07667842799621,
+    "longitude": 77.40399629420894,
+    "locality": "Vijayanagar",
+    "type": "flood",
+    "verified": "True",
+    "reported_by": "Oliver Nazareth"
+  },
+  {
+    "incident_id": "f3f8dea4-7f14-4afa-a9f0-ef7c02e7df89",
+    "timestamp": "2025-07-15 09:57:50.649704",
+    "latitude": 12.843687284888398,
+    "longitude": 77.64629492287017,
+    "locality": "Rajajinagar",
+    "type": "flood",
+    "verified": "False",
+    "reported_by": "Nidhi Bora"
+  },
+  {
+    "incident_id": "c871d7b3-8468-474d-85e3-ade558c1aad6",
+    "timestamp": "2025-07-16 07:13:02.552983",
+    "latitude": 13.077973731892293,
+    "longitude": 77.73958998840412,
+    "locality": "Vijayanagar",
+    "type": "flood",
+    "verified": "False",
+    "reported_by": "Neel Oza"
+  },
+  {
+    "incident_id": "2abe1585-425e-4259-b884-16d2d28fcf68",
+    "timestamp": "2025-07-03 19:19:10.091145",
+    "latitude": 12.896518648887975,
+    "longitude": 77.55318146485187,
+    "locality": "HSR Layout",
+    "type": "protest",
+    "verified": "True",
+    "reported_by": "Dipta Nadig"
+  },
+  {
+    "incident_id": "c7f7bda1-bff1-4840-a07e-863f5f32d5d8",
+    "timestamp": "2025-07-21 07:12:01.192084",
+    "latitude": 13.106981703356366,
+    "longitude": 77.48224069174859,
+    "locality": "Ulsoor",
+    "type": "protest",
+    "verified": "True",
+    "reported_by": "Amara Rana"
+  },
+  {
+    "incident_id": "e2ec13f4-bba1-4ed9-84cd-bfdddf9b141e",
+    "timestamp": "2025-07-11 09:53:20.081523",
+    "latitude": 13.13041473283889,
+    "longitude": 77.64670485351519,
+    "locality": "Rajajinagar",
+    "type": "accident",
+    "verified": "False",
+    "reported_by": "Sai Patil"
+  },
+  {
+    "incident_id": "0783e43c-e65f-4d87-857c-74981e38f711",
+    "timestamp": "2025-07-14 09:57:59.412130",
+    "latitude": 12.852078589291791,
+    "longitude": 77.68599484970545,
+    "locality": "Marathahalli",
+    "type": "protest",
+    "verified": "False",
+    "reported_by": "Odika Ganesh"
+  },
+  {
+    "incident_id": "45a08539-6de8-470a-8e9e-9ebd55c34853",
+    "timestamp": "2025-07-12 11:27:46.380931",
+    "latitude": 12.961936461772888,
+    "longitude": 77.59125061062726,
+    "locality": "Banashankari",
+    "type": "accident",
+    "verified": "True",
+    "reported_by": "Arin Dass"
+  },
+  {
+    "incident_id": "b65ad0f1-4350-4b06-9059-ea28861b4f5b",
+    "timestamp": "2025-07-22 22:35:29.775439",
+    "latitude": 13.14334558235694,
+    "longitude": 77.73846234633965,
+    "locality": "HSR Layout",
+    "type": "protest",
+    "verified": "True",
+    "reported_by": "Zayan Buch"
+  },
+  {
+    "incident_id": "13badc91-a0a5-4de6-939f-71a2f99cea5c",
+    "timestamp": "2025-07-01 02:22:11.337185",
+    "latitude": 12.969192602590601,
+    "longitude": 77.4180840525803,
+    "locality": "Indiranagar",
+    "type": "roadblock",
+    "verified": "False",
+    "reported_by": "Ojas Ranganathan"
+  },
+  {
+    "incident_id": "5c311464-82c2-49f0-b487-d7727f0386fa",
+    "timestamp": "2025-07-17 18:13:21.018632",
+    "latitude": 13.10224163288009,
+    "longitude": 77.5766784594066,
+    "locality": "Indiranagar",
+    "type": "construction",
+    "verified": "True",
+    "reported_by": "Girish Bhatt"
+  },
+  {
+    "incident_id": "911f730b-dbff-40b0-bfe6-70f30e3141ec",
+    "timestamp": "2025-07-13 14:14:57.161442",
+    "latitude": 13.006056032745963,
+    "longitude": 77.65145888156289,
+    "locality": "Hebbal",
+    "type": "accident",
+    "verified": "True",
+    "reported_by": "Chatura Bal"
+  },
+  {
+    "incident_id": "414f4994-2845-4780-9e20-c9572ab8bd33",
+    "timestamp": "2025-07-10 20:27:40.544115",
+    "latitude": 12.931365467771862,
+    "longitude": 77.70192416490221,
+    "locality": "Rajajinagar",
+    "type": "construction",
+    "verified": "False",
+    "reported_by": "Fiyaz Chawla"
+  },
+  {
+    "incident_id": "92ebeab0-e4ee-467c-9a57-f9e4c5f8e2f8",
+    "timestamp": "2025-07-14 07:40:27.702615",
+    "latitude": 12.900024244434055,
+    "longitude": 77.46273946416773,
+    "locality": "Basavanagudi",
+    "type": "flood",
+    "verified": "False",
+    "reported_by": "Nachiket Chad"
+  },
+  {
+    "incident_id": "3a78b64a-1d86-40cb-b908-00f3ac93281a",
+    "timestamp": "2025-07-22 01:01:12.046342",
+    "latitude": 12.871128081880132,
+    "longitude": 77.68000121861729,
+    "locality": "Vijayanagar",
+    "type": "construction",
+    "verified": "True",
+    "reported_by": "Dayamai Karnik"
+  },
+  {
+    "incident_id": "0b461173-00a8-4473-8242-5912bda3c162",
+    "timestamp": "2025-07-18 18:44:07.491172",
+    "latitude": 13.066629366982195,
+    "longitude": 77.5934474765015,
+    "locality": "Electronic City",
+    "type": "construction",
+    "verified": "False",
+    "reported_by": "Bhanumati Savant"
+  },
+  {
+    "incident_id": "3e9aec86-0325-4fbd-9ce8-e1c5dbd30aec",
+    "timestamp": "2025-07-21 17:16:04.061335",
+    "latitude": 12.93528917738806,
+    "longitude": 77.5387937886965,
+    "locality": "KR Puram",
+    "type": "accident",
+    "verified": "False",
+    "reported_by": "Karan Vyas"
+  },
+  {
+    "incident_id": "620af158-5d2d-404f-b8c5-90730bc57207",
+    "timestamp": "2025-07-16 17:58:01.605361",
+    "latitude": 12.978946411770263,
+    "longitude": 77.4461002600027,
+    "locality": "KR Puram",
+    "type": "accident",
+    "verified": "False",
+    "reported_by": "Ayush Banerjee"
+  },
+  {
+    "incident_id": "ee6081ac-2dd0-422e-a66b-f2eaeb93f78c",
+    "timestamp": "2025-07-04 22:52:18.998051",
+    "latitude": 12.972313918000415,
+    "longitude": 77.70285351561812,
+    "locality": "Sarjapur Road",
+    "type": "accident",
+    "verified": "True",
+    "reported_by": "Eshana Soni"
+  },
+  {
+    "incident_id": "8d888beb-090d-4655-9b84-2660f5d8fb91",
+    "timestamp": "2025-07-19 13:23:59.322408",
+    "latitude": 13.002047660231597,
+    "longitude": 77.45504562286291,
+    "locality": "Ulsoor",
+    "type": "accident",
+    "verified": "False",
+    "reported_by": "Anita Saxena"
+  },
+  {
+    "incident_id": "bd9c4693-b6ca-4127-a9f8-7970cd98f9e2",
+    "timestamp": "2025-07-03 08:34:32.105371",
+    "latitude": 13.102952000968594,
+    "longitude": 77.50842575072319,
+    "locality": "Whitefield",
+    "type": "protest",
+    "verified": "True",
+    "reported_by": "Peter Shan"
+  },
+  {
+    "incident_id": "52619dec-3979-45f5-ab5b-c975a7dc2bc0",
+    "timestamp": "2025-07-15 23:13:47.706092",
+    "latitude": 13.143258770254201,
+    "longitude": 77.50151593618686,
+    "locality": "BTM Layout",
+    "type": "construction",
+    "verified": "True",
+    "reported_by": "Dayita Palan"
+  },
+  {
+    "incident_id": "b864ca08-ea75-452d-aa8f-cacb3f8e2d0d",
+    "timestamp": "2025-07-14 19:10:09.739587",
+    "latitude": 12.942654473000836,
+    "longitude": 77.70499491196679,
+    "locality": "Yeshwanthpur",
+    "type": "roadblock",
+    "verified": "True",
+    "reported_by": "Utkarsh Chakraborty"
+  },
+  {
+    "incident_id": "13f06822-d374-4a11-8571-295951e744e4",
+    "timestamp": "2025-07-08 07:50:09.069784",
+    "latitude": 13.089631622737206,
+    "longitude": 77.63544604797312,
+    "locality": "Electronic City",
+    "type": "roadblock",
+    "verified": "True",
+    "reported_by": "Darika Pau"
+  },
+  {
+    "incident_id": "8085c147-1e91-4f36-9f70-5b2592502e59",
+    "timestamp": "2025-07-21 01:32:17.476396",
+    "latitude": 13.067584728129152,
+    "longitude": 77.67883848901698,
+    "locality": "Rajajinagar",
+    "type": "roadblock",
+    "verified": "False",
+    "reported_by": "Abha Dugal"
+  },
+  {
+    "incident_id": "2de982f8-0d7b-4c04-a6e5-9b32ac5f12ef",
+    "timestamp": "2025-07-10 12:43:58.614065",
+    "latitude": 13.000735133009451,
+    "longitude": 77.48766376457738,
+    "locality": "HSR Layout",
+    "type": "protest",
+    "verified": "True",
+    "reported_by": "Advaith Acharya"
+  },
+  {
+    "incident_id": "fb3df063-8409-45ea-8de9-18b33922a7e4",
+    "timestamp": "2025-07-14 20:43:01.585361",
+    "latitude": 13.134616500264176,
+    "longitude": 77.61870593486245,
+    "locality": "Basavanagudi",
+    "type": "protest",
+    "verified": "True",
+    "reported_by": "Hemangini Mangat"
+  },
+  {
+    "incident_id": "11a529b4-66a3-42d6-b43e-8c480bc1f9e5",
+    "timestamp": "2025-07-16 18:20:54.097796",
+    "latitude": 12.870166080434942,
+    "longitude": 77.60011109410031,
+    "locality": "Indiranagar",
+    "type": "construction",
+    "verified": "True",
+    "reported_by": "Abhiram Swamy"
+  },
+  {
+    "incident_id": "48454343-ddb4-49dc-b710-6966e0827f76",
+    "timestamp": "2025-07-06 15:37:21.263404",
+    "latitude": 12.838242473608368,
+    "longitude": 77.6914906318759,
+    "locality": "HSR Layout",
+    "type": "roadblock",
+    "verified": "False",
+    "reported_by": "Chandani Andra"
+  },
+  {
+    "incident_id": "53c9fe59-4f89-43b2-9847-dc53c605e58a",
+    "timestamp": "2025-07-10 01:22:19.064298",
+    "latitude": 13.098886688434398,
+    "longitude": 77.71713047116845,
+    "locality": "BTM Layout",
+    "type": "flood",
+    "verified": "False",
+    "reported_by": "Brinda Kashyap"
+  },
+  {
+    "incident_id": "020a4497-74ed-4145-8d97-65c7161d5c87",
+    "timestamp": "2025-07-08 19:19:01.899740",
+    "latitude": 12.953702435821812,
+    "longitude": 77.40425487001708,
+    "locality": "Vijayanagar",
+    "type": "construction",
+    "verified": "False",
+    "reported_by": "Kashvi Gulati"
+  },
+  {
+    "incident_id": "9055a36f-4aa5-49d3-b35f-2f595e717fca",
+    "timestamp": "2025-07-07 16:43:06.700166",
+    "latitude": 13.096439098972471,
+    "longitude": 77.63590697167058,
+    "locality": "Basavanagudi",
+    "type": "flood",
+    "verified": "False",
+    "reported_by": "Rajeshri Rana"
+  },
+  {
+    "incident_id": "9f6a6a65-bd54-4a04-8dcd-0009c8d57717",
+    "timestamp": "2025-07-19 07:41:31.307577",
+    "latitude": 13.112581571818396,
+    "longitude": 77.4181425296919,
+    "locality": "Sarjapur Road",
+    "type": "construction",
+    "verified": "False",
+    "reported_by": "Nihal Ramakrishnan"
+  },
+  {
+    "incident_id": "97790e84-5e47-4e22-b6c3-e6423e19fc1d",
+    "timestamp": "2025-07-04 03:29:35.336883",
+    "latitude": 12.821860157766675,
+    "longitude": 77.59210053277708,
+    "locality": "Jayanagar",
+    "type": "flood",
+    "verified": "True",
+    "reported_by": "Thomas Lall"
+  },
+  {
+    "incident_id": "c5c9fb91-ff6e-49ed-be4c-e29ff8cbab4c",
+    "timestamp": "2025-07-14 17:10:57.740637",
+    "latitude": 13.10921266704512,
+    "longitude": 77.50067145516529,
+    "locality": "Electronic City",
+    "type": "accident",
+    "verified": "True",
+    "reported_by": "Pahal Khatri"
+  },
+  {
+    "incident_id": "e68373a3-bb82-4796-b207-343ec6a07656",
+    "timestamp": "2025-07-21 04:17:42.622392",
+    "latitude": 12.956911669379299,
+    "longitude": 77.50737180983275,
+    "locality": "Yeshwanthpur",
+    "type": "roadblock",
+    "verified": "False",
+    "reported_by": "Bhavani Wali"
+  },
+  {
+    "incident_id": "3ec0a285-cbc4-4c0e-82ae-f6748beb4e78",
+    "timestamp": "2025-07-12 15:53:11.821725",
+    "latitude": 12.978651371151482,
+    "longitude": 77.52353547620832,
+    "locality": "Electronic City",
+    "type": "protest",
+    "verified": "True",
+    "reported_by": "Nitara Guha"
+  },
+  {
+    "incident_id": "68f82063-eeb1-4ad2-81a1-fb0f268b84b6",
+    "timestamp": "2025-07-20 04:36:16.496007",
+    "latitude": 13.019307378882624,
+    "longitude": 77.61745235716737,
+    "locality": "Bellandur",
+    "type": "accident",
+    "verified": "False",
+    "reported_by": "Qabil Deshpande"
+  },
+  {
+    "incident_id": "58af393c-8aa2-44c9-bba5-bd76061efb95",
+    "timestamp": "2025-07-13 11:17:16.288395",
+    "latitude": 13.12423391235553,
+    "longitude": 77.51691748798407,
+    "locality": "Rajajinagar",
+    "type": "accident",
+    "verified": "True",
+    "reported_by": "Indrajit Shah"
+  },
+  {
+    "incident_id": "e09016b6-b186-45a8-96ee-526ba2cd1590",
+    "timestamp": "2025-07-08 03:30:06.343913",
+    "latitude": 12.806690633050419,
+    "longitude": 77.6564446677066,
+    "locality": "Malleswaram",
+    "type": "accident",
+    "verified": "True",
+    "reported_by": "Anita Swamy"
+  },
+  {
+    "incident_id": "005fd0e6-55c3-42db-b374-190d0274ce40",
+    "timestamp": "2025-07-17 18:33:10.390853",
+    "latitude": 12.966895213911236,
+    "longitude": 77.54158458495085,
+    "locality": "Rajajinagar",
+    "type": "protest",
+    "verified": "True",
+    "reported_by": "Ekani Bahl"
+  },
+  {
+    "incident_id": "d95874c2-6053-4c1b-a845-10a1c2492e5e",
+    "timestamp": "2025-07-13 14:26:35.843087",
+    "latitude": 13.040702714850697,
+    "longitude": 77.4239236201085,
+    "locality": "Electronic City",
+    "type": "protest",
+    "verified": "False",
+    "reported_by": "Chandran Warrior"
+  },
+  {
+    "incident_id": "1a9c672a-4eb9-447d-ba2a-c3d9bcf2fc3b",
+    "timestamp": "2025-07-05 22:44:33.905340",
+    "latitude": 13.05294743519438,
+    "longitude": 77.67431594486943,
+    "locality": "Koramangala",
+    "type": "flood",
+    "verified": "False",
+    "reported_by": "Quincy Chaudry"
+  },
+  {
+    "incident_id": "3cf88d20-fbad-493f-87a1-ec0234879e41",
+    "timestamp": "2025-07-05 18:34:27.334962",
+    "latitude": 13.042386351037988,
+    "longitude": 77.50001541360746,
+    "locality": "Peenya",
+    "type": "protest",
+    "verified": "True",
+    "reported_by": "Amruta Dass"
+  },
+  {
+    "incident_id": "0f554896-f610-496b-bdf5-9abf6b790d01",
+    "timestamp": "2025-07-17 06:17:46.506752",
+    "latitude": 12.847052295292844,
+    "longitude": 77.55146840785974,
+    "locality": "Malleswaram",
+    "type": "construction",
+    "verified": "False",
+    "reported_by": "Abhiram Kaul"
+  },
+  {
+    "incident_id": "b62edb49-2472-46a4-bf38-b918f8f9a45d",
+    "timestamp": "2025-07-16 15:07:21.518404",
+    "latitude": 12.904788455930088,
+    "longitude": 77.63990535912767,
+    "locality": "Ulsoor",
+    "type": "accident",
+    "verified": "False",
+    "reported_by": "Matthew Aurora"
+  },
+  {
+    "incident_id": "ebd8a3b1-0b3d-4c36-97d0-981047a2a10b",
+    "timestamp": "2025-07-21 23:16:59.307283",
+    "latitude": 12.925550433895955,
+    "longitude": 77.51635965500205,
+    "locality": "Basavanagudi",
+    "type": "protest",
+    "verified": "True",
+    "reported_by": "Teerth Oommen"
+  },
+  {
+    "incident_id": "850ef0ad-d872-472e-a5b4-a1ae3b41c943",
+    "timestamp": "2025-07-04 00:29:01.541899",
+    "latitude": 13.081553022687828,
+    "longitude": 77.41980497965136,
+    "locality": "BTM Layout",
+    "type": "accident",
+    "verified": "True",
+    "reported_by": "Devika Tara"
+  },
+  {
+    "incident_id": "5f5ba255-e544-4887-b36a-b3ed69be173a",
+    "timestamp": "2025-07-17 04:07:02.643756",
+    "latitude": 12.897565955345094,
+    "longitude": 77.53087236645449,
+    "locality": "Indiranagar",
+    "type": "roadblock",
+    "verified": "True",
+    "reported_by": "Ubika Balay"
+  },
+  {
+    "incident_id": "15bc2a3e-bf76-45d7-b97c-6c3c755d814b",
+    "timestamp": "2025-07-23 04:46:43.505831",
+    "latitude": 12.873746737353521,
+    "longitude": 77.730557003943,
+    "locality": "Rajajinagar",
+    "type": "construction",
+    "verified": "True",
+    "reported_by": "Faris Dhingra"
+  },
+  {
+    "incident_id": "222df6a4-8163-46ce-9877-bc0694ad6252",
+    "timestamp": "2025-07-05 01:08:45.750966",
+    "latitude": 13.135106806663334,
+    "longitude": 77.6246070390545,
+    "locality": "Sarjapur Road",
+    "type": "construction",
+    "verified": "False",
+    "reported_by": "Amaira Ramanathan"
+  },
+  {
+    "incident_id": "13281726-64f4-44d6-91e9-1691a3209116",
+    "timestamp": "2025-07-13 08:23:03.632098",
+    "latitude": 12.803102149789714,
+    "longitude": 77.63501770203352,
+    "locality": "Banashankari",
+    "type": "protest",
+    "verified": "True",
+    "reported_by": "Upma Golla"
+  },
+  {
+    "incident_id": "6f5b09a6-0ff1-451f-915c-b31b97867b12",
+    "timestamp": "2025-07-15 11:57:03.913323",
+    "latitude": 13.149237299488693,
+    "longitude": 77.62129875377317,
+    "locality": "Rajajinagar",
+    "type": "accident",
+    "verified": "False",
+    "reported_by": "Zashil Raj"
+  },
+  {
+    "incident_id": "3c9d128a-2176-4930-b6d7-0248a995ecc3",
+    "timestamp": "2025-07-17 04:05:36.661147",
+    "latitude": 13.03688745460009,
+    "longitude": 77.46964724863581,
+    "locality": "Malleswaram",
+    "type": "accident",
+    "verified": "True",
+    "reported_by": "Jairaj Kothari"
+  },
+  {
+    "incident_id": "50a46c85-d9d5-4b02-82d0-4d554aab47b2",
+    "timestamp": "2025-07-18 07:38:28.295117",
+    "latitude": 13.08996425480719,
+    "longitude": 77.5464168524358,
+    "locality": "Marathahalli",
+    "type": "construction",
+    "verified": "False",
+    "reported_by": "Saanvi Kota"
+  },
+  {
+    "incident_id": "b362c0d2-6498-4bde-8d02-54dbed1115d7",
+    "timestamp": "2025-07-13 19:11:44.527767",
+    "latitude": 12.903116788721169,
+    "longitude": 77.66282892942716,
+    "locality": "Hebbal",
+    "type": "construction",
+    "verified": "True",
+    "reported_by": "Rushil Sharma"
+  },
+  {
+    "incident_id": "516c3b0a-5385-4918-bc40-15fad4f76322",
+    "timestamp": "2025-07-14 06:24:35.612923",
+    "latitude": 12.805010347183472,
+    "longitude": 77.4354805141436,
+    "locality": "Sarjapur Road",
+    "type": "protest",
+    "verified": "True",
+    "reported_by": "Sathvik Solanki"
+  },
+  {
+    "incident_id": "131eb723-3bcd-4203-859e-e67473e7f042",
+    "timestamp": "2025-07-22 11:01:10.332706",
+    "latitude": 13.058254331496537,
+    "longitude": 77.49724847163141,
+    "locality": "KR Puram",
+    "type": "accident",
+    "verified": "True",
+    "reported_by": "Devika Naidu"
+  },
+  {
+    "incident_id": "c7a9f33c-22d8-49d3-b3e4-f986f18cccdc",
+    "timestamp": "2025-07-17 03:58:06.071007",
+    "latitude": 13.091950608950237,
+    "longitude": 77.49671168796306,
+    "locality": "Bellandur",
+    "type": "construction",
+    "verified": "True",
+    "reported_by": "Brijesh Verma"
+  },
+  {
+    "incident_id": "27c8fc6c-1be5-44c3-95af-6d0cc5285425",
+    "timestamp": "2025-07-16 08:21:56.246472",
+    "latitude": 13.059166646183732,
+    "longitude": 77.55120662465808,
+    "locality": "BTM Layout",
+    "type": "roadblock",
+    "verified": "True",
+    "reported_by": "Zehaan Srivastava"
+  },
+  {
+    "incident_id": "774f6354-7316-4e64-aa14-7a961b0c62eb",
+    "timestamp": "2025-07-21 08:21:14.422696",
+    "latitude": 12.849997600555294,
+    "longitude": 77.74312905932976,
+    "locality": "Hebbal",
+    "type": "construction",
+    "verified": "True",
+    "reported_by": "Rushil Patel"
+  },
+  {
+    "incident_id": "893259f3-1ee8-4a4c-a811-34e250647c59",
+    "timestamp": "2025-07-13 03:41:31.246283",
+    "latitude": 13.06369977278994,
+    "longitude": 77.42362589133934,
+    "locality": "Yeshwanthpur",
+    "type": "protest",
+    "verified": "False",
+    "reported_by": "Tejas Chowdhury"
+  },
+  {
+    "incident_id": "3527a5c8-c534-4a08-b6f2-4d1c5bb8b9c8",
+    "timestamp": "2025-07-20 23:24:00.652730",
+    "latitude": 13.069122973737676,
+    "longitude": 77.58154534803322,
+    "locality": "Jayanagar",
+    "type": "flood",
+    "verified": "False",
+    "reported_by": "Radha Nair"
+  },
+  {
+    "incident_id": "43d78f2b-769d-41e3-8eed-412473b0d676",
+    "timestamp": "2025-07-10 14:45:58.380999",
+    "latitude": 13.030489180484519,
+    "longitude": 77.46277763870428,
+    "locality": "Yeshwanthpur",
+    "type": "flood",
+    "verified": "False",
+    "reported_by": "Oliver Majumdar"
+  },
+  {
+    "incident_id": "28597b34-1725-42c7-9eb2-a7b8da3c45ca",
+    "timestamp": "2025-07-01 06:58:37.317289",
+    "latitude": 13.068140576478456,
+    "longitude": 77.73973679089342,
+    "locality": "Indiranagar",
+    "type": "roadblock",
+    "verified": "True",
+    "reported_by": "Meghana Kibe"
+  },
+  {
+    "incident_id": "d38e13e4-4de1-487b-afa1-4a55cebeabaa",
+    "timestamp": "2025-07-03 10:10:08.348110",
+    "latitude": 13.096072503887207,
+    "longitude": 77.43965622665462,
+    "locality": "Malleswaram",
+    "type": "accident",
+    "verified": "False",
+    "reported_by": "Brijesh Soman"
+  },
+  {
+    "incident_id": "0a530df9-9a72-483c-b266-986cb46788bd",
+    "timestamp": "2025-07-09 16:05:03.730937",
+    "latitude": 13.014761439983111,
+    "longitude": 77.54126035082656,
+    "locality": "Bellandur",
+    "type": "accident",
+    "verified": "True",
+    "reported_by": "Kamya Chakraborty"
+  },
+  {
+    "incident_id": "53ea4919-db48-42c2-95ff-2a1f370b9a29",
+    "timestamp": "2025-07-02 04:59:29.355397",
+    "latitude": 12.831011649889389,
+    "longitude": 77.65825974469212,
+    "locality": "HSR Layout",
+    "type": "roadblock",
+    "verified": "False",
+    "reported_by": "Nakul Tata"
+  },
+  {
+    "incident_id": "3f8b4433-b60e-495c-9759-ba9625f88c74",
+    "timestamp": "2025-07-02 06:55:31.458785",
+    "latitude": 12.970669733383524,
+    "longitude": 77.64659404980961,
+    "locality": "Ulsoor",
+    "type": "construction",
+    "verified": "True",
+    "reported_by": "Hamsini Bhasin"
+  },
+  {
+    "incident_id": "837217e0-6570-46ea-9b11-f51ff7e9101d",
+    "timestamp": "2025-07-07 01:51:38.466887",
+    "latitude": 12.827177267135063,
+    "longitude": 77.54795502291287,
+    "locality": "Banashankari",
+    "type": "roadblock",
+    "verified": "True",
+    "reported_by": "Ishani Dube"
+  },
+  {
+    "incident_id": "429a4a7c-4c80-433a-ad5b-e3c80c880714",
+    "timestamp": "2025-07-18 21:10:01.212572",
+    "latitude": 12.94264006086135,
+    "longitude": 77.52128345878346,
+    "locality": "Whitefield",
+    "type": "construction",
+    "verified": "False",
+    "reported_by": "Jeremiah Sura"
+  },
+  {
+    "incident_id": "07f4fee5-2c82-489f-bd9c-fbb0d1f16485",
+    "timestamp": "2025-07-23 09:20:32.165960",
+    "latitude": 12.94248727119397,
+    "longitude": 77.53916433249351,
+    "locality": "Ulsoor",
+    "type": "roadblock",
+    "verified": "False",
+    "reported_by": "Edhitha Palan"
+  },
+  {
+    "incident_id": "73c374a6-dac7-46b6-a786-3fb3f3bc9a71",
+    "timestamp": "2025-07-16 13:21:46.449615",
+    "latitude": 12.823103445449085,
+    "longitude": 77.49249669210553,
+    "locality": "BTM Layout",
+    "type": "flood",
+    "verified": "False",
+    "reported_by": "Reyansh Bail"
+  },
+  {
+    "incident_id": "3ff6579e-8cd4-490a-bf82-11bc8e52fc42",
+    "timestamp": "2025-07-04 07:59:58.432725",
+    "latitude": 12.922087186889318,
+    "longitude": 77.47186652854738,
+    "locality": "Bellandur",
+    "type": "accident",
+    "verified": "True",
+    "reported_by": "Ishita Desai"
+  },
+  {
+    "incident_id": "cdcc2d6a-1a16-498c-b648-776e183fea70",
+    "timestamp": "2025-07-02 09:53:27.460814",
+    "latitude": 12.838849334576961,
+    "longitude": 77.56906389414561,
+    "locality": "Electronic City",
+    "type": "construction",
+    "verified": "False",
+    "reported_by": "Balveer Sundaram"
+  },
+  {
+    "incident_id": "030f9be9-1f17-4f93-a3c9-7a1ecb371d97",
+    "timestamp": "2025-07-18 20:31:30.607689",
+    "latitude": 13.082882323503227,
+    "longitude": 77.49398681462367,
+    "locality": "Peenya",
+    "type": "flood",
+    "verified": "True",
+    "reported_by": "Chaitaly Suri"
+  },
+  {
+    "incident_id": "fb8986c8-c7ec-4e71-9493-47fc0fc98d2e",
+    "timestamp": "2025-07-05 15:27:13.260669",
+    "latitude": 13.131690809087566,
+    "longitude": 77.50061158271404,
+    "locality": "Bellandur",
+    "type": "protest",
+    "verified": "False",
+    "reported_by": "Rachit Pall"
+  },
+  {
+    "incident_id": "d2dc42c8-32b8-48aa-a176-8dd738e7e019",
+    "timestamp": "2025-07-13 07:39:48.626178",
+    "latitude": 12.825310766340278,
+    "longitude": 77.6298646222161,
+    "locality": "Jayanagar",
+    "type": "construction",
+    "verified": "False",
+    "reported_by": "Upadhriti Maharaj"
+  },
+  {
+    "incident_id": "a15b2e18-afb0-4406-9f4b-1a97668c879b",
+    "timestamp": "2025-07-09 03:57:44.150102",
+    "latitude": 13.134290322552095,
+    "longitude": 77.73898806609496,
+    "locality": "Malleswaram",
+    "type": "accident",
+    "verified": "False",
+    "reported_by": "Ekapad Wali"
+  },
+  {
+    "incident_id": "95132c22-1583-4b99-a50a-13dcf004e897",
+    "timestamp": "2025-07-11 07:16:12.375982",
+    "latitude": 12.982901809767862,
+    "longitude": 77.61127302019578,
+    "locality": "Malleswaram",
+    "type": "protest",
+    "verified": "True",
+    "reported_by": "Shivani Merchant"
+  },
+  {
+    "incident_id": "d010318a-eadc-4960-8242-11e2960be0f4",
+    "timestamp": "2025-07-15 00:36:15.792525",
+    "latitude": 12.904847987283857,
+    "longitude": 77.42694281347275,
+    "locality": "Koramangala",
+    "type": "construction",
+    "verified": "False",
+    "reported_by": "Jeevika Setty"
+  },
+  {
+    "incident_id": "10813d45-ff45-48a2-8594-b24f13325c31",
+    "timestamp": "2025-07-16 09:03:58.749437",
+    "latitude": 12.826901726346659,
+    "longitude": 77.42645426484893,
+    "locality": "Whitefield",
+    "type": "roadblock",
+    "verified": "True",
+    "reported_by": "Yashawini Raghavan"
+  },
+  {
+    "incident_id": "7184b713-a55f-45b7-a709-fba6329fc417",
+    "timestamp": "2025-07-13 18:58:47.184871",
+    "latitude": 12.975218493824647,
+    "longitude": 77.73299812729594,
+    "locality": "Electronic City",
+    "type": "flood",
+    "verified": "False",
+    "reported_by": "Anirudh Patla"
+  },
+  {
+    "incident_id": "e7b33085-178b-4968-a0f8-7ba2cf2e3296",
+    "timestamp": "2025-07-06 02:32:52.477531",
+    "latitude": 13.078080440571762,
+    "longitude": 77.50405177660757,
+    "locality": "Rajajinagar",
+    "type": "construction",
+    "verified": "True",
+    "reported_by": "Ekani Bhatnagar"
+  },
+  {
+    "incident_id": "54e07431-cf13-4b65-9450-afa2d8e70aeb",
+    "timestamp": "2025-07-15 17:32:48.112597",
+    "latitude": 13.047480267043344,
+    "longitude": 77.43222344512887,
+    "locality": "Rajajinagar",
+    "type": "roadblock",
+    "verified": "False",
+    "reported_by": "Ranveer Viswanathan"
+  },
+  {
+    "incident_id": "7603c36c-f139-4e3c-8aee-25571f5df912",
+    "timestamp": "2025-07-09 20:27:50.453653",
+    "latitude": 12.817579104012392,
+    "longitude": 77.60966560550264,
+    "locality": "Vijayanagar",
+    "type": "flood",
+    "verified": "True",
+    "reported_by": "Mitesh Mandal"
+  },
+  {
+    "incident_id": "92ea1324-ec93-4596-ab01-57230cf697a5",
+    "timestamp": "2025-07-12 15:08:12.716244",
+    "latitude": 12.825515642378766,
+    "longitude": 77.6182770724016,
+    "locality": "Malleswaram",
+    "type": "accident",
+    "verified": "True",
+    "reported_by": "Nimrat Nagy"
+  },
+  {
+    "incident_id": "651ea252-b974-4cde-9259-f9606ee35607",
+    "timestamp": "2025-07-19 03:20:29.151958",
+    "latitude": 12.941005648921424,
+    "longitude": 77.62697668704155,
+    "locality": "Electronic City",
+    "type": "roadblock",
+    "verified": "True",
+    "reported_by": "Gopal Virk"
+  },
+  {
+    "incident_id": "aee70ab2-61fa-4e7a-878c-26ce7f0223bc",
+    "timestamp": "2025-07-16 20:19:20.146953",
+    "latitude": 12.90335167291678,
+    "longitude": 77.49359070975014,
+    "locality": "Vijayanagar",
+    "type": "construction",
+    "verified": "True",
+    "reported_by": "Caleb Dayal"
+  },
+  {
+    "incident_id": "36f7a26c-5a9c-4679-ac3d-17e26d39da75",
+    "timestamp": "2025-07-16 18:34:41.224389",
+    "latitude": 12.881334513069618,
+    "longitude": 77.40528873947507,
+    "locality": "Jayanagar",
+    "type": "protest",
+    "verified": "True",
+    "reported_by": "Azad Jaggi"
+  },
+  {
+    "incident_id": "47a48c42-4665-4497-afe9-22aae886a011",
+    "timestamp": "2025-07-02 01:40:01.017070",
+    "latitude": 12.89835157461805,
+    "longitude": 77.73775537930906,
+    "locality": "Ulsoor",
+    "type": "roadblock",
+    "verified": "True",
+    "reported_by": "Vedika Handa"
+  },
+  {
+    "incident_id": "08dec921-260c-4547-a228-0fe3722dce13",
+    "timestamp": "2025-07-09 16:28:24.726178",
+    "latitude": 13.08121896015391,
+    "longitude": 77.48781256599189,
+    "locality": "KR Puram",
+    "type": "construction",
+    "verified": "True",
+    "reported_by": "Azad Rama"
+  },
+  {
+    "incident_id": "3eebc04a-9df2-472e-9e82-5aae9d3616a1",
+    "timestamp": "2025-07-10 11:35:11.223776",
+    "latitude": 13.12522981877115,
+    "longitude": 77.6366092008184,
+    "locality": "HSR Layout",
+    "type": "protest",
+    "verified": "True",
+    "reported_by": "Aahana Bawa"
+  },
+  {
+    "incident_id": "69785221-7fb7-4c57-8b8c-031fa5b40983",
+    "timestamp": "2025-07-18 22:34:34.307673",
+    "latitude": 12.941785943084648,
+    "longitude": 77.64732045445756,
+    "locality": "Electronic City",
+    "type": "flood",
+    "verified": "False",
+    "reported_by": "Timothy Bobal"
+  },
+  {
+    "incident_id": "0f9c5300-7aa1-4567-8cf9-eea9e1fdc6d1",
+    "timestamp": "2025-07-16 14:19:24.975204",
+    "latitude": 13.117138850746374,
+    "longitude": 77.61350259597782,
+    "locality": "Marathahalli",
+    "type": "flood",
+    "verified": "False",
+    "reported_by": "Sathvik Swamy"
+  },
+  {
+    "incident_id": "2321e64e-620d-4a1f-879f-66281674eb65",
+    "timestamp": "2025-07-22 23:40:21.046944",
+    "latitude": 12.912523495436758,
+    "longitude": 77.50951758797478,
+    "locality": "Malleswaram",
+    "type": "accident",
+    "verified": "False",
+    "reported_by": "Upadhriti Bhat"
+  },
+  {
+    "incident_id": "e2789642-a484-4035-b30f-aaa36b52f93c",
+    "timestamp": "2025-07-02 05:23:39.281677",
+    "latitude": 12.966752945220328,
+    "longitude": 77.49488368881742,
+    "locality": "KR Puram",
+    "type": "flood",
+    "verified": "True",
+    "reported_by": "Ojasvi Pillay"
+  },
+  {
+    "incident_id": "a1791e93-3fc8-45ac-869b-c00fcc152a1b",
+    "timestamp": "2025-07-17 22:17:45.706681",
+    "latitude": 12.8791101492356,
+    "longitude": 77.60918389894594,
+    "locality": "HSR Layout",
+    "type": "flood",
+    "verified": "True",
+    "reported_by": "Amaira Wadhwa"
+  },
+  {
+    "incident_id": "cb7b0b3a-8b2d-458a-8d5a-e324fe7c80e9",
+    "timestamp": "2025-07-05 14:57:16.214496",
+    "latitude": 13.024166614761546,
+    "longitude": 77.70313347176409,
+    "locality": "Marathahalli",
+    "type": "flood",
+    "verified": "True",
+    "reported_by": "Ekavir Modi"
+  },
+  {
+    "incident_id": "c82ba1be-61eb-44e6-bd49-8e2004ffeab2",
+    "timestamp": "2025-07-20 18:41:12.349768",
+    "latitude": 13.142643390311184,
+    "longitude": 77.73135680512318,
+    "locality": "BTM Layout",
+    "type": "accident",
+    "verified": "False",
+    "reported_by": "Tarak Venkataraman"
+  },
+  {
+    "incident_id": "8b6584ce-7acc-4970-9bee-c570b69f75c5",
+    "timestamp": "2025-07-20 14:05:40.781008",
+    "latitude": 13.011222583615183,
+    "longitude": 77.43706703154132,
+    "locality": "Banashankari",
+    "type": "accident",
+    "verified": "True",
+    "reported_by": "Harrison Kashyap"
+  },
+  {
+    "incident_id": "e9a53368-5812-4eb2-bc13-f47ac80c2195",
+    "timestamp": "2025-07-11 02:03:47.292200",
+    "latitude": 12.925234929439743,
+    "longitude": 77.4541900144092,
+    "locality": "Ulsoor",
+    "type": "flood",
+    "verified": "False",
+    "reported_by": "Ranveer Hans"
+  },
+  {
+    "incident_id": "636cf499-5254-4ad3-809c-d83990ce82e8",
+    "timestamp": "2025-07-06 03:13:33.521742",
+    "latitude": 13.026736106096685,
+    "longitude": 77.73065769057408,
+    "locality": "Yeshwanthpur",
+    "type": "flood",
+    "verified": "True",
+    "reported_by": "Praneel Sagar"
+  },
+  {
+    "incident_id": "51a1f5df-06ac-4010-ae08-69c1453b45fe",
+    "timestamp": "2025-07-15 10:15:48.519666",
+    "latitude": 12.843022237462886,
+    "longitude": 77.65778732991718,
+    "locality": "Bellandur",
+    "type": "flood",
+    "verified": "False",
+    "reported_by": "Ishita Shanker"
+  },
+  {
+    "incident_id": "e550d736-0780-4e71-b811-b51998dc9e0b",
+    "timestamp": "2025-07-17 03:39:08.897902",
+    "latitude": 13.11103067809289,
+    "longitude": 77.70904783869042,
+    "locality": "KR Puram",
+    "type": "roadblock",
+    "verified": "False",
+    "reported_by": "Hemang Ganesan"
+  },
+  {
+    "incident_id": "0effd5bd-47eb-440d-874e-48ffcf89569d",
+    "timestamp": "2025-07-09 08:54:40.959380",
+    "latitude": 12.976079382772943,
+    "longitude": 77.47092142194738,
+    "locality": "Banashankari",
+    "type": "accident",
+    "verified": "False",
+    "reported_by": "Neelima Thaman"
+  },
+  {
+    "incident_id": "8788dfed-78c0-4ed8-bdd4-ff21cf03f0c8",
+    "timestamp": "2025-07-14 09:27:28.643146",
+    "latitude": 12.957272409713875,
+    "longitude": 77.60565505488829,
+    "locality": "Koramangala",
+    "type": "accident",
+    "verified": "True",
+    "reported_by": "Nakul Walla"
+  },
+  {
+    "incident_id": "ffe62994-9580-4c2a-844f-c4b85b80b8d1",
+    "timestamp": "2025-07-17 19:26:39.031368",
+    "latitude": 13.005052675958732,
+    "longitude": 77.64539885804612,
+    "locality": "Rajajinagar",
+    "type": "roadblock",
+    "verified": "False",
+    "reported_by": "Indira Murty"
+  },
+  {
+    "incident_id": "19a2676f-28dd-4bfd-b956-be953b964c74",
+    "timestamp": "2025-07-05 11:20:19.515857",
+    "latitude": 13.01867435197629,
+    "longitude": 77.63803915990644,
+    "locality": "Ulsoor",
+    "type": "roadblock",
+    "verified": "True",
+    "reported_by": "Kamya Sachar"
+  },
+  {
+    "incident_id": "443b1d0f-3dbc-4093-a828-44423f738f50",
+    "timestamp": "2025-07-17 12:02:57.102543",
+    "latitude": 12.82512153217928,
+    "longitude": 77.54285309180335,
+    "locality": "Bellandur",
+    "type": "roadblock",
+    "verified": "True",
+    "reported_by": "Ekiya Khosla"
+  },
+  {
+    "incident_id": "ead18464-ca8e-458c-90f8-1063889fe107",
+    "timestamp": "2025-07-05 09:42:55.363653",
+    "latitude": 13.038916027428192,
+    "longitude": 77.40538821209196,
+    "locality": "Bellandur",
+    "type": "accident",
+    "verified": "True",
+    "reported_by": "Keya Kumar"
+  },
+  {
+    "incident_id": "ff138c80-c398-4332-8e50-0785bcaff931",
+    "timestamp": "2025-07-11 05:12:18.614496",
+    "latitude": 12.884676088110435,
+    "longitude": 77.6040241198815,
+    "locality": "Yeshwanthpur",
+    "type": "accident",
+    "verified": "True",
+    "reported_by": "Sneha Sem"
+  },
+  {
+    "incident_id": "d8b48ead-9360-4edf-b82b-5b86f2a32efd",
+    "timestamp": "2025-07-23 09:17:56.649303",
+    "latitude": 13.049883421377308,
+    "longitude": 77.48858553871287,
+    "locality": "KR Puram",
+    "type": "protest",
+    "verified": "True",
+    "reported_by": "Aadi Banerjee"
+  },
+  {
+    "incident_id": "5ad479ef-636f-4890-8c21-cbdbfb8fe8c4",
+    "timestamp": "2025-07-02 16:41:07.181334",
+    "latitude": 13.08788717803447,
+    "longitude": 77.55758898615001,
+    "locality": "Yeshwanthpur",
+    "type": "protest",
+    "verified": "False",
+    "reported_by": "Amol Vasa"
+  },
+  {
+    "incident_id": "d86065a2-fdd5-40f8-96d7-44fdef69a980",
+    "timestamp": "2025-07-22 21:50:16.531666",
+    "latitude": 13.081385477643382,
+    "longitude": 77.73515335527934,
+    "locality": "Jayanagar",
+    "type": "protest",
+    "verified": "True",
+    "reported_by": "Chasmum Ahuja"
+  },
+  {
+    "incident_id": "97af5bde-3c8e-4d78-ad14-e9f42c78644f",
+    "timestamp": "2025-07-17 17:36:09.769786",
+    "latitude": 12.993375338592761,
+    "longitude": 77.53966236117486,
+    "locality": "Vijayanagar",
+    "type": "accident",
+    "verified": "False",
+    "reported_by": "Tristan Kala"
+  },
+  {
+    "incident_id": "b297a782-bcf4-44aa-8e63-cb1a5168bbf2",
+    "timestamp": "2025-07-03 17:12:27.582442",
+    "latitude": 12.982059462308763,
+    "longitude": 77.69393056233255,
+    "locality": "Vijayanagar",
+    "type": "roadblock",
+    "verified": "False",
+    "reported_by": "Anthony Majumdar"
+  },
+  {
+    "incident_id": "07388ba4-9770-43db-a9fa-97e25bd93609",
+    "timestamp": "2025-07-01 22:12:00.262728",
+    "latitude": 12.850006586468794,
+    "longitude": 77.46598921201225,
+    "locality": "Marathahalli",
+    "type": "accident",
+    "verified": "False",
+    "reported_by": "Girindra Barad"
+  },
+  {
+    "incident_id": "f2933585-5a07-4758-b357-f3f9b4157cea",
+    "timestamp": "2025-07-07 08:29:23.827398",
+    "latitude": 13.071371152641097,
+    "longitude": 77.63536117430876,
+    "locality": "Whitefield",
+    "type": "protest",
+    "verified": "False",
+    "reported_by": "Ishani Dugal"
+  },
+  {
+    "incident_id": "9027e770-2460-40d2-9048-83c191519998",
+    "timestamp": "2025-07-07 00:21:51.985086",
+    "latitude": 12.894993283156351,
+    "longitude": 77.74195243405363,
+    "locality": "Banashankari",
+    "type": "roadblock",
+    "verified": "True",
+    "reported_by": "Alka Peri"
+  },
+  {
+    "incident_id": "fcedf994-d631-4383-b030-14d0f2c84743",
+    "timestamp": "2025-07-04 15:55:18.241207",
+    "latitude": 12.973843397986283,
+    "longitude": 77.43566258530554,
+    "locality": "Koramangala",
+    "type": "roadblock",
+    "verified": "False",
+    "reported_by": "Viraj Kunda"
+  },
+  {
+    "incident_id": "7e02921d-f86b-443a-a1b2-43cccf767343",
+    "timestamp": "2025-07-20 06:12:38.487169",
+    "latitude": 12.899495932524632,
+    "longitude": 77.40291197977952,
+    "locality": "Peenya",
+    "type": "roadblock",
+    "verified": "True",
+    "reported_by": "George Ratta"
+  },
+  {
+    "incident_id": "7d8d3ddd-2cf1-49cb-8f1e-1a378ac8ad93",
+    "timestamp": "2025-07-01 03:05:02.972068",
+    "latitude": 12.846839927049894,
+    "longitude": 77.55175397742141,
+    "locality": "Whitefield",
+    "type": "roadblock",
+    "verified": "False",
+    "reported_by": "Faras Nair"
+  },
+  {
+    "incident_id": "3b8d3447-0e61-465f-971b-1b8009b7fdf7",
+    "timestamp": "2025-07-11 14:46:30.268949",
+    "latitude": 13.020345193912108,
+    "longitude": 77.43241891906798,
+    "locality": "Koramangala",
+    "type": "accident",
+    "verified": "True",
+    "reported_by": "Oscar Sura"
+  },
+  {
+    "incident_id": "86c5547c-051a-4039-b803-dcee9a069295",
+    "timestamp": "2025-07-22 08:11:23.772569",
+    "latitude": 12.819016212188018,
+    "longitude": 77.66193452238669,
+    "locality": "Electronic City",
+    "type": "construction",
+    "verified": "False",
+    "reported_by": "Charita Barad"
+  },
+  {
+    "incident_id": "eafb3e90-54ec-44ce-802c-cb257a5d7c82",
+    "timestamp": "2025-07-01 21:49:15.989830",
+    "latitude": 13.06202583194417,
+    "longitude": 77.720092032347,
+    "locality": "Jayanagar",
+    "type": "construction",
+    "verified": "False",
+    "reported_by": "Farhan Bhalla"
+  },
+  {
+    "incident_id": "2167c35e-ce73-44f2-b393-2b6c9d37efb6",
+    "timestamp": "2025-07-22 03:20:45.520594",
+    "latitude": 12.911155378341391,
+    "longitude": 77.55190734044807,
+    "locality": "Banashankari",
+    "type": "construction",
+    "verified": "True",
+    "reported_by": "Ijaya Saraf"
+  },
+  {
+    "incident_id": "eb3537a0-2d6e-4291-b789-3986573bfc17",
+    "timestamp": "2025-07-14 14:05:56.771493",
+    "latitude": 12.80004714255157,
+    "longitude": 77.49054907475441,
+    "locality": "Hebbal",
+    "type": "protest",
+    "verified": "False",
+    "reported_by": "Jai Karan"
+  },
+  {
+    "incident_id": "52d6b779-de43-49cb-9823-0076cd6bb03b",
+    "timestamp": "2025-07-18 14:40:52.603062",
+    "latitude": 12.978895198733031,
+    "longitude": 77.55204116165231,
+    "locality": "Bellandur",
+    "type": "accident",
+    "verified": "False",
+    "reported_by": "Lavanya Bhagat"
+  },
+  {
+    "incident_id": "962c04dd-25d0-4461-859c-15740f3f0f48",
+    "timestamp": "2025-07-15 05:39:44.284621",
+    "latitude": 12.816398167984662,
+    "longitude": 77.6532067362475,
+    "locality": "Peenya",
+    "type": "roadblock",
+    "verified": "False",
+    "reported_by": "Benjamin Nagar"
+  },
+  {
+    "incident_id": "c63ce21d-2443-4958-aacf-33a9b466fab6",
+    "timestamp": "2025-07-20 04:38:25.420953",
+    "latitude": 12.896659345237316,
+    "longitude": 77.40316895655313,
+    "locality": "Sarjapur Road",
+    "type": "accident",
+    "verified": "True",
+    "reported_by": "Eta Thakkar"
+  },
+  {
+    "incident_id": "dc54d59b-86bb-42c7-98b2-f8b61c654aa2",
+    "timestamp": "2025-07-07 20:31:57.620914",
+    "latitude": 13.0474417706095,
+    "longitude": 77.60630889631965,
+    "locality": "KR Puram",
+    "type": "roadblock",
+    "verified": "True",
+    "reported_by": "Michael Bedi"
+  },
+  {
+    "incident_id": "5fa3a531-1291-4e60-b5e7-2daf5d696bc8",
+    "timestamp": "2025-07-18 23:33:28.001251",
+    "latitude": 12.821941367567653,
+    "longitude": 77.61465208971059,
+    "locality": "Indiranagar",
+    "type": "protest",
+    "verified": "True",
+    "reported_by": "Sanaya Thaman"
+  },
+  {
+    "incident_id": "6545c030-a981-4a54-b121-e129b45c9a54",
+    "timestamp": "2025-07-13 12:34:26.594837",
+    "latitude": 13.093768472324602,
+    "longitude": 77.62319088641358,
+    "locality": "Whitefield",
+    "type": "accident",
+    "verified": "True",
+    "reported_by": "Tristan Sankaran"
+  },
+  {
+    "incident_id": "4d407b28-5628-4dcd-99dd-3e8c96053035",
+    "timestamp": "2025-07-02 15:49:03.479045",
+    "latitude": 12.801336972930505,
+    "longitude": 77.48470772799331,
+    "locality": "Basavanagudi",
+    "type": "protest",
+    "verified": "False",
+    "reported_by": "Meera Divan"
+  },
+  {
+    "incident_id": "28522ca2-f9d2-414a-a2ee-7f0752961fb3",
+    "timestamp": "2025-07-17 02:38:02.956264",
+    "latitude": 12.886388354220667,
+    "longitude": 77.64991845318235,
+    "locality": "Electronic City",
+    "type": "protest",
+    "verified": "True",
+    "reported_by": "Gayathri Butala"
+  },
+  {
+    "incident_id": "cab63107-6fd6-4b3a-b2dd-9456bb7b6c05",
+    "timestamp": "2025-07-12 23:02:38.051436",
+    "latitude": 13.059316419653225,
+    "longitude": 77.43198702021613,
+    "locality": "Banashankari",
+    "type": "protest",
+    "verified": "True",
+    "reported_by": "Chandran Rastogi"
+  },
+  {
+    "incident_id": "a630ad9d-7cb9-43f5-b5ed-f382a3a6ef83",
+    "timestamp": "2025-07-22 18:50:23.539772",
+    "latitude": 12.910694552405259,
+    "longitude": 77.46974461776338,
+    "locality": "Malleswaram",
+    "type": "accident",
+    "verified": "False",
+    "reported_by": "Frederick Rastogi"
+  },
+  {
+    "incident_id": "f7ff88d4-b509-408a-ac98-8bca51397c06",
+    "timestamp": "2025-07-12 20:25:39.378656",
+    "latitude": 12.835662335823105,
+    "longitude": 77.70711451632907,
+    "locality": "Electronic City",
+    "type": "roadblock",
+    "verified": "True",
+    "reported_by": "Kalpit Deshmukh"
+  },
+  {
+    "incident_id": "edc8cca8-e3bc-46f3-b18d-2c8c8fddbebc",
+    "timestamp": "2025-07-18 21:33:49.216552",
+    "latitude": 12.92608187158015,
+    "longitude": 77.6585531027543,
+    "locality": "Jayanagar",
+    "type": "roadblock",
+    "verified": "False",
+    "reported_by": "Rudra Sura"
+  },
+  {
+    "incident_id": "392612e9-5b58-4b49-8978-4b529d1c0838",
+    "timestamp": "2025-07-04 15:04:13.231464",
+    "latitude": 12.894637650234584,
+    "longitude": 77.40481094390398,
+    "locality": "Peenya",
+    "type": "flood",
+    "verified": "True",
+    "reported_by": "Rohan Viswanathan"
+  },
+  {
+    "incident_id": "2ce3d822-d080-42b8-96c5-6fe7aa604892",
+    "timestamp": "2025-07-13 08:42:21.453699",
+    "latitude": 13.094949165756194,
+    "longitude": 77.48693169112943,
+    "locality": "Electronic City",
+    "type": "protest",
+    "verified": "False",
+    "reported_by": "Xavier Bora"
+  },
+  {
+    "incident_id": "b0416f19-bbe7-4835-8e8b-f78a60ddc7f1",
+    "timestamp": "2025-07-10 04:24:09.158002",
+    "latitude": 12.9096717711548,
+    "longitude": 77.4750422690476,
+    "locality": "BTM Layout",
+    "type": "accident",
+    "verified": "False",
+    "reported_by": "Qushi Naik"
+  },
+  {
+    "incident_id": "ba94aa66-2d7e-4a45-a099-e71f4b657bcc",
+    "timestamp": "2025-07-08 22:53:33.061217",
+    "latitude": 13.076126365121603,
+    "longitude": 77.49478221481294,
+    "locality": "Bellandur",
+    "type": "accident",
+    "verified": "True",
+    "reported_by": "Isaiah Sachdev"
+  },
+  {
+    "incident_id": "f2dde1f5-b3b6-4344-b2e3-c6f00075d3d5",
+    "timestamp": "2025-07-21 02:38:03.257335",
+    "latitude": 13.112155250683758,
+    "longitude": 77.48664591959796,
+    "locality": "KR Puram",
+    "type": "roadblock",
+    "verified": "True",
+    "reported_by": "Jasmit Pall"
+  },
+  {
+    "incident_id": "fe8956c8-d9cb-4540-a43f-fdae92a54d04",
+    "timestamp": "2025-07-16 02:24:20.178287",
+    "latitude": 12.951836096851785,
+    "longitude": 77.42188420351,
+    "locality": "Vijayanagar",
+    "type": "construction",
+    "verified": "True",
+    "reported_by": "Ekani Padmanabhan"
+  },
+  {
+    "incident_id": "084a3c4b-9146-4cdc-b716-4b73c55523ed",
+    "timestamp": "2025-07-08 12:52:28.616604",
+    "latitude": 13.118480100349037,
+    "longitude": 77.56062918080889,
+    "locality": "Banashankari",
+    "type": "roadblock",
+    "verified": "False",
+    "reported_by": "Dalaja Gara"
+  },
+  {
+    "incident_id": "ebc92914-5176-49d1-9a36-24d62e9ce8ff",
+    "timestamp": "2025-07-07 16:23:28.210744",
+    "latitude": 12.932061318887119,
+    "longitude": 77.65645671617516,
+    "locality": "Vijayanagar",
+    "type": "flood",
+    "verified": "False",
+    "reported_by": "Riya Dhingra"
+  },
+  {
+    "incident_id": "388c9751-9c83-49ae-b7b0-2805cf0df860",
+    "timestamp": "2025-07-22 15:11:26.274419",
+    "latitude": 13.137427445771538,
+    "longitude": 77.61235610365111,
+    "locality": "Jayanagar",
+    "type": "construction",
+    "verified": "True",
+    "reported_by": "Chaitanya Kaur"
+  },
+  {
+    "incident_id": "efcac577-1aa6-47cb-90c7-e6aca3bfe403",
+    "timestamp": "2025-07-15 01:47:27.269907",
+    "latitude": 12.831251333583952,
+    "longitude": 77.63550508400932,
+    "locality": "Basavanagudi",
+    "type": "roadblock",
+    "verified": "True",
+    "reported_by": "Kashvi Dugal"
+  },
+  {
+    "incident_id": "beced21a-54c7-443b-a401-342a7f05fbf5",
+    "timestamp": "2025-07-11 19:25:59.090807",
+    "latitude": 13.040456743276135,
+    "longitude": 77.42840221248768,
+    "locality": "Yeshwanthpur",
+    "type": "roadblock",
+    "verified": "False",
+    "reported_by": "Isaiah Bhagat"
+  },
+  {
+    "incident_id": "fb7d3ba1-58c8-4c48-bced-4d1f13eb22c9",
+    "timestamp": "2025-07-13 18:40:44.842902",
+    "latitude": 12.972834914159925,
+    "longitude": 77.73302174856188,
+    "locality": "Basavanagudi",
+    "type": "construction",
+    "verified": "True",
+    "reported_by": "Manbir Mani"
+  },
+  {
+    "incident_id": "e2a45909-a2dd-42d5-aafa-ab7b51cbf9e5",
+    "timestamp": "2025-07-18 02:55:12.467556",
+    "latitude": 12.935677081909477,
+    "longitude": 77.69347214184506,
+    "locality": "Ulsoor",
+    "type": "construction",
+    "verified": "True",
+    "reported_by": "Hemal Choudhry"
+  },
+  {
+    "incident_id": "b57ec883-d258-4d90-96b6-bf61f68c62e6",
+    "timestamp": "2025-07-15 18:44:17.098310",
+    "latitude": 13.02144915756201,
+    "longitude": 77.68178161147348,
+    "locality": "HSR Layout",
+    "type": "construction",
+    "verified": "True",
+    "reported_by": "Shivani Sinha"
+  },
+  {
+    "incident_id": "e2fbb984-bab2-4bce-a39c-3bd5ab86bafd",
+    "timestamp": "2025-07-03 14:40:37.543179",
+    "latitude": 13.046349982072016,
+    "longitude": 77.68804433176462,
+    "locality": "HSR Layout",
+    "type": "accident",
+    "verified": "False",
+    "reported_by": "Garima Kadakia"
+  },
+  {
+    "incident_id": "43e4f668-02ea-42df-b256-56e355f3ad50",
+    "timestamp": "2025-07-08 21:02:14.405743",
+    "latitude": 12.801527144377609,
+    "longitude": 77.72644867784646,
+    "locality": "Basavanagudi",
+    "type": "roadblock",
+    "verified": "False",
+    "reported_by": "Samar Virk"
+  },
+  {
+    "incident_id": "115affac-b173-4cdf-bfe1-e8f335adde88",
+    "timestamp": "2025-07-06 11:18:41.250674",
+    "latitude": 12.85843358106152,
+    "longitude": 77.5904888881398,
+    "locality": "KR Puram",
+    "type": "construction",
+    "verified": "False",
+    "reported_by": "Vasudha Dhaliwal"
+  },
+  {
+    "incident_id": "1ba827c6-c97a-44ad-81b4-55b859b9222c",
+    "timestamp": "2025-07-15 14:53:39.022581",
+    "latitude": 13.049566117722012,
+    "longitude": 77.47009870625368,
+    "locality": "Electronic City",
+    "type": "roadblock",
+    "verified": "True",
+    "reported_by": "Krisha Vyas"
+  },
+  {
+    "incident_id": "62ccc604-0c53-444b-8053-f649b86d066b",
+    "timestamp": "2025-07-21 21:52:16.126795",
+    "latitude": 13.033234894752372,
+    "longitude": 77.61587426274839,
+    "locality": "Electronic City",
+    "type": "roadblock",
+    "verified": "True",
+    "reported_by": "Aadhya Garde"
+  },
+  {
+    "incident_id": "f8170ebf-6b6e-44c5-bb8a-a843702f31e5",
+    "timestamp": "2025-07-06 13:12:44.386264",
+    "latitude": 13.138116626795037,
+    "longitude": 77.66000852278378,
+    "locality": "Peenya",
+    "type": "construction",
+    "verified": "True",
+    "reported_by": "Bhanumati Iyer"
+  },
+  {
+    "incident_id": "7e3a9f07-69fd-48e6-a271-fff92a9527f6",
+    "timestamp": "2025-07-01 21:47:11.409625",
+    "latitude": 13.066363226587775,
+    "longitude": 77.65827108767391,
+    "locality": "Bellandur",
+    "type": "construction",
+    "verified": "False",
+    "reported_by": "Chatresh Shroff"
+  },
+  {
+    "incident_id": "8bc83a02-59ea-4936-a0f3-4ebce1bbb8cd",
+    "timestamp": "2025-07-21 03:52:14.999582",
+    "latitude": 13.132770447705969,
+    "longitude": 77.58250715845841,
+    "locality": "HSR Layout",
+    "type": "roadblock",
+    "verified": "True",
+    "reported_by": "Ekalinga Rama"
+  },
+  {
+    "incident_id": "7abfcebf-d42c-41ae-99f7-38cb6016c743",
+    "timestamp": "2025-07-09 16:21:31.653488",
+    "latitude": 13.045889175537184,
+    "longitude": 77.42396055176675,
+    "locality": "Whitefield",
+    "type": "flood",
+    "verified": "True",
+    "reported_by": "Jagvi Chokshi"
+  },
+  {
+    "incident_id": "a6a5f0ff-93fb-41d0-9d32-6d9cc9ea356a",
+    "timestamp": "2025-07-19 02:59:55.833001",
+    "latitude": 12.904318273023806,
+    "longitude": 77.52988952845055,
+    "locality": "Banashankari",
+    "type": "protest",
+    "verified": "False",
+    "reported_by": "Brinda Raju"
+  },
+  {
+    "incident_id": "29a3db6d-39bf-4a38-afe9-be90c21c3fb3",
+    "timestamp": "2025-07-03 13:56:26.418151",
+    "latitude": 12.8368777227878,
+    "longitude": 77.72226831296217,
+    "locality": "BTM Layout",
+    "type": "protest",
+    "verified": "True",
+    "reported_by": "Lajita Trivedi"
+  },
+  {
+    "incident_id": "d883e3f8-cc98-43de-92de-9e5a7387928a",
+    "timestamp": "2025-07-06 20:11:07.695227",
+    "latitude": 13.073638352170727,
+    "longitude": 77.6045571184151,
+    "locality": "Ulsoor",
+    "type": "roadblock",
+    "verified": "True",
+    "reported_by": "Diya Sundaram"
+  },
+  {
+    "incident_id": "51976e75-0523-44fd-8b7f-2183088dbd82",
+    "timestamp": "2025-07-17 11:32:10.430030",
+    "latitude": 13.02545222751657,
+    "longitude": 77.5884161801395,
+    "locality": "Marathahalli",
+    "type": "roadblock",
+    "verified": "False",
+    "reported_by": "Quincy Issac"
+  },
+  {
+    "incident_id": "12fecc2b-1acf-42c5-b3a0-212042d943ee",
+    "timestamp": "2025-07-01 13:29:51.748030",
+    "latitude": 12.816865104337655,
+    "longitude": 77.49409873003377,
+    "locality": "Ulsoor",
+    "type": "construction",
+    "verified": "False",
+    "reported_by": "Anthony Baral"
+  },
+  {
+    "incident_id": "601e0211-e34f-46b4-ab8c-03bf5780be17",
+    "timestamp": "2025-07-12 18:23:06.487662",
+    "latitude": 12.926017663065343,
+    "longitude": 77.5289571219708,
+    "locality": "Marathahalli",
+    "type": "roadblock",
+    "verified": "False",
+    "reported_by": "Dalaja Nath"
+  },
+  {
+    "incident_id": "8c0b393a-1333-4bc9-bb63-5ff529310971",
+    "timestamp": "2025-07-18 12:57:04.413465",
+    "latitude": 13.1348799354195,
+    "longitude": 77.71337113120362,
+    "locality": "HSR Layout",
+    "type": "accident",
+    "verified": "False",
+    "reported_by": "Maya Dugar"
+  },
+  {
+    "incident_id": "17d5b563-fa60-4de1-a5eb-772df11c0ac5",
+    "timestamp": "2025-07-12 16:59:13.863798",
+    "latitude": 12.975140400998571,
+    "longitude": 77.6332620666344,
+    "locality": "HSR Layout",
+    "type": "protest",
+    "verified": "False",
+    "reported_by": "Idika Pandey"
+  },
+  {
+    "incident_id": "9d17d218-fc3b-4de5-9812-62ac5683ede0",
+    "timestamp": "2025-07-12 13:56:31.847765",
+    "latitude": 12.951455197606897,
+    "longitude": 77.67558545936332,
+    "locality": "KR Puram",
+    "type": "protest",
+    "verified": "False",
+    "reported_by": "Chasmum Keer"
+  },
+  {
+    "incident_id": "07ef2ba8-b45a-4ab3-bb94-a34de4aa786d",
+    "timestamp": "2025-07-12 01:57:37.724885",
+    "latitude": 12.960194861805753,
+    "longitude": 77.55902089807368,
+    "locality": "Electronic City",
+    "type": "protest",
+    "verified": "False",
+    "reported_by": "David Kurian"
+  },
+  {
+    "incident_id": "2a3d418d-a754-429f-b143-e5456e6b34b9",
+    "timestamp": "2025-07-07 17:57:12.556472",
+    "latitude": 12.873108953401807,
+    "longitude": 77.62058652680966,
+    "locality": "Hebbal",
+    "type": "flood",
+    "verified": "False",
+    "reported_by": "Ayushman Mammen"
+  },
+  {
+    "incident_id": "2837f418-6f27-41b9-a3c6-dedb9b792afa",
+    "timestamp": "2025-07-15 19:57:19.337948",
+    "latitude": 12.929047509802679,
+    "longitude": 77.48693426306012,
+    "locality": "HSR Layout",
+    "type": "protest",
+    "verified": "True",
+    "reported_by": "Max Om"
+  },
+  {
+    "incident_id": "349ef4a9-54c2-4d5c-99ec-08290db5d441",
+    "timestamp": "2025-07-08 06:59:57.857328",
+    "latitude": 12.929434639595513,
+    "longitude": 77.64691129059922,
+    "locality": "Rajajinagar",
+    "type": "construction",
+    "verified": "True",
+    "reported_by": "Laksh Chahal"
+  },
+  {
+    "incident_id": "b27b7bb4-68c6-40b2-b0a2-cee8f9722cc1",
+    "timestamp": "2025-07-02 20:59:18.756476",
+    "latitude": 12.818324257065616,
+    "longitude": 77.54966046679617,
+    "locality": "Basavanagudi",
+    "type": "protest",
+    "verified": "True",
+    "reported_by": "Utkarsh Sahni"
+  },
+  {
+    "incident_id": "badf9397-ecf2-4429-b8d7-7d2f8dda4ff2",
+    "timestamp": "2025-07-03 04:25:29.123746",
+    "latitude": 13.068648669981272,
+    "longitude": 77.55489093018517,
+    "locality": "Malleswaram",
+    "type": "flood",
+    "verified": "True",
+    "reported_by": "Michael Sandhu"
+  },
+  {
+    "incident_id": "4811e562-a91c-4192-83e8-644b8a45a905",
+    "timestamp": "2025-07-23 02:50:19.868856",
+    "latitude": 12.945776551166357,
+    "longitude": 77.62726281360192,
+    "locality": "Peenya",
+    "type": "protest",
+    "verified": "True",
+    "reported_by": "Forum Sen"
+  },
+  {
+    "incident_id": "0cb4e891-188d-423b-bccf-f6eb4c2272f3",
+    "timestamp": "2025-07-18 14:29:39.101356",
+    "latitude": 13.08776296038575,
+    "longitude": 77.72769821751413,
+    "locality": "Banashankari",
+    "type": "roadblock",
+    "verified": "True",
+    "reported_by": "Samuel Devi"
+  },
+  {
+    "incident_id": "d700b461-8cb6-40ba-925f-819964953d5f",
+    "timestamp": "2025-07-13 03:18:40.408356",
+    "latitude": 13.097621800391964,
+    "longitude": 77.42240222131302,
+    "locality": "Whitefield",
+    "type": "flood",
+    "verified": "True",
+    "reported_by": "Lakshit More"
+  },
+  {
+    "incident_id": "5c5f48d4-0df4-47b8-a751-ab867daec949",
+    "timestamp": "2025-07-15 06:31:05.139423",
+    "latitude": 12.874197919144532,
+    "longitude": 77.68866013307145,
+    "locality": "Vijayanagar",
+    "type": "construction",
+    "verified": "True",
+    "reported_by": "Qushi Dhillon"
+  },
+  {
+    "incident_id": "4b6797a1-166e-4fe3-ad77-959500fa0eb4",
+    "timestamp": "2025-07-05 19:09:29.431314",
+    "latitude": 13.030073718759546,
+    "longitude": 77.50233408864428,
+    "locality": "Yeshwanthpur",
+    "type": "flood",
+    "verified": "False",
+    "reported_by": "Eesha Bir"
+  },
+  {
+    "incident_id": "99a7b99b-a005-45e1-a97a-2846d2eaef18",
+    "timestamp": "2025-07-15 07:55:42.306760",
+    "latitude": 12.965298631457044,
+    "longitude": 77.55537180907723,
+    "locality": "Basavanagudi",
+    "type": "protest",
+    "verified": "False",
+    "reported_by": "Qarin Nadkarni"
+  },
+  {
+    "incident_id": "06969d48-18d4-4238-b31d-e35c7af6cd41",
+    "timestamp": "2025-07-05 20:27:57.326029",
+    "latitude": 13.10805485827252,
+    "longitude": 77.40766966507125,
+    "locality": "Banashankari",
+    "type": "protest",
+    "verified": "False",
+    "reported_by": "Ayushman Nagar"
+  },
+  {
+    "incident_id": "4ab427e3-a360-4681-abbb-a89d34fadee1",
+    "timestamp": "2025-07-16 14:27:49.307470",
+    "latitude": 12.875509237711759,
+    "longitude": 77.50536612724201,
+    "locality": "Malleswaram",
+    "type": "flood",
+    "verified": "False",
+    "reported_by": "Nisha Mitter"
+  },
+  {
+    "incident_id": "d8014004-793b-4d1b-94f9-c394fa207403",
+    "timestamp": "2025-07-20 00:33:23.623876",
+    "latitude": 13.037234620108515,
+    "longitude": 77.57592093492055,
+    "locality": "Vijayanagar",
+    "type": "roadblock",
+    "verified": "True",
+    "reported_by": "Anusha Doshi"
+  },
+  {
+    "incident_id": "65c06b93-c8ed-4bdd-8ef0-3f801d91fe39",
+    "timestamp": "2025-07-05 16:18:58.211478",
+    "latitude": 13.012713242788454,
+    "longitude": 77.4196616270716,
+    "locality": "Indiranagar",
+    "type": "flood",
+    "verified": "False",
+    "reported_by": "Hredhaan Deep"
+  },
+  {
+    "incident_id": "a939ebd1-e516-40d4-bd35-72cc788fd0cd",
+    "timestamp": "2025-07-19 20:46:40.289817",
+    "latitude": 12.903355517150143,
+    "longitude": 77.5718835052841,
+    "locality": "Hebbal",
+    "type": "flood",
+    "verified": "True",
+    "reported_by": "Atharv Loke"
+  },
+  {
+    "incident_id": "8b4bd7e7-a451-4ae0-9754-bf0843d75413",
+    "timestamp": "2025-07-21 00:02:02.158708",
+    "latitude": 12.847810316277911,
+    "longitude": 77.72448872010045,
+    "locality": "KR Puram",
+    "type": "flood",
+    "verified": "False",
+    "reported_by": "Vincent Kashyap"
+  },
+  {
+    "incident_id": "e2afa629-5efb-436e-af54-60336334fa2a",
+    "timestamp": "2025-07-17 21:02:31.987444",
+    "latitude": 13.028073916167047,
+    "longitude": 77.43688762633774,
+    "locality": "Whitefield",
+    "type": "accident",
+    "verified": "False",
+    "reported_by": "Jagrati Buch"
+  },
+  {
+    "incident_id": "721e5419-2fc3-4649-9e91-1b9161a66444",
+    "timestamp": "2025-07-10 21:47:14.771630",
+    "latitude": 13.058509110346316,
+    "longitude": 77.66755425482643,
+    "locality": "Bellandur",
+    "type": "construction",
+    "verified": "False",
+    "reported_by": "Krish Thakkar"
+  },
+  {
+    "incident_id": "770e09db-7092-4401-8367-5d580b6c03c8",
+    "timestamp": "2025-07-19 14:13:29.603738",
+    "latitude": 12.910469570317174,
+    "longitude": 77.5433848686816,
+    "locality": "Koramangala",
+    "type": "protest",
+    "verified": "False",
+    "reported_by": "Kashvi Gour"
+  },
+  {
+    "incident_id": "44c07a9a-d64a-4b1f-b9eb-038a436e3c49",
+    "timestamp": "2025-07-02 15:24:08.100664",
+    "latitude": 13.025691411407811,
+    "longitude": 77.62931080008352,
+    "locality": "Yeshwanthpur",
+    "type": "protest",
+    "verified": "True",
+    "reported_by": "Vyanjana Som"
+  },
+  {
+    "incident_id": "c0927b74-26b0-4ff6-8fc7-9913907276ea",
+    "timestamp": "2025-07-16 14:48:44.840007",
+    "latitude": 12.938295817664027,
+    "longitude": 77.49108280929484,
+    "locality": "Peenya",
+    "type": "protest",
+    "verified": "True",
+    "reported_by": "Nihal Hans"
+  },
+  {
+    "incident_id": "15f0ea19-18c1-40d2-aadf-3692b24beb96",
+    "timestamp": "2025-07-01 12:58:37.793207",
+    "latitude": 13.049622409148917,
+    "longitude": 77.45582229188948,
+    "locality": "Hebbal",
+    "type": "construction",
+    "verified": "True",
+    "reported_by": "Bachittar Rege"
+  },
+  {
+    "incident_id": "8a9c66f7-cee4-4512-9802-b640ab0b4cc5",
+    "timestamp": "2025-07-17 07:39:11.594882",
+    "latitude": 12.869725346212919,
+    "longitude": 77.45616191499494,
+    "locality": "Peenya",
+    "type": "flood",
+    "verified": "False",
+    "reported_by": "Anamika Sachar"
+  },
+  {
+    "incident_id": "96f84ff7-c1a7-4883-b880-287869fb0763",
+    "timestamp": "2025-07-01 20:41:55.599455",
+    "latitude": 13.11157525092266,
+    "longitude": 77.42467218097511,
+    "locality": "Sarjapur Road",
+    "type": "protest",
+    "verified": "True",
+    "reported_by": "Samaksh Jayaraman"
+  },
+  {
+    "incident_id": "d73e7bb9-0f9c-417b-8db8-dadf3a3e46b0",
+    "timestamp": "2025-07-02 16:01:05.761960",
+    "latitude": 12.900593358762954,
+    "longitude": 77.46497634671545,
+    "locality": "Rajajinagar",
+    "type": "flood",
+    "verified": "True",
+    "reported_by": "Peter Sarna"
+  },
+  {
+    "incident_id": "6b2b78b9-85c7-43be-9183-010f6319629b",
+    "timestamp": "2025-07-05 01:14:38.725116",
+    "latitude": 12.928725095714654,
+    "longitude": 77.63247678474615,
+    "locality": "Jayanagar",
+    "type": "roadblock",
+    "verified": "False",
+    "reported_by": "Ekta Shankar"
+  },
+  {
+    "incident_id": "ddecc40b-afe3-4f13-8917-78e8f7336094",
+    "timestamp": "2025-07-06 17:37:37.946418",
+    "latitude": 12.820332183228123,
+    "longitude": 77.70859171414523,
+    "locality": "Ulsoor",
+    "type": "construction",
+    "verified": "True",
+    "reported_by": "Prisha Ravel"
+  },
+  {
+    "incident_id": "e1b41171-929d-474d-b98e-175fefb56207",
+    "timestamp": "2025-07-02 14:29:06.986286",
+    "latitude": 12.839029274312447,
+    "longitude": 77.6849439899569,
+    "locality": "Electronic City",
+    "type": "protest",
+    "verified": "True",
+    "reported_by": "Lajita Munshi"
+  },
+  {
+    "incident_id": "143665f5-4c81-4260-b9ec-533c3c53090e",
+    "timestamp": "2025-07-19 16:52:58.129890",
+    "latitude": 12.980551665949315,
+    "longitude": 77.63979700845607,
+    "locality": "Vijayanagar",
+    "type": "flood",
+    "verified": "True",
+    "reported_by": "Balvan Verma"
+  },
+  {
+    "incident_id": "b6dcbd05-da9b-4cc1-a71c-681a6511e61a",
+    "timestamp": "2025-07-21 17:42:27.525309",
+    "latitude": 12.89365743685479,
+    "longitude": 77.43865115219388,
+    "locality": "Peenya",
+    "type": "accident",
+    "verified": "False",
+    "reported_by": "Siya Shan"
+  },
+  {
+    "incident_id": "e684390c-923b-4820-8089-b8c508e3f771",
+    "timestamp": "2025-07-10 06:42:20.709034",
+    "latitude": 13.092418079009768,
+    "longitude": 77.50121560620359,
+    "locality": "Indiranagar",
+    "type": "flood",
+    "verified": "False",
+    "reported_by": "Yatan Venkataraman"
+  },
+  {
+    "incident_id": "ad72ed05-924c-4e09-8cea-5031844e250b",
+    "timestamp": "2025-07-11 06:28:03.429091",
+    "latitude": 12.805142686029235,
+    "longitude": 77.50843240636287,
+    "locality": "Yeshwanthpur",
+    "type": "flood",
+    "verified": "True",
+    "reported_by": "Balveer Ram"
+  },
+  {
+    "incident_id": "1ecacae9-25bf-413d-9eca-381bfb95d0fc",
+    "timestamp": "2025-07-10 04:57:56.860530",
+    "latitude": 12.932682917035178,
+    "longitude": 77.48748493123917,
+    "locality": "Malleswaram",
+    "type": "roadblock",
+    "verified": "False",
+    "reported_by": "Ranveer Manne"
+  },
+  {
+    "incident_id": "2c41cbd3-72f4-44ab-81d7-1f4af3025d16",
+    "timestamp": "2025-07-08 04:51:50.515364",
+    "latitude": 12.918070941369184,
+    "longitude": 77.58025198089841,
+    "locality": "KR Puram",
+    "type": "flood",
+    "verified": "False",
+    "reported_by": "Mitali Modi"
+  },
+  {
+    "incident_id": "f8dfcc3a-2acb-4fbd-bbff-8a7df2f5b176",
+    "timestamp": "2025-07-09 20:48:00.452035",
+    "latitude": 12.806764670821162,
+    "longitude": 77.58744383520789,
+    "locality": "Peenya",
+    "type": "accident",
+    "verified": "True",
+    "reported_by": "Triya Ganesan"
+  },
+  {
+    "incident_id": "204db9da-3156-4f2a-8ef7-4829363e6ef4",
+    "timestamp": "2025-07-03 16:38:06.256388",
+    "latitude": 12.843528939650179,
+    "longitude": 77.52491009130989,
+    "locality": "Peenya",
+    "type": "construction",
+    "verified": "True",
+    "reported_by": "Chaitaly Bhagat"
+  },
+  {
+    "incident_id": "fcffe9e3-140f-4589-ac62-4c2c0aeccec7",
+    "timestamp": "2025-07-01 03:13:22.134407",
+    "latitude": 12.944774936221522,
+    "longitude": 77.52382620555775,
+    "locality": "Jayanagar",
+    "type": "flood",
+    "verified": "False",
+    "reported_by": "Ubika Seth"
+  },
+  {
+    "incident_id": "ff4d0930-33b0-4b53-af75-ee8aaee14f87",
+    "timestamp": "2025-07-17 09:31:13.003443",
+    "latitude": 12.972502604556606,
+    "longitude": 77.68999445926713,
+    "locality": "Sarjapur Road",
+    "type": "roadblock",
+    "verified": "False",
+    "reported_by": "Xiti Chowdhury"
+  },
+  {
+    "incident_id": "d5881c1c-25db-4946-a091-e5b4d2938e6e",
+    "timestamp": "2025-07-02 10:32:57.021496",
+    "latitude": 12.941501411539205,
+    "longitude": 77.67625249691189,
+    "locality": "Jayanagar",
+    "type": "flood",
+    "verified": "True",
+    "reported_by": "Krishna Ramaswamy"
+  },
+  {
+    "incident_id": "e92a7b97-51db-4a37-8204-d73398550b1e",
+    "timestamp": "2025-07-17 23:32:32.152823",
+    "latitude": 12.985828187444234,
+    "longitude": 77.50772854108827,
+    "locality": "Peenya",
+    "type": "construction",
+    "verified": "True",
+    "reported_by": "Ekiya Seshadri"
+  },
+  {
+    "incident_id": "1127b207-ceae-4325-aa07-4d80ba236c22",
+    "timestamp": "2025-07-02 00:52:03.503881",
+    "latitude": 13.008296086216989,
+    "longitude": 77.71982595535565,
+    "locality": "Ulsoor",
+    "type": "protest",
+    "verified": "False",
+    "reported_by": "Praneel Setty"
+  },
+  {
+    "incident_id": "65b90e94-8e6d-4263-a35a-775d16476e3f",
+    "timestamp": "2025-07-20 07:25:58.350153",
+    "latitude": 12.803473337394744,
+    "longitude": 77.73348525595088,
+    "locality": "BTM Layout",
+    "type": "accident",
+    "verified": "True",
+    "reported_by": "Suhani Chana"
+  },
+  {
+    "incident_id": "46b518de-db4b-48eb-937d-0bd18d536c75",
+    "timestamp": "2025-07-09 03:25:32.144593",
+    "latitude": 12.962433305808727,
+    "longitude": 77.51435988971052,
+    "locality": "Rajajinagar",
+    "type": "roadblock",
+    "verified": "True",
+    "reported_by": "Ekiya Gade"
+  },
+  {
+    "incident_id": "df9b7c1f-eacb-4f6d-b549-c9f9850a48d4",
+    "timestamp": "2025-07-12 10:43:10.274634",
+    "latitude": 13.137224734310657,
+    "longitude": 77.52404873207757,
+    "locality": "Peenya",
+    "type": "protest",
+    "verified": "True",
+    "reported_by": "Gavin Comar"
+  },
+  {
+    "incident_id": "9f80b96b-b34e-456a-895b-61f8032a461a",
+    "timestamp": "2025-07-07 14:20:56.709157",
+    "latitude": 12.981661298045342,
+    "longitude": 77.5769719536977,
+    "locality": "Ulsoor",
+    "type": "protest",
+    "verified": "True",
+    "reported_by": "Janani Chada"
+  },
+  {
+    "incident_id": "6b6a8061-c81c-4d31-85c6-9fbf966b62ea",
+    "timestamp": "2025-07-16 14:43:20.550071",
+    "latitude": 13.037139793610635,
+    "longitude": 77.72939228438679,
+    "locality": "Peenya",
+    "type": "protest",
+    "verified": "True",
+    "reported_by": "Yasti Dutta"
+  },
+  {
+    "incident_id": "25f06b0a-264e-459d-aa18-e5af1cce08e9",
+    "timestamp": "2025-07-14 19:23:26.434329",
+    "latitude": 12.90915235027091,
+    "longitude": 77.70671180159981,
+    "locality": "Sarjapur Road",
+    "type": "protest",
+    "verified": "True",
+    "reported_by": "Lajita Bassi"
+  },
+  {
+    "incident_id": "c2250530-952a-4345-9682-d9ff910c4cb7",
+    "timestamp": "2025-07-07 09:48:14.421300",
+    "latitude": 13.070896982353467,
+    "longitude": 77.43589878690426,
+    "locality": "Koramangala",
+    "type": "protest",
+    "verified": "True",
+    "reported_by": "Gautami Doctor"
+  },
+  {
+    "incident_id": "ecc817a6-19a6-480e-b08c-e6c2f6ff3521",
+    "timestamp": "2025-07-22 02:17:15.082791",
+    "latitude": 13.070522518656642,
+    "longitude": 77.537455760145,
+    "locality": "Yeshwanthpur",
+    "type": "roadblock",
+    "verified": "True",
+    "reported_by": "Maanav Gola"
+  },
+  {
+    "incident_id": "19da8262-c790-4dc5-900c-0af71b0ae22e",
+    "timestamp": "2025-07-09 16:22:52.227973",
+    "latitude": 12.98245361667895,
+    "longitude": 77.59367991641243,
+    "locality": "Whitefield",
+    "type": "flood",
+    "verified": "False",
+    "reported_by": "Oni Morar"
+  },
+  {
+    "incident_id": "891f4683-de12-4bf1-893d-6196c926a021",
+    "timestamp": "2025-07-19 17:09:27.542199",
+    "latitude": 13.141604838147725,
+    "longitude": 77.57609636539304,
+    "locality": "Ulsoor",
+    "type": "protest",
+    "verified": "False",
+    "reported_by": "Sanaya Mani"
+  },
+  {
+    "incident_id": "693016ea-e0bd-41ee-9807-cf74e1509425",
+    "timestamp": "2025-07-01 16:50:15.754091",
+    "latitude": 12.84394257516693,
+    "longitude": 77.46785207377792,
+    "locality": "HSR Layout",
+    "type": "protest",
+    "verified": "True",
+    "reported_by": "Jacob Deep"
+  },
+  {
+    "incident_id": "7c4f48e4-a7a0-4a3d-a20f-230b439e754c",
+    "timestamp": "2025-07-04 13:24:20.291751",
+    "latitude": 12.805931682711353,
+    "longitude": 77.70058586990885,
+    "locality": "Ulsoor",
+    "type": "roadblock",
+    "verified": "False",
+    "reported_by": "Aarush Kulkarni"
+  },
+  {
+    "incident_id": "099759a3-7919-455c-9be4-f19f92701d60",
+    "timestamp": "2025-07-06 00:07:16.526016",
+    "latitude": 13.069555374114984,
+    "longitude": 77.6369292740489,
+    "locality": "Malleswaram",
+    "type": "accident",
+    "verified": "True",
+    "reported_by": "Tara Tank"
+  },
+  {
+    "incident_id": "24d38751-6729-4d3c-8681-8a882c154804",
+    "timestamp": "2025-07-17 23:58:51.275181",
+    "latitude": 13.08250443807771,
+    "longitude": 77.69326793119814,
+    "locality": "Rajajinagar",
+    "type": "accident",
+    "verified": "True",
+    "reported_by": "Abdul Tak"
+  },
+  {
+    "incident_id": "b193c8b8-ae49-4079-9bd0-d4c79e45455e",
+    "timestamp": "2025-07-19 03:18:24.827755",
+    "latitude": 12.842072530192203,
+    "longitude": 77.70056749777231,
+    "locality": "Peenya",
+    "type": "protest",
+    "verified": "True",
+    "reported_by": "Teerth Soni"
+  },
+  {
+    "incident_id": "e3bb22ae-6552-4c53-89ed-a6f566d71d97",
+    "timestamp": "2025-07-20 08:05:50.395983",
+    "latitude": 12.892953991535514,
+    "longitude": 77.661924548783,
+    "locality": "Sarjapur Road",
+    "type": "construction",
+    "verified": "True",
+    "reported_by": "Nimrat Sathe"
+  },
+  {
+    "incident_id": "3cd1ff3f-b0c5-4278-94dc-cba5e1035e1c",
+    "timestamp": "2025-07-07 17:09:29.847993",
+    "latitude": 12.80614332717832,
+    "longitude": 77.55372371043741,
+    "locality": "Rajajinagar",
+    "type": "accident",
+    "verified": "False",
+    "reported_by": "Abeer Konda"
+  },
+  {
+    "incident_id": "ebbbd763-79a7-463b-bee9-75da0c9e5550",
+    "timestamp": "2025-07-15 10:24:14.336787",
+    "latitude": 12.902658013773198,
+    "longitude": 77.6136913642554,
+    "locality": "Jayanagar",
+    "type": "construction",
+    "verified": "True",
+    "reported_by": "Sarthak Bawa"
+  },
+  {
+    "incident_id": "052dfb9a-5f58-4603-a5a3-d8e944c1f1b5",
+    "timestamp": "2025-07-07 18:50:23.789712",
+    "latitude": 13.070599655871536,
+    "longitude": 77.45612789214192,
+    "locality": "Whitefield",
+    "type": "accident",
+    "verified": "True",
+    "reported_by": "Manbir Bhakta"
+  },
+  {
+    "incident_id": "4d950273-cb2c-4805-9140-3430567e642e",
+    "timestamp": "2025-07-21 04:35:27.190935",
+    "latitude": 12.981286184699403,
+    "longitude": 77.63577589611621,
+    "locality": "Jayanagar",
+    "type": "roadblock",
+    "verified": "False",
+    "reported_by": "Balhaar Dhillon"
+  },
+  {
+    "incident_id": "7ddac1b6-d7c4-4aed-87c4-cc514f9a5f98",
+    "timestamp": "2025-07-22 23:25:00.928457",
+    "latitude": 12.921833457608901,
+    "longitude": 77.46273863950876,
+    "locality": "Rajajinagar",
+    "type": "protest",
+    "verified": "True",
+    "reported_by": "Chanchal Narula"
+  },
+  {
+    "incident_id": "1924c644-af52-4666-b239-09f4dbb54645",
+    "timestamp": "2025-07-20 17:45:07.140740",
+    "latitude": 12.930108753217215,
+    "longitude": 77.64288235667856,
+    "locality": "HSR Layout",
+    "type": "roadblock",
+    "verified": "True",
+    "reported_by": "Chandran Chopra"
+  },
+  {
+    "incident_id": "226716e3-3a5b-4ac5-9e70-3b72f8f58a26",
+    "timestamp": "2025-07-15 17:59:43.195863",
+    "latitude": 12.800473769000414,
+    "longitude": 77.48035935626389,
+    "locality": "Jayanagar",
+    "type": "protest",
+    "verified": "False",
+    "reported_by": "Pranav Edwin"
+  },
+  {
+    "incident_id": "716fb276-be64-4c2a-b966-71a54cec495b",
+    "timestamp": "2025-07-22 19:03:38.000690",
+    "latitude": 12.904930184647833,
+    "longitude": 77.44114295505258,
+    "locality": "KR Puram",
+    "type": "protest",
+    "verified": "True",
+    "reported_by": "Peter Shah"
+  },
+  {
+    "incident_id": "44f8b53c-5224-4d05-9369-2867c626e38f",
+    "timestamp": "2025-07-01 06:05:30.462795",
+    "latitude": 13.026260559573275,
+    "longitude": 77.45784957155004,
+    "locality": "Bellandur",
+    "type": "protest",
+    "verified": "True",
+    "reported_by": "Balendra Chander"
+  },
+  {
+    "incident_id": "a543148e-9adf-4981-aab1-9e15ba92992e",
+    "timestamp": "2025-07-20 21:55:09.963354",
+    "latitude": 13.140968055335726,
+    "longitude": 77.40069724732668,
+    "locality": "Yeshwanthpur",
+    "type": "flood",
+    "verified": "False",
+    "reported_by": "Ekantika Pillay"
+  },
+  {
+    "incident_id": "361db014-7114-46de-b01c-8db316db80db",
+    "timestamp": "2025-07-04 05:14:17.088942",
+    "latitude": 13.096471289444365,
+    "longitude": 77.65155886624873,
+    "locality": "Bellandur",
+    "type": "roadblock",
+    "verified": "False",
+    "reported_by": "Ekansh Sane"
+  },
+  {
+    "incident_id": "bdae8eff-683c-410e-92ef-a93be9d6bb7e",
+    "timestamp": "2025-07-01 22:49:20.289908",
+    "latitude": 12.808258237625935,
+    "longitude": 77.65634036717043,
+    "locality": "Jayanagar",
+    "type": "roadblock",
+    "verified": "False",
+    "reported_by": "Brinda Sinha"
+  },
+  {
+    "incident_id": "de0018aa-8439-4fc0-826e-27067c059799",
+    "timestamp": "2025-07-14 00:53:54.959625",
+    "latitude": 13.114496211636194,
+    "longitude": 77.58022667246965,
+    "locality": "Sarjapur Road",
+    "type": "construction",
+    "verified": "True",
+    "reported_by": "Jairaj Maharaj"
+  },
+  {
+    "incident_id": "83e8b700-0e63-413e-922e-32265fb8944d",
+    "timestamp": "2025-07-09 23:18:08.164987",
+    "latitude": 13.074119444654519,
+    "longitude": 77.45647698036939,
+    "locality": "Sarjapur Road",
+    "type": "accident",
+    "verified": "False",
+    "reported_by": "Odika Vohra"
+  },
+  {
+    "incident_id": "4fa5c35e-10cc-4604-a8b2-6b1bca9f1d59",
+    "timestamp": "2025-07-13 11:08:04.553473",
+    "latitude": 13.073131643249843,
+    "longitude": 77.42924401812874,
+    "locality": "Marathahalli",
+    "type": "construction",
+    "verified": "False",
+    "reported_by": "Shaurya Bhardwaj"
+  },
+  {
+    "incident_id": "22b9f24c-6744-4fb8-81bd-55d5b5a6571c",
+    "timestamp": "2025-07-02 22:30:29.289519",
+    "latitude": 12.960298515651251,
+    "longitude": 77.40669513825306,
+    "locality": "Malleswaram",
+    "type": "flood",
+    "verified": "True",
+    "reported_by": "Gagan Sule"
+  },
+  {
+    "incident_id": "e11bf0d4-8637-4f04-99ee-7dc9c7cfeca8",
+    "timestamp": "2025-07-05 18:45:36.436521",
+    "latitude": 12.939301852534076,
+    "longitude": 77.45801186193783,
+    "locality": "Indiranagar",
+    "type": "flood",
+    "verified": "False",
+    "reported_by": "Prisha Nadig"
+  },
+  {
+    "incident_id": "3158f1fb-2c7a-4d31-8769-25839194821e",
+    "timestamp": "2025-07-17 21:04:21.044083",
+    "latitude": 12.906020505091618,
+    "longitude": 77.7117994372441,
+    "locality": "Banashankari",
+    "type": "accident",
+    "verified": "True",
+    "reported_by": "Irya Dayal"
+  },
+  {
+    "incident_id": "d6441a9d-3362-4476-953a-e57fe00bd534",
+    "timestamp": "2025-07-17 12:36:28.818166",
+    "latitude": 12.822993200634029,
+    "longitude": 77.48453789459559,
+    "locality": "Jayanagar",
+    "type": "construction",
+    "verified": "True",
+    "reported_by": "Zinal Tank"
+  },
+  {
+    "incident_id": "74d9d1f5-0877-4804-bfde-98140ec0ad4b",
+    "timestamp": "2025-07-05 19:40:48.665815",
+    "latitude": 12.879882377222795,
+    "longitude": 77.52399496452603,
+    "locality": "Whitefield",
+    "type": "roadblock",
+    "verified": "False",
+    "reported_by": "Pranit Kaul"
+  },
+  {
+    "incident_id": "b462e3e8-5c41-4a83-ab04-159c0cf173f9",
+    "timestamp": "2025-07-21 14:46:48.228270",
+    "latitude": 12.88631127224231,
+    "longitude": 77.43687091956848,
+    "locality": "Electronic City",
+    "type": "accident",
+    "verified": "False",
+    "reported_by": "Rishi Agarwal"
+  },
+  {
+    "incident_id": "d2d14ef5-5e4c-4fd1-8623-63a932f8dbab",
+    "timestamp": "2025-07-20 09:11:07.149454",
+    "latitude": 12.969426974398571,
+    "longitude": 77.47782645666186,
+    "locality": "Basavanagudi",
+    "type": "accident",
+    "verified": "False",
+    "reported_by": "Arjun Shroff"
+  },
+  {
+    "incident_id": "a2aa378c-659e-4258-814f-f65776d70561",
+    "timestamp": "2025-07-04 05:49:43.715896",
+    "latitude": 13.061605542308843,
+    "longitude": 77.58172859977307,
+    "locality": "HSR Layout",
+    "type": "protest",
+    "verified": "True",
+    "reported_by": "Sarthak Sachdeva"
+  },
+  {
+    "incident_id": "07d2fd4d-ae61-416a-9fb6-21aeec4e8cbb",
+    "timestamp": "2025-07-05 04:31:20.751021",
+    "latitude": 12.965833439939281,
+    "longitude": 77.61271343908348,
+    "locality": "Basavanagudi",
+    "type": "construction",
+    "verified": "True",
+    "reported_by": "Chakradev Nath"
+  },
+  {
+    "incident_id": "98133da1-7d21-40ad-9f59-fb4d3defa7ba",
+    "timestamp": "2025-07-15 01:01:42.221612",
+    "latitude": 12.820245557306507,
+    "longitude": 77.48587330995818,
+    "locality": "Bellandur",
+    "type": "roadblock",
+    "verified": "True",
+    "reported_by": "Simon Apte"
+  },
+  {
+    "incident_id": "ded7d3ef-f5e4-49c1-ad76-1ffa7233d5af",
+    "timestamp": "2025-07-06 18:04:57.836262",
+    "latitude": 13.135226430345872,
+    "longitude": 77.4202062557288,
+    "locality": "Ulsoor",
+    "type": "protest",
+    "verified": "False",
+    "reported_by": "Baghyawati Kumar"
+  },
+  {
+    "incident_id": "5989dd6c-8d24-44f9-963d-c8bf797e3984",
+    "timestamp": "2025-07-03 14:37:22.022921",
+    "latitude": 13.12995351168294,
+    "longitude": 77.53686150419459,
+    "locality": "Electronic City",
+    "type": "accident",
+    "verified": "False",
+    "reported_by": "Darika Mital"
+  },
+  {
+    "incident_id": "e4fd6c34-d670-4a21-a9dc-073e5820b3f2",
+    "timestamp": "2025-07-16 06:34:53.446580",
+    "latitude": 13.074816340101943,
+    "longitude": 77.48197117982423,
+    "locality": "KR Puram",
+    "type": "flood",
+    "verified": "False",
+    "reported_by": "Abeer Comar"
+  },
+  {
+    "incident_id": "b0588256-d4b3-48cf-bfbb-eab342378962",
+    "timestamp": "2025-07-13 21:56:03.086295",
+    "latitude": 13.146964765547478,
+    "longitude": 77.47684387313043,
+    "locality": "Koramangala",
+    "type": "protest",
+    "verified": "False",
+    "reported_by": "Harita Randhawa"
+  },
+  {
+    "incident_id": "62f5f7c2-0706-4ec2-88fa-4e981723ecdb",
+    "timestamp": "2025-07-02 05:42:52.062253",
+    "latitude": 12.990568816480092,
+    "longitude": 77.73595198094971,
+    "locality": "Banashankari",
+    "type": "accident",
+    "verified": "True",
+    "reported_by": "Parth Hari"
+  },
+  {
+    "incident_id": "927f8103-da94-48c0-a9b4-4cb10cb5ee5c",
+    "timestamp": "2025-07-18 02:19:24.812009",
+    "latitude": 13.136968922588622,
+    "longitude": 77.61570517007401,
+    "locality": "Banashankari",
+    "type": "flood",
+    "verified": "True",
+    "reported_by": "Hamsini Srinivas"
+  },
+  {
+    "incident_id": "db6ba39b-36dd-4529-b704-d72fc7a2f280",
+    "timestamp": "2025-07-23 12:55:03.099671",
+    "latitude": 12.826461764215864,
+    "longitude": 77.59490745511023,
+    "locality": "Indiranagar",
+    "type": "accident",
+    "verified": "False",
+    "reported_by": "Balendra Deshpande"
+  },
+  {
+    "incident_id": "ad7d6f81-39a0-4145-a5ba-b05038aa76df",
+    "timestamp": "2025-07-13 11:51:31.895862",
+    "latitude": 12.92798826189148,
+    "longitude": 77.54552128623317,
+    "locality": "Whitefield",
+    "type": "protest",
+    "verified": "False",
+    "reported_by": "Nachiket Sharma"
+  },
+  {
+    "incident_id": "68d576b8-a6ce-4d7a-84e2-a94b34ec5264",
+    "timestamp": "2025-07-15 16:12:39.372023",
+    "latitude": 12.87888344380237,
+    "longitude": 77.55013051670055,
+    "locality": "Electronic City",
+    "type": "roadblock",
+    "verified": "True",
+    "reported_by": "Turvi Sachdev"
+  },
+  {
+    "incident_id": "c7c1fb1b-dd58-431b-8522-26b983666636",
+    "timestamp": "2025-07-02 15:57:42.280557",
+    "latitude": 12.868541579446996,
+    "longitude": 77.58931675134333,
+    "locality": "Hebbal",
+    "type": "flood",
+    "verified": "False",
+    "reported_by": "Chandani Mutti"
+  },
+  {
+    "incident_id": "02472360-aea4-4441-847f-a57ef796611f",
+    "timestamp": "2025-07-16 06:58:04.653350",
+    "latitude": 12.849281032112437,
+    "longitude": 77.64375043246264,
+    "locality": "Malleswaram",
+    "type": "roadblock",
+    "verified": "True",
+    "reported_by": "Sathvik Narula"
+  },
+  {
+    "incident_id": "a5ba2472-21df-4609-a959-137f795e6f2b",
+    "timestamp": "2025-07-06 16:57:37.665258",
+    "latitude": 13.017844774548099,
+    "longitude": 77.64575113366364,
+    "locality": "Sarjapur Road",
+    "type": "flood",
+    "verified": "True",
+    "reported_by": "Dominic Dixit"
+  },
+  {
+    "incident_id": "022aadda-cd05-49e2-99e4-704c2c56e0cd",
+    "timestamp": "2025-07-05 11:51:25.066596",
+    "latitude": 13.073462649511557,
+    "longitude": 77.46009286769691,
+    "locality": "KR Puram",
+    "type": "construction",
+    "verified": "True",
+    "reported_by": "Azaan Nori"
+  },
+  {
+    "incident_id": "ce1a1669-9bbc-4cbc-809c-a8f23948fe22",
+    "timestamp": "2025-07-14 05:12:07.723633",
+    "latitude": 13.002404439797127,
+    "longitude": 77.57503946322682,
+    "locality": "Electronic City",
+    "type": "accident",
+    "verified": "False",
+    "reported_by": "Noah Ramachandran"
+  },
+  {
+    "incident_id": "f78ee9e8-b676-491d-8e32-9b4bf168c605",
+    "timestamp": "2025-07-22 15:51:48.670136",
+    "latitude": 12.851436948355873,
+    "longitude": 77.54418533326194,
+    "locality": "Whitefield",
+    "type": "accident",
+    "verified": "False",
+    "reported_by": "Jackson Morar"
+  },
+  {
+    "incident_id": "6c7e9a2c-467f-458b-a48a-a108b599277f",
+    "timestamp": "2025-07-09 03:07:07.224410",
+    "latitude": 13.083893319476715,
+    "longitude": 77.70468443819429,
+    "locality": "Peenya",
+    "type": "construction",
+    "verified": "False",
+    "reported_by": "Azad Magar"
+  },
+  {
+    "incident_id": "59450186-da01-4d29-a060-b1ebe53e5f4c",
+    "timestamp": "2025-07-16 06:45:18.215983",
+    "latitude": 13.022584147507306,
+    "longitude": 77.62099662242643,
+    "locality": "HSR Layout",
+    "type": "accident",
+    "verified": "False",
+    "reported_by": "Gabriel Taneja"
+  },
+  {
+    "incident_id": "7779857f-37dc-4c78-8082-fcda7580e4e9",
+    "timestamp": "2025-07-06 08:08:04.132103",
+    "latitude": 12.93585799714445,
+    "longitude": 77.5863764232456,
+    "locality": "Vijayanagar",
+    "type": "roadblock",
+    "verified": "False",
+    "reported_by": "Kamya Seth"
+  },
+  {
+    "incident_id": "d30608be-8548-467b-ad5c-ba244d59616b",
+    "timestamp": "2025-07-07 11:46:53.722456",
+    "latitude": 13.035945603437623,
+    "longitude": 77.44038812476262,
+    "locality": "Basavanagudi",
+    "type": "protest",
+    "verified": "False",
+    "reported_by": "Tarak Vohra"
+  },
+  {
+    "incident_id": "1a312044-95a0-4356-a5ab-c9ff9fa4a627",
+    "timestamp": "2025-07-02 14:08:21.580436",
+    "latitude": 12.890966742734992,
+    "longitude": 77.6119732612632,
+    "locality": "Whitefield",
+    "type": "roadblock",
+    "verified": "False",
+    "reported_by": "Parth Choudhury"
+  },
+  {
+    "incident_id": "a9902071-ffda-4a93-82f2-900401e187d8",
+    "timestamp": "2025-07-05 09:42:57.049204",
+    "latitude": 12.920817272972974,
+    "longitude": 77.44102136698808,
+    "locality": "Jayanagar",
+    "type": "construction",
+    "verified": "False",
+    "reported_by": "Baljiwan Jaggi"
+  },
+  {
+    "incident_id": "5fcd859e-d6e1-4109-97e1-74e6f76b9723",
+    "timestamp": "2025-07-12 01:26:42.070789",
+    "latitude": 13.121120045096196,
+    "longitude": 77.51802230144801,
+    "locality": "KR Puram",
+    "type": "protest",
+    "verified": "True",
+    "reported_by": "Sachi Toor"
+  },
+  {
+    "incident_id": "9beab529-9801-4a2f-a5b8-36938fbba749",
+    "timestamp": "2025-07-08 11:23:17.961910",
+    "latitude": 12.901676576984999,
+    "longitude": 77.44999468768502,
+    "locality": "Vijayanagar",
+    "type": "flood",
+    "verified": "True",
+    "reported_by": "Vasudha Tella"
+  },
+  {
+    "incident_id": "1bacbd0d-af35-430b-8c68-eb17485d831c",
+    "timestamp": "2025-07-16 00:16:05.530897",
+    "latitude": 12.964495893855279,
+    "longitude": 77.64222577645853,
+    "locality": "Hebbal",
+    "type": "protest",
+    "verified": "False",
+    "reported_by": "Ranveer Oak"
+  },
+  {
+    "incident_id": "fd053963-5616-4f7e-9057-a0027b53359e",
+    "timestamp": "2025-07-16 18:51:48.011422",
+    "latitude": 13.111549398088606,
+    "longitude": 77.47218823984265,
+    "locality": "Malleswaram",
+    "type": "flood",
+    "verified": "True",
+    "reported_by": "Dayita Narang"
+  },
+  {
+    "incident_id": "dc8ab6a7-533c-4ed5-a3fe-047946c79b36",
+    "timestamp": "2025-07-04 11:15:33.611662",
+    "latitude": 13.047702472593635,
+    "longitude": 77.53715078061582,
+    "locality": "Rajajinagar",
+    "type": "protest",
+    "verified": "True",
+    "reported_by": "Guneet Varty"
+  },
+  {
+    "incident_id": "b60a3dcc-a7f7-4451-82da-860946e1ee40",
+    "timestamp": "2025-07-13 21:41:55.875197",
+    "latitude": 12.821771129157646,
+    "longitude": 77.71348617216657,
+    "locality": "Malleswaram",
+    "type": "roadblock",
+    "verified": "False",
+    "reported_by": "Samesh Bansal"
+  },
+  {
+    "incident_id": "4c7d9313-a6c6-41b0-a472-9be5f3c2944a",
+    "timestamp": "2025-07-19 09:16:40.858792",
+    "latitude": 12.85155606549764,
+    "longitude": 77.47151073418965,
+    "locality": "Banashankari",
+    "type": "construction",
+    "verified": "True",
+    "reported_by": "Lila Vig"
+  },
+  {
+    "incident_id": "c3f62136-846d-4a3b-a661-c42630385dd7",
+    "timestamp": "2025-07-22 19:45:10.499488",
+    "latitude": 12.802744556770172,
+    "longitude": 77.57773177238558,
+    "locality": "Basavanagudi",
+    "type": "flood",
+    "verified": "False",
+    "reported_by": "Aayush Mukhopadhyay"
+  },
+  {
+    "incident_id": "ce30a61d-0e88-48ec-a651-e3e13d846fc9",
+    "timestamp": "2025-07-04 20:08:03.731480",
+    "latitude": 13.020822626580207,
+    "longitude": 77.5467450814081,
+    "locality": "Basavanagudi",
+    "type": "construction",
+    "verified": "False",
+    "reported_by": "Gagan Nath"
+  },
+  {
+    "incident_id": "999bc859-cf5e-4f0b-8d67-b5dfdb7904e0",
+    "timestamp": "2025-07-08 03:07:17.408259",
+    "latitude": 12.956685698893647,
+    "longitude": 77.406343414366,
+    "locality": "Bellandur",
+    "type": "flood",
+    "verified": "True",
+    "reported_by": "Chakradhar Chauhan"
+  },
+  {
+    "incident_id": "ae46024d-51d0-4ef3-a918-83fc6772fe9f",
+    "timestamp": "2025-07-18 21:14:12.807271",
+    "latitude": 12.846996197815796,
+    "longitude": 77.67746533975048,
+    "locality": "Sarjapur Road",
+    "type": "roadblock",
+    "verified": "True",
+    "reported_by": "Arin Muni"
+  },
+  {
+    "incident_id": "a7c854e4-0684-4c86-b8a6-040223d26b8d",
+    "timestamp": "2025-07-17 05:06:08.199609",
+    "latitude": 13.13527694236987,
+    "longitude": 77.42416606721011,
+    "locality": "Indiranagar",
+    "type": "flood",
+    "verified": "True",
+    "reported_by": "Ekani Iyer"
+  },
+  {
+    "incident_id": "4269c28c-4bac-4edf-bf5a-229e7f53d344",
+    "timestamp": "2025-07-15 14:06:54.706617",
+    "latitude": 12.985380903380968,
+    "longitude": 77.56598925734194,
+    "locality": "Hebbal",
+    "type": "accident",
+    "verified": "True",
+    "reported_by": "Bhavini Malhotra"
+  },
+  {
+    "incident_id": "6365fc2a-6793-4b09-ab27-1effe82b5b36",
+    "timestamp": "2025-07-07 07:09:39.709798",
+    "latitude": 12.884662652939511,
+    "longitude": 77.59623740322864,
+    "locality": "KR Puram",
+    "type": "accident",
+    "verified": "True",
+    "reported_by": "Ridhi Dalal"
+  },
+  {
+    "incident_id": "b54401cb-9541-4a9d-890a-aa93bc9a7998",
+    "timestamp": "2025-07-09 04:24:04.613515",
+    "latitude": 12.975211249904149,
+    "longitude": 77.6199492598151,
+    "locality": "Indiranagar",
+    "type": "accident",
+    "verified": "False",
+    "reported_by": "Manthan Dugar"
+  },
+  {
+    "incident_id": "309e47ba-d0e6-46e5-9271-5f6efea82e3a",
+    "timestamp": "2025-07-16 11:16:52.568908",
+    "latitude": 13.037867116457289,
+    "longitude": 77.64102107025776,
+    "locality": "Yeshwanthpur",
+    "type": "roadblock",
+    "verified": "True",
+    "reported_by": "Ishwar Aurora"
+  },
+  {
+    "incident_id": "38eccb4d-b69f-4eab-b9ff-2c2957d9cbb0",
+    "timestamp": "2025-07-08 13:08:44.973467",
+    "latitude": 12.826683726290748,
+    "longitude": 77.48864533423296,
+    "locality": "Indiranagar",
+    "type": "accident",
+    "verified": "True",
+    "reported_by": "Samuel Palla"
+  },
+  {
+    "incident_id": "c8ef0377-a368-44f5-88dd-d880afb28b3d",
+    "timestamp": "2025-07-11 22:13:03.548180",
+    "latitude": 12.896146335266764,
+    "longitude": 77.40349257183047,
+    "locality": "Malleswaram",
+    "type": "flood",
+    "verified": "False",
+    "reported_by": "Anika Dhaliwal"
+  },
+  {
+    "incident_id": "abff9286-f0cf-4d73-a812-1ef079c9c839",
+    "timestamp": "2025-07-11 03:18:59.414927",
+    "latitude": 13.082437921809397,
+    "longitude": 77.65320528182423,
+    "locality": "Malleswaram",
+    "type": "protest",
+    "verified": "False",
+    "reported_by": "Yash Garg"
+  },
+  {
+    "incident_id": "d86d655d-4cd9-4164-81df-62f45bc677ca",
+    "timestamp": "2025-07-18 15:17:07.930035",
+    "latitude": 12.960882704640932,
+    "longitude": 77.58747980977165,
+    "locality": "Yeshwanthpur",
+    "type": "protest",
+    "verified": "True",
+    "reported_by": "Deepa Nigam"
+  },
+  {
+    "incident_id": "e061f65f-a859-4f8c-9734-18fe2b843ef3",
+    "timestamp": "2025-07-12 02:03:05.541375",
+    "latitude": 12.991301999711304,
+    "longitude": 77.69264119612254,
+    "locality": "Whitefield",
+    "type": "accident",
+    "verified": "True",
+    "reported_by": "Chandresh De"
+  },
+  {
+    "incident_id": "18fc83b7-4b35-4e9a-ae5e-eb6a8ee9581a",
+    "timestamp": "2025-07-03 11:27:34.314550",
+    "latitude": 12.951485600773315,
+    "longitude": 77.68748592701525,
+    "locality": "Electronic City",
+    "type": "roadblock",
+    "verified": "True",
+    "reported_by": "Urishilla Bedi"
+  },
+  {
+    "incident_id": "423701f1-bdac-4c5e-a0c0-f2757885187d",
+    "timestamp": "2025-07-15 16:41:24.451492",
+    "latitude": 12.815364979925052,
+    "longitude": 77.69516415872576,
+    "locality": "Malleswaram",
+    "type": "accident",
+    "verified": "False",
+    "reported_by": "Leela Bhagat"
+  },
+  {
+    "incident_id": "c34e9baf-8f1c-42cc-8eef-9fa8b9a5d4d0",
+    "timestamp": "2025-07-02 20:47:07.581009",
+    "latitude": 12.858012422937055,
+    "longitude": 77.56978313099285,
+    "locality": "Whitefield",
+    "type": "flood",
+    "verified": "False",
+    "reported_by": "Pooja Ramanathan"
+  },
+  {
+    "incident_id": "ae01a122-f269-421c-aedd-9141e9a1c6d5",
+    "timestamp": "2025-07-07 09:18:41.323014",
+    "latitude": 12.955939573559663,
+    "longitude": 77.51676993854291,
+    "locality": "Basavanagudi",
+    "type": "flood",
+    "verified": "True",
+    "reported_by": "Sanaya Parekh"
+  },
+  {
+    "incident_id": "16dc5a6e-a789-4770-95ec-024ae64b9b37",
+    "timestamp": "2025-07-19 19:31:06.771813",
+    "latitude": 12.873214912892776,
+    "longitude": 77.67704537090698,
+    "locality": "Yeshwanthpur",
+    "type": "flood",
+    "verified": "False",
+    "reported_by": "Gaurangi Hora"
+  },
+  {
+    "incident_id": "be848aa2-392c-44da-9af3-da5a38e59b27",
+    "timestamp": "2025-07-21 06:57:01.733410",
+    "latitude": 12.817492660030888,
+    "longitude": 77.55795293956024,
+    "locality": "Indiranagar",
+    "type": "construction",
+    "verified": "True",
+    "reported_by": "Udyati Deep"
+  },
+  {
+    "incident_id": "c9c04b7d-6ba4-470b-8e9d-23e9df162ec3",
+    "timestamp": "2025-07-05 11:19:06.443705",
+    "latitude": 13.09527738241814,
+    "longitude": 77.46420476874121,
+    "locality": "Malleswaram",
+    "type": "protest",
+    "verified": "True",
+    "reported_by": "Upadhriti Chatterjee"
+  },
+  {
+    "incident_id": "42b40281-5f26-4466-94d1-332ae3082ddc",
+    "timestamp": "2025-07-17 16:45:50.957240",
+    "latitude": 13.14341738520744,
+    "longitude": 77.69924090684651,
+    "locality": "Marathahalli",
+    "type": "protest",
+    "verified": "False",
+    "reported_by": "Dayita Shroff"
+  },
+  {
+    "incident_id": "d9e92758-76b9-4436-8b46-ef3395e7f614",
+    "timestamp": "2025-07-15 06:20:47.182159",
+    "latitude": 13.077600005898859,
+    "longitude": 77.70889595687032,
+    "locality": "Rajajinagar",
+    "type": "accident",
+    "verified": "False",
+    "reported_by": "Vincent Kapur"
+  },
+  {
+    "incident_id": "ddcbf4bc-0dbd-45da-b875-15b91e26ed31",
+    "timestamp": "2025-07-17 13:25:15.488145",
+    "latitude": 13.098824722596634,
+    "longitude": 77.56320841464907,
+    "locality": "Malleswaram",
+    "type": "roadblock",
+    "verified": "True",
+    "reported_by": "Aarna Patla"
+  },
+  {
+    "incident_id": "f1bdb598-948f-464a-9565-257ba267d32f",
+    "timestamp": "2025-07-21 07:23:31.211348",
+    "latitude": 12.884691995610966,
+    "longitude": 77.42649490455842,
+    "locality": "Rajajinagar",
+    "type": "protest",
+    "verified": "False",
+    "reported_by": "Qadim Narayanan"
+  },
+  {
+    "incident_id": "e3b16d36-78e3-4397-923b-31cf9ee339ff",
+    "timestamp": "2025-07-20 08:09:46.089684",
+    "latitude": 13.13621944142962,
+    "longitude": 77.53573913147093,
+    "locality": "Indiranagar",
+    "type": "accident",
+    "verified": "True",
+    "reported_by": "Sudiksha Sura"
+  },
+  {
+    "incident_id": "de14553b-1eac-41d9-801f-490931cd9f6e",
+    "timestamp": "2025-07-15 09:04:56.253463",
+    "latitude": 12.868923996558701,
+    "longitude": 77.68123818081192,
+    "locality": "Rajajinagar",
+    "type": "roadblock",
+    "verified": "True",
+    "reported_by": "Dhruv Soman"
+  },
+  {
+    "incident_id": "4c610ae8-87a3-4f10-a1b5-12edae423568",
+    "timestamp": "2025-07-19 11:58:42.137480",
+    "latitude": 13.133000433626641,
+    "longitude": 77.71562090999119,
+    "locality": "Marathahalli",
+    "type": "accident",
+    "verified": "True",
+    "reported_by": "Indali Srinivas"
+  },
+  {
+    "incident_id": "daaf7529-deef-482a-8dd7-015869c165ae",
+    "timestamp": "2025-07-14 04:16:34.225324",
+    "latitude": 13.148186752888083,
+    "longitude": 77.47121545987416,
+    "locality": "KR Puram",
+    "type": "accident",
+    "verified": "True",
+    "reported_by": "Onkar Mandal"
+  },
+  {
+    "incident_id": "3346a332-fe0a-424e-a32a-5e8226996aab",
+    "timestamp": "2025-07-18 12:14:39.214548",
+    "latitude": 13.049102982011117,
+    "longitude": 77.42344076420885,
+    "locality": "BTM Layout",
+    "type": "construction",
+    "verified": "True",
+    "reported_by": "Joshua Trivedi"
+  },
+  {
+    "incident_id": "91c46efc-fcb8-46bb-a8c0-cbef57b936b0",
+    "timestamp": "2025-07-05 20:14:22.185546",
+    "latitude": 13.143400306127138,
+    "longitude": 77.70707265859649,
+    "locality": "Marathahalli",
+    "type": "construction",
+    "verified": "True",
+    "reported_by": "Nidra Chhabra"
+  },
+  {
+    "incident_id": "752366ce-fc95-4bba-a818-4f34e4917f7d",
+    "timestamp": "2025-07-01 20:01:36.398921",
+    "latitude": 12.999338922848487,
+    "longitude": 77.53629172864261,
+    "locality": "KR Puram",
+    "type": "protest",
+    "verified": "False",
+    "reported_by": "Ekavir Mittal"
+  },
+  {
+    "incident_id": "b7360c4f-dcc5-4975-90fe-819924aa5685",
+    "timestamp": "2025-07-06 22:23:05.653952",
+    "latitude": 12.890839624111631,
+    "longitude": 77.58961633749365,
+    "locality": "Yeshwanthpur",
+    "type": "protest",
+    "verified": "True",
+    "reported_by": "Nandini Sachdev"
+  },
+  {
+    "incident_id": "7cd2192f-14b0-4f62-8768-b07f2e2bdc6c",
+    "timestamp": "2025-07-21 08:25:10.309770",
+    "latitude": 12.952948559982968,
+    "longitude": 77.73882303421776,
+    "locality": "Koramangala",
+    "type": "flood",
+    "verified": "False",
+    "reported_by": "Yagnesh Dutt"
+  },
+  {
+    "incident_id": "2d445af8-fc94-46b1-a18b-5d1555273407",
+    "timestamp": "2025-07-13 06:50:48.286565",
+    "latitude": 13.007746327382575,
+    "longitude": 77.42329765476998,
+    "locality": "Electronic City",
+    "type": "protest",
+    "verified": "True",
+    "reported_by": "Leena Bhatti"
+  },
+  {
+    "incident_id": "0134e76b-0ed9-4a95-a26e-865b503be788",
+    "timestamp": "2025-07-15 21:15:20.260412",
+    "latitude": 12.825578546709457,
+    "longitude": 77.62691130260824,
+    "locality": "Indiranagar",
+    "type": "construction",
+    "verified": "True",
+    "reported_by": "Sathvik Sankar"
+  },
+  {
+    "incident_id": "c2dd901d-359a-4533-8605-ec0e73b9c2ac",
+    "timestamp": "2025-07-04 09:12:14.473454",
+    "latitude": 13.017820142616037,
+    "longitude": 77.42593689790121,
+    "locality": "Ulsoor",
+    "type": "protest",
+    "verified": "False",
+    "reported_by": "Hema Keer"
+  },
+  {
+    "incident_id": "c3b534db-9387-43c9-ab29-bf36c606ddc4",
+    "timestamp": "2025-07-09 22:26:13.989077",
+    "latitude": 13.143412242866804,
+    "longitude": 77.53141412496328,
+    "locality": "Peenya",
+    "type": "accident",
+    "verified": "True",
+    "reported_by": "Faras Sur"
+  },
+  {
+    "incident_id": "c37944c1-c903-44ea-bd54-ec82288f3435",
+    "timestamp": "2025-07-21 07:01:38.081179",
+    "latitude": 12.866537677424306,
+    "longitude": 77.68133509081771,
+    "locality": "Indiranagar",
+    "type": "accident",
+    "verified": "False",
+    "reported_by": "Ubika Nanda"
+  },
+  {
+    "incident_id": "9d4e8b5d-2120-4fba-9689-e0b8c79ddb62",
+    "timestamp": "2025-07-14 10:07:19.146111",
+    "latitude": 13.077408290700934,
+    "longitude": 77.55171528146448,
+    "locality": "Peenya",
+    "type": "flood",
+    "verified": "True",
+    "reported_by": "Sai Goda"
+  },
+  {
+    "incident_id": "6744cb9e-6ded-4ba5-a22c-3d4f6f07b60f",
+    "timestamp": "2025-07-20 12:18:08.458799",
+    "latitude": 13.117764577822868,
+    "longitude": 77.74901382386604,
+    "locality": "Koramangala",
+    "type": "roadblock",
+    "verified": "True",
+    "reported_by": "Nidra Boase"
+  },
+  {
+    "incident_id": "62210670-7a36-4788-b71f-b9a66dd49c96",
+    "timestamp": "2025-07-04 01:08:40.472586",
+    "latitude": 13.130295557487077,
+    "longitude": 77.59567074973131,
+    "locality": "Hebbal",
+    "type": "roadblock",
+    "verified": "True",
+    "reported_by": "Ladli Narang"
+  },
+  {
+    "incident_id": "330ccff5-88a5-4a0d-89a8-5dc50131ff3b",
+    "timestamp": "2025-07-12 09:46:59.577051",
+    "latitude": 13.136047461541907,
+    "longitude": 77.51240675342258,
+    "locality": "Bellandur",
+    "type": "protest",
+    "verified": "True",
+    "reported_by": "Darsh Chana"
+  },
+  {
+    "incident_id": "039a8ed5-f337-4261-9f83-92d5bb0c7919",
+    "timestamp": "2025-07-03 01:28:23.556540",
+    "latitude": 12.982510873552515,
+    "longitude": 77.47703896406667,
+    "locality": "Bellandur",
+    "type": "accident",
+    "verified": "True",
+    "reported_by": "Liam Acharya"
+  },
+  {
+    "incident_id": "d54e7948-c1c0-45e3-927c-8f50e45a87e8",
+    "timestamp": "2025-07-09 06:47:38.420797",
+    "latitude": 13.142057767797027,
+    "longitude": 77.52268218700016,
+    "locality": "Ulsoor",
+    "type": "protest",
+    "verified": "False",
+    "reported_by": "Manthan Sethi"
+  },
+  {
+    "incident_id": "ad3f5dd4-0496-46ba-b0c9-a2be87f1d48c",
+    "timestamp": "2025-07-01 05:47:11.945059",
+    "latitude": 13.065058572497055,
+    "longitude": 77.53038664581585,
+    "locality": "Vijayanagar",
+    "type": "flood",
+    "verified": "True",
+    "reported_by": "Madhavi Sekhon"
+  },
+  {
+    "incident_id": "3fb2df47-bbcd-4c18-a06e-8de5010e4265",
+    "timestamp": "2025-07-06 10:30:35.782863",
+    "latitude": 12.856585002682937,
+    "longitude": 77.42404978720339,
+    "locality": "Hebbal",
+    "type": "flood",
+    "verified": "False",
+    "reported_by": "Samesh Nadig"
+  },
+  {
+    "incident_id": "58274e80-e082-4918-b18a-d67d39ec8ca1",
+    "timestamp": "2025-07-22 22:40:15.971756",
+    "latitude": 12.96691503726379,
+    "longitude": 77.52935096979938,
+    "locality": "Ulsoor",
+    "type": "protest",
+    "verified": "False",
+    "reported_by": "Daksha Saran"
+  },
+  {
+    "incident_id": "62305d27-1a4b-4606-a101-9bff4fe54745",
+    "timestamp": "2025-07-23 08:25:29.490926",
+    "latitude": 13.051415911380202,
+    "longitude": 77.56248348190873,
+    "locality": "BTM Layout",
+    "type": "accident",
+    "verified": "True",
+    "reported_by": "Gaurav Anand"
+  },
+  {
+    "incident_id": "2ac1d5ca-4e5d-4f12-96b3-1f4a80daa8ca",
+    "timestamp": "2025-07-16 13:47:03.514069",
+    "latitude": 12.88656911053668,
+    "longitude": 77.65295821328358,
+    "locality": "Sarjapur Road",
+    "type": "accident",
+    "verified": "False",
+    "reported_by": "Joshua Menon"
+  },
+  {
+    "incident_id": "4c56fb8f-0bb4-42b3-92e7-6deb10b6a662",
+    "timestamp": "2025-07-18 05:41:28.802308",
+    "latitude": 13.024215314242111,
+    "longitude": 77.62985531965256,
+    "locality": "Peenya",
+    "type": "flood",
+    "verified": "False",
+    "reported_by": "Kala Bera"
+  },
+  {
+    "incident_id": "ba533122-74b7-4620-8a73-b0bff2ce7eeb",
+    "timestamp": "2025-07-04 04:41:24.026103",
+    "latitude": 13.033310167666317,
+    "longitude": 77.64806797933021,
+    "locality": "BTM Layout",
+    "type": "construction",
+    "verified": "False",
+    "reported_by": "Jagrati Choudhary"
+  },
+  {
+    "incident_id": "567c5d44-862c-42fd-98ab-b2e785319f0f",
+    "timestamp": "2025-07-04 14:59:21.995225",
+    "latitude": 12.856944910332999,
+    "longitude": 77.40292728865691,
+    "locality": "Banashankari",
+    "type": "roadblock",
+    "verified": "True",
+    "reported_by": "Azaan Keer"
+  },
+  {
+    "incident_id": "fed747be-afd0-42f7-a352-44446f04af36",
+    "timestamp": "2025-07-13 21:25:23.341849",
+    "latitude": 12.997779859358465,
+    "longitude": 77.47618358985319,
+    "locality": "Banashankari",
+    "type": "construction",
+    "verified": "True",
+    "reported_by": "Meera Nadkarni"
+  },
+  {
+    "incident_id": "e6c11650-ff02-45b0-97bd-56c92240063b",
+    "timestamp": "2025-07-13 21:07:31.972059",
+    "latitude": 13.070069418842513,
+    "longitude": 77.63158950093995,
+    "locality": "Malleswaram",
+    "type": "accident",
+    "verified": "False",
+    "reported_by": "Nidra Raj"
+  },
+  {
+    "incident_id": "303cb04b-c007-4336-9bf7-dda17d7c59a5",
+    "timestamp": "2025-07-20 20:30:51.745355",
+    "latitude": 12.97461348258758,
+    "longitude": 77.56939627886291,
+    "locality": "Banashankari",
+    "type": "flood",
+    "verified": "False",
+    "reported_by": "Siddharth Ghose"
+  },
+  {
+    "incident_id": "eb0f827c-e82a-4879-b2b5-a7ea2a35ce30",
+    "timestamp": "2025-07-04 07:52:27.367716",
+    "latitude": 12.804236090871639,
+    "longitude": 77.40185971648393,
+    "locality": "Electronic City",
+    "type": "protest",
+    "verified": "False",
+    "reported_by": "Liam Guha"
+  },
+  {
+    "incident_id": "3a799efa-04e5-4bd5-a744-acd4cfdfc6f9",
+    "timestamp": "2025-07-17 15:55:21.772984",
+    "latitude": 12.803163464177754,
+    "longitude": 77.68157312485114,
+    "locality": "Jayanagar",
+    "type": "construction",
+    "verified": "True",
+    "reported_by": "Jagvi Sahni"
+  },
+  {
+    "incident_id": "2196b3b5-fc21-409b-ba27-bc64396d1ffb",
+    "timestamp": "2025-07-22 09:06:29.620646",
+    "latitude": 12.924960270389505,
+    "longitude": 77.67048335065162,
+    "locality": "Malleswaram",
+    "type": "accident",
+    "verified": "False",
+    "reported_by": "Bhavya Dass"
+  },
+  {
+    "incident_id": "96f61c09-059c-4ba0-bbec-721d3610901c",
+    "timestamp": "2025-07-01 22:04:58.562695",
+    "latitude": 13.124167923951124,
+    "longitude": 77.59194670704775,
+    "locality": "Malleswaram",
+    "type": "construction",
+    "verified": "True",
+    "reported_by": "Advay Bora"
+  },
+  {
+    "incident_id": "5dd8effc-1f87-4b32-ab42-9596812faa38",
+    "timestamp": "2025-07-18 08:01:19.863644",
+    "latitude": 12.880036872861263,
+    "longitude": 77.42326216402171,
+    "locality": "KR Puram",
+    "type": "flood",
+    "verified": "True",
+    "reported_by": "Maanas Sur"
+  },
+  {
+    "incident_id": "0990a647-cac8-487e-a689-d07fb60b4f87",
+    "timestamp": "2025-07-06 06:36:50.585024",
+    "latitude": 13.022027291105092,
+    "longitude": 77.6682802673364,
+    "locality": "Basavanagudi",
+    "type": "roadblock",
+    "verified": "False",
+    "reported_by": "Laban Chad"
+  },
+  {
+    "incident_id": "417b6634-a3ec-452c-a065-3245600c9c71",
+    "timestamp": "2025-07-07 00:25:43.125479",
+    "latitude": 12.877726554742663,
+    "longitude": 77.60429975570598,
+    "locality": "Koramangala",
+    "type": "construction",
+    "verified": "False",
+    "reported_by": "Ojasvi Shah"
+  },
+  {
+    "incident_id": "0c7031eb-9f85-42dd-88e4-4a48c5709e30",
+    "timestamp": "2025-07-06 07:51:12.832289",
+    "latitude": 12.912584496380843,
+    "longitude": 77.67368599200529,
+    "locality": "Koramangala",
+    "type": "protest",
+    "verified": "False",
+    "reported_by": "Pranit Sha"
+  },
+  {
+    "incident_id": "a976dc4d-0c47-4187-bea3-5d37980b6853",
+    "timestamp": "2025-07-16 05:16:28.198396",
+    "latitude": 13.096814731360519,
+    "longitude": 77.66311144733855,
+    "locality": "HSR Layout",
+    "type": "roadblock",
+    "verified": "True",
+    "reported_by": "Shivani Rajagopalan"
+  },
+  {
+    "incident_id": "050dcbfe-d60b-4603-a750-350e1bad52a8",
+    "timestamp": "2025-07-12 18:56:27.545549",
+    "latitude": 13.055101504794482,
+    "longitude": 77.68105072518524,
+    "locality": "Banashankari",
+    "type": "construction",
+    "verified": "True",
+    "reported_by": "Upkaar Grewal"
+  },
+  {
+    "incident_id": "6ab1cdb6-1da4-46fe-b093-70850c5921f8",
+    "timestamp": "2025-07-19 00:24:21.047803",
+    "latitude": 12.833389747059625,
+    "longitude": 77.58130282324161,
+    "locality": "Malleswaram",
+    "type": "protest",
+    "verified": "True",
+    "reported_by": "Abhimanyu Tara"
+  },
+  {
+    "incident_id": "8c1ab2c7-1fa3-4d1f-a158-4f8871be94c3",
+    "timestamp": "2025-07-09 20:01:49.678601",
+    "latitude": 12.950045707345252,
+    "longitude": 77.44911358136774,
+    "locality": "Malleswaram",
+    "type": "construction",
+    "verified": "False",
+    "reported_by": "Yachana Luthra"
+  },
+  {
+    "incident_id": "27335670-b3ad-42ba-b972-09c040b374f8",
+    "timestamp": "2025-07-21 21:29:08.819461",
+    "latitude": 12.810209417275843,
+    "longitude": 77.6349051156829,
+    "locality": "Marathahalli",
+    "type": "flood",
+    "verified": "True",
+    "reported_by": "Jeevika Bandi"
+  },
+  {
+    "incident_id": "a15c159a-af8c-4888-b1f8-1ad9349b5089",
+    "timestamp": "2025-07-21 01:37:34.949448",
+    "latitude": 12.968311551311054,
+    "longitude": 77.6171658247682,
+    "locality": "Basavanagudi",
+    "type": "roadblock",
+    "verified": "True",
+    "reported_by": "Vasudha Pillay"
+  },
+  {
+    "incident_id": "a962d996-6bbe-4b5a-8d15-f7d80261c87a",
+    "timestamp": "2025-07-01 21:48:05.399175",
+    "latitude": 13.031851904095374,
+    "longitude": 77.65978861551969,
+    "locality": "Electronic City",
+    "type": "construction",
+    "verified": "False",
+    "reported_by": "Vasatika Buch"
+  },
+  {
+    "incident_id": "451d38fe-8532-4c74-a998-7bdf19d9d0b5",
+    "timestamp": "2025-07-15 18:18:52.094789",
+    "latitude": 12.841475918259354,
+    "longitude": 77.45945835211776,
+    "locality": "HSR Layout",
+    "type": "protest",
+    "verified": "True",
+    "reported_by": "Ati Shroff"
+  },
+  {
+    "incident_id": "231d260b-b362-4d55-9b0a-da0b9f6facc1",
+    "timestamp": "2025-07-03 08:23:45.123090",
+    "latitude": 12.90110972861821,
+    "longitude": 77.4682413199651,
+    "locality": "Peenya",
+    "type": "roadblock",
+    "verified": "True",
+    "reported_by": "Gaurang Korpal"
+  },
+  {
+    "incident_id": "1adba8cf-e60c-4638-94a5-a81e6b382a0a",
+    "timestamp": "2025-07-23 01:05:50.884434",
+    "latitude": 12.939242818925756,
+    "longitude": 77.71164333102676,
+    "locality": "KR Puram",
+    "type": "flood",
+    "verified": "False",
+    "reported_by": "Faras Zacharia"
+  },
+  {
+    "incident_id": "1e23da4b-9e21-441f-b801-102682f73861",
+    "timestamp": "2025-07-15 10:08:32.844661",
+    "latitude": 13.121835858629618,
+    "longitude": 77.66249222945822,
+    "locality": "Whitefield",
+    "type": "flood",
+    "verified": "True",
+    "reported_by": "Chatresh Oza"
+  },
+  {
+    "incident_id": "1b341937-c8e6-4939-9d2f-ed2a485f7888",
+    "timestamp": "2025-07-07 05:25:16.329485",
+    "latitude": 13.147639255398039,
+    "longitude": 77.71787997104511,
+    "locality": "Marathahalli",
+    "type": "accident",
+    "verified": "False",
+    "reported_by": "Upasna Setty"
+  },
+  {
+    "incident_id": "3322c68b-9be7-4aec-b2da-81f07f6bd3c6",
+    "timestamp": "2025-07-17 21:20:03.591958",
+    "latitude": 12.815718954648466,
+    "longitude": 77.66555036240737,
+    "locality": "Hebbal",
+    "type": "accident",
+    "verified": "True",
+    "reported_by": "Garima Sama"
+  },
+  {
+    "incident_id": "85ece729-d4dd-4b56-8353-91b2c72850c1",
+    "timestamp": "2025-07-14 04:07:44.457461",
+    "latitude": 13.066352773223388,
+    "longitude": 77.60900435709661,
+    "locality": "Bellandur",
+    "type": "roadblock",
+    "verified": "True",
+    "reported_by": "Chaitaly Mann"
+  },
+  {
+    "incident_id": "b4146e4a-5ba0-43e0-b3a0-daa7f91e5fcd",
+    "timestamp": "2025-07-13 23:30:02.959969",
+    "latitude": 12.930103423240821,
+    "longitude": 77.62894645795976,
+    "locality": "Sarjapur Road",
+    "type": "roadblock",
+    "verified": "False",
+    "reported_by": "Balendra Modi"
+  },
+  {
+    "incident_id": "0a167e18-290e-4e89-8b9c-22f468e5c8cd",
+    "timestamp": "2025-07-09 13:47:01.951231",
+    "latitude": 12.937360365180318,
+    "longitude": 77.711194773379,
+    "locality": "Koramangala",
+    "type": "accident",
+    "verified": "False",
+    "reported_by": "Darsh Solanki"
+  },
+  {
+    "incident_id": "352b6ec8-e90d-41cb-bf11-1a368c52d271",
+    "timestamp": "2025-07-09 14:47:58.168236",
+    "latitude": 13.063992740671459,
+    "longitude": 77.60258236407918,
+    "locality": "Basavanagudi",
+    "type": "roadblock",
+    "verified": "True",
+    "reported_by": "Charan Manne"
+  },
+  {
+    "incident_id": "54a27051-7b0c-4ad9-aee1-3caeb02e21aa",
+    "timestamp": "2025-07-14 09:04:19.053798",
+    "latitude": 13.121449251250894,
+    "longitude": 77.62133696351493,
+    "locality": "Whitefield",
+    "type": "roadblock",
+    "verified": "True",
+    "reported_by": "Bhavini Sundaram"
+  },
+  {
+    "incident_id": "abf0263e-0343-4b64-80b3-700f3c088990",
+    "timestamp": "2025-07-21 10:44:10.974138",
+    "latitude": 13.132825008075892,
+    "longitude": 77.45476685060126,
+    "locality": "Koramangala",
+    "type": "protest",
+    "verified": "False",
+    "reported_by": "Jonathan Tiwari"
+  },
+  {
+    "incident_id": "d5d1c669-1c45-4357-a829-4a6716c8e3d7",
+    "timestamp": "2025-07-02 18:31:32.372634",
+    "latitude": 13.001992905113413,
+    "longitude": 77.56587242704065,
+    "locality": "Yeshwanthpur",
+    "type": "roadblock",
+    "verified": "False",
+    "reported_by": "Arunima Krishnan"
+  },
+  {
+    "incident_id": "262e5559-7e7d-4a19-ab45-057892fbacf6",
+    "timestamp": "2025-07-06 17:27:05.434949",
+    "latitude": 12.924992405755177,
+    "longitude": 77.65073898918534,
+    "locality": "KR Puram",
+    "type": "flood",
+    "verified": "True",
+    "reported_by": "Avni Maharaj"
+  },
+  {
+    "incident_id": "82ff1f2e-c78f-47cf-970f-a87bf30ee4fe",
+    "timestamp": "2025-07-23 03:24:35.862460",
+    "latitude": 13.075642180050574,
+    "longitude": 77.49482994441074,
+    "locality": "Koramangala",
+    "type": "roadblock",
+    "verified": "False",
+    "reported_by": "Akshay Choudhury"
+  },
+  {
+    "incident_id": "19ee2c3b-b93c-4b0b-b93b-770c13365c0c",
+    "timestamp": "2025-07-06 01:46:42.934701",
+    "latitude": 12.887850484141806,
+    "longitude": 77.4707889631836,
+    "locality": "KR Puram",
+    "type": "roadblock",
+    "verified": "True",
+    "reported_by": "Matthew Sekhon"
+  },
+  {
+    "incident_id": "3b2d520b-a4f3-4185-8182-2509e79f9f3d",
+    "timestamp": "2025-07-10 05:43:38.966663",
+    "latitude": 12.997425910091732,
+    "longitude": 77.50983938287855,
+    "locality": "Hebbal",
+    "type": "construction",
+    "verified": "True",
+    "reported_by": "Parth Lal"
+  },
+  {
+    "incident_id": "4bc81c16-fa2f-4d74-bd19-35cc74eda60e",
+    "timestamp": "2025-07-19 14:29:18.431834",
+    "latitude": 12.925502461533707,
+    "longitude": 77.48452521979749,
+    "locality": "Basavanagudi",
+    "type": "construction",
+    "verified": "True",
+    "reported_by": "Vedhika Golla"
+  },
+  {
+    "incident_id": "198d13a4-0cd2-4e43-b6da-e194439db29d",
+    "timestamp": "2025-07-08 20:30:16.818661",
+    "latitude": 13.029820875797757,
+    "longitude": 77.47521942296274,
+    "locality": "Basavanagudi",
+    "type": "flood",
+    "verified": "False",
+    "reported_by": "Hemal Chad"
+  },
+  {
+    "incident_id": "0a190939-dfc7-4b26-acb9-41fcd02c75f9",
+    "timestamp": "2025-07-19 01:03:35.325220",
+    "latitude": 12.884139619512728,
+    "longitude": 77.54869779500383,
+    "locality": "Sarjapur Road",
+    "type": "accident",
+    "verified": "False",
+    "reported_by": "Mitesh Tandon"
+  },
+  {
+    "incident_id": "cd3566ef-5c37-4739-8a62-9c5eda2cf852",
+    "timestamp": "2025-07-21 04:41:48.409120",
+    "latitude": 12.86705753100719,
+    "longitude": 77.71774347985924,
+    "locality": "Indiranagar",
+    "type": "construction",
+    "verified": "True",
+    "reported_by": "Leela Khanna"
+  },
+  {
+    "incident_id": "bd10f87c-6d0e-4597-900d-92a7ad409244",
+    "timestamp": "2025-07-01 03:36:16.468503",
+    "latitude": 13.121383680336404,
+    "longitude": 77.57747087635856,
+    "locality": "Malleswaram",
+    "type": "flood",
+    "verified": "True",
+    "reported_by": "Oliver Kade"
+  },
+  {
+    "incident_id": "c219a845-d9eb-404c-9851-d1cf1dabb10a",
+    "timestamp": "2025-07-21 01:53:23.472222",
+    "latitude": 12.835631289032339,
+    "longitude": 77.46577213328537,
+    "locality": "HSR Layout",
+    "type": "construction",
+    "verified": "True",
+    "reported_by": "Chatura Lalla"
+  },
+  {
+    "incident_id": "da1c96ae-0279-42ab-8bbf-6334e3ea2d7f",
+    "timestamp": "2025-07-11 00:20:02.002519",
+    "latitude": 12.977085267707226,
+    "longitude": 77.42694008428332,
+    "locality": "Marathahalli",
+    "type": "construction",
+    "verified": "False",
+    "reported_by": "Charles Ganesh"
+  },
+  {
+    "incident_id": "2ba6b158-a5ae-4f37-a9d1-a28e236dd176",
+    "timestamp": "2025-07-06 05:39:10.668427",
+    "latitude": 12.877298474037055,
+    "longitude": 77.64365465079828,
+    "locality": "KR Puram",
+    "type": "construction",
+    "verified": "False",
+    "reported_by": "Mohini Soni"
+  },
+  {
+    "incident_id": "700e0efc-e4ff-431a-9b86-ea6954231dbe",
+    "timestamp": "2025-07-12 17:06:50.581384",
+    "latitude": 12.813625487163984,
+    "longitude": 77.53397956755273,
+    "locality": "Electronic City",
+    "type": "accident",
+    "verified": "False",
+    "reported_by": "Vamakshi Walia"
+  },
+  {
+    "incident_id": "e0e3c5ce-44af-4cb7-9f2e-befcf480b91e",
+    "timestamp": "2025-07-07 09:25:02.038022",
+    "latitude": 12.812606586402,
+    "longitude": 77.68764083130488,
+    "locality": "Yeshwanthpur",
+    "type": "construction",
+    "verified": "True",
+    "reported_by": "Ladli Ramakrishnan"
+  },
+  {
+    "incident_id": "d0a17fe8-5f64-4a53-97cb-a85dbbaa574f",
+    "timestamp": "2025-07-04 10:04:55.989083",
+    "latitude": 12.86132762023704,
+    "longitude": 77.63082876902428,
+    "locality": "Banashankari",
+    "type": "roadblock",
+    "verified": "False",
+    "reported_by": "Adweta Dhillon"
+  },
+  {
+    "incident_id": "66995af5-1d24-481c-aed0-87d457bcad3a",
+    "timestamp": "2025-07-04 13:58:13.745776",
+    "latitude": 13.1033696240771,
+    "longitude": 77.67868450768948,
+    "locality": "Electronic City",
+    "type": "flood",
+    "verified": "False",
+    "reported_by": "Advik Mani"
+  },
+  {
+    "incident_id": "4596da75-74df-483f-b659-f1886676cc75",
+    "timestamp": "2025-07-14 16:54:26.122181",
+    "latitude": 12.89886756039196,
+    "longitude": 77.49518111379646,
+    "locality": "Electronic City",
+    "type": "construction",
+    "verified": "False",
+    "reported_by": "Lavanya Mutti"
+  }
+]

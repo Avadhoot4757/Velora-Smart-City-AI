@@ -1,0 +1,4502 @@
+[
+  {
+    "record_id": "1796b7b1-90b7-426f-9357-69cbbc03daa7",
+    "timestamp": "2025-07-23 17:45:21.911750",
+    "latitude": 13.130985737967782,
+    "longitude": 77.44455915756136,
+    "road": "Kanakapura Road",
+    "speed_kmph": 64.4,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "1cc1fb5e-c7d4-410f-8eec-22a4f966f9c2",
+    "timestamp": "2025-07-23 17:21:21.911777",
+    "latitude": 12.943124532514835,
+    "longitude": 77.46148530428901,
+    "road": "Sarjapur Road",
+    "speed_kmph": 10.9,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "8374c273-cc70-4551-a881-5cd988219541",
+    "timestamp": "2025-07-23 17:29:21.911781",
+    "latitude": 13.031689443807723,
+    "longitude": 77.73609322547222,
+    "road": "Kanakapura Road",
+    "speed_kmph": 47.1,
+    "congestion_level": "low"
+  },
+  {
+    "record_id": "92ecc3bd-1675-4d7e-99fa-fbb9d8a712cb",
+    "timestamp": "2025-07-23 18:04:21.911784",
+    "latitude": 12.962699173284646,
+    "longitude": 77.64260927608885,
+    "road": "Hosur Road",
+    "speed_kmph": 31.9,
+    "congestion_level": "low"
+  },
+  {
+    "record_id": "a671cd81-9c2b-45eb-b7ec-2100ec28c17a",
+    "timestamp": "2025-07-23 17:58:21.911787",
+    "latitude": 13.020706044057992,
+    "longitude": 77.68048003741228,
+    "road": "Bellary Road",
+    "speed_kmph": 31.4,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "12b59aa4-c07d-4001-b0de-0010fe31f408",
+    "timestamp": "2025-07-23 18:19:21.911790",
+    "latitude": 12.957359617102709,
+    "longitude": 77.53917224500647,
+    "road": "Outer Ring Road",
+    "speed_kmph": 49.2,
+    "congestion_level": "severe"
+  },
+  {
+    "record_id": "d1587136-6e52-4655-af17-8dbbc461aac1",
+    "timestamp": "2025-07-23 17:54:21.911794",
+    "latitude": 12.866021286248428,
+    "longitude": 77.51770945462674,
+    "road": "Old Airport Road",
+    "speed_kmph": 9.4,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "e3acd21a-7387-4600-b739-1bee46e09e7d",
+    "timestamp": "2025-07-23 18:13:21.911799",
+    "latitude": 12.977764095601184,
+    "longitude": 77.48206940237411,
+    "road": "Kanakapura Road",
+    "speed_kmph": 43.6,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "26f6ed64-bd2a-42c4-be8d-b353e16b1b8c",
+    "timestamp": "2025-07-23 17:58:21.911804",
+    "latitude": 12.985004470503105,
+    "longitude": 77.56822680990935,
+    "road": "Mysore Road",
+    "speed_kmph": 55.2,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "2e822ce6-12b1-417e-9497-062ba6837a72",
+    "timestamp": "2025-07-23 17:25:21.911808",
+    "latitude": 13.083711346891057,
+    "longitude": 77.59314005673696,
+    "road": "Old Airport Road",
+    "speed_kmph": 58.8,
+    "congestion_level": "low"
+  },
+  {
+    "record_id": "743c6de6-56fd-4504-9341-dd73a5d8d541",
+    "timestamp": "2025-07-23 17:37:21.911811",
+    "latitude": 13.057432247027753,
+    "longitude": 77.62112119527846,
+    "road": "Tumkur Road",
+    "speed_kmph": 16.1,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "bd4d28c8-b14d-43b0-87f7-040b87184322",
+    "timestamp": "2025-07-23 17:42:21.911814",
+    "latitude": 13.032327068379505,
+    "longitude": 77.48999147639955,
+    "road": "Hosur Road",
+    "speed_kmph": 63.3,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "e3af8541-6eb1-44b8-b2d1-235dd1f92f96",
+    "timestamp": "2025-07-23 18:08:21.911817",
+    "latitude": 12.8396854834434,
+    "longitude": 77.73202892831604,
+    "road": "Bannerghatta Road",
+    "speed_kmph": 47.6,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "4b37617d-9322-44fb-a6c6-7afa057ff1df",
+    "timestamp": "2025-07-23 17:44:21.911820",
+    "latitude": 13.052215701732301,
+    "longitude": 77.4594154743725,
+    "road": "Mysore Road",
+    "speed_kmph": 62.3,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "63d3997f-d406-4625-9faa-218001a069a2",
+    "timestamp": "2025-07-23 17:44:21.911822",
+    "latitude": 12.975106804724081,
+    "longitude": 77.73797861116824,
+    "road": "Outer Ring Road",
+    "speed_kmph": 36.5,
+    "congestion_level": "low"
+  },
+  {
+    "record_id": "5287c72e-39a8-4b5e-822f-8a4704d4c5db",
+    "timestamp": "2025-07-23 17:39:21.911826",
+    "latitude": 13.112934837637155,
+    "longitude": 77.40519964287763,
+    "road": "Magadi Road",
+    "speed_kmph": 40.2,
+    "congestion_level": "low"
+  },
+  {
+    "record_id": "db06f072-4244-4fce-a686-d5c66d59ade7",
+    "timestamp": "2025-07-23 17:39:21.911829",
+    "latitude": 13.121954826945691,
+    "longitude": 77.5683939921359,
+    "road": "Hosur Road",
+    "speed_kmph": 64.7,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "c48d276c-acae-4af8-9599-b267390f516d",
+    "timestamp": "2025-07-23 17:46:21.911833",
+    "latitude": 12.819304806710626,
+    "longitude": 77.5166787433408,
+    "road": "Bellary Road",
+    "speed_kmph": 63.5,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "a753297e-752f-424f-8849-066e539d5223",
+    "timestamp": "2025-07-23 18:09:21.911836",
+    "latitude": 13.087224546124068,
+    "longitude": 77.5571931948756,
+    "road": "Kanakapura Road",
+    "speed_kmph": 34.1,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "d24f7225-c519-4d78-b348-eda0aa57c6e4",
+    "timestamp": "2025-07-23 17:31:21.911839",
+    "latitude": 12.813194086647936,
+    "longitude": 77.59973260264327,
+    "road": "Outer Ring Road",
+    "speed_kmph": 22.8,
+    "congestion_level": "severe"
+  },
+  {
+    "record_id": "e4ab9bae-5aca-48f9-ace4-2aa5930e6549",
+    "timestamp": "2025-07-23 18:02:21.911842",
+    "latitude": 12.928509368993259,
+    "longitude": 77.55245620530445,
+    "road": "Kanakapura Road",
+    "speed_kmph": 30.6,
+    "congestion_level": "severe"
+  },
+  {
+    "record_id": "93acd71b-de03-4536-b703-fa9fe15c1c37",
+    "timestamp": "2025-07-23 17:58:21.911845",
+    "latitude": 12.989804991467379,
+    "longitude": 77.54519639760557,
+    "road": "Outer Ring Road",
+    "speed_kmph": 30.2,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "25f5ed6f-c5e2-4dcc-b058-4d2027111b60",
+    "timestamp": "2025-07-23 18:00:21.911848",
+    "latitude": 12.851835279519495,
+    "longitude": 77.65645319539466,
+    "road": "Old Airport Road",
+    "speed_kmph": 23.6,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "19d45a55-2e7c-47b0-8ef8-a78734c5dd5b",
+    "timestamp": "2025-07-23 17:37:21.911851",
+    "latitude": 13.061209834399177,
+    "longitude": 77.64005669628027,
+    "road": "Magadi Road",
+    "speed_kmph": 22.5,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "f1ca680c-9a17-4669-888e-58e706b6a5f4",
+    "timestamp": "2025-07-23 17:48:21.911854",
+    "latitude": 12.80292414646025,
+    "longitude": 77.69164494871255,
+    "road": "Bellary Road",
+    "speed_kmph": 61,
+    "congestion_level": "severe"
+  },
+  {
+    "record_id": "20984689-c78a-46ce-8a19-9083d83e262a",
+    "timestamp": "2025-07-23 17:49:21.911857",
+    "latitude": 12.859009666951913,
+    "longitude": 77.48748564343383,
+    "road": "Bannerghatta Road",
+    "speed_kmph": 9.5,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "11bb797a-f464-431f-9938-949e8a426ff0",
+    "timestamp": "2025-07-23 17:31:21.911860",
+    "latitude": 13.003278890448717,
+    "longitude": 77.61333497841393,
+    "road": "Tumkur Road",
+    "speed_kmph": 49,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "edafea54-50b9-404a-9edc-c2ff53d47caf",
+    "timestamp": "2025-07-23 17:33:21.911863",
+    "latitude": 13.050035646713052,
+    "longitude": 77.6048181748875,
+    "road": "Kanakapura Road",
+    "speed_kmph": 16.2,
+    "congestion_level": "severe"
+  },
+  {
+    "record_id": "33a2b47b-3574-4477-a87d-a2af3ae8160a",
+    "timestamp": "2025-07-23 17:52:21.911866",
+    "latitude": 13.12082508594287,
+    "longitude": 77.52940823380544,
+    "road": "Hosur Road",
+    "speed_kmph": 27.4,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "fdb269e5-6c9d-4a26-a9cd-4d5c4d8cc9c6",
+    "timestamp": "2025-07-23 17:24:21.911869",
+    "latitude": 13.04692382817712,
+    "longitude": 77.57012013966595,
+    "road": "Outer Ring Road",
+    "speed_kmph": 9,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "eb7d2448-efb1-4149-bba4-807e45655d2d",
+    "timestamp": "2025-07-23 18:15:21.911872",
+    "latitude": 13.035122744589204,
+    "longitude": 77.50982375015701,
+    "road": "Outer Ring Road",
+    "speed_kmph": 22.5,
+    "congestion_level": "severe"
+  },
+  {
+    "record_id": "06fce65a-5af7-4fe2-85b8-6c82379cc41a",
+    "timestamp": "2025-07-23 17:56:21.911875",
+    "latitude": 12.938019401222734,
+    "longitude": 77.44964553916596,
+    "road": "Bannerghatta Road",
+    "speed_kmph": 54.9,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "f1c35294-e61c-49a3-a0ac-db752326e3d0",
+    "timestamp": "2025-07-23 17:41:21.911878",
+    "latitude": 12.800449548934381,
+    "longitude": 77.47483042373196,
+    "road": "Magadi Road",
+    "speed_kmph": 62.5,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "f2b1068a-d58b-4423-9f84-24bd708c4f1a",
+    "timestamp": "2025-07-23 18:02:21.911882",
+    "latitude": 12.842055740557468,
+    "longitude": 77.43692977624042,
+    "road": "Magadi Road",
+    "speed_kmph": 19.4,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "de16a0ea-71a6-4e48-8682-2e13600777be",
+    "timestamp": "2025-07-23 17:51:21.911885",
+    "latitude": 12.987094090664614,
+    "longitude": 77.63907435131655,
+    "road": "Outer Ring Road",
+    "speed_kmph": 35.1,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "3565c8a2-bd6a-4c56-9aac-1277be7301e9",
+    "timestamp": "2025-07-23 17:40:21.911888",
+    "latitude": 13.036295460045547,
+    "longitude": 77.6312545875882,
+    "road": "Tumkur Road",
+    "speed_kmph": 35.6,
+    "congestion_level": "low"
+  },
+  {
+    "record_id": "70449b51-7262-4be8-8c99-4ec16162faf8",
+    "timestamp": "2025-07-23 18:11:21.911890",
+    "latitude": 12.946106899363762,
+    "longitude": 77.73271223005295,
+    "road": "Old Airport Road",
+    "speed_kmph": 61.8,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "c55f30a1-34a4-40e3-b2d9-ec3e66308af8",
+    "timestamp": "2025-07-23 17:25:21.911893",
+    "latitude": 13.055737654034937,
+    "longitude": 77.65538744477654,
+    "road": "Sarjapur Road",
+    "speed_kmph": 54.6,
+    "congestion_level": "severe"
+  },
+  {
+    "record_id": "1fe9048d-d083-48b0-9718-79436168c4a8",
+    "timestamp": "2025-07-23 18:10:21.911896",
+    "latitude": 12.982651803366263,
+    "longitude": 77.41821604356466,
+    "road": "Old Airport Road",
+    "speed_kmph": 38.4,
+    "congestion_level": "severe"
+  },
+  {
+    "record_id": "81b74f35-2cd3-448d-b820-5c5f17c522e0",
+    "timestamp": "2025-07-23 17:40:21.911899",
+    "latitude": 12.82596166845801,
+    "longitude": 77.70948581087514,
+    "road": "Hosur Road",
+    "speed_kmph": 48.6,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "84391819-b97a-48ba-940b-b34de9ccedab",
+    "timestamp": "2025-07-23 17:29:21.911902",
+    "latitude": 12.867205687838783,
+    "longitude": 77.701936307031,
+    "road": "Mysore Road",
+    "speed_kmph": 60.1,
+    "congestion_level": "severe"
+  },
+  {
+    "record_id": "35aad597-c1b0-444b-a9b2-b32c1f27fa2c",
+    "timestamp": "2025-07-23 17:21:21.911905",
+    "latitude": 13.093999378135381,
+    "longitude": 77.55516211227045,
+    "road": "Sarjapur Road",
+    "speed_kmph": 5.6,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "bd9ab6d9-7d36-45b9-b0d1-701b1ecfcd89",
+    "timestamp": "2025-07-23 17:59:21.911908",
+    "latitude": 13.053719461318554,
+    "longitude": 77.60505206768478,
+    "road": "Tumkur Road",
+    "speed_kmph": 31.2,
+    "congestion_level": "low"
+  },
+  {
+    "record_id": "fecfc0db-bfeb-42a4-9bbf-785b9ad75864",
+    "timestamp": "2025-07-23 17:54:21.911911",
+    "latitude": 13.113166695454373,
+    "longitude": 77.74162741636538,
+    "road": "Bellary Road",
+    "speed_kmph": 64,
+    "congestion_level": "severe"
+  },
+  {
+    "record_id": "35d80531-30e4-43e1-aa45-d1e9511f0533",
+    "timestamp": "2025-07-23 17:40:21.911915",
+    "latitude": 12.841145037192328,
+    "longitude": 77.58630652734686,
+    "road": "Sarjapur Road",
+    "speed_kmph": 53.1,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "81c4dda8-ccbf-4dfe-973e-13d9fc32edb4",
+    "timestamp": "2025-07-23 17:41:21.911918",
+    "latitude": 13.146577887115276,
+    "longitude": 77.71686263993163,
+    "road": "Mysore Road",
+    "speed_kmph": 40.3,
+    "congestion_level": "severe"
+  },
+  {
+    "record_id": "823c794a-415a-43c1-ba5c-d4265c1faf7b",
+    "timestamp": "2025-07-23 17:44:21.911920",
+    "latitude": 12.873292349882478,
+    "longitude": 77.42906356523358,
+    "road": "Bannerghatta Road",
+    "speed_kmph": 39.4,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "04221bf2-74fa-4bdd-b1e4-c27a1cab87e2",
+    "timestamp": "2025-07-23 17:55:21.911923",
+    "latitude": 12.804122956700326,
+    "longitude": 77.46686815404804,
+    "road": "Bellary Road",
+    "speed_kmph": 27.6,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "6b8608d1-cdac-4327-a149-96d101db80b4",
+    "timestamp": "2025-07-23 17:26:21.911926",
+    "latitude": 13.149098028668744,
+    "longitude": 77.55426423020447,
+    "road": "Mysore Road",
+    "speed_kmph": 38.8,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "199ded5e-db84-4a96-b629-5eb4667a9b91",
+    "timestamp": "2025-07-23 17:22:21.911929",
+    "latitude": 12.89837585990579,
+    "longitude": 77.60466488291806,
+    "road": "Kanakapura Road",
+    "speed_kmph": 47.6,
+    "congestion_level": "severe"
+  },
+  {
+    "record_id": "4f5af64e-f21b-4a7f-9c42-adcf5acc616d",
+    "timestamp": "2025-07-23 18:16:21.911932",
+    "latitude": 13.033806808379396,
+    "longitude": 77.68567974815198,
+    "road": "Sarjapur Road",
+    "speed_kmph": 32.2,
+    "congestion_level": "severe"
+  },
+  {
+    "record_id": "f22929b6-6f24-4189-90b7-de33d627224e",
+    "timestamp": "2025-07-23 18:15:21.911935",
+    "latitude": 12.861838809961707,
+    "longitude": 77.74589174030011,
+    "road": "Sarjapur Road",
+    "speed_kmph": 51.4,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "3ab742a1-4cfa-4f8a-a6e9-97aed909f489",
+    "timestamp": "2025-07-23 18:10:21.911937",
+    "latitude": 13.0030799862697,
+    "longitude": 77.53609802376594,
+    "road": "Bellary Road",
+    "speed_kmph": 61,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "a682c0fb-159e-4c9f-b382-c1aeffecc4eb",
+    "timestamp": "2025-07-23 17:59:21.911941",
+    "latitude": 13.116412245259097,
+    "longitude": 77.41659547264904,
+    "road": "Bannerghatta Road",
+    "speed_kmph": 15.1,
+    "congestion_level": "low"
+  },
+  {
+    "record_id": "e03db918-63c2-49aa-8f67-4365a4c1c966",
+    "timestamp": "2025-07-23 18:06:21.911944",
+    "latitude": 12.912063408599954,
+    "longitude": 77.68041002615337,
+    "road": "Sarjapur Road",
+    "speed_kmph": 34.4,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "f6d811ef-f388-4ef7-840e-bf4778ab2513",
+    "timestamp": "2025-07-23 18:00:21.911947",
+    "latitude": 13.034588891615526,
+    "longitude": 77.61153325167899,
+    "road": "Magadi Road",
+    "speed_kmph": 31.5,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "e5b77f49-a5b9-4c1a-bac8-f92f4653cbd3",
+    "timestamp": "2025-07-23 18:00:21.911950",
+    "latitude": 12.865766256079446,
+    "longitude": 77.46949000060387,
+    "road": "Bellary Road",
+    "speed_kmph": 49.7,
+    "congestion_level": "low"
+  },
+  {
+    "record_id": "d8f02d41-2407-4330-8b9d-55cd52c1e256",
+    "timestamp": "2025-07-23 17:39:21.911953",
+    "latitude": 13.018678389551555,
+    "longitude": 77.5731899598175,
+    "road": "Bannerghatta Road",
+    "speed_kmph": 21.2,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "025fc70f-9088-4400-ad67-5be33fbe5756",
+    "timestamp": "2025-07-23 18:02:21.911956",
+    "latitude": 12.91775762313613,
+    "longitude": 77.6598085859368,
+    "road": "Bannerghatta Road",
+    "speed_kmph": 46.6,
+    "congestion_level": "severe"
+  },
+  {
+    "record_id": "23e57b50-27df-46e0-84c4-69b120c13845",
+    "timestamp": "2025-07-23 17:35:21.911959",
+    "latitude": 12.873922890505783,
+    "longitude": 77.66964412547402,
+    "road": "Magadi Road",
+    "speed_kmph": 62,
+    "congestion_level": "low"
+  },
+  {
+    "record_id": "09fb4d4b-c325-4bc3-b845-a524b1f01f04",
+    "timestamp": "2025-07-23 18:03:21.911962",
+    "latitude": 12.909613717746273,
+    "longitude": 77.57486644419957,
+    "road": "Bannerghatta Road",
+    "speed_kmph": 32.2,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "35b7215e-cd68-4b39-98a0-db610fa99695",
+    "timestamp": "2025-07-23 17:42:21.911965",
+    "latitude": 12.86259437397773,
+    "longitude": 77.5068250855451,
+    "road": "Bannerghatta Road",
+    "speed_kmph": 64.2,
+    "congestion_level": "low"
+  },
+  {
+    "record_id": "4b079752-a934-49ae-bd66-c203ddc8ca37",
+    "timestamp": "2025-07-23 17:39:21.911968",
+    "latitude": 13.115670637743259,
+    "longitude": 77.74080990371347,
+    "road": "Tumkur Road",
+    "speed_kmph": 69.6,
+    "congestion_level": "severe"
+  },
+  {
+    "record_id": "d2c08ee4-6a35-467d-9e18-16205f27fee1",
+    "timestamp": "2025-07-23 17:55:21.911971",
+    "latitude": 12.939015410210995,
+    "longitude": 77.63217691383477,
+    "road": "Bellary Road",
+    "speed_kmph": 11.9,
+    "congestion_level": "severe"
+  },
+  {
+    "record_id": "2cb50ab9-2c23-4779-ab53-41c02850c932",
+    "timestamp": "2025-07-23 18:03:21.911974",
+    "latitude": 12.885847756741029,
+    "longitude": 77.5428831317712,
+    "road": "Tumkur Road",
+    "speed_kmph": 20.1,
+    "congestion_level": "severe"
+  },
+  {
+    "record_id": "26c0df52-f71d-49c5-84c2-f2c4efb0ce3b",
+    "timestamp": "2025-07-23 17:24:21.911978",
+    "latitude": 12.956942744355578,
+    "longitude": 77.49816212847163,
+    "road": "Mysore Road",
+    "speed_kmph": 66.8,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "ab2dd056-cf71-4c2c-8f35-fdb9bdf18708",
+    "timestamp": "2025-07-23 17:52:21.911981",
+    "latitude": 12.912187658382274,
+    "longitude": 77.65588604405124,
+    "road": "Old Airport Road",
+    "speed_kmph": 67.3,
+    "congestion_level": "low"
+  },
+  {
+    "record_id": "ecc9d15a-e10b-4781-9d75-18d42e7e4cef",
+    "timestamp": "2025-07-23 17:31:21.911984",
+    "latitude": 13.060546738834665,
+    "longitude": 77.48476420595782,
+    "road": "Hosur Road",
+    "speed_kmph": 11.4,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "07acc717-2991-42e6-895b-c9171c01160c",
+    "timestamp": "2025-07-23 17:25:21.911987",
+    "latitude": 13.139926969159923,
+    "longitude": 77.4600984961408,
+    "road": "Tumkur Road",
+    "speed_kmph": 6,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "6755e34c-4e5a-4392-b43e-623f7f5fca4f",
+    "timestamp": "2025-07-23 17:20:21.911990",
+    "latitude": 12.953311779844176,
+    "longitude": 77.58544186113673,
+    "road": "Magadi Road",
+    "speed_kmph": 15.5,
+    "congestion_level": "low"
+  },
+  {
+    "record_id": "d767a0d7-e8b2-481a-9f88-fe99a0147ab9",
+    "timestamp": "2025-07-23 17:57:21.911993",
+    "latitude": 13.101361689990284,
+    "longitude": 77.50149558742545,
+    "road": "Hosur Road",
+    "speed_kmph": 69.7,
+    "congestion_level": "severe"
+  },
+  {
+    "record_id": "074a588f-5231-42a5-9f35-ba4043e2ecaf",
+    "timestamp": "2025-07-23 17:33:21.911996",
+    "latitude": 12.998052075745868,
+    "longitude": 77.62011680072327,
+    "road": "Magadi Road",
+    "speed_kmph": 16.7,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "074b927e-54e2-4fa6-869c-cc0ac8844f88",
+    "timestamp": "2025-07-23 17:43:21.911999",
+    "latitude": 12.855032482782983,
+    "longitude": 77.44127853620599,
+    "road": "Bellary Road",
+    "speed_kmph": 37.7,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "bc25bce1-08c2-42ce-b872-d73fe389bcaf",
+    "timestamp": "2025-07-23 17:47:21.912002",
+    "latitude": 13.04171795972847,
+    "longitude": 77.62922938659857,
+    "road": "Bannerghatta Road",
+    "speed_kmph": 60.1,
+    "congestion_level": "severe"
+  },
+  {
+    "record_id": "685c0862-e9e0-4d8d-a4f3-84efdf3d3d65",
+    "timestamp": "2025-07-23 17:52:21.912005",
+    "latitude": 12.979702073994037,
+    "longitude": 77.4991537847992,
+    "road": "Tumkur Road",
+    "speed_kmph": 6.3,
+    "congestion_level": "low"
+  },
+  {
+    "record_id": "c33359b9-6085-4b5f-8a1b-07440be76352",
+    "timestamp": "2025-07-23 17:54:21.912008",
+    "latitude": 13.027712283138237,
+    "longitude": 77.40008502705209,
+    "road": "Magadi Road",
+    "speed_kmph": 44.3,
+    "congestion_level": "severe"
+  },
+  {
+    "record_id": "2b741898-8673-4f07-b8f7-3fad9937c931",
+    "timestamp": "2025-07-23 18:10:21.912011",
+    "latitude": 13.111390594400083,
+    "longitude": 77.44442762018596,
+    "road": "Old Airport Road",
+    "speed_kmph": 23,
+    "congestion_level": "severe"
+  },
+  {
+    "record_id": "59423395-03d3-41cf-99a1-2723287dff8e",
+    "timestamp": "2025-07-23 18:09:21.912016",
+    "latitude": 12.954152099729617,
+    "longitude": 77.72676538224228,
+    "road": "Old Airport Road",
+    "speed_kmph": 61.1,
+    "congestion_level": "severe"
+  },
+  {
+    "record_id": "6b7d71bc-1795-4e87-b902-d8a7e5ae288f",
+    "timestamp": "2025-07-23 17:26:21.912019",
+    "latitude": 13.115412168126074,
+    "longitude": 77.70357412369037,
+    "road": "Magadi Road",
+    "speed_kmph": 23.4,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "f7feb735-1cc6-40a0-90fa-b909fcfa1e61",
+    "timestamp": "2025-07-23 18:19:21.912022",
+    "latitude": 13.06273415499858,
+    "longitude": 77.48176316121268,
+    "road": "Bannerghatta Road",
+    "speed_kmph": 49.6,
+    "congestion_level": "low"
+  },
+  {
+    "record_id": "6a4279c3-fbbe-4e9d-b6e5-1a1279c6c757",
+    "timestamp": "2025-07-23 18:12:21.912025",
+    "latitude": 12.971011724057295,
+    "longitude": 77.67243016659093,
+    "road": "Bannerghatta Road",
+    "speed_kmph": 48.8,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "70bf1783-8966-442b-a5ec-b9dcdb2c04c0",
+    "timestamp": "2025-07-23 17:34:21.912027",
+    "latitude": 13.011127747480288,
+    "longitude": 77.61300005761089,
+    "road": "Hosur Road",
+    "speed_kmph": 19.4,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "cf367c1b-9a6f-4965-9b5e-d35a2268645f",
+    "timestamp": "2025-07-23 18:05:21.912030",
+    "latitude": 12.913953396381654,
+    "longitude": 77.73981664900745,
+    "road": "Kanakapura Road",
+    "speed_kmph": 7.3,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "79eb1797-4fb9-4f37-802f-4aeea308f1ea",
+    "timestamp": "2025-07-23 17:38:21.912033",
+    "latitude": 13.144259054908572,
+    "longitude": 77.53076198083693,
+    "road": "Outer Ring Road",
+    "speed_kmph": 31.6,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "41c1aee2-e723-4658-a648-d7ae78304c6c",
+    "timestamp": "2025-07-23 18:04:21.912036",
+    "latitude": 13.033572907067638,
+    "longitude": 77.63851121438101,
+    "road": "Kanakapura Road",
+    "speed_kmph": 23.8,
+    "congestion_level": "low"
+  },
+  {
+    "record_id": "8a3c8743-a808-44f2-92a8-080920d19fc0",
+    "timestamp": "2025-07-23 17:20:21.912039",
+    "latitude": 12.815346398373821,
+    "longitude": 77.42223750284838,
+    "road": "Mysore Road",
+    "speed_kmph": 57.6,
+    "congestion_level": "severe"
+  },
+  {
+    "record_id": "ab1e5b37-9d15-444d-b4f7-bfdc5d96d459",
+    "timestamp": "2025-07-23 17:33:21.912042",
+    "latitude": 12.914317667011805,
+    "longitude": 77.53868657138574,
+    "road": "Hosur Road",
+    "speed_kmph": 57,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "7e2840a1-7a50-4f60-98ad-8eebb7607067",
+    "timestamp": "2025-07-23 17:36:21.912045",
+    "latitude": 13.01816005181567,
+    "longitude": 77.73733618141587,
+    "road": "Old Airport Road",
+    "speed_kmph": 34.7,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "923cc117-da1a-4b09-94c2-459bbfac0af7",
+    "timestamp": "2025-07-23 17:33:21.912049",
+    "latitude": 12.819716647229734,
+    "longitude": 77.58864330605755,
+    "road": "Old Airport Road",
+    "speed_kmph": 44.4,
+    "congestion_level": "low"
+  },
+  {
+    "record_id": "83c59c14-3824-462b-a036-971a323fdf19",
+    "timestamp": "2025-07-23 18:15:21.912052",
+    "latitude": 12.8083594669617,
+    "longitude": 77.5007578261672,
+    "road": "Magadi Road",
+    "speed_kmph": 44.3,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "24812414-f139-4c4b-8e31-ce5c213b1241",
+    "timestamp": "2025-07-23 18:07:21.912055",
+    "latitude": 12.957508483834731,
+    "longitude": 77.44209483709501,
+    "road": "Sarjapur Road",
+    "speed_kmph": 58.8,
+    "congestion_level": "low"
+  },
+  {
+    "record_id": "be41635f-150a-4643-a8c1-fb6439bdc3ed",
+    "timestamp": "2025-07-23 18:10:21.912058",
+    "latitude": 12.916441562892436,
+    "longitude": 77.64623491906353,
+    "road": "Outer Ring Road",
+    "speed_kmph": 32.6,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "4844cc49-6761-464e-b79e-e14018441abd",
+    "timestamp": "2025-07-23 17:55:21.912061",
+    "latitude": 12.953404512811609,
+    "longitude": 77.6256996152004,
+    "road": "Bannerghatta Road",
+    "speed_kmph": 22.9,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "3ff180d2-1af0-4c73-9d71-9800e30d0d83",
+    "timestamp": "2025-07-23 18:14:21.912065",
+    "latitude": 12.891942658458003,
+    "longitude": 77.53087854976133,
+    "road": "Sarjapur Road",
+    "speed_kmph": 22.2,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "bae3438e-2f43-42f0-802b-f49539e9c6ef",
+    "timestamp": "2025-07-23 18:14:21.912068",
+    "latitude": 12.857651211430044,
+    "longitude": 77.73282947315305,
+    "road": "Bannerghatta Road",
+    "speed_kmph": 39.9,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "b5e0bcbf-5420-4149-8d15-6c62a8cc6e3b",
+    "timestamp": "2025-07-23 18:16:21.912071",
+    "latitude": 13.04120017494312,
+    "longitude": 77.40777098454575,
+    "road": "Old Airport Road",
+    "speed_kmph": 34.2,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "973da9cb-ab19-4705-b64f-6842f9553aad",
+    "timestamp": "2025-07-23 17:21:21.912074",
+    "latitude": 12.980099890693731,
+    "longitude": 77.50630334807114,
+    "road": "Hosur Road",
+    "speed_kmph": 33.6,
+    "congestion_level": "severe"
+  },
+  {
+    "record_id": "fcd62aba-93c1-492f-8453-d8038519469e",
+    "timestamp": "2025-07-23 17:24:21.912077",
+    "latitude": 12.87005397393728,
+    "longitude": 77.72237432020485,
+    "road": "Kanakapura Road",
+    "speed_kmph": 10.9,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "e647bcfc-c288-4352-8448-2593e2327c25",
+    "timestamp": "2025-07-23 17:50:21.912080",
+    "latitude": 12.911856299191,
+    "longitude": 77.5123274034118,
+    "road": "Outer Ring Road",
+    "speed_kmph": 51.7,
+    "congestion_level": "low"
+  },
+  {
+    "record_id": "5ff0f8eb-6c09-40b6-93f4-238321b78e70",
+    "timestamp": "2025-07-23 17:45:21.912083",
+    "latitude": 13.007132767682165,
+    "longitude": 77.48828849184932,
+    "road": "Bannerghatta Road",
+    "speed_kmph": 18.9,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "bc85630c-9451-4f78-a52d-3404a94485e0",
+    "timestamp": "2025-07-23 18:17:21.912086",
+    "latitude": 12.825280271895368,
+    "longitude": 77.58697714347593,
+    "road": "Magadi Road",
+    "speed_kmph": 17.8,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "bf78bad8-08c2-4d6f-99ca-a609ef438b80",
+    "timestamp": "2025-07-23 18:19:21.912089",
+    "latitude": 12.851608553243164,
+    "longitude": 77.68833061247219,
+    "road": "Tumkur Road",
+    "speed_kmph": 31.8,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "a1c2e70c-6291-43bf-8cbd-d15ee7f0916e",
+    "timestamp": "2025-07-23 17:31:21.912091",
+    "latitude": 12.825635961437587,
+    "longitude": 77.43610136630743,
+    "road": "Tumkur Road",
+    "speed_kmph": 19.8,
+    "congestion_level": "low"
+  },
+  {
+    "record_id": "fac284dd-32a9-4261-8b50-5aa30c4aef81",
+    "timestamp": "2025-07-23 17:55:21.912094",
+    "latitude": 13.084311066449942,
+    "longitude": 77.73005724837601,
+    "road": "Tumkur Road",
+    "speed_kmph": 43,
+    "congestion_level": "low"
+  },
+  {
+    "record_id": "a277279b-2498-49f2-83aa-96d22ea2daec",
+    "timestamp": "2025-07-23 17:47:21.912097",
+    "latitude": 13.063343231624204,
+    "longitude": 77.6782755084134,
+    "road": "Sarjapur Road",
+    "speed_kmph": 29.1,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "3ce26218-cb76-4127-95db-677f08bbb29f",
+    "timestamp": "2025-07-23 17:32:21.912099",
+    "latitude": 13.06365952615774,
+    "longitude": 77.46343758944305,
+    "road": "Kanakapura Road",
+    "speed_kmph": 34.2,
+    "congestion_level": "low"
+  },
+  {
+    "record_id": "02ff9754-5291-4b6d-a592-4c9f29714f1f",
+    "timestamp": "2025-07-23 18:15:21.912102",
+    "latitude": 13.05071387021661,
+    "longitude": 77.64920278641935,
+    "road": "Mysore Road",
+    "speed_kmph": 39.9,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "db90f232-7bdd-41b3-bb14-2917927446b6",
+    "timestamp": "2025-07-23 18:14:21.912105",
+    "latitude": 13.034284898284454,
+    "longitude": 77.53473555292315,
+    "road": "Old Airport Road",
+    "speed_kmph": 18.2,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "de993ecd-a0f3-4470-b010-45255809f249",
+    "timestamp": "2025-07-23 18:04:21.912108",
+    "latitude": 12.966947170382362,
+    "longitude": 77.54080313732672,
+    "road": "Magadi Road",
+    "speed_kmph": 15.1,
+    "congestion_level": "low"
+  },
+  {
+    "record_id": "67d920b3-93c3-49fd-b885-05f9d1263905",
+    "timestamp": "2025-07-23 17:41:21.912111",
+    "latitude": 13.024797357227492,
+    "longitude": 77.6741515323536,
+    "road": "Old Airport Road",
+    "speed_kmph": 62.2,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "74047ec7-36ff-412d-be21-81fd73bd185b",
+    "timestamp": "2025-07-23 18:11:21.912113",
+    "latitude": 12.813426544175792,
+    "longitude": 77.73697468279326,
+    "road": "Bannerghatta Road",
+    "speed_kmph": 33.2,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "709adc95-8bbe-4119-8347-2a289f0e570b",
+    "timestamp": "2025-07-23 18:15:21.912116",
+    "latitude": 13.017512547929876,
+    "longitude": 77.44432955549652,
+    "road": "Tumkur Road",
+    "speed_kmph": 31.8,
+    "congestion_level": "low"
+  },
+  {
+    "record_id": "a7cc4274-4780-4b87-beb5-ba0f1e2964f1",
+    "timestamp": "2025-07-23 17:39:21.912118",
+    "latitude": 13.072257196937908,
+    "longitude": 77.54722058290758,
+    "road": "Old Airport Road",
+    "speed_kmph": 7.3,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "565c978a-ec83-44d7-83b5-ad03c4bd23eb",
+    "timestamp": "2025-07-23 17:21:21.912121",
+    "latitude": 12.975125426134538,
+    "longitude": 77.5683295628295,
+    "road": "Outer Ring Road",
+    "speed_kmph": 37.4,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "2fb2a0d7-e47c-43af-bf26-cb585656511d",
+    "timestamp": "2025-07-23 17:24:21.912123",
+    "latitude": 12.925129664949534,
+    "longitude": 77.53170913593425,
+    "road": "Outer Ring Road",
+    "speed_kmph": 41,
+    "congestion_level": "low"
+  },
+  {
+    "record_id": "df397fa5-ce96-4c5e-974a-a942415a51ff",
+    "timestamp": "2025-07-23 17:56:21.912126",
+    "latitude": 12.897099357180343,
+    "longitude": 77.52711619330069,
+    "road": "Tumkur Road",
+    "speed_kmph": 41.3,
+    "congestion_level": "low"
+  },
+  {
+    "record_id": "74d12024-8c84-4302-85a2-4d777cc34e98",
+    "timestamp": "2025-07-23 18:01:21.912129",
+    "latitude": 13.02498071755673,
+    "longitude": 77.41829403364656,
+    "road": "Bannerghatta Road",
+    "speed_kmph": 51,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "db30ddad-ab02-4104-98b4-7298a9caa03d",
+    "timestamp": "2025-07-23 18:06:21.912132",
+    "latitude": 13.04248041952047,
+    "longitude": 77.63993851719692,
+    "road": "Kanakapura Road",
+    "speed_kmph": 16.5,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "434b033d-84e1-469e-8365-9e5157a5e3b2",
+    "timestamp": "2025-07-23 18:05:21.912135",
+    "latitude": 13.10483865995189,
+    "longitude": 77.55267504599202,
+    "road": "Bellary Road",
+    "speed_kmph": 21.4,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "6d300e33-5d8c-4fea-882e-27a310287c78",
+    "timestamp": "2025-07-23 17:33:21.912138",
+    "latitude": 12.919816928861348,
+    "longitude": 77.46817783092538,
+    "road": "Kanakapura Road",
+    "speed_kmph": 57.7,
+    "congestion_level": "low"
+  },
+  {
+    "record_id": "8b16f0a7-f6fa-46a1-8681-87e9a46d4b51",
+    "timestamp": "2025-07-23 18:02:21.912140",
+    "latitude": 13.069420307584956,
+    "longitude": 77.68561172580573,
+    "road": "Kanakapura Road",
+    "speed_kmph": 66.6,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "f99f5c06-3a24-4e17-9836-a02720507d45",
+    "timestamp": "2025-07-23 17:52:21.912143",
+    "latitude": 12.996474538466268,
+    "longitude": 77.68089626185306,
+    "road": "Hosur Road",
+    "speed_kmph": 13.8,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "1eca85b3-1c73-48e6-947f-fd35751a5b9a",
+    "timestamp": "2025-07-23 17:40:21.912146",
+    "latitude": 13.108992771737329,
+    "longitude": 77.57023706983112,
+    "road": "Mysore Road",
+    "speed_kmph": 37.3,
+    "congestion_level": "low"
+  },
+  {
+    "record_id": "205525c6-4bb3-4035-b673-33e08ceb424f",
+    "timestamp": "2025-07-23 18:12:21.912149",
+    "latitude": 12.984734237903467,
+    "longitude": 77.50445773140171,
+    "road": "Mysore Road",
+    "speed_kmph": 18.9,
+    "congestion_level": "low"
+  },
+  {
+    "record_id": "73db49d0-4e99-4b76-98fd-e70bdf9107d5",
+    "timestamp": "2025-07-23 18:12:21.912152",
+    "latitude": 12.981170439939289,
+    "longitude": 77.62333245402876,
+    "road": "Outer Ring Road",
+    "speed_kmph": 8.9,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "f086424a-fbfb-49f9-8da4-f9166fa87369",
+    "timestamp": "2025-07-23 17:47:21.912155",
+    "latitude": 13.002256978504318,
+    "longitude": 77.5008532475221,
+    "road": "Tumkur Road",
+    "speed_kmph": 26.2,
+    "congestion_level": "low"
+  },
+  {
+    "record_id": "f8c00141-ddf1-44d4-b75e-f2cf153d5754",
+    "timestamp": "2025-07-23 17:27:21.912158",
+    "latitude": 13.062260374299852,
+    "longitude": 77.4826027756133,
+    "road": "Bannerghatta Road",
+    "speed_kmph": 14.3,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "d1ed43ba-65c6-4e05-aebf-af4c813592e7",
+    "timestamp": "2025-07-23 18:10:21.912161",
+    "latitude": 13.137641667589962,
+    "longitude": 77.65568012890921,
+    "road": "Bannerghatta Road",
+    "speed_kmph": 51.1,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "82caa526-ffa0-41af-a2b8-45b7f0f5bdc1",
+    "timestamp": "2025-07-23 18:19:21.912165",
+    "latitude": 12.825747173975518,
+    "longitude": 77.41411383390233,
+    "road": "Outer Ring Road",
+    "speed_kmph": 39.7,
+    "congestion_level": "severe"
+  },
+  {
+    "record_id": "ae3a1f32-d70b-4463-a447-00ca31e3860a",
+    "timestamp": "2025-07-23 18:18:21.912168",
+    "latitude": 12.818702110836856,
+    "longitude": 77.43316896486212,
+    "road": "Old Airport Road",
+    "speed_kmph": 14.3,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "32dc80ee-0447-4659-86a2-208538cba05e",
+    "timestamp": "2025-07-23 17:38:21.912171",
+    "latitude": 13.12814261809257,
+    "longitude": 77.40237586090826,
+    "road": "Sarjapur Road",
+    "speed_kmph": 5.6,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "868c1005-5a9b-4519-be9d-d48cbbc0e8ed",
+    "timestamp": "2025-07-23 17:58:21.912174",
+    "latitude": 12.985456468931373,
+    "longitude": 77.4535301152664,
+    "road": "Old Airport Road",
+    "speed_kmph": 57.5,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "901919b7-26da-4a1c-87a9-ff3099d6f609",
+    "timestamp": "2025-07-23 17:25:21.912177",
+    "latitude": 13.015216055098428,
+    "longitude": 77.42414650304866,
+    "road": "Hosur Road",
+    "speed_kmph": 16.5,
+    "congestion_level": "severe"
+  },
+  {
+    "record_id": "0c07e0e3-8669-4d31-87d2-e18fdc241f84",
+    "timestamp": "2025-07-23 17:22:21.912180",
+    "latitude": 12.968848260558156,
+    "longitude": 77.74853082872298,
+    "road": "Outer Ring Road",
+    "speed_kmph": 44.4,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "8a19de1f-5cd7-4899-887c-edb9ccddd6b3",
+    "timestamp": "2025-07-23 18:00:21.912182",
+    "latitude": 12.832780108412617,
+    "longitude": 77.50108348948393,
+    "road": "Tumkur Road",
+    "speed_kmph": 26.9,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "ff46d9d3-f279-4e8b-b195-fa9f3afd099e",
+    "timestamp": "2025-07-23 17:25:21.912185",
+    "latitude": 13.068831282446533,
+    "longitude": 77.45224380443425,
+    "road": "Bannerghatta Road",
+    "speed_kmph": 43.1,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "28a3d3a3-5fdd-47bb-aab0-5af887e719e2",
+    "timestamp": "2025-07-23 17:50:21.912188",
+    "latitude": 13.061528625781007,
+    "longitude": 77.48434869029857,
+    "road": "Bellary Road",
+    "speed_kmph": 25.5,
+    "congestion_level": "severe"
+  },
+  {
+    "record_id": "a289499e-2a67-46d4-ae2e-7dd219a2a602",
+    "timestamp": "2025-07-23 17:51:21.912191",
+    "latitude": 12.909096162522484,
+    "longitude": 77.72764395003905,
+    "road": "Old Airport Road",
+    "speed_kmph": 10.7,
+    "congestion_level": "severe"
+  },
+  {
+    "record_id": "39ec02ca-9e41-42f9-9be3-8b89a2624fd2",
+    "timestamp": "2025-07-23 17:25:21.912194",
+    "latitude": 12.90718373582994,
+    "longitude": 77.58205607805854,
+    "road": "Old Airport Road",
+    "speed_kmph": 19.5,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "b75168f6-c048-4d0b-ae3f-0127d7de7f4d",
+    "timestamp": "2025-07-23 17:46:21.912197",
+    "latitude": 13.093244483316932,
+    "longitude": 77.52768633370775,
+    "road": "Hosur Road",
+    "speed_kmph": 17.2,
+    "congestion_level": "low"
+  },
+  {
+    "record_id": "f4836de8-f133-4e7d-8a73-483e26ecd1dc",
+    "timestamp": "2025-07-23 17:21:21.912200",
+    "latitude": 12.825325040209465,
+    "longitude": 77.70568701026822,
+    "road": "Hosur Road",
+    "speed_kmph": 32.8,
+    "congestion_level": "severe"
+  },
+  {
+    "record_id": "33c32015-dbb9-4bf6-ac8c-4bac9c130aa7",
+    "timestamp": "2025-07-23 18:03:21.912203",
+    "latitude": 13.108386801924798,
+    "longitude": 77.53824659469217,
+    "road": "Bannerghatta Road",
+    "speed_kmph": 47.8,
+    "congestion_level": "severe"
+  },
+  {
+    "record_id": "f819fa11-f584-4e73-8c85-823847469fb7",
+    "timestamp": "2025-07-23 17:45:21.912206",
+    "latitude": 12.88983159146357,
+    "longitude": 77.5172529994852,
+    "road": "Sarjapur Road",
+    "speed_kmph": 22.1,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "63c81fb9-4be7-40a1-a69f-9a4af2eb0d5a",
+    "timestamp": "2025-07-23 17:52:21.912209",
+    "latitude": 13.007544661714423,
+    "longitude": 77.47254888289241,
+    "road": "Outer Ring Road",
+    "speed_kmph": 5.8,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "6bd7f764-f8d5-42a7-8591-5047e6a517d0",
+    "timestamp": "2025-07-23 18:12:21.912212",
+    "latitude": 13.127597962650622,
+    "longitude": 77.5322288883683,
+    "road": "Old Airport Road",
+    "speed_kmph": 38.7,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "52696eeb-77cf-4eb6-b9fe-e842e4cc7065",
+    "timestamp": "2025-07-23 17:20:21.912227",
+    "latitude": 13.037342875537826,
+    "longitude": 77.51083952460593,
+    "road": "Outer Ring Road",
+    "speed_kmph": 44.4,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "4ccc5afe-f02a-4956-b8b7-58b822d8c08b",
+    "timestamp": "2025-07-23 17:36:21.912231",
+    "latitude": 12.945050434363463,
+    "longitude": 77.63705638575435,
+    "road": "Bannerghatta Road",
+    "speed_kmph": 67.6,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "b555d6ee-4057-4cf3-932a-b64900172ca3",
+    "timestamp": "2025-07-23 17:46:21.912234",
+    "latitude": 13.041336973116895,
+    "longitude": 77.50135394663477,
+    "road": "Outer Ring Road",
+    "speed_kmph": 43.3,
+    "congestion_level": "low"
+  },
+  {
+    "record_id": "3570f44d-4fc5-4e4c-ab09-ec628e461d8b",
+    "timestamp": "2025-07-23 18:09:21.912236",
+    "latitude": 12.92039287271073,
+    "longitude": 77.6020199112479,
+    "road": "Old Airport Road",
+    "speed_kmph": 35.6,
+    "congestion_level": "low"
+  },
+  {
+    "record_id": "980f6560-9cf5-40d9-bbc4-1107ec4d2550",
+    "timestamp": "2025-07-23 17:43:21.912240",
+    "latitude": 12.897040445722215,
+    "longitude": 77.4230622577612,
+    "road": "Tumkur Road",
+    "speed_kmph": 42.3,
+    "congestion_level": "severe"
+  },
+  {
+    "record_id": "c152caf6-0f29-401d-911a-c671f5931884",
+    "timestamp": "2025-07-23 17:42:21.912243",
+    "latitude": 13.148839147277139,
+    "longitude": 77.46695120484378,
+    "road": "Sarjapur Road",
+    "speed_kmph": 65.3,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "7b1e5e13-24cf-4629-a3ea-ea4f690e5ee8",
+    "timestamp": "2025-07-23 17:51:21.912246",
+    "latitude": 13.062776580912926,
+    "longitude": 77.54259184506398,
+    "road": "Sarjapur Road",
+    "speed_kmph": 58.8,
+    "congestion_level": "severe"
+  },
+  {
+    "record_id": "f8db37f6-c3bc-4ca7-a906-567dd28b829a",
+    "timestamp": "2025-07-23 17:40:21.912249",
+    "latitude": 13.025651992083636,
+    "longitude": 77.72793223886805,
+    "road": "Old Airport Road",
+    "speed_kmph": 26,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "fa74ed0b-f36e-40b7-b9f8-f5f4ce96c887",
+    "timestamp": "2025-07-23 17:33:21.912252",
+    "latitude": 12.924351375126761,
+    "longitude": 77.5320381950005,
+    "road": "Bellary Road",
+    "speed_kmph": 20.4,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "28d141db-c94b-4c99-a428-30f33e120f2b",
+    "timestamp": "2025-07-23 17:40:21.912255",
+    "latitude": 12.817206290204268,
+    "longitude": 77.63242594241994,
+    "road": "Mysore Road",
+    "speed_kmph": 22.1,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "976710d7-6418-4dde-ab44-312aa565cd41",
+    "timestamp": "2025-07-23 17:24:21.912258",
+    "latitude": 12.810869906612306,
+    "longitude": 77.4892805278475,
+    "road": "Sarjapur Road",
+    "speed_kmph": 37.8,
+    "congestion_level": "severe"
+  },
+  {
+    "record_id": "59b44b98-d596-4658-bfa2-7ffd3180c811",
+    "timestamp": "2025-07-23 17:44:21.912261",
+    "latitude": 12.99396343940708,
+    "longitude": 77.44446175159064,
+    "road": "Mysore Road",
+    "speed_kmph": 53.4,
+    "congestion_level": "severe"
+  },
+  {
+    "record_id": "f2f4f240-f69e-463d-b9ef-20ea120e5c83",
+    "timestamp": "2025-07-23 17:53:21.912264",
+    "latitude": 13.066711452363668,
+    "longitude": 77.42048781002802,
+    "road": "Tumkur Road",
+    "speed_kmph": 37.7,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "66c4ce9b-e483-44f1-a3f3-e5c546b636ea",
+    "timestamp": "2025-07-23 17:47:21.912267",
+    "latitude": 12.98808271665535,
+    "longitude": 77.50689472448997,
+    "road": "Hosur Road",
+    "speed_kmph": 9.4,
+    "congestion_level": "low"
+  },
+  {
+    "record_id": "95ff7d9d-bd5a-4760-b9d9-c1dc1f9bd2b4",
+    "timestamp": "2025-07-23 17:40:21.912270",
+    "latitude": 13.09427477517869,
+    "longitude": 77.45518135937893,
+    "road": "Outer Ring Road",
+    "speed_kmph": 52,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "34b158aa-26df-4494-ac1c-fcfcf1c056ba",
+    "timestamp": "2025-07-23 17:40:21.912273",
+    "latitude": 12.811699286582629,
+    "longitude": 77.46090365680566,
+    "road": "Tumkur Road",
+    "speed_kmph": 57.4,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "468538bc-ac17-4b47-a474-e10f718170c2",
+    "timestamp": "2025-07-23 17:46:21.912276",
+    "latitude": 12.92836322674908,
+    "longitude": 77.66626575793543,
+    "road": "Bannerghatta Road",
+    "speed_kmph": 23.8,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "a3027b21-02c1-4269-93d5-09afc2b5ac1b",
+    "timestamp": "2025-07-23 18:01:21.912278",
+    "latitude": 12.882974636910962,
+    "longitude": 77.40554332483072,
+    "road": "Magadi Road",
+    "speed_kmph": 48.2,
+    "congestion_level": "low"
+  },
+  {
+    "record_id": "8634a7cd-4fa8-4870-8547-5ee11e06d96a",
+    "timestamp": "2025-07-23 17:22:21.912282",
+    "latitude": 12.956545538854993,
+    "longitude": 77.5952335440074,
+    "road": "Outer Ring Road",
+    "speed_kmph": 32.7,
+    "congestion_level": "severe"
+  },
+  {
+    "record_id": "9933ca27-a0e8-4f89-858b-61611a44cb3b",
+    "timestamp": "2025-07-23 17:58:21.912284",
+    "latitude": 12.825331737617944,
+    "longitude": 77.53281148320772,
+    "road": "Mysore Road",
+    "speed_kmph": 62.8,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "703297d2-a911-410c-bb70-39b0789a9f00",
+    "timestamp": "2025-07-23 17:50:21.912287",
+    "latitude": 13.133946074549876,
+    "longitude": 77.577292499968,
+    "road": "Bellary Road",
+    "speed_kmph": 59.9,
+    "congestion_level": "low"
+  },
+  {
+    "record_id": "8a8ffb2c-1ff7-4e8c-927e-58464c7f9cd6",
+    "timestamp": "2025-07-23 17:46:21.912291",
+    "latitude": 12.878139390374278,
+    "longitude": 77.59699058302512,
+    "road": "Bannerghatta Road",
+    "speed_kmph": 39.2,
+    "congestion_level": "low"
+  },
+  {
+    "record_id": "275759a0-7451-4c96-9c2b-4ca9be2f7685",
+    "timestamp": "2025-07-23 18:06:21.912293",
+    "latitude": 13.122807721419255,
+    "longitude": 77.50967869306005,
+    "road": "Bannerghatta Road",
+    "speed_kmph": 49.9,
+    "congestion_level": "severe"
+  },
+  {
+    "record_id": "c1168b7e-fa9f-4841-a156-8c601205e9cc",
+    "timestamp": "2025-07-23 17:29:21.912296",
+    "latitude": 12.949062604262839,
+    "longitude": 77.5032881010645,
+    "road": "Old Airport Road",
+    "speed_kmph": 62.4,
+    "congestion_level": "severe"
+  },
+  {
+    "record_id": "e00f6ea2-5764-4ecf-b852-5de3e916ee82",
+    "timestamp": "2025-07-23 18:15:21.912299",
+    "latitude": 13.144933446639326,
+    "longitude": 77.65669064726721,
+    "road": "Outer Ring Road",
+    "speed_kmph": 37.2,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "0a7d1de0-fcea-486b-b311-a3a145a88731",
+    "timestamp": "2025-07-23 17:52:21.912302",
+    "latitude": 12.993920434211073,
+    "longitude": 77.70494694584241,
+    "road": "Bannerghatta Road",
+    "speed_kmph": 25.4,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "416553a1-e420-4a34-9685-b08b61aa189d",
+    "timestamp": "2025-07-23 18:01:21.912305",
+    "latitude": 13.125791502461533,
+    "longitude": 77.46740357136049,
+    "road": "Magadi Road",
+    "speed_kmph": 54,
+    "congestion_level": "severe"
+  },
+  {
+    "record_id": "6d0879b4-776e-4a29-a07c-68c21ce2ec5b",
+    "timestamp": "2025-07-23 17:57:21.912309",
+    "latitude": 12.801872146042978,
+    "longitude": 77.4341665661873,
+    "road": "Mysore Road",
+    "speed_kmph": 19.3,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "b5b2e008-e051-4aaa-ab1f-eecd95c127e6",
+    "timestamp": "2025-07-23 17:54:21.912312",
+    "latitude": 13.061883582163315,
+    "longitude": 77.71422853223721,
+    "road": "Magadi Road",
+    "speed_kmph": 30.3,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "7cbff645-cb61-416c-9d91-cf6bb1020282",
+    "timestamp": "2025-07-23 18:04:21.912315",
+    "latitude": 13.11606772858588,
+    "longitude": 77.5224634122766,
+    "road": "Bellary Road",
+    "speed_kmph": 61.3,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "85d8cc08-3981-4354-8a85-fbd1c22a6772",
+    "timestamp": "2025-07-23 18:11:21.912318",
+    "latitude": 12.848902198442634,
+    "longitude": 77.59296108673199,
+    "road": "Sarjapur Road",
+    "speed_kmph": 52.1,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "bb5493e6-ff63-4fac-96ac-b78e1a617efe",
+    "timestamp": "2025-07-23 18:01:21.912321",
+    "latitude": 12.833644048106255,
+    "longitude": 77.525840100582,
+    "road": "Outer Ring Road",
+    "speed_kmph": 31.2,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "dd763717-995b-4485-b5b1-27e19a72ebf3",
+    "timestamp": "2025-07-23 18:20:21.912324",
+    "latitude": 12.948600412515084,
+    "longitude": 77.44403081772113,
+    "road": "Kanakapura Road",
+    "speed_kmph": 19,
+    "congestion_level": "severe"
+  },
+  {
+    "record_id": "d9975545-de8e-4602-bdc5-59fc5cd0094c",
+    "timestamp": "2025-07-23 18:20:21.912327",
+    "latitude": 13.126787617146528,
+    "longitude": 77.60626607573171,
+    "road": "Sarjapur Road",
+    "speed_kmph": 28.1,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "b39bfeb6-d632-419d-be99-a2c2aa3794fb",
+    "timestamp": "2025-07-23 17:47:21.912330",
+    "latitude": 12.989835296066653,
+    "longitude": 77.58379929811937,
+    "road": "Bannerghatta Road",
+    "speed_kmph": 23.5,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "0e80c78a-6bf2-45d9-aeb6-d54bf6972fbb",
+    "timestamp": "2025-07-23 17:28:21.912333",
+    "latitude": 12.984609762302608,
+    "longitude": 77.47104774571693,
+    "road": "Tumkur Road",
+    "speed_kmph": 16.4,
+    "congestion_level": "severe"
+  },
+  {
+    "record_id": "c51b2775-dd7b-49a6-9aed-bcfda357e4ea",
+    "timestamp": "2025-07-23 17:32:21.912336",
+    "latitude": 12.849394141404764,
+    "longitude": 77.5581541656283,
+    "road": "Kanakapura Road",
+    "speed_kmph": 53.3,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "bb815c56-b95b-4efe-97a2-9c6c47bb6bb0",
+    "timestamp": "2025-07-23 17:26:21.912339",
+    "latitude": 12.800276328882628,
+    "longitude": 77.67893162640547,
+    "road": "Sarjapur Road",
+    "speed_kmph": 21.4,
+    "congestion_level": "severe"
+  },
+  {
+    "record_id": "a3e86f41-406d-4f7c-a79c-797d469f2152",
+    "timestamp": "2025-07-23 18:12:21.912342",
+    "latitude": 13.083549031760912,
+    "longitude": 77.60664913608777,
+    "road": "Outer Ring Road",
+    "speed_kmph": 34.5,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "aabf1a08-6b6d-40da-942e-2e6a8200b972",
+    "timestamp": "2025-07-23 17:58:21.912345",
+    "latitude": 12.830651097045184,
+    "longitude": 77.43392106447345,
+    "road": "Magadi Road",
+    "speed_kmph": 30.1,
+    "congestion_level": "severe"
+  },
+  {
+    "record_id": "5b4e279b-fbab-407a-8051-dbdad61782cb",
+    "timestamp": "2025-07-23 18:02:21.912348",
+    "latitude": 13.021847436557364,
+    "longitude": 77.5918075240302,
+    "road": "Magadi Road",
+    "speed_kmph": 68.8,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "b68d6f38-19e3-484f-834f-202915459b48",
+    "timestamp": "2025-07-23 17:50:21.912351",
+    "latitude": 13.120115759080317,
+    "longitude": 77.64595840475135,
+    "road": "Kanakapura Road",
+    "speed_kmph": 30.4,
+    "congestion_level": "low"
+  },
+  {
+    "record_id": "95f5f2ac-3e24-4c2b-bc4c-ec7dce55754e",
+    "timestamp": "2025-07-23 17:46:21.912354",
+    "latitude": 12.873028169605451,
+    "longitude": 77.67744619202327,
+    "road": "Kanakapura Road",
+    "speed_kmph": 10.2,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "6f0b5b2b-9751-4f49-b8ac-e4867eb6c0a9",
+    "timestamp": "2025-07-23 18:20:21.912357",
+    "latitude": 13.032845492682918,
+    "longitude": 77.620191152522,
+    "road": "Outer Ring Road",
+    "speed_kmph": 10.8,
+    "congestion_level": "low"
+  },
+  {
+    "record_id": "ff4f3808-1a9d-4acc-8408-7701aa66a0ed",
+    "timestamp": "2025-07-23 17:36:21.912360",
+    "latitude": 12.82754450184763,
+    "longitude": 77.45343035758928,
+    "road": "Mysore Road",
+    "speed_kmph": 43.4,
+    "congestion_level": "severe"
+  },
+  {
+    "record_id": "7ce4858e-b562-4984-9385-d453c7ea7fd1",
+    "timestamp": "2025-07-23 17:21:21.912363",
+    "latitude": 13.011314300343164,
+    "longitude": 77.64856064330655,
+    "road": "Sarjapur Road",
+    "speed_kmph": 44,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "90cc7a42-d660-4275-9b4c-ccb08f881e63",
+    "timestamp": "2025-07-23 17:49:21.912366",
+    "latitude": 12.857376102333621,
+    "longitude": 77.63706964612854,
+    "road": "Bellary Road",
+    "speed_kmph": 32.2,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "ded21b15-84db-41dd-9b4b-f6366035e48d",
+    "timestamp": "2025-07-23 17:20:21.912369",
+    "latitude": 13.057583746180313,
+    "longitude": 77.40854940902922,
+    "road": "Outer Ring Road",
+    "speed_kmph": 33.1,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "0ac7256b-61f1-4c8c-aae5-0490ecdcbb27",
+    "timestamp": "2025-07-23 17:32:21.912372",
+    "latitude": 12.905430953177868,
+    "longitude": 77.5441116836566,
+    "road": "Hosur Road",
+    "speed_kmph": 8.5,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "d694a527-9720-488f-9b98-a0e39a068a93",
+    "timestamp": "2025-07-23 17:50:21.912375",
+    "latitude": 12.962186853081628,
+    "longitude": 77.51653258643684,
+    "road": "Old Airport Road",
+    "speed_kmph": 38.6,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "193c5319-f43e-475b-a486-87d4cb295e19",
+    "timestamp": "2025-07-23 18:01:21.912378",
+    "latitude": 13.009800689709667,
+    "longitude": 77.63429422248878,
+    "road": "Hosur Road",
+    "speed_kmph": 37.8,
+    "congestion_level": "severe"
+  },
+  {
+    "record_id": "f77b9742-1e12-4bed-984c-4178935c31d1",
+    "timestamp": "2025-07-23 18:20:21.912380",
+    "latitude": 12.859945693733184,
+    "longitude": 77.47564753430882,
+    "road": "Old Airport Road",
+    "speed_kmph": 14.7,
+    "congestion_level": "low"
+  },
+  {
+    "record_id": "9482e11e-5c56-43aa-bd15-d3eec39783ae",
+    "timestamp": "2025-07-23 17:31:21.912383",
+    "latitude": 13.059573236516167,
+    "longitude": 77.606805173041,
+    "road": "Hosur Road",
+    "speed_kmph": 11.7,
+    "congestion_level": "severe"
+  },
+  {
+    "record_id": "9a9303ea-e75e-4164-b595-0807ac30211d",
+    "timestamp": "2025-07-23 17:53:21.912386",
+    "latitude": 12.905924119222886,
+    "longitude": 77.71962208663496,
+    "road": "Bellary Road",
+    "speed_kmph": 13,
+    "congestion_level": "low"
+  },
+  {
+    "record_id": "b7e1c9a2-64cc-4a90-90b6-6c106bfd01bc",
+    "timestamp": "2025-07-23 17:29:21.912389",
+    "latitude": 13.031830150969464,
+    "longitude": 77.67923083027301,
+    "road": "Tumkur Road",
+    "speed_kmph": 11.6,
+    "congestion_level": "low"
+  },
+  {
+    "record_id": "a5a79705-58e8-41db-8a34-9670be8b15f3",
+    "timestamp": "2025-07-23 18:02:21.912392",
+    "latitude": 12.85539906774478,
+    "longitude": 77.72251020767578,
+    "road": "Sarjapur Road",
+    "speed_kmph": 44.6,
+    "congestion_level": "severe"
+  },
+  {
+    "record_id": "75f3405d-da2b-41b7-b0b3-e6dfc9c34dd8",
+    "timestamp": "2025-07-23 17:42:21.912396",
+    "latitude": 13.040841180722223,
+    "longitude": 77.74247708842644,
+    "road": "Mysore Road",
+    "speed_kmph": 17.8,
+    "congestion_level": "severe"
+  },
+  {
+    "record_id": "098aef72-85d3-43ee-9d08-854592c6bb94",
+    "timestamp": "2025-07-23 18:06:21.912399",
+    "latitude": 12.844865825483662,
+    "longitude": 77.40373454445216,
+    "road": "Outer Ring Road",
+    "speed_kmph": 21.3,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "ce22efcf-d02b-4c3a-a610-ba20f0b0c031",
+    "timestamp": "2025-07-23 17:30:21.912402",
+    "latitude": 12.948874773694495,
+    "longitude": 77.61795944673212,
+    "road": "Old Airport Road",
+    "speed_kmph": 16.3,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "6e8a457f-c712-4f67-be90-1a64a0cc5d31",
+    "timestamp": "2025-07-23 18:20:21.912405",
+    "latitude": 12.886522125808607,
+    "longitude": 77.54449378921562,
+    "road": "Mysore Road",
+    "speed_kmph": 67.3,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "374e5dff-0690-4169-a878-0458ab48106d",
+    "timestamp": "2025-07-23 17:45:21.912408",
+    "latitude": 13.061931337299864,
+    "longitude": 77.70094907161729,
+    "road": "Outer Ring Road",
+    "speed_kmph": 60.6,
+    "congestion_level": "low"
+  },
+  {
+    "record_id": "a169d799-062e-4424-ae44-d34991225311",
+    "timestamp": "2025-07-23 17:57:21.912411",
+    "latitude": 12.891712251577406,
+    "longitude": 77.4881351457032,
+    "road": "Sarjapur Road",
+    "speed_kmph": 20,
+    "congestion_level": "severe"
+  },
+  {
+    "record_id": "4ad2a7ba-194b-4b6e-9436-deb3f229c37b",
+    "timestamp": "2025-07-23 18:08:21.912414",
+    "latitude": 13.108601057238388,
+    "longitude": 77.74336032119028,
+    "road": "Hosur Road",
+    "speed_kmph": 26.3,
+    "congestion_level": "severe"
+  },
+  {
+    "record_id": "07438e60-cd49-41c9-a982-4369ebb10253",
+    "timestamp": "2025-07-23 17:54:21.912417",
+    "latitude": 13.112137073992315,
+    "longitude": 77.61479778934032,
+    "road": "Tumkur Road",
+    "speed_kmph": 18.6,
+    "congestion_level": "severe"
+  },
+  {
+    "record_id": "e414f2c5-d974-4ff0-b4e5-418dbaa380fa",
+    "timestamp": "2025-07-23 17:24:21.912420",
+    "latitude": 12.868754460327976,
+    "longitude": 77.6777380907801,
+    "road": "Mysore Road",
+    "speed_kmph": 37,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "aed9dac5-d180-47f4-9bcc-7bfb40e64eed",
+    "timestamp": "2025-07-23 17:45:21.912423",
+    "latitude": 13.014846080752704,
+    "longitude": 77.42995984348798,
+    "road": "Outer Ring Road",
+    "speed_kmph": 6.3,
+    "congestion_level": "low"
+  },
+  {
+    "record_id": "f730d07e-f93c-4285-9a35-79455813a496",
+    "timestamp": "2025-07-23 17:53:21.912426",
+    "latitude": 12.830701174601987,
+    "longitude": 77.4642102596656,
+    "road": "Mysore Road",
+    "speed_kmph": 48.6,
+    "congestion_level": "low"
+  },
+  {
+    "record_id": "c8a134aa-722d-4397-86d1-62d63faadfd6",
+    "timestamp": "2025-07-23 17:55:21.912429",
+    "latitude": 12.93703798486057,
+    "longitude": 77.66544128556197,
+    "road": "Outer Ring Road",
+    "speed_kmph": 39,
+    "congestion_level": "low"
+  },
+  {
+    "record_id": "b2f881eb-754c-4511-9313-3ea10c3c900f",
+    "timestamp": "2025-07-23 18:05:21.912432",
+    "latitude": 13.049662605325446,
+    "longitude": 77.40769528271377,
+    "road": "Bannerghatta Road",
+    "speed_kmph": 63.4,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "c4c3b30d-435f-49e6-a282-bbabfdb09520",
+    "timestamp": "2025-07-23 18:10:21.912435",
+    "latitude": 13.030798136397472,
+    "longitude": 77.68590729506282,
+    "road": "Hosur Road",
+    "speed_kmph": 15.7,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "8ef86619-3599-4e91-a91c-9094cb2c0efb",
+    "timestamp": "2025-07-23 17:35:21.912440",
+    "latitude": 13.018645234292313,
+    "longitude": 77.40488215654217,
+    "road": "Kanakapura Road",
+    "speed_kmph": 57.3,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "a5f62181-8c1a-4477-9d0d-3739c553bb6d",
+    "timestamp": "2025-07-23 17:33:21.912443",
+    "latitude": 12.898889302281855,
+    "longitude": 77.62999159367145,
+    "road": "Mysore Road",
+    "speed_kmph": 56.5,
+    "congestion_level": "low"
+  },
+  {
+    "record_id": "c0d9863f-66bc-46f0-bd9e-d3fc5266cd86",
+    "timestamp": "2025-07-23 17:39:21.912446",
+    "latitude": 12.932308732302042,
+    "longitude": 77.52778287208113,
+    "road": "Kanakapura Road",
+    "speed_kmph": 13.3,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "2c0bfe69-d0c2-4b24-87ed-88885939dc71",
+    "timestamp": "2025-07-23 17:56:21.912449",
+    "latitude": 12.8360311506451,
+    "longitude": 77.61402319845172,
+    "road": "Outer Ring Road",
+    "speed_kmph": 30.9,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "16c02601-db4d-4d18-bff5-475cd83f8f4f",
+    "timestamp": "2025-07-23 17:27:21.912452",
+    "latitude": 13.05165798715176,
+    "longitude": 77.64361099244618,
+    "road": "Kanakapura Road",
+    "speed_kmph": 16.1,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "89c9c0f3-9dcc-41b0-9a0f-df6155718266",
+    "timestamp": "2025-07-23 17:56:21.912455",
+    "latitude": 12.976361078876947,
+    "longitude": 77.51986632671522,
+    "road": "Mysore Road",
+    "speed_kmph": 21.6,
+    "congestion_level": "severe"
+  },
+  {
+    "record_id": "f74575cd-d613-4a1e-8e1e-aeb5bd676ba0",
+    "timestamp": "2025-07-23 18:06:21.912458",
+    "latitude": 13.048067971320979,
+    "longitude": 77.4377868568388,
+    "road": "Hosur Road",
+    "speed_kmph": 22.1,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "4e4b36aa-d424-4390-9108-61bb3a42168f",
+    "timestamp": "2025-07-23 18:04:21.912461",
+    "latitude": 12.887130233678906,
+    "longitude": 77.4243760537119,
+    "road": "Bannerghatta Road",
+    "speed_kmph": 41.2,
+    "congestion_level": "severe"
+  },
+  {
+    "record_id": "17269541-b8d1-4a8f-aa07-219819eead26",
+    "timestamp": "2025-07-23 18:15:21.912464",
+    "latitude": 12.913553380022273,
+    "longitude": 77.6061276078969,
+    "road": "Magadi Road",
+    "speed_kmph": 31.7,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "9f2e444a-501b-4f44-a7f3-e4bfa3b31be6",
+    "timestamp": "2025-07-23 17:53:21.912467",
+    "latitude": 12.91697536804104,
+    "longitude": 77.58222937380694,
+    "road": "Outer Ring Road",
+    "speed_kmph": 66.6,
+    "congestion_level": "severe"
+  },
+  {
+    "record_id": "c1ae35bb-2faa-49dd-a3b4-a2407f480536",
+    "timestamp": "2025-07-23 17:40:21.912470",
+    "latitude": 12.809009843411527,
+    "longitude": 77.6597703531924,
+    "road": "Bannerghatta Road",
+    "speed_kmph": 13.2,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "db213e31-43c2-481f-b3c0-0b7d61f863f4",
+    "timestamp": "2025-07-23 18:05:21.912472",
+    "latitude": 12.919366755490719,
+    "longitude": 77.57840742850138,
+    "road": "Kanakapura Road",
+    "speed_kmph": 68.3,
+    "congestion_level": "low"
+  },
+  {
+    "record_id": "5645b6bb-59c0-45a8-bc45-d65db517e8ef",
+    "timestamp": "2025-07-23 17:47:21.912475",
+    "latitude": 13.081156600731312,
+    "longitude": 77.54785602651081,
+    "road": "Old Airport Road",
+    "speed_kmph": 20,
+    "congestion_level": "low"
+  },
+  {
+    "record_id": "5c88da6e-e551-4a7a-b011-a2bece4f4c66",
+    "timestamp": "2025-07-23 17:32:21.912478",
+    "latitude": 13.11405447351241,
+    "longitude": 77.53933051238269,
+    "road": "Sarjapur Road",
+    "speed_kmph": 55.2,
+    "congestion_level": "severe"
+  },
+  {
+    "record_id": "2b25a58a-f595-4b2e-a8c2-783dc138a98b",
+    "timestamp": "2025-07-23 17:29:21.912481",
+    "latitude": 12.981376410472576,
+    "longitude": 77.40925641590918,
+    "road": "Old Airport Road",
+    "speed_kmph": 27,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "30960fbb-1c89-4e3c-8413-d04952a0628b",
+    "timestamp": "2025-07-23 17:22:21.912484",
+    "latitude": 12.959425593326728,
+    "longitude": 77.51744502059384,
+    "road": "Bellary Road",
+    "speed_kmph": 14.3,
+    "congestion_level": "low"
+  },
+  {
+    "record_id": "8191086b-e8a9-4aba-8f7e-bc5494f3ea1b",
+    "timestamp": "2025-07-23 17:41:21.912487",
+    "latitude": 12.81078861654478,
+    "longitude": 77.74160705513357,
+    "road": "Magadi Road",
+    "speed_kmph": 60.8,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "4bd40152-8f7b-46c2-a46e-47a2b3422968",
+    "timestamp": "2025-07-23 17:29:21.912490",
+    "latitude": 13.107721518154884,
+    "longitude": 77.70574445167948,
+    "road": "Outer Ring Road",
+    "speed_kmph": 25.1,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "2d8b62b6-89cb-49aa-8f56-fffcc1bbb767",
+    "timestamp": "2025-07-23 17:36:21.912494",
+    "latitude": 12.804553574699057,
+    "longitude": 77.51528232346197,
+    "road": "Hosur Road",
+    "speed_kmph": 47.8,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "13707fcb-b215-44f7-9e54-1d3e65e17146",
+    "timestamp": "2025-07-23 17:37:21.912497",
+    "latitude": 13.130662528073575,
+    "longitude": 77.60572839177323,
+    "road": "Old Airport Road",
+    "speed_kmph": 41.8,
+    "congestion_level": "low"
+  },
+  {
+    "record_id": "b62fb6ee-172d-4647-97e6-ae9932d8bc29",
+    "timestamp": "2025-07-23 18:03:21.912500",
+    "latitude": 12.971225687040832,
+    "longitude": 77.69655386093743,
+    "road": "Bannerghatta Road",
+    "speed_kmph": 35.7,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "a9c6d4e3-e07e-4f26-aa29-9a229914857d",
+    "timestamp": "2025-07-23 18:02:21.912503",
+    "latitude": 12.919677072751155,
+    "longitude": 77.55444601786253,
+    "road": "Bannerghatta Road",
+    "speed_kmph": 37.2,
+    "congestion_level": "severe"
+  },
+  {
+    "record_id": "2550e249-436c-4827-9a2a-5b5f67964bd9",
+    "timestamp": "2025-07-23 17:39:21.912505",
+    "latitude": 13.123476452194932,
+    "longitude": 77.40628525231256,
+    "road": "Sarjapur Road",
+    "speed_kmph": 52.6,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "5a929d27-8867-4641-9714-fc0bb7447158",
+    "timestamp": "2025-07-23 17:33:21.912509",
+    "latitude": 12.808536847588535,
+    "longitude": 77.42607866163652,
+    "road": "Bannerghatta Road",
+    "speed_kmph": 10.7,
+    "congestion_level": "severe"
+  },
+  {
+    "record_id": "629f1962-ebd7-45f5-a20e-674e6591d99b",
+    "timestamp": "2025-07-23 17:46:21.912511",
+    "latitude": 13.00349871320418,
+    "longitude": 77.57863745247205,
+    "road": "Bannerghatta Road",
+    "speed_kmph": 48.4,
+    "congestion_level": "severe"
+  },
+  {
+    "record_id": "bc7d0017-f4c1-440b-9852-8abb1a873c25",
+    "timestamp": "2025-07-23 17:29:21.912514",
+    "latitude": 12.99212638357477,
+    "longitude": 77.73930378148656,
+    "road": "Mysore Road",
+    "speed_kmph": 63.2,
+    "congestion_level": "low"
+  },
+  {
+    "record_id": "cc69a8ca-e32f-4ec3-a05f-f96ed087dc98",
+    "timestamp": "2025-07-23 18:03:21.912517",
+    "latitude": 12.876762140423985,
+    "longitude": 77.6426233397766,
+    "road": "Hosur Road",
+    "speed_kmph": 8.8,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "f882c326-91f2-4485-9d09-18564b3dd578",
+    "timestamp": "2025-07-23 17:54:21.912520",
+    "latitude": 12.950110600972573,
+    "longitude": 77.4248206670035,
+    "road": "Magadi Road",
+    "speed_kmph": 14.1,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "398e1f36-ffdb-4a38-92e6-ef74150bd1d8",
+    "timestamp": "2025-07-23 18:08:21.912522",
+    "latitude": 13.02829240208032,
+    "longitude": 77.46627630652716,
+    "road": "Old Airport Road",
+    "speed_kmph": 51.6,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "3ef389ba-0a70-46c8-937d-8533714a0ae0",
+    "timestamp": "2025-07-23 17:26:21.912525",
+    "latitude": 13.054495918908675,
+    "longitude": 77.6699631001259,
+    "road": "Kanakapura Road",
+    "speed_kmph": 33.4,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "fe20193b-aae2-4d63-a7ae-daae8c48e3f4",
+    "timestamp": "2025-07-23 18:16:21.912528",
+    "latitude": 12.800250900547304,
+    "longitude": 77.69450391598468,
+    "road": "Mysore Road",
+    "speed_kmph": 31.2,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "3976c637-7e97-46ad-86bf-79cf4616fd6e",
+    "timestamp": "2025-07-23 18:09:21.912531",
+    "latitude": 13.127898700531857,
+    "longitude": 77.616193105166,
+    "road": "Kanakapura Road",
+    "speed_kmph": 13.9,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "380ec19d-fbb7-43fd-b1f0-b429d54fbd02",
+    "timestamp": "2025-07-23 18:12:21.912534",
+    "latitude": 12.857583880337485,
+    "longitude": 77.62554810937044,
+    "road": "Kanakapura Road",
+    "speed_kmph": 37.9,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "70bb2a0e-39d0-4b29-a008-e8ed3ecf5f0a",
+    "timestamp": "2025-07-23 18:02:21.912537",
+    "latitude": 12.881753151977826,
+    "longitude": 77.40991810763418,
+    "road": "Kanakapura Road",
+    "speed_kmph": 13.2,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "25376857-3749-4f64-8fc0-1fbca5dc733d",
+    "timestamp": "2025-07-23 18:13:21.912540",
+    "latitude": 12.892215705992847,
+    "longitude": 77.68998559085352,
+    "road": "Outer Ring Road",
+    "speed_kmph": 36,
+    "congestion_level": "low"
+  },
+  {
+    "record_id": "f6ef66e4-3e61-4359-8bfa-a29e032dd96d",
+    "timestamp": "2025-07-23 17:40:21.912543",
+    "latitude": 12.813237047793214,
+    "longitude": 77.67589632285978,
+    "road": "Old Airport Road",
+    "speed_kmph": 54.6,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "7bb7cc42-9cba-4bc6-9b87-2c8f05517102",
+    "timestamp": "2025-07-23 17:51:21.912545",
+    "latitude": 12.843068243256614,
+    "longitude": 77.49066230043617,
+    "road": "Hosur Road",
+    "speed_kmph": 21.8,
+    "congestion_level": "severe"
+  },
+  {
+    "record_id": "8e6b2439-6a1e-4d9a-b05f-052bd682a0b4",
+    "timestamp": "2025-07-23 17:41:21.912548",
+    "latitude": 13.145222473030458,
+    "longitude": 77.64803685198792,
+    "road": "Sarjapur Road",
+    "speed_kmph": 36.3,
+    "congestion_level": "severe"
+  },
+  {
+    "record_id": "31369512-916e-4089-bf95-58a38d1d282e",
+    "timestamp": "2025-07-23 17:52:21.912551",
+    "latitude": 12.91032585808205,
+    "longitude": 77.47519911224876,
+    "road": "Kanakapura Road",
+    "speed_kmph": 69.5,
+    "congestion_level": "low"
+  },
+  {
+    "record_id": "84c11826-d910-498c-afa1-7fe6698e0981",
+    "timestamp": "2025-07-23 18:03:21.912555",
+    "latitude": 12.840355381618668,
+    "longitude": 77.41411555636803,
+    "road": "Mysore Road",
+    "speed_kmph": 49.6,
+    "congestion_level": "severe"
+  },
+  {
+    "record_id": "9351240f-a093-4a68-a64d-49fa94b59339",
+    "timestamp": "2025-07-23 17:36:21.912558",
+    "latitude": 12.83744694141112,
+    "longitude": 77.47039778990664,
+    "road": "Outer Ring Road",
+    "speed_kmph": 59.7,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "63193bf6-faa8-45a6-a6ff-ee2ae37b8f84",
+    "timestamp": "2025-07-23 17:41:21.912561",
+    "latitude": 13.05181098868449,
+    "longitude": 77.462520106864,
+    "road": "Bannerghatta Road",
+    "speed_kmph": 32,
+    "congestion_level": "low"
+  },
+  {
+    "record_id": "cbfae8d6-b4ed-4d1d-82f1-287bbf2dcfcb",
+    "timestamp": "2025-07-23 17:49:21.912565",
+    "latitude": 13.099099032411425,
+    "longitude": 77.5182117988572,
+    "road": "Magadi Road",
+    "speed_kmph": 54.9,
+    "congestion_level": "low"
+  },
+  {
+    "record_id": "cd3ddee3-cdad-44f4-9d2d-113bfb5edc15",
+    "timestamp": "2025-07-23 18:08:21.912568",
+    "latitude": 12.889933304827965,
+    "longitude": 77.54645732401141,
+    "road": "Mysore Road",
+    "speed_kmph": 7.6,
+    "congestion_level": "low"
+  },
+  {
+    "record_id": "5d50d2eb-5ec7-4b9e-ae6a-a3ec43787e6b",
+    "timestamp": "2025-07-23 18:00:21.912572",
+    "latitude": 12.807318329317333,
+    "longitude": 77.5779886120242,
+    "road": "Mysore Road",
+    "speed_kmph": 13,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "3c15ae1f-efda-41b2-aced-f328e669dd22",
+    "timestamp": "2025-07-23 18:19:21.912575",
+    "latitude": 12.878081506455874,
+    "longitude": 77.56686385642791,
+    "road": "Hosur Road",
+    "speed_kmph": 18.2,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "13b8ec30-5b69-4697-8a55-a14b51f5a8f9",
+    "timestamp": "2025-07-23 18:11:21.912578",
+    "latitude": 12.819780491778866,
+    "longitude": 77.49473611208785,
+    "road": "Hosur Road",
+    "speed_kmph": 31.1,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "52587a1a-226e-4ecb-b175-7e7df545752a",
+    "timestamp": "2025-07-23 18:17:21.912581",
+    "latitude": 12.836188227820514,
+    "longitude": 77.41020973400093,
+    "road": "Sarjapur Road",
+    "speed_kmph": 60,
+    "congestion_level": "severe"
+  },
+  {
+    "record_id": "b3d2c4a9-fc7b-427f-93d3-9ff9dc2555f1",
+    "timestamp": "2025-07-23 17:46:21.912584",
+    "latitude": 12.951027841946676,
+    "longitude": 77.611785567783,
+    "road": "Magadi Road",
+    "speed_kmph": 27.5,
+    "congestion_level": "low"
+  },
+  {
+    "record_id": "94369f5d-89cc-4b08-8ba9-a0f03f3488a3",
+    "timestamp": "2025-07-23 18:19:21.912588",
+    "latitude": 12.880471429801572,
+    "longitude": 77.53851069044657,
+    "road": "Magadi Road",
+    "speed_kmph": 47.6,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "eadfeef6-fb23-49d3-98bc-2e3b20f6b8d8",
+    "timestamp": "2025-07-23 18:09:21.912591",
+    "latitude": 12.9805810574839,
+    "longitude": 77.50453525508564,
+    "road": "Bannerghatta Road",
+    "speed_kmph": 51.1,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "b556aeac-81e8-4e90-bc4a-013fc8c28cfe",
+    "timestamp": "2025-07-23 18:14:21.912594",
+    "latitude": 12.888722813640017,
+    "longitude": 77.70342936499068,
+    "road": "Old Airport Road",
+    "speed_kmph": 43.1,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "1ad4ac13-5040-49fa-890d-58e579c9f246",
+    "timestamp": "2025-07-23 18:02:21.912597",
+    "latitude": 13.129188055386033,
+    "longitude": 77.66136015772936,
+    "road": "Hosur Road",
+    "speed_kmph": 28.2,
+    "congestion_level": "severe"
+  },
+  {
+    "record_id": "3a52b383-9aa5-4f18-9387-fcd8cea82b7a",
+    "timestamp": "2025-07-23 18:03:21.912619",
+    "latitude": 13.117080388774193,
+    "longitude": 77.70021794193036,
+    "road": "Sarjapur Road",
+    "speed_kmph": 42.5,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "b3bfbdab-b7b2-4f20-992c-fe25b858e203",
+    "timestamp": "2025-07-23 18:12:21.912623",
+    "latitude": 12.998382136753664,
+    "longitude": 77.57324397814936,
+    "road": "Old Airport Road",
+    "speed_kmph": 27.2,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "d232231d-8dd7-477d-b9fb-722da51c7d2a",
+    "timestamp": "2025-07-23 17:35:21.912625",
+    "latitude": 12.924048397195586,
+    "longitude": 77.44582593824438,
+    "road": "Kanakapura Road",
+    "speed_kmph": 10.5,
+    "congestion_level": "low"
+  },
+  {
+    "record_id": "44e5eddd-771d-430f-b955-b110fc2e0301",
+    "timestamp": "2025-07-23 17:52:21.912628",
+    "latitude": 12.933401408712157,
+    "longitude": 77.64367750264245,
+    "road": "Kanakapura Road",
+    "speed_kmph": 69.5,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "75d236e3-0d9e-4c48-962c-4be49302a5dc",
+    "timestamp": "2025-07-23 17:34:21.912631",
+    "latitude": 12.944148299100574,
+    "longitude": 77.47212582297801,
+    "road": "Bannerghatta Road",
+    "speed_kmph": 13.3,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "974fe668-7f44-4add-b018-4f959e6a10fa",
+    "timestamp": "2025-07-23 18:20:21.912633",
+    "latitude": 13.054652762747232,
+    "longitude": 77.5544303841821,
+    "road": "Tumkur Road",
+    "speed_kmph": 9.7,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "feec0074-f402-4e77-908d-692f6fa9c57c",
+    "timestamp": "2025-07-23 18:06:21.912636",
+    "latitude": 12.958073648431593,
+    "longitude": 77.42275027613212,
+    "road": "Old Airport Road",
+    "speed_kmph": 62.1,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "72ced11f-8f59-448b-85a9-57332bdd0419",
+    "timestamp": "2025-07-23 18:15:21.912640",
+    "latitude": 13.099855481277064,
+    "longitude": 77.68885794084804,
+    "road": "Sarjapur Road",
+    "speed_kmph": 24.6,
+    "congestion_level": "low"
+  },
+  {
+    "record_id": "e555e087-0ebb-41ae-a678-97538f1a5d4a",
+    "timestamp": "2025-07-23 18:11:21.912642",
+    "latitude": 13.130433175075629,
+    "longitude": 77.44407922436663,
+    "road": "Magadi Road",
+    "speed_kmph": 47.3,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "b4d0aaea-de19-493e-ba04-30c458fc8448",
+    "timestamp": "2025-07-23 18:20:21.912645",
+    "latitude": 12.917581153682628,
+    "longitude": 77.71608412746725,
+    "road": "Magadi Road",
+    "speed_kmph": 26.4,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "5abac34b-ae98-42fa-9053-adba25db78d1",
+    "timestamp": "2025-07-23 17:49:21.912647",
+    "latitude": 12.996243068481489,
+    "longitude": 77.70248071079155,
+    "road": "Sarjapur Road",
+    "speed_kmph": 30.4,
+    "congestion_level": "severe"
+  },
+  {
+    "record_id": "46addbe7-b807-4910-b469-76af10bee3e8",
+    "timestamp": "2025-07-23 18:07:21.912650",
+    "latitude": 12.833269787891398,
+    "longitude": 77.56260396755374,
+    "road": "Magadi Road",
+    "speed_kmph": 22,
+    "congestion_level": "low"
+  },
+  {
+    "record_id": "e582eba2-f285-4a73-8083-dcf391db5fbc",
+    "timestamp": "2025-07-23 17:59:21.912653",
+    "latitude": 12.870164166718226,
+    "longitude": 77.6605288715064,
+    "road": "Magadi Road",
+    "speed_kmph": 27.3,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "99056421-b6af-49df-870f-48c2ba4e832f",
+    "timestamp": "2025-07-23 17:54:21.912656",
+    "latitude": 12.944713018348557,
+    "longitude": 77.61680577583635,
+    "road": "Bannerghatta Road",
+    "speed_kmph": 31.7,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "c3ad6ffd-b447-4e70-ae4a-e0717da5b648",
+    "timestamp": "2025-07-23 18:01:21.912659",
+    "latitude": 12.872170950565623,
+    "longitude": 77.68107647481821,
+    "road": "Old Airport Road",
+    "speed_kmph": 51.8,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "65706108-fc78-490e-a223-ab94f157f169",
+    "timestamp": "2025-07-23 17:30:21.912663",
+    "latitude": 13.106796171776052,
+    "longitude": 77.55113178527508,
+    "road": "Magadi Road",
+    "speed_kmph": 38.2,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "4f50b598-73bd-480f-a96b-c76137179e45",
+    "timestamp": "2025-07-23 17:29:21.912666",
+    "latitude": 12.855400189620685,
+    "longitude": 77.67503296948553,
+    "road": "Sarjapur Road",
+    "speed_kmph": 66.3,
+    "congestion_level": "severe"
+  },
+  {
+    "record_id": "4dfe448c-acb7-4476-b27c-172189d44ce2",
+    "timestamp": "2025-07-23 17:49:21.912669",
+    "latitude": 12.959481287543582,
+    "longitude": 77.56185988597281,
+    "road": "Bannerghatta Road",
+    "speed_kmph": 7.7,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "cc650374-91e2-4c1e-bb89-5644549dd3b5",
+    "timestamp": "2025-07-23 17:57:21.912672",
+    "latitude": 13.011994734160957,
+    "longitude": 77.72933802574498,
+    "road": "Kanakapura Road",
+    "speed_kmph": 37.7,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "683a755e-f23e-4b0b-8209-5583e03f7c17",
+    "timestamp": "2025-07-23 17:51:21.912676",
+    "latitude": 13.042152367856296,
+    "longitude": 77.5702302352888,
+    "road": "Tumkur Road",
+    "speed_kmph": 43,
+    "congestion_level": "low"
+  },
+  {
+    "record_id": "faecfb4c-8a24-4d57-842c-40ce24ec755d",
+    "timestamp": "2025-07-23 17:36:21.912678",
+    "latitude": 12.934074279404278,
+    "longitude": 77.5619167451768,
+    "road": "Tumkur Road",
+    "speed_kmph": 64.8,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "dcdc23fc-5080-4bbf-963d-4606ae6b19de",
+    "timestamp": "2025-07-23 17:30:21.912681",
+    "latitude": 13.104184674053656,
+    "longitude": 77.67477515154724,
+    "road": "Kanakapura Road",
+    "speed_kmph": 8.2,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "0d8f808d-9c0e-4192-b88c-266401bc075c",
+    "timestamp": "2025-07-23 18:18:21.912684",
+    "latitude": 12.998911702877274,
+    "longitude": 77.6875521921163,
+    "road": "Bellary Road",
+    "speed_kmph": 42.3,
+    "congestion_level": "low"
+  },
+  {
+    "record_id": "9662f883-5bbc-4b30-8124-b471b64d158c",
+    "timestamp": "2025-07-23 17:59:21.912686",
+    "latitude": 12.953827723156644,
+    "longitude": 77.59407119001241,
+    "road": "Bellary Road",
+    "speed_kmph": 60.5,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "122def06-fa33-4ca5-864d-8e701ea391e2",
+    "timestamp": "2025-07-23 18:15:21.912689",
+    "latitude": 12.823534221918214,
+    "longitude": 77.46292923472328,
+    "road": "Bellary Road",
+    "speed_kmph": 20.7,
+    "congestion_level": "severe"
+  },
+  {
+    "record_id": "69e8fe2a-879f-42eb-9049-f9049d254dc4",
+    "timestamp": "2025-07-23 17:27:21.912691",
+    "latitude": 12.962641313955809,
+    "longitude": 77.56371538083516,
+    "road": "Magadi Road",
+    "speed_kmph": 62,
+    "congestion_level": "severe"
+  },
+  {
+    "record_id": "31d28c69-bb88-4fe7-a944-e059bafa34da",
+    "timestamp": "2025-07-23 17:32:21.912694",
+    "latitude": 13.087257544285507,
+    "longitude": 77.73882537601838,
+    "road": "Kanakapura Road",
+    "speed_kmph": 6.2,
+    "congestion_level": "severe"
+  },
+  {
+    "record_id": "c61371c1-99fd-42a4-bad2-fd693fb15376",
+    "timestamp": "2025-07-23 17:20:21.912697",
+    "latitude": 13.01508935637746,
+    "longitude": 77.66354516756371,
+    "road": "Magadi Road",
+    "speed_kmph": 52.6,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "d5f304a0-2de9-4792-bd55-c844c24217c5",
+    "timestamp": "2025-07-23 18:11:21.912700",
+    "latitude": 13.091256858805192,
+    "longitude": 77.6839069113577,
+    "road": "Hosur Road",
+    "speed_kmph": 65.7,
+    "congestion_level": "low"
+  },
+  {
+    "record_id": "edc78d7b-a63f-49b5-878c-7f1d2e659eb1",
+    "timestamp": "2025-07-23 18:17:21.912703",
+    "latitude": 12.972904084709757,
+    "longitude": 77.41148892458673,
+    "road": "Tumkur Road",
+    "speed_kmph": 47.7,
+    "congestion_level": "severe"
+  },
+  {
+    "record_id": "54f0327b-1e97-4ef7-ba89-eda37eb6af51",
+    "timestamp": "2025-07-23 18:03:21.912706",
+    "latitude": 12.84146159678307,
+    "longitude": 77.56375081192196,
+    "road": "Sarjapur Road",
+    "speed_kmph": 33.5,
+    "congestion_level": "low"
+  },
+  {
+    "record_id": "674f6635-f236-42ee-981a-f69a16cfa211",
+    "timestamp": "2025-07-23 17:31:21.912709",
+    "latitude": 12.804773946042559,
+    "longitude": 77.62631739678015,
+    "road": "Sarjapur Road",
+    "speed_kmph": 7.9,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "af734c45-f2f3-4f61-b370-0e9292f1da69",
+    "timestamp": "2025-07-23 17:55:21.912713",
+    "latitude": 12.906126841351508,
+    "longitude": 77.69051143926983,
+    "road": "Tumkur Road",
+    "speed_kmph": 64.8,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "619c4496-6856-4822-8e0e-d735632fff79",
+    "timestamp": "2025-07-23 18:16:21.912716",
+    "latitude": 13.044296665024229,
+    "longitude": 77.41724577875398,
+    "road": "Mysore Road",
+    "speed_kmph": 35.6,
+    "congestion_level": "severe"
+  },
+  {
+    "record_id": "d8e66501-2375-4bc8-b972-c629b24841dd",
+    "timestamp": "2025-07-23 17:46:21.912719",
+    "latitude": 13.076590966379593,
+    "longitude": 77.69835360997466,
+    "road": "Hosur Road",
+    "speed_kmph": 6.9,
+    "congestion_level": "low"
+  },
+  {
+    "record_id": "4faa8036-188a-4f55-aed8-680457e23419",
+    "timestamp": "2025-07-23 17:50:21.912722",
+    "latitude": 12.903513492117115,
+    "longitude": 77.59194032785967,
+    "road": "Old Airport Road",
+    "speed_kmph": 49.8,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "6e2c219a-b50f-4f5c-ad6a-cdd45aeb90f6",
+    "timestamp": "2025-07-23 18:09:21.912725",
+    "latitude": 12.973478872309137,
+    "longitude": 77.46905988970163,
+    "road": "Hosur Road",
+    "speed_kmph": 36.3,
+    "congestion_level": "severe"
+  },
+  {
+    "record_id": "173a603d-7feb-45e2-8083-ff8fe10a5f9f",
+    "timestamp": "2025-07-23 18:08:21.912728",
+    "latitude": 12.94739161655193,
+    "longitude": 77.5110393257574,
+    "road": "Hosur Road",
+    "speed_kmph": 13.1,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "335affe5-66c3-4832-82b0-7e312f3fbe11",
+    "timestamp": "2025-07-23 17:23:21.912731",
+    "latitude": 12.943682974523,
+    "longitude": 77.49867534311305,
+    "road": "Mysore Road",
+    "speed_kmph": 18.9,
+    "congestion_level": "low"
+  },
+  {
+    "record_id": "a5b08e26-fc52-4468-99e8-49b63a0517b2",
+    "timestamp": "2025-07-23 17:27:21.912733",
+    "latitude": 12.880972049620054,
+    "longitude": 77.58580066200096,
+    "road": "Bannerghatta Road",
+    "speed_kmph": 9.2,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "73a469a5-56f7-46bb-94e1-aabda20cc4ba",
+    "timestamp": "2025-07-23 18:04:21.912736",
+    "latitude": 12.84772988676031,
+    "longitude": 77.4180899879689,
+    "road": "Mysore Road",
+    "speed_kmph": 42.3,
+    "congestion_level": "severe"
+  },
+  {
+    "record_id": "41fd1281-861c-4a6f-9812-362fc076f92d",
+    "timestamp": "2025-07-23 17:28:21.912740",
+    "latitude": 12.868840995380925,
+    "longitude": 77.45548765547498,
+    "road": "Bellary Road",
+    "speed_kmph": 45.4,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "0f973342-9b2d-43a3-a119-e3310538fbfd",
+    "timestamp": "2025-07-23 17:56:21.912742",
+    "latitude": 12.819366335507171,
+    "longitude": 77.68444256518153,
+    "road": "Old Airport Road",
+    "speed_kmph": 37.9,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "aec61694-0f24-4491-8e9f-f74afb6503ea",
+    "timestamp": "2025-07-23 17:27:21.912745",
+    "latitude": 12.869345759638252,
+    "longitude": 77.44641139676139,
+    "road": "Mysore Road",
+    "speed_kmph": 58.1,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "00714e0f-2b23-4ce0-9872-0dc75f868f8b",
+    "timestamp": "2025-07-23 18:20:21.912748",
+    "latitude": 12.803220314168884,
+    "longitude": 77.48168869431035,
+    "road": "Tumkur Road",
+    "speed_kmph": 61,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "033857e4-8774-48d3-bc31-654df6ae7936",
+    "timestamp": "2025-07-23 18:13:21.912751",
+    "latitude": 13.019540440222594,
+    "longitude": 77.55867971196146,
+    "road": "Bannerghatta Road",
+    "speed_kmph": 45,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "4e674f72-627f-44eb-93ad-132c0131771e",
+    "timestamp": "2025-07-23 17:31:21.912754",
+    "latitude": 12.91073139258569,
+    "longitude": 77.58099231083966,
+    "road": "Kanakapura Road",
+    "speed_kmph": 5.8,
+    "congestion_level": "severe"
+  },
+  {
+    "record_id": "916d9a42-e7b7-45f9-8ccf-4d3707144da9",
+    "timestamp": "2025-07-23 17:35:21.912756",
+    "latitude": 13.140600648999419,
+    "longitude": 77.66726366786496,
+    "road": "Bellary Road",
+    "speed_kmph": 50.2,
+    "congestion_level": "severe"
+  },
+  {
+    "record_id": "11c37e19-dbfe-4d4a-9ff5-40ca9038ab45",
+    "timestamp": "2025-07-23 18:05:21.912759",
+    "latitude": 12.867800967771705,
+    "longitude": 77.55656634933317,
+    "road": "Sarjapur Road",
+    "speed_kmph": 32.2,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "a2f077e3-3040-4cc4-ac21-f1edf4a985b0",
+    "timestamp": "2025-07-23 17:56:21.912762",
+    "latitude": 12.92103999960836,
+    "longitude": 77.67645261736244,
+    "road": "Sarjapur Road",
+    "speed_kmph": 41.8,
+    "congestion_level": "low"
+  },
+  {
+    "record_id": "8903c8c7-2e89-42cc-bf8a-1fca9ef17e4f",
+    "timestamp": "2025-07-23 17:31:21.912765",
+    "latitude": 12.925244405524538,
+    "longitude": 77.61642120746592,
+    "road": "Outer Ring Road",
+    "speed_kmph": 47.2,
+    "congestion_level": "severe"
+  },
+  {
+    "record_id": "18d2bfd0-5862-4bb4-b9cc-596e37e75948",
+    "timestamp": "2025-07-23 17:52:21.912768",
+    "latitude": 12.802958023621862,
+    "longitude": 77.43958490879834,
+    "road": "Tumkur Road",
+    "speed_kmph": 27.8,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "2798879b-e9a1-4cc0-aee4-f488df41c155",
+    "timestamp": "2025-07-23 18:05:21.912772",
+    "latitude": 13.09372278356381,
+    "longitude": 77.4547160034375,
+    "road": "Outer Ring Road",
+    "speed_kmph": 64.6,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "2d4b2c13-92f0-4e83-9fc9-7e6499872384",
+    "timestamp": "2025-07-23 17:33:21.912775",
+    "latitude": 12.811198061050515,
+    "longitude": 77.55296180390742,
+    "road": "Hosur Road",
+    "speed_kmph": 13.7,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "d891b0a4-b4d4-413a-b0d1-8e9ee4353335",
+    "timestamp": "2025-07-23 18:18:21.912778",
+    "latitude": 13.129062942155235,
+    "longitude": 77.53891128758117,
+    "road": "Bellary Road",
+    "speed_kmph": 48.6,
+    "congestion_level": "low"
+  },
+  {
+    "record_id": "81e04baa-2d70-4ddf-85a0-b7c3e1322e39",
+    "timestamp": "2025-07-23 18:08:21.912781",
+    "latitude": 13.112226022882767,
+    "longitude": 77.66024049437306,
+    "road": "Tumkur Road",
+    "speed_kmph": 5.3,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "71f27f0f-d1a9-4f91-9079-fe4e261b047a",
+    "timestamp": "2025-07-23 17:51:21.912784",
+    "latitude": 12.987432670630088,
+    "longitude": 77.60325799892908,
+    "road": "Magadi Road",
+    "speed_kmph": 65.1,
+    "congestion_level": "low"
+  },
+  {
+    "record_id": "ef6f5d6a-09ed-4c7c-9f40-ce6a07c478ba",
+    "timestamp": "2025-07-23 17:33:21.912788",
+    "latitude": 12.990258451218953,
+    "longitude": 77.53584657835079,
+    "road": "Tumkur Road",
+    "speed_kmph": 12.3,
+    "congestion_level": "low"
+  },
+  {
+    "record_id": "cb2c7b1d-f541-4b22-a363-45fc899f7cfb",
+    "timestamp": "2025-07-23 17:31:21.912791",
+    "latitude": 13.028822273034654,
+    "longitude": 77.45976609920764,
+    "road": "Outer Ring Road",
+    "speed_kmph": 11.2,
+    "congestion_level": "severe"
+  },
+  {
+    "record_id": "ef2adff8-cea4-49c4-9eca-df24f0d1fa72",
+    "timestamp": "2025-07-23 18:14:21.912794",
+    "latitude": 12.935467504177211,
+    "longitude": 77.47939298581393,
+    "road": "Magadi Road",
+    "speed_kmph": 26.6,
+    "congestion_level": "severe"
+  },
+  {
+    "record_id": "1b972332-4a9b-47f0-af5e-4a664fc94cd0",
+    "timestamp": "2025-07-23 17:47:21.912797",
+    "latitude": 13.02652779918925,
+    "longitude": 77.60142535646418,
+    "road": "Magadi Road",
+    "speed_kmph": 29.3,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "97113545-2e2f-4ae7-aedb-3046595b9abc",
+    "timestamp": "2025-07-23 17:38:21.912799",
+    "latitude": 12.815668936040971,
+    "longitude": 77.54820358171493,
+    "road": "Kanakapura Road",
+    "speed_kmph": 18.9,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "19875a42-e675-435a-aad9-c36084bbaf7a",
+    "timestamp": "2025-07-23 18:07:21.912802",
+    "latitude": 12.818916669572404,
+    "longitude": 77.58022462810123,
+    "road": "Bellary Road",
+    "speed_kmph": 43,
+    "congestion_level": "low"
+  },
+  {
+    "record_id": "27bea2b2-9a7f-426f-b172-e9f87f660f24",
+    "timestamp": "2025-07-23 17:50:21.912806",
+    "latitude": 12.96003064686684,
+    "longitude": 77.45973710235579,
+    "road": "Bannerghatta Road",
+    "speed_kmph": 33.8,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "565fa125-eb85-405d-9cfa-2010ff51cc96",
+    "timestamp": "2025-07-23 17:56:21.912809",
+    "latitude": 12.992367805387113,
+    "longitude": 77.6320171883206,
+    "road": "Bellary Road",
+    "speed_kmph": 7.2,
+    "congestion_level": "severe"
+  },
+  {
+    "record_id": "a892ab6f-edb9-4750-b465-0ff9f014db87",
+    "timestamp": "2025-07-23 17:37:21.912812",
+    "latitude": 13.110736174117537,
+    "longitude": 77.69838855929959,
+    "road": "Hosur Road",
+    "speed_kmph": 25.8,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "c8b8547b-638b-46ac-94ee-e3138c487218",
+    "timestamp": "2025-07-23 18:01:21.912815",
+    "latitude": 12.836631221867764,
+    "longitude": 77.49027882737542,
+    "road": "Bellary Road",
+    "speed_kmph": 57.7,
+    "congestion_level": "low"
+  },
+  {
+    "record_id": "ab304184-1dcb-4fbf-b1aa-b63772abe7ff",
+    "timestamp": "2025-07-23 17:21:21.912818",
+    "latitude": 13.087926774517861,
+    "longitude": 77.57202997904115,
+    "road": "Outer Ring Road",
+    "speed_kmph": 49.8,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "3f086a9e-569d-457e-90c2-38ba8df1363a",
+    "timestamp": "2025-07-23 18:00:21.912821",
+    "latitude": 12.873516568052224,
+    "longitude": 77.74143456515732,
+    "road": "Tumkur Road",
+    "speed_kmph": 52.1,
+    "congestion_level": "severe"
+  },
+  {
+    "record_id": "f5dbed2c-3d4c-4f01-a431-91eb5d9e1717",
+    "timestamp": "2025-07-23 18:10:21.912824",
+    "latitude": 12.937929276978512,
+    "longitude": 77.51663460919276,
+    "road": "Bannerghatta Road",
+    "speed_kmph": 50.4,
+    "congestion_level": "low"
+  },
+  {
+    "record_id": "cb471eca-3037-4fff-bda2-fb48d14d4890",
+    "timestamp": "2025-07-23 17:40:21.912827",
+    "latitude": 12.910810852189595,
+    "longitude": 77.60826622072332,
+    "road": "Bannerghatta Road",
+    "speed_kmph": 25.2,
+    "congestion_level": "low"
+  },
+  {
+    "record_id": "0f01fe85-5bba-43ac-8aa5-aaf2677f33b8",
+    "timestamp": "2025-07-23 17:34:21.912829",
+    "latitude": 12.94005434550289,
+    "longitude": 77.4315684950701,
+    "road": "Mysore Road",
+    "speed_kmph": 11.5,
+    "congestion_level": "low"
+  },
+  {
+    "record_id": "7afd0718-ebce-4334-bb7b-00c7eaa6fc45",
+    "timestamp": "2025-07-23 18:18:21.912832",
+    "latitude": 12.852673424325406,
+    "longitude": 77.61210525086781,
+    "road": "Tumkur Road",
+    "speed_kmph": 22.7,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "a8df7aa5-e8e0-4199-97f6-4255cf979ff0",
+    "timestamp": "2025-07-23 17:33:21.912835",
+    "latitude": 12.976249526041245,
+    "longitude": 77.43137112065662,
+    "road": "Old Airport Road",
+    "speed_kmph": 59.1,
+    "congestion_level": "low"
+  },
+  {
+    "record_id": "975481a3-d6cc-47cd-812e-3882b527ba0a",
+    "timestamp": "2025-07-23 17:21:21.912837",
+    "latitude": 13.08057490644098,
+    "longitude": 77.73573240236334,
+    "road": "Old Airport Road",
+    "speed_kmph": 68.7,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "1748ba01-8514-4bc9-9907-ba3f1949ab8a",
+    "timestamp": "2025-07-23 17:45:21.912840",
+    "latitude": 12.954536903632615,
+    "longitude": 77.6504819282253,
+    "road": "Kanakapura Road",
+    "speed_kmph": 37.1,
+    "congestion_level": "severe"
+  },
+  {
+    "record_id": "e9701e00-520f-43e7-a7a1-3e62a9dbf628",
+    "timestamp": "2025-07-23 17:47:21.912843",
+    "latitude": 12.97171475156437,
+    "longitude": 77.6758559258475,
+    "road": "Tumkur Road",
+    "speed_kmph": 5.6,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "b3c3c428-9338-435d-9020-8d2386ff96f2",
+    "timestamp": "2025-07-23 18:13:21.912846",
+    "latitude": 13.09706865484846,
+    "longitude": 77.64643652627008,
+    "road": "Old Airport Road",
+    "speed_kmph": 14.1,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "c1c5bc8b-64e9-4d6a-858c-5992882c4812",
+    "timestamp": "2025-07-23 18:04:21.912848",
+    "latitude": 13.04712034012331,
+    "longitude": 77.60640516262677,
+    "road": "Bellary Road",
+    "speed_kmph": 25.9,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "4855f44a-3370-4903-a4a8-a8448bdfa208",
+    "timestamp": "2025-07-23 17:50:21.912851",
+    "latitude": 12.971659042981925,
+    "longitude": 77.55746947337992,
+    "road": "Kanakapura Road",
+    "speed_kmph": 42.6,
+    "congestion_level": "severe"
+  },
+  {
+    "record_id": "c37637d6-72a9-4fa1-a2ae-8888520041ca",
+    "timestamp": "2025-07-23 17:40:21.912854",
+    "latitude": 12.890193476866214,
+    "longitude": 77.70043068291638,
+    "road": "Outer Ring Road",
+    "speed_kmph": 9.9,
+    "congestion_level": "severe"
+  },
+  {
+    "record_id": "a057c558-f1ba-408e-8aff-5eee32b2d952",
+    "timestamp": "2025-07-23 18:01:21.912856",
+    "latitude": 13.109724361395738,
+    "longitude": 77.73489248364007,
+    "road": "Magadi Road",
+    "speed_kmph": 66.3,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "608775a5-6f65-4201-a77c-25b06d234155",
+    "timestamp": "2025-07-23 18:08:21.912859",
+    "latitude": 13.001957140591696,
+    "longitude": 77.57466266051644,
+    "road": "Old Airport Road",
+    "speed_kmph": 28.7,
+    "congestion_level": "low"
+  },
+  {
+    "record_id": "7dc1dda0-0619-4eb0-bd8f-23051517703e",
+    "timestamp": "2025-07-23 17:57:21.912862",
+    "latitude": 12.877401663538743,
+    "longitude": 77.72603726720435,
+    "road": "Bannerghatta Road",
+    "speed_kmph": 64.3,
+    "congestion_level": "low"
+  },
+  {
+    "record_id": "7bee4582-8fae-46a9-924e-c63c1ab49e05",
+    "timestamp": "2025-07-23 17:24:21.912864",
+    "latitude": 12.894191913423304,
+    "longitude": 77.60416651849599,
+    "road": "Tumkur Road",
+    "speed_kmph": 55.7,
+    "congestion_level": "severe"
+  },
+  {
+    "record_id": "7f63abb8-4e4f-4dd0-a388-f6dc9c12e3c9",
+    "timestamp": "2025-07-23 18:17:21.912868",
+    "latitude": 13.081096581127687,
+    "longitude": 77.58843446541375,
+    "road": "Old Airport Road",
+    "speed_kmph": 54.1,
+    "congestion_level": "low"
+  },
+  {
+    "record_id": "49858ab5-c54f-447e-894e-e2f0fe068b4e",
+    "timestamp": "2025-07-23 17:25:21.912871",
+    "latitude": 12.81545094673061,
+    "longitude": 77.55906895653438,
+    "road": "Old Airport Road",
+    "speed_kmph": 44.4,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "0e1c0d4d-b2eb-4819-af1e-0ecdc555f30a",
+    "timestamp": "2025-07-23 17:38:21.912874",
+    "latitude": 13.147232265460087,
+    "longitude": 77.47325071653555,
+    "road": "Mysore Road",
+    "speed_kmph": 45.7,
+    "congestion_level": "severe"
+  },
+  {
+    "record_id": "3025f041-0aa8-4e33-94cd-45a9870d8661",
+    "timestamp": "2025-07-23 18:07:21.912876",
+    "latitude": 12.845623087900178,
+    "longitude": 77.40130188128633,
+    "road": "Outer Ring Road",
+    "speed_kmph": 46.5,
+    "congestion_level": "severe"
+  },
+  {
+    "record_id": "e4602d31-4e9f-47a7-96d4-fdfff2602a26",
+    "timestamp": "2025-07-23 18:13:21.912879",
+    "latitude": 13.078623983888928,
+    "longitude": 77.48452717939962,
+    "road": "Hosur Road",
+    "speed_kmph": 45.9,
+    "congestion_level": "low"
+  },
+  {
+    "record_id": "923f128e-e678-42ae-bf73-302696646ca5",
+    "timestamp": "2025-07-23 18:05:21.912882",
+    "latitude": 12.93817136087009,
+    "longitude": 77.57840311006125,
+    "road": "Bannerghatta Road",
+    "speed_kmph": 41,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "504b9abb-a414-45de-ac61-3d5c8af41753",
+    "timestamp": "2025-07-23 17:40:21.912885",
+    "latitude": 12.972275664150613,
+    "longitude": 77.53298598329091,
+    "road": "Bannerghatta Road",
+    "speed_kmph": 69.1,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "07289719-88c7-4e8a-8c46-d8bebd3ff354",
+    "timestamp": "2025-07-23 17:53:21.912888",
+    "latitude": 13.108227702112602,
+    "longitude": 77.55696982980092,
+    "road": "Kanakapura Road",
+    "speed_kmph": 52.6,
+    "congestion_level": "low"
+  },
+  {
+    "record_id": "6288e5da-4d8d-4d2d-b77e-1ee60c15cb28",
+    "timestamp": "2025-07-23 18:00:21.912891",
+    "latitude": 12.944518916356225,
+    "longitude": 77.74322687684742,
+    "road": "Bellary Road",
+    "speed_kmph": 55.5,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "89aae145-f6d4-4767-9a0d-4f8c30306e86",
+    "timestamp": "2025-07-23 18:20:21.912894",
+    "latitude": 12.988122813785633,
+    "longitude": 77.52259532973427,
+    "road": "Bellary Road",
+    "speed_kmph": 61.7,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "af25762c-d34d-49ae-92e1-06a40d6c6599",
+    "timestamp": "2025-07-23 18:10:21.912897",
+    "latitude": 12.81725488184321,
+    "longitude": 77.55826402877604,
+    "road": "Mysore Road",
+    "speed_kmph": 19,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "8224da50-bd10-469f-af0d-c87bdfab24e2",
+    "timestamp": "2025-07-23 17:30:21.912899",
+    "latitude": 12.800821615853609,
+    "longitude": 77.44673044297349,
+    "road": "Outer Ring Road",
+    "speed_kmph": 10.4,
+    "congestion_level": "severe"
+  },
+  {
+    "record_id": "823d269c-2da4-4bc5-9966-88c98623d81e",
+    "timestamp": "2025-07-23 18:03:21.912902",
+    "latitude": 12.885679955550605,
+    "longitude": 77.41678520635296,
+    "road": "Old Airport Road",
+    "speed_kmph": 36.4,
+    "congestion_level": "low"
+  },
+  {
+    "record_id": "0b72d0ef-b2fd-4a38-ae5e-c1fc5eee5114",
+    "timestamp": "2025-07-23 17:43:21.912905",
+    "latitude": 13.038204082521569,
+    "longitude": 77.67139333010738,
+    "road": "Sarjapur Road",
+    "speed_kmph": 38.4,
+    "congestion_level": "low"
+  },
+  {
+    "record_id": "750d456e-1941-4cae-b6e9-0637e92126db",
+    "timestamp": "2025-07-23 18:13:21.912908",
+    "latitude": 12.842442712675698,
+    "longitude": 77.5997391112752,
+    "road": "Kanakapura Road",
+    "speed_kmph": 58.9,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "38b89fc4-e471-42b1-af8a-637df330dc59",
+    "timestamp": "2025-07-23 17:55:21.912911",
+    "latitude": 12.839816685581592,
+    "longitude": 77.66624668211537,
+    "road": "Bellary Road",
+    "speed_kmph": 33.8,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "b6caf840-12ad-4c1b-91ff-def6b6608a31",
+    "timestamp": "2025-07-23 17:30:21.912914",
+    "latitude": 12.943836212812567,
+    "longitude": 77.4524519796103,
+    "road": "Tumkur Road",
+    "speed_kmph": 42.1,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "9236948e-34ec-464f-beca-5b2d341fab4a",
+    "timestamp": "2025-07-23 18:05:21.912917",
+    "latitude": 13.02674296351288,
+    "longitude": 77.60014006991395,
+    "road": "Sarjapur Road",
+    "speed_kmph": 39.3,
+    "congestion_level": "severe"
+  },
+  {
+    "record_id": "0b94729c-03fd-424e-9cee-af74a3f2a3db",
+    "timestamp": "2025-07-23 18:20:21.912919",
+    "latitude": 13.049225197286777,
+    "longitude": 77.48877486601948,
+    "road": "Tumkur Road",
+    "speed_kmph": 7.5,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "e67b6ad3-34be-4f01-a1a9-3ecfec0dd9ba",
+    "timestamp": "2025-07-23 18:18:21.912922",
+    "latitude": 12.862457735934433,
+    "longitude": 77.47982163591502,
+    "road": "Magadi Road",
+    "speed_kmph": 45,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "4a5a62d3-ec9f-4a0a-9dc7-deabb07bd4ed",
+    "timestamp": "2025-07-23 17:43:21.912925",
+    "latitude": 12.827855851580216,
+    "longitude": 77.40403410491855,
+    "road": "Mysore Road",
+    "speed_kmph": 58.8,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "a8db2a2c-3d8a-4701-a786-7bbf01368f98",
+    "timestamp": "2025-07-23 17:30:21.912928",
+    "latitude": 13.12913896188094,
+    "longitude": 77.44561925324918,
+    "road": "Sarjapur Road",
+    "speed_kmph": 15.2,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "54ac13ce-d4d0-4762-aa4d-7ed8d04a902a",
+    "timestamp": "2025-07-23 17:36:21.912931",
+    "latitude": 12.891233233896736,
+    "longitude": 77.5082438390249,
+    "road": "Bellary Road",
+    "speed_kmph": 43.6,
+    "congestion_level": "low"
+  },
+  {
+    "record_id": "63d18504-fcb1-4281-ad53-a810fc01c46c",
+    "timestamp": "2025-07-23 17:50:21.912934",
+    "latitude": 13.098671274163054,
+    "longitude": 77.44090756620683,
+    "road": "Bellary Road",
+    "speed_kmph": 43.6,
+    "congestion_level": "severe"
+  },
+  {
+    "record_id": "eae6c3da-5f2d-48b8-ba76-9378d39a3c87",
+    "timestamp": "2025-07-23 17:36:21.912937",
+    "latitude": 13.102222007661986,
+    "longitude": 77.74505045414382,
+    "road": "Sarjapur Road",
+    "speed_kmph": 15.7,
+    "congestion_level": "low"
+  },
+  {
+    "record_id": "27eaf665-0b75-4e49-a6e6-c48ad6793ab4",
+    "timestamp": "2025-07-23 17:42:21.912940",
+    "latitude": 13.07038290711689,
+    "longitude": 77.50802142698339,
+    "road": "Old Airport Road",
+    "speed_kmph": 13,
+    "congestion_level": "severe"
+  },
+  {
+    "record_id": "9f2be8ba-3f05-444c-9947-c98a24447277",
+    "timestamp": "2025-07-23 18:11:21.912944",
+    "latitude": 12.8590917623284,
+    "longitude": 77.44561338134582,
+    "road": "Tumkur Road",
+    "speed_kmph": 68.7,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "ec13d7c3-e1c7-4223-8218-6e6dab24f74a",
+    "timestamp": "2025-07-23 17:57:21.912947",
+    "latitude": 13.08763051073897,
+    "longitude": 77.46967880948979,
+    "road": "Hosur Road",
+    "speed_kmph": 30.6,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "b5cddc34-920e-4451-ae2e-69e26c3f4800",
+    "timestamp": "2025-07-23 17:31:21.912950",
+    "latitude": 13.069237695734556,
+    "longitude": 77.60569612991952,
+    "road": "Bellary Road",
+    "speed_kmph": 19.8,
+    "congestion_level": "severe"
+  },
+  {
+    "record_id": "4f4b1252-a04e-43d7-a6ef-3a0bdd1e4932",
+    "timestamp": "2025-07-23 18:15:21.912952",
+    "latitude": 13.008853046537176,
+    "longitude": 77.42241523335268,
+    "road": "Hosur Road",
+    "speed_kmph": 16.1,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "a7410d2c-e0f1-4db6-b0b5-b7b33472c59e",
+    "timestamp": "2025-07-23 18:05:21.912955",
+    "latitude": 12.918020712309135,
+    "longitude": 77.70185194554941,
+    "road": "Mysore Road",
+    "speed_kmph": 48.4,
+    "congestion_level": "low"
+  },
+  {
+    "record_id": "68c18df9-45ca-47af-a9ea-9d49bc94046e",
+    "timestamp": "2025-07-23 18:10:21.912958",
+    "latitude": 12.891878011493292,
+    "longitude": 77.736524887733,
+    "road": "Magadi Road",
+    "speed_kmph": 44.6,
+    "congestion_level": "severe"
+  },
+  {
+    "record_id": "d2d47ec7-6a77-482b-829e-435db0b645da",
+    "timestamp": "2025-07-23 17:49:21.912961",
+    "latitude": 12.842661224228126,
+    "longitude": 77.48636159723358,
+    "road": "Tumkur Road",
+    "speed_kmph": 46.8,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "d7b6e0a3-4730-404b-a08b-b50869e44d26",
+    "timestamp": "2025-07-23 18:15:21.912963",
+    "latitude": 12.978414973415305,
+    "longitude": 77.5575333440068,
+    "road": "Tumkur Road",
+    "speed_kmph": 10.7,
+    "congestion_level": "severe"
+  },
+  {
+    "record_id": "c77b4fff-d114-4da1-b082-d7e6e6ace778",
+    "timestamp": "2025-07-23 17:37:21.912966",
+    "latitude": 13.004841306428446,
+    "longitude": 77.40774705786033,
+    "road": "Sarjapur Road",
+    "speed_kmph": 63.1,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "02ab8565-99a2-486f-80e0-7e0f7cfbc186",
+    "timestamp": "2025-07-23 17:41:21.912969",
+    "latitude": 12.925768646680526,
+    "longitude": 77.62424857865453,
+    "road": "Sarjapur Road",
+    "speed_kmph": 30.3,
+    "congestion_level": "severe"
+  },
+  {
+    "record_id": "0ab35cb1-653d-4c17-b149-324ba064bc2a",
+    "timestamp": "2025-07-23 17:59:21.912972",
+    "latitude": 12.966375673688304,
+    "longitude": 77.54487412031841,
+    "road": "Bellary Road",
+    "speed_kmph": 25.4,
+    "congestion_level": "severe"
+  },
+  {
+    "record_id": "20fed1f3-72fa-40f7-8462-68d6b22d2bfe",
+    "timestamp": "2025-07-23 17:21:21.912975",
+    "latitude": 12.927230060079244,
+    "longitude": 77.49452046313554,
+    "road": "Bannerghatta Road",
+    "speed_kmph": 35.1,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "120de24a-3914-4ce2-b083-07e1a9b7f1f5",
+    "timestamp": "2025-07-23 17:32:21.912978",
+    "latitude": 13.024352120062247,
+    "longitude": 77.47239298871581,
+    "road": "Old Airport Road",
+    "speed_kmph": 30.4,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "28af3b73-1d82-42a8-9d48-0843a3398f8e",
+    "timestamp": "2025-07-23 17:40:21.912981",
+    "latitude": 13.115440722728797,
+    "longitude": 77.62890807718057,
+    "road": "Bannerghatta Road",
+    "speed_kmph": 61.1,
+    "congestion_level": "low"
+  },
+  {
+    "record_id": "11062a35-7d10-4f9f-8a8b-6e4ce6f7b3d4",
+    "timestamp": "2025-07-23 18:17:21.912984",
+    "latitude": 12.857372091716432,
+    "longitude": 77.54567596086132,
+    "road": "Tumkur Road",
+    "speed_kmph": 65.4,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "2ad88bca-53cf-44e1-8974-e16a2ef0963c",
+    "timestamp": "2025-07-23 18:17:21.912987",
+    "latitude": 12.933493083466093,
+    "longitude": 77.46288075116047,
+    "road": "Old Airport Road",
+    "speed_kmph": 24.7,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "f48fab06-41a9-4dd3-bd76-bb2ff1896bad",
+    "timestamp": "2025-07-23 17:58:21.912990",
+    "latitude": 12.849304011382802,
+    "longitude": 77.6411881785204,
+    "road": "Magadi Road",
+    "speed_kmph": 61.2,
+    "congestion_level": "severe"
+  },
+  {
+    "record_id": "b1ecc7c2-ee3d-414e-b70b-c594ae4fd45f",
+    "timestamp": "2025-07-23 17:39:21.912993",
+    "latitude": 13.018730319642742,
+    "longitude": 77.59777529906285,
+    "road": "Bannerghatta Road",
+    "speed_kmph": 55.8,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "4954105b-8948-4754-88e9-18f965f0bb99",
+    "timestamp": "2025-07-23 18:11:21.912996",
+    "latitude": 13.055104678321008,
+    "longitude": 77.70053521922533,
+    "road": "Bannerghatta Road",
+    "speed_kmph": 65.5,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "42f19c7b-91f2-4ea4-9b02-941448e26a53",
+    "timestamp": "2025-07-23 17:36:21.912999",
+    "latitude": 13.12616945640911,
+    "longitude": 77.44111656460677,
+    "road": "Tumkur Road",
+    "speed_kmph": 21,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "65189347-1e91-4b71-82d0-31ad1bc6229e",
+    "timestamp": "2025-07-23 17:46:21.913002",
+    "latitude": 12.89760517419134,
+    "longitude": 77.67498331068056,
+    "road": "Magadi Road",
+    "speed_kmph": 42.5,
+    "congestion_level": "low"
+  },
+  {
+    "record_id": "33be8942-e24f-408a-a2b6-a842d2a81922",
+    "timestamp": "2025-07-23 17:30:21.913005",
+    "latitude": 13.1325739220529,
+    "longitude": 77.63573087538605,
+    "road": "Old Airport Road",
+    "speed_kmph": 22.8,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "d8b13a9d-8e04-4844-9625-1089f340e6f1",
+    "timestamp": "2025-07-23 18:14:21.913008",
+    "latitude": 12.822141935137237,
+    "longitude": 77.44025382788983,
+    "road": "Mysore Road",
+    "speed_kmph": 58.6,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "84aa6e12-208a-4c4f-b366-da877f7ac78c",
+    "timestamp": "2025-07-23 18:12:21.913010",
+    "latitude": 13.011054852177606,
+    "longitude": 77.6431872554551,
+    "road": "Sarjapur Road",
+    "speed_kmph": 5.3,
+    "congestion_level": "low"
+  },
+  {
+    "record_id": "7a93ef0e-780d-40b6-8923-51d9fedceb65",
+    "timestamp": "2025-07-23 17:49:21.913013",
+    "latitude": 12.819996451770166,
+    "longitude": 77.55454155110795,
+    "road": "Kanakapura Road",
+    "speed_kmph": 41.7,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "09bc6a80-3a88-4bed-9c85-25101bfdf626",
+    "timestamp": "2025-07-23 18:06:21.913016",
+    "latitude": 13.112820965716681,
+    "longitude": 77.73074467494455,
+    "road": "Sarjapur Road",
+    "speed_kmph": 27,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "156755f4-2f39-48c8-a358-2706d545b254",
+    "timestamp": "2025-07-23 18:00:21.913019",
+    "latitude": 12.98543316997452,
+    "longitude": 77.44956397271626,
+    "road": "Tumkur Road",
+    "speed_kmph": 26,
+    "congestion_level": "severe"
+  },
+  {
+    "record_id": "114126af-ce70-43f7-b190-dea4c335e9e5",
+    "timestamp": "2025-07-23 17:45:21.913021",
+    "latitude": 13.03427192276698,
+    "longitude": 77.6249916867855,
+    "road": "Bellary Road",
+    "speed_kmph": 46.9,
+    "congestion_level": "low"
+  },
+  {
+    "record_id": "5ef36d4d-9d85-4a72-af9a-544a3de372e9",
+    "timestamp": "2025-07-23 17:30:21.913024",
+    "latitude": 13.091050874068658,
+    "longitude": 77.53369301591204,
+    "road": "Bannerghatta Road",
+    "speed_kmph": 60.3,
+    "congestion_level": "low"
+  },
+  {
+    "record_id": "71287916-248b-45aa-bd04-43f07027e1f1",
+    "timestamp": "2025-07-23 17:39:21.913027",
+    "latitude": 12.852608717869389,
+    "longitude": 77.7348851347068,
+    "road": "Tumkur Road",
+    "speed_kmph": 44.6,
+    "congestion_level": "low"
+  },
+  {
+    "record_id": "a9b24a99-0a82-40b6-84e5-7a9298d516b9",
+    "timestamp": "2025-07-23 17:32:21.913030",
+    "latitude": 12.813507046678348,
+    "longitude": 77.5154912133516,
+    "road": "Bellary Road",
+    "speed_kmph": 60.5,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "f979549b-c44c-4c78-80ed-319cef016e79",
+    "timestamp": "2025-07-23 17:58:21.913033",
+    "latitude": 13.107608401069498,
+    "longitude": 77.73676506832213,
+    "road": "Mysore Road",
+    "speed_kmph": 22.2,
+    "congestion_level": "low"
+  },
+  {
+    "record_id": "b993b65f-35de-4447-84bf-a42430604ccf",
+    "timestamp": "2025-07-23 17:29:21.913036",
+    "latitude": 12.910226629610627,
+    "longitude": 77.71552004788526,
+    "road": "Sarjapur Road",
+    "speed_kmph": 38.8,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "03a3574a-919c-4735-8b33-b7a051634a91",
+    "timestamp": "2025-07-23 17:23:21.913039",
+    "latitude": 12.845142617774508,
+    "longitude": 77.49463413235874,
+    "road": "Sarjapur Road",
+    "speed_kmph": 34.3,
+    "congestion_level": "low"
+  },
+  {
+    "record_id": "dc07605e-5762-4c84-a718-0985f2d6c18c",
+    "timestamp": "2025-07-23 17:52:21.913042",
+    "latitude": 12.963961432980481,
+    "longitude": 77.68123962188925,
+    "road": "Hosur Road",
+    "speed_kmph": 5.8,
+    "congestion_level": "low"
+  },
+  {
+    "record_id": "2cef781d-ebfd-4100-8034-9202f34e5ba1",
+    "timestamp": "2025-07-23 17:34:21.913045",
+    "latitude": 13.009407126493606,
+    "longitude": 77.74846147063123,
+    "road": "Mysore Road",
+    "speed_kmph": 41.2,
+    "congestion_level": "low"
+  },
+  {
+    "record_id": "e6ccd201-335d-4080-b647-f43f59a14829",
+    "timestamp": "2025-07-23 18:08:21.913048",
+    "latitude": 12.810839711197879,
+    "longitude": 77.48843205075995,
+    "road": "Hosur Road",
+    "speed_kmph": 48,
+    "congestion_level": "severe"
+  },
+  {
+    "record_id": "6149ee42-642d-43af-8e72-1365a4e60afd",
+    "timestamp": "2025-07-23 18:19:21.913051",
+    "latitude": 12.896213480389981,
+    "longitude": 77.55287200926317,
+    "road": "Bellary Road",
+    "speed_kmph": 43.5,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "816ea5c2-4ab3-4590-b262-e1452731660c",
+    "timestamp": "2025-07-23 17:36:21.913054",
+    "latitude": 12.811479955996914,
+    "longitude": 77.58206325779837,
+    "road": "Kanakapura Road",
+    "speed_kmph": 52.9,
+    "congestion_level": "severe"
+  },
+  {
+    "record_id": "a091129b-2f18-45b1-b9a9-0a45104b5372",
+    "timestamp": "2025-07-23 17:56:21.913057",
+    "latitude": 12.947117386218425,
+    "longitude": 77.50322589753135,
+    "road": "Old Airport Road",
+    "speed_kmph": 42.1,
+    "congestion_level": "severe"
+  },
+  {
+    "record_id": "b89f52d2-a873-4d14-95fc-cc1431c034f0",
+    "timestamp": "2025-07-23 17:58:21.913059",
+    "latitude": 13.113285010173186,
+    "longitude": 77.40534269387612,
+    "road": "Outer Ring Road",
+    "speed_kmph": 9.3,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "70c69b42-df0f-4647-867a-b1d77059e387",
+    "timestamp": "2025-07-23 17:34:21.913062",
+    "latitude": 13.143928344022749,
+    "longitude": 77.47704523546913,
+    "road": "Kanakapura Road",
+    "speed_kmph": 12.6,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "9a0664b9-3eeb-4f03-97ea-862511c3138b",
+    "timestamp": "2025-07-23 18:12:21.913065",
+    "latitude": 13.02296664372627,
+    "longitude": 77.49867790951961,
+    "road": "Hosur Road",
+    "speed_kmph": 43.8,
+    "congestion_level": "low"
+  },
+  {
+    "record_id": "293db7fa-8e8d-4d45-89ad-b07b874f7c5c",
+    "timestamp": "2025-07-23 18:04:21.913068",
+    "latitude": 12.856573192824607,
+    "longitude": 77.55525989546138,
+    "road": "Old Airport Road",
+    "speed_kmph": 22.9,
+    "congestion_level": "severe"
+  },
+  {
+    "record_id": "514b30a9-f6d4-461c-8c10-46bf24b37794",
+    "timestamp": "2025-07-23 17:23:21.913070",
+    "latitude": 13.117047286499757,
+    "longitude": 77.4598858674447,
+    "road": "Bellary Road",
+    "speed_kmph": 10.2,
+    "congestion_level": "low"
+  },
+  {
+    "record_id": "10ac72bd-af4c-4dfc-9c82-780f0e84c070",
+    "timestamp": "2025-07-23 18:18:21.913073",
+    "latitude": 12.980686738120022,
+    "longitude": 77.70563902484209,
+    "road": "Bellary Road",
+    "speed_kmph": 32.9,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "04786088-88c6-4a79-849e-bfa568f0ca5d",
+    "timestamp": "2025-07-23 17:49:21.913075",
+    "latitude": 12.853812259236022,
+    "longitude": 77.64671889645597,
+    "road": "Outer Ring Road",
+    "speed_kmph": 41,
+    "congestion_level": "severe"
+  },
+  {
+    "record_id": "b95d43d6-2b7f-40a5-b871-89e19e5baabf",
+    "timestamp": "2025-07-23 17:35:21.913078",
+    "latitude": 13.122604334308082,
+    "longitude": 77.42982016714589,
+    "road": "Mysore Road",
+    "speed_kmph": 26.4,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "09d68cdc-5ed0-458c-9258-1086eecc0487",
+    "timestamp": "2025-07-23 17:52:21.913081",
+    "latitude": 13.065114167753087,
+    "longitude": 77.62753235789897,
+    "road": "Hosur Road",
+    "speed_kmph": 51.8,
+    "congestion_level": "severe"
+  },
+  {
+    "record_id": "af2f5f8b-1a92-46d6-a6c9-fd5424bb8796",
+    "timestamp": "2025-07-23 17:45:21.913084",
+    "latitude": 13.056096845453103,
+    "longitude": 77.62877976674197,
+    "road": "Old Airport Road",
+    "speed_kmph": 46.8,
+    "congestion_level": "severe"
+  },
+  {
+    "record_id": "00e03200-6197-437c-8182-c4813bd14558",
+    "timestamp": "2025-07-23 18:02:21.913087",
+    "latitude": 13.048213246328043,
+    "longitude": 77.73467741077528,
+    "road": "Mysore Road",
+    "speed_kmph": 26.6,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "6334fca6-d04f-4a71-8ef4-73a2900ddf16",
+    "timestamp": "2025-07-23 17:46:21.913090",
+    "latitude": 12.870118937383756,
+    "longitude": 77.40105730497466,
+    "road": "Old Airport Road",
+    "speed_kmph": 54.1,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "db648ca7-1ea0-4d2d-9123-f2c5c4c93949",
+    "timestamp": "2025-07-23 17:36:21.913093",
+    "latitude": 12.873852342097635,
+    "longitude": 77.48677635743203,
+    "road": "Kanakapura Road",
+    "speed_kmph": 47.2,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "09028dd7-a0d7-43f0-831d-fb91397a0433",
+    "timestamp": "2025-07-23 17:49:21.913096",
+    "latitude": 13.04090254944954,
+    "longitude": 77.72472701778136,
+    "road": "Outer Ring Road",
+    "speed_kmph": 46.4,
+    "congestion_level": "severe"
+  },
+  {
+    "record_id": "05112d7f-12ec-4f24-8bab-4c1b904aa134",
+    "timestamp": "2025-07-23 18:08:21.913099",
+    "latitude": 12.87690296253864,
+    "longitude": 77.7262468703894,
+    "road": "Sarjapur Road",
+    "speed_kmph": 41,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "79f73374-e92a-409b-92f1-8f28a61bdc7d",
+    "timestamp": "2025-07-23 17:44:21.913101",
+    "latitude": 12.953535093881067,
+    "longitude": 77.65220524677973,
+    "road": "Mysore Road",
+    "speed_kmph": 5.7,
+    "congestion_level": "severe"
+  },
+  {
+    "record_id": "62d47bff-a510-47b4-924d-4a86efed0e52",
+    "timestamp": "2025-07-23 18:09:21.913104",
+    "latitude": 13.07370063895788,
+    "longitude": 77.66801716236664,
+    "road": "Outer Ring Road",
+    "speed_kmph": 50.3,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "63032bd4-9db5-44b5-af84-22cc484fda28",
+    "timestamp": "2025-07-23 17:46:21.913106",
+    "latitude": 13.074383381334245,
+    "longitude": 77.43201903527539,
+    "road": "Kanakapura Road",
+    "speed_kmph": 29.4,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "3cd7e0ea-bf81-4a17-a905-8f29731da6ec",
+    "timestamp": "2025-07-23 17:58:21.913108",
+    "latitude": 12.958641620384052,
+    "longitude": 77.57985654217238,
+    "road": "Mysore Road",
+    "speed_kmph": 66.3,
+    "congestion_level": "severe"
+  },
+  {
+    "record_id": "4002c5eb-9cd3-4931-bd95-7e47aed14cec",
+    "timestamp": "2025-07-23 18:00:21.913111",
+    "latitude": 13.077266478396336,
+    "longitude": 77.48105404695116,
+    "road": "Kanakapura Road",
+    "speed_kmph": 58.2,
+    "congestion_level": "severe"
+  },
+  {
+    "record_id": "a2fe9cb4-fcec-4791-bae9-df3f585b8128",
+    "timestamp": "2025-07-23 17:34:21.913113",
+    "latitude": 13.09351762866932,
+    "longitude": 77.46342631526477,
+    "road": "Hosur Road",
+    "speed_kmph": 43.2,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "e6092042-eb5f-4944-baa8-34197479d994",
+    "timestamp": "2025-07-23 17:51:21.913115",
+    "latitude": 13.02917151294949,
+    "longitude": 77.68360615469317,
+    "road": "Magadi Road",
+    "speed_kmph": 21.4,
+    "congestion_level": "low"
+  },
+  {
+    "record_id": "e123433f-8955-47ec-b447-f8a127340be8",
+    "timestamp": "2025-07-23 18:03:21.913118",
+    "latitude": 12.879949048307948,
+    "longitude": 77.4472633478382,
+    "road": "Outer Ring Road",
+    "speed_kmph": 18.2,
+    "congestion_level": "low"
+  },
+  {
+    "record_id": "496fe308-24f7-4239-b94d-91565c31d125",
+    "timestamp": "2025-07-23 17:25:21.913121",
+    "latitude": 12.895904123134942,
+    "longitude": 77.56402807294874,
+    "road": "Bellary Road",
+    "speed_kmph": 27.1,
+    "congestion_level": "severe"
+  },
+  {
+    "record_id": "f689c4c2-2ca2-4887-bb21-68c4a3188a65",
+    "timestamp": "2025-07-23 17:27:21.913123",
+    "latitude": 12.910194404393058,
+    "longitude": 77.72850238385512,
+    "road": "Sarjapur Road",
+    "speed_kmph": 36,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "41d893a5-ffc7-4ba2-a371-9357f7a58f8d",
+    "timestamp": "2025-07-23 17:42:21.913126",
+    "latitude": 12.840881437706884,
+    "longitude": 77.46504121944787,
+    "road": "Mysore Road",
+    "speed_kmph": 24.2,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "bd71017f-5e3a-4dad-a90a-8303e1c6a7c2",
+    "timestamp": "2025-07-23 17:22:21.913129",
+    "latitude": 12.89560586712948,
+    "longitude": 77.74229769830838,
+    "road": "Mysore Road",
+    "speed_kmph": 38.5,
+    "congestion_level": "low"
+  },
+  {
+    "record_id": "4cc378c3-ce32-40af-ae86-49f1055c22ad",
+    "timestamp": "2025-07-23 17:25:21.913132",
+    "latitude": 12.873331728509386,
+    "longitude": 77.74800079501637,
+    "road": "Mysore Road",
+    "speed_kmph": 15.7,
+    "congestion_level": "severe"
+  },
+  {
+    "record_id": "690e1a7e-75be-4ba7-8ae4-e09624dc1ee5",
+    "timestamp": "2025-07-23 17:45:21.913134",
+    "latitude": 12.959365062433012,
+    "longitude": 77.59446600413884,
+    "road": "Old Airport Road",
+    "speed_kmph": 68.6,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "da07f08e-8a9f-45a1-a13a-e6f4b5ef818b",
+    "timestamp": "2025-07-23 18:10:21.913137",
+    "latitude": 13.117953141755294,
+    "longitude": 77.45954995906202,
+    "road": "Tumkur Road",
+    "speed_kmph": 12,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "2001965b-66f8-4b87-bccc-1a7d3a1bba9c",
+    "timestamp": "2025-07-23 18:16:21.913139",
+    "latitude": 12.836568110863887,
+    "longitude": 77.51063671077932,
+    "road": "Sarjapur Road",
+    "speed_kmph": 65.6,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "35461a1c-5a5a-4dac-a062-4c48d7131c2e",
+    "timestamp": "2025-07-23 17:47:21.913141",
+    "latitude": 13.05209377338159,
+    "longitude": 77.54857249143679,
+    "road": "Bellary Road",
+    "speed_kmph": 64.4,
+    "congestion_level": "severe"
+  },
+  {
+    "record_id": "e23509a8-6bcf-4fa4-a7e2-020ef11f1e97",
+    "timestamp": "2025-07-23 18:11:21.913144",
+    "latitude": 13.040549051544595,
+    "longitude": 77.50826347852538,
+    "road": "Old Airport Road",
+    "speed_kmph": 39.1,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "73cab4e3-bbc3-453b-b5e8-abfe6af01106",
+    "timestamp": "2025-07-23 17:52:21.913147",
+    "latitude": 12.833513969532175,
+    "longitude": 77.49822245295678,
+    "road": "Magadi Road",
+    "speed_kmph": 52.1,
+    "congestion_level": "low"
+  },
+  {
+    "record_id": "76a90f78-6370-4da9-b3ce-caaf71a2f6c1",
+    "timestamp": "2025-07-23 18:02:21.913150",
+    "latitude": 13.122900341717031,
+    "longitude": 77.74028039822572,
+    "road": "Outer Ring Road",
+    "speed_kmph": 33.3,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "aa55e9af-5375-44b0-967a-25f85d12490e",
+    "timestamp": "2025-07-23 17:28:21.913152",
+    "latitude": 12.998965270754887,
+    "longitude": 77.45367768959552,
+    "road": "Hosur Road",
+    "speed_kmph": 46,
+    "congestion_level": "low"
+  },
+  {
+    "record_id": "87a9efaf-b92a-41b7-a213-cdad661d3354",
+    "timestamp": "2025-07-23 18:04:21.913155",
+    "latitude": 12.92730393239749,
+    "longitude": 77.6566647680509,
+    "road": "Bannerghatta Road",
+    "speed_kmph": 27.1,
+    "congestion_level": "severe"
+  },
+  {
+    "record_id": "b66c4a03-378a-4526-befa-528c34b6d9da",
+    "timestamp": "2025-07-23 17:46:21.913158",
+    "latitude": 13.064788504223358,
+    "longitude": 77.40014360130371,
+    "road": "Bannerghatta Road",
+    "speed_kmph": 24.6,
+    "congestion_level": "low"
+  },
+  {
+    "record_id": "f2b074a3-31d1-4ea8-9181-c8a230e31645",
+    "timestamp": "2025-07-23 17:57:21.913163",
+    "latitude": 12.890077910440572,
+    "longitude": 77.60866393429083,
+    "road": "Outer Ring Road",
+    "speed_kmph": 42.6,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "c8bc7784-a8c9-4656-bab3-d9a3dfa4a6da",
+    "timestamp": "2025-07-23 17:51:21.913166",
+    "latitude": 13.042728442966213,
+    "longitude": 77.72058005138392,
+    "road": "Bellary Road",
+    "speed_kmph": 37.4,
+    "congestion_level": "severe"
+  },
+  {
+    "record_id": "769fce1a-e67d-4f00-9d08-c2549e6eac9c",
+    "timestamp": "2025-07-23 18:20:21.913169",
+    "latitude": 12.813898922650287,
+    "longitude": 77.50077693293262,
+    "road": "Old Airport Road",
+    "speed_kmph": 42.7,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "cac5a4c6-c393-4806-9cc8-c8018c573243",
+    "timestamp": "2025-07-23 17:31:21.913172",
+    "latitude": 13.093792813163246,
+    "longitude": 77.46493409134021,
+    "road": "Hosur Road",
+    "speed_kmph": 23.6,
+    "congestion_level": "low"
+  },
+  {
+    "record_id": "4e90ee87-a4dd-4fe1-9ff3-fbbf6880534f",
+    "timestamp": "2025-07-23 17:40:21.913175",
+    "latitude": 12.956859796457461,
+    "longitude": 77.62808792820745,
+    "road": "Sarjapur Road",
+    "speed_kmph": 28.9,
+    "congestion_level": "low"
+  },
+  {
+    "record_id": "78612769-242e-4cff-a490-7a6336a8d53d",
+    "timestamp": "2025-07-23 17:48:21.913178",
+    "latitude": 13.02284252002528,
+    "longitude": 77.64941049255444,
+    "road": "Mysore Road",
+    "speed_kmph": 10.5,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "73cb3b3f-a6f9-4864-8af6-d2681bd07f9b",
+    "timestamp": "2025-07-23 17:56:21.913180",
+    "latitude": 12.87743323693234,
+    "longitude": 77.6408106816332,
+    "road": "Hosur Road",
+    "speed_kmph": 8.4,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "f4aae84a-d538-4419-a798-d9bf4ce1ca16",
+    "timestamp": "2025-07-23 17:34:21.913183",
+    "latitude": 13.036975799430458,
+    "longitude": 77.51176090800749,
+    "road": "Old Airport Road",
+    "speed_kmph": 21.5,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "69808e3c-9fa3-4e4b-9ebf-96d3c64ab8bf",
+    "timestamp": "2025-07-23 18:09:21.913186",
+    "latitude": 13.070284096562647,
+    "longitude": 77.48827084075577,
+    "road": "Old Airport Road",
+    "speed_kmph": 9.8,
+    "congestion_level": "severe"
+  },
+  {
+    "record_id": "56726735-3798-4c80-b30c-84610d06d891",
+    "timestamp": "2025-07-23 17:24:21.913189",
+    "latitude": 12.96562461540954,
+    "longitude": 77.73457157998672,
+    "road": "Mysore Road",
+    "speed_kmph": 11.7,
+    "congestion_level": "low"
+  },
+  {
+    "record_id": "a8deeb1c-281e-4259-a3d2-1a338d3bc1df",
+    "timestamp": "2025-07-23 18:19:21.913192",
+    "latitude": 13.016204423421629,
+    "longitude": 77.72315482789448,
+    "road": "Mysore Road",
+    "speed_kmph": 57.8,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "6e896265-847a-4fa5-afe7-39dd6260dcbe",
+    "timestamp": "2025-07-23 17:41:21.913194",
+    "latitude": 12.95971407333784,
+    "longitude": 77.56006081346248,
+    "road": "Sarjapur Road",
+    "speed_kmph": 7.5,
+    "congestion_level": "severe"
+  },
+  {
+    "record_id": "061a1396-7167-48ee-b175-82082e292386",
+    "timestamp": "2025-07-23 17:26:21.913197",
+    "latitude": 13.112931979240246,
+    "longitude": 77.69616785315404,
+    "road": "Tumkur Road",
+    "speed_kmph": 47.8,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "9140a95d-62ce-4959-b4da-1f50b1a7fe09",
+    "timestamp": "2025-07-23 17:57:21.913199",
+    "latitude": 12.974254213180012,
+    "longitude": 77.55831321717201,
+    "road": "Mysore Road",
+    "speed_kmph": 22.7,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "fbcf57d7-45f8-4c5d-ac1e-86bbaac016bd",
+    "timestamp": "2025-07-23 17:31:21.913202",
+    "latitude": 13.094633048160087,
+    "longitude": 77.54853615632538,
+    "road": "Magadi Road",
+    "speed_kmph": 61.7,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "c4ecea32-9038-4f81-ae3d-c742bef8004b",
+    "timestamp": "2025-07-23 17:41:21.913205",
+    "latitude": 13.080473220394587,
+    "longitude": 77.45486703165976,
+    "road": "Bellary Road",
+    "speed_kmph": 36.5,
+    "congestion_level": "severe"
+  },
+  {
+    "record_id": "9337bb34-66e1-408e-a428-2ec427e6287b",
+    "timestamp": "2025-07-23 18:05:21.913208",
+    "latitude": 12.943676687471925,
+    "longitude": 77.54924211977219,
+    "road": "Mysore Road",
+    "speed_kmph": 24.9,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "26932d95-32a3-48fb-8d03-a402c827e7c0",
+    "timestamp": "2025-07-23 18:00:21.913210",
+    "latitude": 12.880529572150117,
+    "longitude": 77.58809592850993,
+    "road": "Magadi Road",
+    "speed_kmph": 38.6,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "3ee61872-77f4-47f9-9105-88a9694a48b3",
+    "timestamp": "2025-07-23 17:34:21.913214",
+    "latitude": 12.94212874639592,
+    "longitude": 77.40787651460005,
+    "road": "Magadi Road",
+    "speed_kmph": 29.8,
+    "congestion_level": "severe"
+  },
+  {
+    "record_id": "c33b14ed-216c-4ed0-bd0c-1656de373877",
+    "timestamp": "2025-07-23 18:16:21.913228",
+    "latitude": 13.089176081521327,
+    "longitude": 77.55543955181139,
+    "road": "Hosur Road",
+    "speed_kmph": 41.7,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "9c406cbe-50f3-40af-bc97-6337ee668fd2",
+    "timestamp": "2025-07-23 17:38:21.913231",
+    "latitude": 12.879671387536789,
+    "longitude": 77.67347467643832,
+    "road": "Mysore Road",
+    "speed_kmph": 12.4,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "87d49f49-9cc1-4301-836d-b2eceeda69bc",
+    "timestamp": "2025-07-23 17:46:21.913233",
+    "latitude": 12.983552721050213,
+    "longitude": 77.63801611973099,
+    "road": "Bannerghatta Road",
+    "speed_kmph": 69.8,
+    "congestion_level": "severe"
+  },
+  {
+    "record_id": "09098704-e03c-419a-a0ca-381cbc3dc68a",
+    "timestamp": "2025-07-23 17:28:21.913236",
+    "latitude": 13.082133861786263,
+    "longitude": 77.62230494610237,
+    "road": "Old Airport Road",
+    "speed_kmph": 32.7,
+    "congestion_level": "severe"
+  },
+  {
+    "record_id": "10bb5ed3-c976-4bdf-98d9-39ebad1abfd5",
+    "timestamp": "2025-07-23 17:56:21.913239",
+    "latitude": 12.923717116294933,
+    "longitude": 77.71834439995303,
+    "road": "Magadi Road",
+    "speed_kmph": 27.6,
+    "congestion_level": "severe"
+  },
+  {
+    "record_id": "eb9060cb-0238-4c49-857e-ccfa15f3b747",
+    "timestamp": "2025-07-23 18:08:21.913242",
+    "latitude": 13.024773372950945,
+    "longitude": 77.40631120343883,
+    "road": "Bannerghatta Road",
+    "speed_kmph": 51.2,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "54ddbff4-0d81-439d-9e95-2d1ddcbc5e3f",
+    "timestamp": "2025-07-23 17:47:21.913244",
+    "latitude": 12.885971050917085,
+    "longitude": 77.59496665516728,
+    "road": "Sarjapur Road",
+    "speed_kmph": 28.7,
+    "congestion_level": "low"
+  },
+  {
+    "record_id": "ee7ae3bb-5034-4715-9706-c3cdda440dee",
+    "timestamp": "2025-07-23 17:37:21.913247",
+    "latitude": 12.838247805878856,
+    "longitude": 77.6755720969434,
+    "road": "Old Airport Road",
+    "speed_kmph": 59.2,
+    "congestion_level": "severe"
+  },
+  {
+    "record_id": "be5b8a92-33f8-457c-9b50-73c7e6dc9c76",
+    "timestamp": "2025-07-23 17:49:21.913250",
+    "latitude": 13.0780344787825,
+    "longitude": 77.58946738394545,
+    "road": "Old Airport Road",
+    "speed_kmph": 34.5,
+    "congestion_level": "severe"
+  },
+  {
+    "record_id": "4ebc5f60-3687-41e1-b53c-a48b268de9f4",
+    "timestamp": "2025-07-23 17:31:21.913253",
+    "latitude": 12.834639018193048,
+    "longitude": 77.51336344340314,
+    "road": "Mysore Road",
+    "speed_kmph": 51.8,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "9f8c1c81-5ce9-43d3-90e6-e383d736b50e",
+    "timestamp": "2025-07-23 17:45:21.913256",
+    "latitude": 12.894983488277855,
+    "longitude": 77.4476876977822,
+    "road": "Bellary Road",
+    "speed_kmph": 12,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "e78e4df0-955c-41d2-90c4-9c2be8c451fc",
+    "timestamp": "2025-07-23 18:11:21.913258",
+    "latitude": 13.099288297699104,
+    "longitude": 77.71064707513567,
+    "road": "Sarjapur Road",
+    "speed_kmph": 60,
+    "congestion_level": "severe"
+  },
+  {
+    "record_id": "56afd9ce-799f-42c0-b255-7e4ed4087cd1",
+    "timestamp": "2025-07-23 17:41:21.913261",
+    "latitude": 12.921264250477535,
+    "longitude": 77.56476683733567,
+    "road": "Mysore Road",
+    "speed_kmph": 52.8,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "4da12b02-4a2c-4830-acdb-1625b41f5721",
+    "timestamp": "2025-07-23 18:02:21.913263",
+    "latitude": 13.140565872329956,
+    "longitude": 77.707340318945,
+    "road": "Tumkur Road",
+    "speed_kmph": 18.8,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "28e9772b-8fd7-4ced-8d65-e32819fbded2",
+    "timestamp": "2025-07-23 18:00:21.913266",
+    "latitude": 13.14290701717085,
+    "longitude": 77.60504824285161,
+    "road": "Magadi Road",
+    "speed_kmph": 14.4,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "29cb31b1-26ea-445e-a16c-77ace69bf25c",
+    "timestamp": "2025-07-23 17:54:21.913269",
+    "latitude": 12.893896607158746,
+    "longitude": 77.63596724081525,
+    "road": "Outer Ring Road",
+    "speed_kmph": 25.6,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "e904ee42-8845-46f5-9e52-1d486a499f0b",
+    "timestamp": "2025-07-23 17:39:21.913272",
+    "latitude": 12.814342377787462,
+    "longitude": 77.68149140403246,
+    "road": "Outer Ring Road",
+    "speed_kmph": 68.4,
+    "congestion_level": "severe"
+  },
+  {
+    "record_id": "8fc93778-2885-40d1-a8e0-c8009e482e45",
+    "timestamp": "2025-07-23 18:00:21.913275",
+    "latitude": 13.046772149471883,
+    "longitude": 77.63070444061005,
+    "road": "Mysore Road",
+    "speed_kmph": 21.7,
+    "congestion_level": "low"
+  },
+  {
+    "record_id": "b32a3228-7835-4656-a0f1-55fb8d64ec21",
+    "timestamp": "2025-07-23 18:13:21.913277",
+    "latitude": 12.957845275926921,
+    "longitude": 77.53931919423763,
+    "road": "Sarjapur Road",
+    "speed_kmph": 34.6,
+    "congestion_level": "high"
+  },
+  {
+    "record_id": "d9162e44-b0a1-4621-87fe-fddbfbb9bf21",
+    "timestamp": "2025-07-23 18:14:21.913280",
+    "latitude": 12.835263495385853,
+    "longitude": 77.57977168437503,
+    "road": "Kanakapura Road",
+    "speed_kmph": 7,
+    "congestion_level": "severe"
+  },
+  {
+    "record_id": "1d053081-f9e3-4f60-bfd8-027fe755b655",
+    "timestamp": "2025-07-23 17:47:21.913283",
+    "latitude": 13.047632986642315,
+    "longitude": 77.68106593363656,
+    "road": "Tumkur Road",
+    "speed_kmph": 30.8,
+    "congestion_level": "low"
+  },
+  {
+    "record_id": "e8c0563d-258a-4c6b-b205-da82a9f3531b",
+    "timestamp": "2025-07-23 17:38:21.913286",
+    "latitude": 12.810911218189172,
+    "longitude": 77.53077760373054,
+    "road": "Magadi Road",
+    "speed_kmph": 42.1,
+    "congestion_level": "medium"
+  },
+  {
+    "record_id": "0a14b309-c173-41d9-98d9-827971e538a4",
+    "timestamp": "2025-07-23 18:16:21.913289",
+    "latitude": 13.104568841672284,
+    "longitude": 77.53584250986897,
+    "road": "Bellary Road",
+    "speed_kmph": 67,
+    "congestion_level": "severe"
+  },
+  {
+    "record_id": "790a474e-6185-421b-a156-df1722b6995e",
+    "timestamp": "2025-07-23 18:18:21.913292",
+    "latitude": 12.848528385189656,
+    "longitude": 77.43349154062031,
+    "road": "Bannerghatta Road",
+    "speed_kmph": 38.6,
+    "congestion_level": "high"
+  }
+]

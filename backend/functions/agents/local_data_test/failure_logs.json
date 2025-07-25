@@ -1,0 +1,3502 @@
+[
+  {
+    "log_id": "ce2cf16b-f3fd-4e32-bb14-63c930bf7f5a",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-11 07:48:17.455943",
+    "error_type": "timeout",
+    "details": "Molestiae aperiam ad molestiae."
+  },
+  {
+    "log_id": "e4f078a1-c89d-43e7-b060-ee6319279b44",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-21 11:30:53.379880",
+    "error_type": "no-data",
+    "details": "Labore labore atque sapiente sapiente fugit assumenda nisi at."
+  },
+  {
+    "log_id": "0ea7c6ed-5f1d-4663-a5c5-afe189fdf534",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-13 14:33:45.007829",
+    "error_type": "invalid-signal",
+    "details": "Vel magni libero repellendus earum."
+  },
+  {
+    "log_id": "f7f90812-bf9b-4810-a17f-2016c9975b86",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-17 14:35:06.564597",
+    "error_type": "no-data",
+    "details": "Nobis incidunt temporibus corrupti quas hic."
+  },
+  {
+    "log_id": "2657abb6-b81f-4807-869d-887f9ad8cfa7",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-09 22:26:08.520656",
+    "error_type": "timeout",
+    "details": "Optio amet aliquam explicabo quae ea ratione ratione incidunt."
+  },
+  {
+    "log_id": "610918c9-5016-4bd5-9a74-4822fd07f913",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-13 12:08:40.477830",
+    "error_type": "no-data",
+    "details": "Incidunt laudantium mollitia dolorum laborum perferendis repellat mollitia."
+  },
+  {
+    "log_id": "ea0ce0e1-cb70-467b-9d7a-f727ac13e4e8",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-05 03:14:37.964638",
+    "error_type": "no-data",
+    "details": "Ex fugiat autem ut neque similique omnis."
+  },
+  {
+    "log_id": "c0a5c337-4a34-41e7-a546-80ad810775f3",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-11 00:08:09.655941",
+    "error_type": "crash",
+    "details": "Delectus odit suscipit unde praesentium eligendi non fugit."
+  },
+  {
+    "log_id": "15c535c9-28c6-45ff-82c4-0e374ac98d23",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-03 18:04:07.206303",
+    "error_type": "invalid-signal",
+    "details": "Quam vel inventore eaque maiores corrupti ipsam."
+  },
+  {
+    "log_id": "99b06cf9-25df-41fb-9011-6cb38bb7ecee",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-11 16:06:31.557315",
+    "error_type": "invalid-signal",
+    "details": "Natus aut consequuntur voluptatem explicabo quis."
+  },
+  {
+    "log_id": "7a0e2539-8a3e-40b5-938d-f7c1ab0b74fc",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-02 10:35:42.914580",
+    "error_type": "timeout",
+    "details": "Illum molestiae commodi magnam nemo ratione dolore modi minus magnam nostrum."
+  },
+  {
+    "log_id": "e9066120-85b0-49fe-bdbb-4c184984e0ab",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-16 15:35:55.692585",
+    "error_type": "no-data",
+    "details": "Consequuntur ea laboriosam voluptatibus quidem ipsum nemo incidunt numquam."
+  },
+  {
+    "log_id": "2cfc4fb4-268c-4b15-939c-4fd6c49acd85",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-05 12:21:02.279872",
+    "error_type": "invalid-signal",
+    "details": "At asperiores voluptatum beatae tempore."
+  },
+  {
+    "log_id": "805cc2d7-49fa-48d6-8362-f40bd3090fc5",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-18 22:05:04.413443",
+    "error_type": "no-data",
+    "details": "Facere quidem nobis repellendus voluptatum sit quaerat."
+  },
+  {
+    "log_id": "5069c057-0ade-45db-89ce-acdb9f24c788",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-17 13:54:02.532489",
+    "error_type": "no-data",
+    "details": "Doloremque labore illum a delectus."
+  },
+  {
+    "log_id": "81d42b2f-0a56-4d1c-b808-26ff61235319",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-22 01:47:53.004770",
+    "error_type": "timeout",
+    "details": "Aliquam ducimus nam atque ex rerum accusantium."
+  },
+  {
+    "log_id": "0b4d2de2-06b8-48bd-b7a1-cf7d6f47d6b6",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-15 22:04:06.784963",
+    "error_type": "timeout",
+    "details": "Facere vero quibusdam libero ea nulla."
+  },
+  {
+    "log_id": "a97b43bd-00b7-4636-8c81-a3cc9965ef48",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-23 00:06:08.953859",
+    "error_type": "route-loop",
+    "details": "Et adipisci deserunt enim adipisci necessitatibus illo aperiam quidem."
+  },
+  {
+    "log_id": "60bdc662-3ee0-4bb3-a2c3-50af42e397d9",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-22 18:40:39.955463",
+    "error_type": "invalid-signal",
+    "details": "Tempore ut aperiam maiores praesentium nisi nemo molestias aliquam."
+  },
+  {
+    "log_id": "16b44b0c-576b-4523-a2fc-ab345868ffda",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-22 01:57:27.622597",
+    "error_type": "timeout",
+    "details": "Vero quas sint iure mollitia atque aspernatur earum maxime voluptatum."
+  },
+  {
+    "log_id": "466b9910-8411-49cd-b951-75be5c89158a",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-08 10:00:34.747762",
+    "error_type": "route-loop",
+    "details": "Saepe numquam ullam occaecati veniam molestias nulla."
+  },
+  {
+    "log_id": "60b255bf-67ba-489d-a663-afff87b06378",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-04 22:16:02.891455",
+    "error_type": "timeout",
+    "details": "Nulla totam praesentium neque possimus mollitia est magni necessitatibus porro."
+  },
+  {
+    "log_id": "69b88f33-3c5d-415e-9f79-260c9020dde2",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-14 03:02:43.535799",
+    "error_type": "no-data",
+    "details": "Eveniet nihil voluptatem rem aliquid."
+  },
+  {
+    "log_id": "82fda101-44f8-41b9-8c36-13692636c245",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-13 21:42:20.897493",
+    "error_type": "no-data",
+    "details": "Nostrum quam perspiciatis animi porro labore."
+  },
+  {
+    "log_id": "5e9be593-5257-46d0-bd9c-635d3a540890",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-14 23:53:39.649020",
+    "error_type": "route-loop",
+    "details": "Doloribus ut suscipit aliquid beatae labore in quas."
+  },
+  {
+    "log_id": "4f64710a-5dbf-4b1f-8c8b-2089a94c8612",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-17 20:50:03.692390",
+    "error_type": "no-data",
+    "details": "Rerum modi quo rem dignissimos et illum."
+  },
+  {
+    "log_id": "93aad0c7-c8fe-4dd7-ab94-906dd252f321",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-21 01:37:48.183801",
+    "error_type": "no-data",
+    "details": "Aut neque eveniet nobis fugiat ab."
+  },
+  {
+    "log_id": "8d737aa2-0ab8-42ea-bac7-0b9c60155570",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-22 17:56:26.654996",
+    "error_type": "no-data",
+    "details": "Nisi officiis error consequatur minus."
+  },
+  {
+    "log_id": "7842cbc6-a001-4ba6-8a14-8b9fb6db95fb",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-17 16:21:36.515833",
+    "error_type": "invalid-signal",
+    "details": "Dolorum aliquid ullam voluptatum placeat earum temporibus similique nostrum inventore."
+  },
+  {
+    "log_id": "3d8a3090-353a-444d-a81f-95150d93d08b",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-19 04:44:42.533283",
+    "error_type": "invalid-signal",
+    "details": "Amet ratione ea accusamus ratione est incidunt facilis."
+  },
+  {
+    "log_id": "9d3cc9ca-db24-4ea2-9a23-63fe6901c88c",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-15 23:04:47.403705",
+    "error_type": "timeout",
+    "details": "Excepturi tempora necessitatibus quos est eum dolore quos rem."
+  },
+  {
+    "log_id": "5ae654b7-9e3b-47e6-b5c4-1c378eea487f",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-14 07:42:17.894410",
+    "error_type": "invalid-signal",
+    "details": "Incidunt doloribus quos ducimus illo."
+  },
+  {
+    "log_id": "c5b9cf38-0459-4e16-bfad-7df2c95995ec",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-15 13:51:08.601154",
+    "error_type": "route-loop",
+    "details": "Quos sequi delectus in praesentium amet id ex."
+  },
+  {
+    "log_id": "f3feb7de-a2e0-4358-8753-3bff9fd88e61",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-06 09:05:04.856210",
+    "error_type": "route-loop",
+    "details": "Expedita unde ab ut incidunt sequi blanditiis corrupti debitis quis."
+  },
+  {
+    "log_id": "869c4218-ecb5-4c92-9b2d-0ffff047e4e9",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-13 12:50:47.542326",
+    "error_type": "timeout",
+    "details": "Incidunt sunt possimus labore illo quisquam nostrum hic aut."
+  },
+  {
+    "log_id": "0f8ace7c-1084-461b-a032-3ec52f4cda5e",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-06 09:11:04.117688",
+    "error_type": "no-data",
+    "details": "Eligendi voluptatem at tenetur sequi repellendus."
+  },
+  {
+    "log_id": "ed9a7dd6-0c07-4053-8d4f-75e6448f3dbc",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-04 19:00:01.231292",
+    "error_type": "timeout",
+    "details": "Modi maxime harum animi quis voluptatem accusamus."
+  },
+  {
+    "log_id": "40b87dc3-6444-4a5b-9d81-1c651f564aa2",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-15 20:56:02.840787",
+    "error_type": "no-data",
+    "details": "Nihil voluptatem laboriosam libero nam deserunt aspernatur neque sunt."
+  },
+  {
+    "log_id": "e3e47946-1fcf-4b8e-8750-be7bd5bbe3a4",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-16 23:47:13.239891",
+    "error_type": "route-loop",
+    "details": "Ipsam quos accusamus reiciendis ipsum voluptatibus illum ea."
+  },
+  {
+    "log_id": "bd0ebe4e-877f-467c-aa4c-d6078e487a8c",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-06 13:35:29.385349",
+    "error_type": "timeout",
+    "details": "Odit incidunt corporis beatae cum dignissimos."
+  },
+  {
+    "log_id": "bbb890de-a025-480b-82f8-bae40145d3df",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-14 03:34:05.952526",
+    "error_type": "timeout",
+    "details": "Dolorem quis laboriosam dolorem exercitationem nihil harum."
+  },
+  {
+    "log_id": "a4ce98ef-db60-4c10-b64f-98b44237a5ff",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-21 08:42:43.966619",
+    "error_type": "crash",
+    "details": "Aliquid mollitia voluptate odio fuga eaque maiores est commodi nam."
+  },
+  {
+    "log_id": "7940964f-f2cd-4e4b-8c27-7f182d6d0a43",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-05 15:00:31.488744",
+    "error_type": "timeout",
+    "details": "Magnam soluta facere quibusdam veniam aliquid perferendis."
+  },
+  {
+    "log_id": "3fbf7804-ee4f-42dc-a165-6eaf7f9a3ca7",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-13 15:44:02.603136",
+    "error_type": "no-data",
+    "details": "Ducimus officiis eligendi iusto qui sit sapiente asperiores consequuntur."
+  },
+  {
+    "log_id": "b7dabc68-60ca-4ead-b1a0-8f668402837a",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-08 00:18:21.661206",
+    "error_type": "route-loop",
+    "details": "Culpa quae ipsum quo nostrum qui."
+  },
+  {
+    "log_id": "a5d274e8-8740-408c-b00c-0f07c38bdbdd",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-10 12:18:06.102535",
+    "error_type": "timeout",
+    "details": "Placeat nulla repellendus assumenda ipsa quo quisquam doloribus eos."
+  },
+  {
+    "log_id": "3e0299f6-448e-4117-a653-4f79106d2d9c",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-12 03:12:58.495678",
+    "error_type": "route-loop",
+    "details": "Laudantium adipisci sint nam fugit cumque."
+  },
+  {
+    "log_id": "24396800-10c6-4c57-ac49-b6e227a4f74d",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-15 16:10:25.580113",
+    "error_type": "no-data",
+    "details": "Tempore explicabo accusamus molestiae reiciendis."
+  },
+  {
+    "log_id": "ad8b0dd9-9e7b-4db8-a66b-d0eeb2574bf7",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-17 18:42:53.132005",
+    "error_type": "crash",
+    "details": "Non harum doloribus aliquam eveniet."
+  },
+  {
+    "log_id": "858fab60-2bbe-45ea-b9da-74804b8f05ff",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-21 02:08:52.010831",
+    "error_type": "no-data",
+    "details": "Alias non recusandae dolorem quaerat magnam."
+  },
+  {
+    "log_id": "aabf222f-ab64-4937-a52a-ea2492489bee",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-05 23:34:30.287557",
+    "error_type": "no-data",
+    "details": "Eaque tempora ex dolorem esse alias."
+  },
+  {
+    "log_id": "4c2ea4dc-685b-4cbc-8eb8-18ddbb0570e4",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-19 09:34:27.008659",
+    "error_type": "route-loop",
+    "details": "Maiores quaerat id labore enim."
+  },
+  {
+    "log_id": "e1236175-3e22-4676-854d-35aa28998ac0",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-07 14:21:08.893341",
+    "error_type": "timeout",
+    "details": "Sapiente exercitationem cupiditate ducimus totam."
+  },
+  {
+    "log_id": "216920d1-b78c-4afc-81a8-a33b6b77fe6e",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-22 10:35:45.446961",
+    "error_type": "crash",
+    "details": "Ea incidunt repudiandae distinctio modi facere architecto nobis."
+  },
+  {
+    "log_id": "d85483ef-b9a8-43f3-b8e5-57705e460f1c",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-13 23:59:00.775220",
+    "error_type": "route-loop",
+    "details": "Ipsum quos autem odit officiis tenetur."
+  },
+  {
+    "log_id": "1aa5d4e2-36c0-47aa-ae4e-be9987400c48",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-06 22:36:54.882213",
+    "error_type": "no-data",
+    "details": "Dolores nisi corporis itaque magnam optio soluta quasi."
+  },
+  {
+    "log_id": "40793ca3-c73e-44ab-b5f5-431f4f40f6ed",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-06 18:42:48.472729",
+    "error_type": "invalid-signal",
+    "details": "Necessitatibus incidunt nesciunt maiores culpa suscipit porro aperiam voluptatibus et neque."
+  },
+  {
+    "log_id": "0a707ba8-df9a-49f5-b643-5b4e1508faec",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-19 10:57:06.605117",
+    "error_type": "invalid-signal",
+    "details": "Saepe autem saepe perspiciatis ducimus doloremque."
+  },
+  {
+    "log_id": "f209329d-4aa7-44e2-a3e3-1ac9d27102f1",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-18 15:22:30.481136",
+    "error_type": "no-data",
+    "details": "Similique voluptates molestiae vitae quae."
+  },
+  {
+    "log_id": "281ba827-63cf-4b51-a1b2-a7e5fb72025b",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-14 21:55:46.249274",
+    "error_type": "no-data",
+    "details": "Eaque temporibus rerum officiis nihil cum."
+  },
+  {
+    "log_id": "5fa881b0-c013-4339-b236-57ec5acc0d2f",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-17 12:06:43.786855",
+    "error_type": "invalid-signal",
+    "details": "Dolores recusandae corrupti beatae officia mollitia adipisci."
+  },
+  {
+    "log_id": "df9b87b0-ddc4-48d2-8a65-8a7dc1f5e014",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-05 02:35:33.436440",
+    "error_type": "no-data",
+    "details": "Velit necessitatibus voluptatem maxime maiores aliquid."
+  },
+  {
+    "log_id": "c9e58ebc-673d-4de0-afc4-4d650ad56e56",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-11 04:07:08.182639",
+    "error_type": "route-loop",
+    "details": "Nam distinctio corporis aliquid blanditiis delectus cupiditate a aperiam minima."
+  },
+  {
+    "log_id": "5e79e796-acfe-42ea-b89b-97223aa4ecd7",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-19 18:39:29.756007",
+    "error_type": "crash",
+    "details": "Inventore beatae tenetur magni occaecati perferendis nam reiciendis laboriosam."
+  },
+  {
+    "log_id": "2fdc4da3-aee5-4b7a-8b20-cc445705b300",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-20 14:11:14.154343",
+    "error_type": "no-data",
+    "details": "Commodi molestias repellendus deleniti fugit at aperiam quam."
+  },
+  {
+    "log_id": "dd8f5010-f58f-46a0-b111-6b6a4b38a57b",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-10 23:43:53.184984",
+    "error_type": "crash",
+    "details": "Enim eum doloribus velit nihil quidem ratione eius quos quisquam."
+  },
+  {
+    "log_id": "ab2d96a0-05f4-42d0-baaf-e28be953ab78",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-05 06:03:11.787514",
+    "error_type": "timeout",
+    "details": "Odit deserunt est sint nihil rerum ratione alias dicta quo."
+  },
+  {
+    "log_id": "4ec75bdc-6094-474c-b846-e9c515a8cb98",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-04 23:14:37.017428",
+    "error_type": "route-loop",
+    "details": "Itaque quibusdam totam a."
+  },
+  {
+    "log_id": "dcf315c6-47a0-49ae-8ac6-a8536943dab7",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-02 14:10:46.321422",
+    "error_type": "crash",
+    "details": "Velit veritatis nihil ipsa asperiores accusantium porro."
+  },
+  {
+    "log_id": "f5c0b490-9361-411d-8352-aaba4a64cfcc",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-02 06:17:15.683664",
+    "error_type": "timeout",
+    "details": "Inventore tempore harum eaque asperiores temporibus hic fuga sint."
+  },
+  {
+    "log_id": "ea90f648-8155-4b84-87c5-577fd0919dcd",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-06 14:40:00.431813",
+    "error_type": "crash",
+    "details": "Provident tempora velit voluptates a."
+  },
+  {
+    "log_id": "39d26141-c5a4-45cb-85c2-08e0eb056b48",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-21 12:17:28.504304",
+    "error_type": "route-loop",
+    "details": "Molestiae aut nostrum ullam nihil quo iusto minima accusamus."
+  },
+  {
+    "log_id": "3dcf3be0-5e4d-4d2f-9be5-2474bb146720",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-11 15:57:57.299860",
+    "error_type": "route-loop",
+    "details": "Quis inventore molestias eos consequuntur modi necessitatibus numquam culpa non."
+  },
+  {
+    "log_id": "84cc98eb-803f-4f00-b289-35e78e5bef68",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-12 23:55:14.802618",
+    "error_type": "invalid-signal",
+    "details": "Minus molestiae nam maxime."
+  },
+  {
+    "log_id": "4682ca38-fb78-4253-9496-1e602daf33de",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-12 07:54:48.606710",
+    "error_type": "crash",
+    "details": "Blanditiis minus placeat odit quos asperiores adipisci rem inventore facilis."
+  },
+  {
+    "log_id": "225e75c8-f8f4-41f9-b9ba-04a854e08a94",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-03 13:28:13.106783",
+    "error_type": "crash",
+    "details": "Necessitatibus tempore ad nisi consectetur."
+  },
+  {
+    "log_id": "b27b14fd-d4ed-49d8-9c2f-33817736fb28",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-12 03:53:06.419218",
+    "error_type": "timeout",
+    "details": "Consequatur sunt quisquam facere sed."
+  },
+  {
+    "log_id": "57059671-b031-4179-ac76-25b80fc06f77",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-21 09:10:57.543308",
+    "error_type": "invalid-signal",
+    "details": "Maxime nam sit fugit esse aspernatur sequi quis voluptatem nemo vel."
+  },
+  {
+    "log_id": "a39ad4df-afd3-4c8b-8a29-8783099c4929",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-08 10:35:08.091734",
+    "error_type": "timeout",
+    "details": "Quos facere magni voluptas blanditiis."
+  },
+  {
+    "log_id": "4a97a245-da5b-4081-be3d-81d80eb9daed",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-14 04:38:47.274613",
+    "error_type": "crash",
+    "details": "Itaque provident perferendis consequuntur error nobis quos atque perferendis."
+  },
+  {
+    "log_id": "375485e6-ea9e-4202-b463-47573d231e3b",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-13 17:01:40.261319",
+    "error_type": "crash",
+    "details": "Corporis at quae illo consequuntur eaque cum nobis labore maiores."
+  },
+  {
+    "log_id": "d2ed9291-c3da-4521-b840-596b357ce81a",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-21 19:53:23.384326",
+    "error_type": "route-loop",
+    "details": "Ipsum repellat sunt totam eaque."
+  },
+  {
+    "log_id": "86b5dd45-d41a-4093-b1bf-8a3c5ae57068",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-06 12:46:30.993270",
+    "error_type": "no-data",
+    "details": "Eaque consequatur reprehenderit expedita eos laborum rerum eum."
+  },
+  {
+    "log_id": "e22bc2f8-50a8-4d59-964d-992141f9bf45",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-04 09:32:07.535181",
+    "error_type": "timeout",
+    "details": "Consectetur sapiente consequuntur sapiente facilis rerum quae accusantium quasi."
+  },
+  {
+    "log_id": "ba7bc404-650c-4ea2-9f47-3751b5790849",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-19 11:48:09.542118",
+    "error_type": "crash",
+    "details": "Odio dolor provident exercitationem eius."
+  },
+  {
+    "log_id": "ce529b86-2433-480d-8e84-37fc38cd0ced",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-18 03:15:22.503383",
+    "error_type": "no-data",
+    "details": "Itaque distinctio consequatur sed iusto."
+  },
+  {
+    "log_id": "b6181e8e-1836-4f46-970e-04471a282f20",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-03 05:50:42.812545",
+    "error_type": "invalid-signal",
+    "details": "Magnam ullam nostrum suscipit suscipit eius."
+  },
+  {
+    "log_id": "776944b8-86b5-4a8f-b46a-18dc99901c0d",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-19 01:22:28.558057",
+    "error_type": "no-data",
+    "details": "At maxime veniam repellendus delectus."
+  },
+  {
+    "log_id": "1faff7a0-c991-484d-a0eb-b3c7b8a3f3fa",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-10 00:58:06.941512",
+    "error_type": "timeout",
+    "details": "Quaerat dolores consequatur in harum ut unde."
+  },
+  {
+    "log_id": "f9c04882-9b40-4b90-8c5f-606f8b5c59ef",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-18 23:55:40.649128",
+    "error_type": "invalid-signal",
+    "details": "Ab aperiam ratione velit odit quidem animi blanditiis."
+  },
+  {
+    "log_id": "17673700-97e3-4b40-bdb8-7d1532d8aff9",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-20 15:28:43.569175",
+    "error_type": "route-loop",
+    "details": "Voluptate nostrum sapiente suscipit autem repellendus assumenda delectus."
+  },
+  {
+    "log_id": "7e19cad7-32af-4b95-adc4-b86da180ee9b",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-13 11:22:57.539927",
+    "error_type": "invalid-signal",
+    "details": "Quibusdam aliquam facilis veniam similique."
+  },
+  {
+    "log_id": "a4df08c5-67ad-4841-a27c-27df377f0ac2",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-04 22:39:43.854769",
+    "error_type": "timeout",
+    "details": "Amet necessitatibus dicta adipisci architecto inventore et accusamus vero."
+  },
+  {
+    "log_id": "0a09bdc1-39c8-4117-bfdb-88d752b1731b",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-21 02:37:13.577942",
+    "error_type": "crash",
+    "details": "Temporibus rerum officiis soluta nemo est quae."
+  },
+  {
+    "log_id": "08e5dd93-dad5-4f42-a81a-035fe1e3d66c",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-07 00:57:00.361902",
+    "error_type": "invalid-signal",
+    "details": "Dolorem officia reiciendis maxime impedit nam distinctio."
+  },
+  {
+    "log_id": "1578320e-f4ca-47a4-93ab-d39bb92e2cab",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-13 14:47:11.902372",
+    "error_type": "route-loop",
+    "details": "Exercitationem nisi eius iusto blanditiis saepe at numquam."
+  },
+  {
+    "log_id": "c2e8118f-9ca3-49d1-8002-c7fceb0a97f7",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-14 19:23:54.214194",
+    "error_type": "invalid-signal",
+    "details": "Unde voluptate dicta est modi distinctio quo quo alias ex."
+  },
+  {
+    "log_id": "f632090a-c226-44f4-bf25-877881403ce5",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-22 09:24:34.575211",
+    "error_type": "no-data",
+    "details": "Explicabo natus nostrum dolore delectus iusto."
+  },
+  {
+    "log_id": "1866177e-63ab-448f-bdcd-d45c53d32d79",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-21 03:24:53.216167",
+    "error_type": "timeout",
+    "details": "Distinctio sunt ratione facere ducimus quisquam reprehenderit."
+  },
+  {
+    "log_id": "dbbeb0d9-802c-4b52-b5f3-0d6e7632d4d4",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-12 19:20:40.567522",
+    "error_type": "route-loop",
+    "details": "Sit corrupti minus illo earum molestias aliquam inventore."
+  },
+  {
+    "log_id": "b864aaf7-8d73-47aa-8766-dd63683e1858",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-12 12:24:05.022912",
+    "error_type": "no-data",
+    "details": "Nihil dolor quaerat dolorum error molestiae."
+  },
+  {
+    "log_id": "022551d2-e44e-423a-8643-eed7dd3024fc",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-13 22:49:26.376916",
+    "error_type": "timeout",
+    "details": "Molestias voluptas et dolorem ullam reiciendis."
+  },
+  {
+    "log_id": "356d9896-2f50-40fb-a958-c74502bb657d",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-08 22:50:35.989560",
+    "error_type": "invalid-signal",
+    "details": "Voluptas error totam molestiae ex amet repellendus unde provident hic ipsum."
+  },
+  {
+    "log_id": "cf89321c-ff4c-429e-86cd-3e3bd2026202",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-05 19:03:04.442856",
+    "error_type": "timeout",
+    "details": "Explicabo facilis id dignissimos delectus repudiandae nisi molestiae."
+  },
+  {
+    "log_id": "55a79731-1b53-4124-960a-035c0786a459",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-17 20:16:50.406899",
+    "error_type": "timeout",
+    "details": "Temporibus eveniet aliquam occaecati est adipisci voluptatibus aut."
+  },
+  {
+    "log_id": "8cbbca01-1cac-4d9f-aa3e-ed4fc7547e4d",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-17 01:08:36.157378",
+    "error_type": "timeout",
+    "details": "Aut assumenda aut quod velit atque voluptates."
+  },
+  {
+    "log_id": "861c53de-98e1-4160-966c-bda120be8394",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-09 11:20:36.786150",
+    "error_type": "no-data",
+    "details": "Consequuntur rem provident ipsum."
+  },
+  {
+    "log_id": "b03ac41d-3e90-41e8-835b-d879eca0a912",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-12 17:00:04.003116",
+    "error_type": "timeout",
+    "details": "Amet praesentium cumque ad quaerat fuga doloremque repellendus."
+  },
+  {
+    "log_id": "a3078402-78e6-425e-9577-526f609626ba",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-05 04:53:05.700904",
+    "error_type": "invalid-signal",
+    "details": "Praesentium assumenda debitis a assumenda consequatur ipsa."
+  },
+  {
+    "log_id": "bab0dbe0-438e-4bb9-bf52-7025b3ed3b04",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-15 12:15:05.070834",
+    "error_type": "crash",
+    "details": "Quos tempore facere vitae ab similique quis praesentium."
+  },
+  {
+    "log_id": "98982e99-fa9f-4bb3-92b2-cf4b489d3b8a",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-09 23:26:47.536253",
+    "error_type": "crash",
+    "details": "Aspernatur beatae dolor quaerat delectus."
+  },
+  {
+    "log_id": "e86e8c8d-b98b-46f3-b5da-b6fe1ea4b89d",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-02 09:15:42.048356",
+    "error_type": "crash",
+    "details": "Vitae omnis placeat ea odio nulla adipisci eligendi."
+  },
+  {
+    "log_id": "e1dd2f7f-00c9-46e5-aaab-06296a5eec28",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-20 01:45:09.730850",
+    "error_type": "route-loop",
+    "details": "Aut ipsam deleniti consectetur nisi amet explicabo quia perferendis."
+  },
+  {
+    "log_id": "644a79cd-36b5-48a4-ae1c-64c69efda9e9",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-18 02:05:09.297184",
+    "error_type": "crash",
+    "details": "Totam pariatur repudiandae aliquid voluptatem."
+  },
+  {
+    "log_id": "5885dca5-cac5-4bc7-9c18-17a35e2f0318",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-23 16:59:53.792877",
+    "error_type": "timeout",
+    "details": "Vero numquam voluptas quo accusamus porro neque."
+  },
+  {
+    "log_id": "13853f45-0ed5-4c8c-a2c9-4a442248fe75",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-18 11:53:57.034404",
+    "error_type": "crash",
+    "details": "Eius commodi adipisci dolor."
+  },
+  {
+    "log_id": "cefabf95-1227-457d-9a8b-85244faca0ff",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-05 14:21:28.389630",
+    "error_type": "route-loop",
+    "details": "Magni praesentium quis aperiam molestiae."
+  },
+  {
+    "log_id": "a3a868d7-86a5-4845-9eef-79951f884ed9",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-07 07:57:12.295319",
+    "error_type": "crash",
+    "details": "Nostrum atque dolore omnis sunt nulla cupiditate molestias exercitationem quibusdam tenetur."
+  },
+  {
+    "log_id": "1bddfef5-496e-486a-9335-0c77c5991a45",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-07 21:03:03.564324",
+    "error_type": "timeout",
+    "details": "Excepturi aliquid harum alias illum laborum velit accusamus accusantium necessitatibus."
+  },
+  {
+    "log_id": "3b39b8aa-39d0-4b01-8ad0-78318a0aeef0",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-22 00:01:20.212838",
+    "error_type": "route-loop",
+    "details": "Animi molestias quaerat labore aliquid possimus dolores laboriosam eaque perspiciatis."
+  },
+  {
+    "log_id": "57cb9719-7a33-47d0-87a6-c63c65a1ee9c",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-15 16:36:39.732047",
+    "error_type": "timeout",
+    "details": "Optio necessitatibus enim neque vitae fugiat."
+  },
+  {
+    "log_id": "23a8bfbe-9628-4af2-86c0-965dd68b717e",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-19 13:05:15.428927",
+    "error_type": "invalid-signal",
+    "details": "Accusantium hic itaque quis sed ex ab."
+  },
+  {
+    "log_id": "31d83f78-6843-4031-bf36-fe7fc1ab5f4c",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-20 11:13:17.048910",
+    "error_type": "crash",
+    "details": "Odio repudiandae asperiores distinctio fugit ducimus."
+  },
+  {
+    "log_id": "285d9795-b913-4441-90a0-54172bac7c89",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-14 01:31:04.789813",
+    "error_type": "route-loop",
+    "details": "Delectus autem modi delectus aperiam delectus veniam praesentium."
+  },
+  {
+    "log_id": "9a1a59cf-9b48-4ff5-b730-9e25f10cb4f0",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-03 11:48:49.213098",
+    "error_type": "no-data",
+    "details": "Dolor dolore ex atque accusamus ratione."
+  },
+  {
+    "log_id": "3d79f8b6-12d0-4f7d-a5db-9dbd817f8e3b",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-02 12:16:53.505724",
+    "error_type": "no-data",
+    "details": "Aliquam tempora in perspiciatis explicabo ab quisquam molestiae totam magni."
+  },
+  {
+    "log_id": "567328bc-55cf-485a-8667-b0577387de41",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-20 00:17:37.590230",
+    "error_type": "invalid-signal",
+    "details": "Accusamus suscipit blanditiis fugit ipsam recusandae nulla."
+  },
+  {
+    "log_id": "415155db-179c-4a64-93a5-893a6b13ad0a",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-04 17:03:21.161823",
+    "error_type": "route-loop",
+    "details": "Eligendi perspiciatis vero unde."
+  },
+  {
+    "log_id": "befae203-b206-4a83-8956-f0e5ef0c1132",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-05 18:45:33.536850",
+    "error_type": "no-data",
+    "details": "Ex soluta natus ratione molestiae eum natus delectus cupiditate."
+  },
+  {
+    "log_id": "214b1e1c-4b40-4399-bb10-f0bedb768604",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-17 13:42:42.652613",
+    "error_type": "invalid-signal",
+    "details": "Quo est hic doloremque sapiente in rem debitis ab possimus."
+  },
+  {
+    "log_id": "f0cf9990-6841-467c-893e-2de88509c3a2",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-21 10:54:26.822757",
+    "error_type": "route-loop",
+    "details": "Fuga maxime aspernatur iure iure ad nisi a ipsam."
+  },
+  {
+    "log_id": "5de8f62b-d45f-4e7f-8af8-7147bf44ea67",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-20 17:59:59.117870",
+    "error_type": "timeout",
+    "details": "Reiciendis sapiente dolorem quibusdam ab."
+  },
+  {
+    "log_id": "cac29f1d-c72c-4764-8570-ea72a16700f7",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-01 12:28:43.332765",
+    "error_type": "route-loop",
+    "details": "Inventore vero aut recusandae quas cupiditate."
+  },
+  {
+    "log_id": "ef82fab3-7e0c-4286-bcd6-8ac35665dd0b",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-04 09:31:19.933480",
+    "error_type": "crash",
+    "details": "Tenetur minima commodi nemo laborum a facilis atque."
+  },
+  {
+    "log_id": "f75ea48f-6f74-4d68-adbd-4921653f4313",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-14 03:20:26.346549",
+    "error_type": "crash",
+    "details": "Quo magnam distinctio fuga mollitia."
+  },
+  {
+    "log_id": "84f36ac6-0bde-44e2-be66-de49ca6d6803",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-18 17:43:07.269493",
+    "error_type": "invalid-signal",
+    "details": "Quas sunt necessitatibus iure voluptate."
+  },
+  {
+    "log_id": "bf10545a-1dd3-45d2-9892-7ebdb1956d60",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-17 14:42:00.756380",
+    "error_type": "route-loop",
+    "details": "Provident atque nam aliquid amet voluptatibus."
+  },
+  {
+    "log_id": "d8b6a5b0-c7c2-4f1b-ad30-26db20f8260c",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-14 08:38:06.949241",
+    "error_type": "no-data",
+    "details": "Totam laboriosam quisquam praesentium similique architecto voluptatem non."
+  },
+  {
+    "log_id": "f1a0051f-0aca-4683-b058-291104999aeb",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-08 22:15:40.590456",
+    "error_type": "no-data",
+    "details": "Magni neque tempore rem eius vero."
+  },
+  {
+    "log_id": "0e2ddf52-fd81-40c8-9ff4-cc9131646c14",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-01 13:07:42.607351",
+    "error_type": "route-loop",
+    "details": "Sint omnis voluptatum consequuntur quam labore a."
+  },
+  {
+    "log_id": "5c7f9aef-3403-4fdf-a28b-40c6852f88aa",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-07 21:25:35.025087",
+    "error_type": "no-data",
+    "details": "Mollitia nostrum modi numquam saepe dolorem."
+  },
+  {
+    "log_id": "9b805cc7-e271-4ff8-a5d8-350a63fdb07a",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-11 21:07:58.954287",
+    "error_type": "timeout",
+    "details": "Animi at eius voluptates omnis quasi."
+  },
+  {
+    "log_id": "c342adc9-df09-451f-9173-bd6d16a00e13",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-15 21:10:18.478151",
+    "error_type": "timeout",
+    "details": "Quibusdam architecto voluptate vero neque quae praesentium perferendis quasi quasi."
+  },
+  {
+    "log_id": "af562306-276c-41fb-a2e3-842606fb22ac",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-17 17:31:00.263494",
+    "error_type": "no-data",
+    "details": "Alias dignissimos amet vel possimus dolor."
+  },
+  {
+    "log_id": "f0b81b29-5204-4e75-929b-1e2d74a41600",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-05 09:21:43.938782",
+    "error_type": "timeout",
+    "details": "Consectetur ipsa facere ut possimus aut."
+  },
+  {
+    "log_id": "f3e9d42f-1996-4b40-b67d-9053bec2e40d",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-14 22:24:12.147455",
+    "error_type": "timeout",
+    "details": "Quaerat aliquam quod consectetur atque excepturi aliquid ducimus."
+  },
+  {
+    "log_id": "4107e873-37f6-4fc4-8481-15142cee1a3a",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-05 11:15:51.115941",
+    "error_type": "crash",
+    "details": "A voluptates animi quaerat nisi vel."
+  },
+  {
+    "log_id": "0d5348d1-5b15-474d-972d-3274e5c22467",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-01 02:41:01.964021",
+    "error_type": "invalid-signal",
+    "details": "Itaque explicabo temporibus atque modi consequatur architecto ad cum."
+  },
+  {
+    "log_id": "8cdfe58d-8252-4aff-ae06-f176d140f967",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-10 11:03:00.140314",
+    "error_type": "timeout",
+    "details": "At placeat repellat voluptatem asperiores error sint aliquam velit neque."
+  },
+  {
+    "log_id": "1bd8978e-9271-4fea-afad-74602ef38ed1",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-11 16:49:55.886745",
+    "error_type": "invalid-signal",
+    "details": "Dolor velit adipisci dolorum vitae molestiae eius nulla hic corrupti."
+  },
+  {
+    "log_id": "7c3aaa22-d8f1-48fb-a05a-53c47c4243c7",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-05 18:57:32.779721",
+    "error_type": "route-loop",
+    "details": "Reiciendis dicta blanditiis laborum magnam."
+  },
+  {
+    "log_id": "a4e71358-8fb6-402d-8357-5ff16caa4c8d",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-14 12:14:38.690814",
+    "error_type": "invalid-signal",
+    "details": "Illo suscipit voluptas in voluptas hic veritatis soluta."
+  },
+  {
+    "log_id": "35fad47f-9f05-40b5-a481-2872e704db7d",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-03 02:46:15.153653",
+    "error_type": "crash",
+    "details": "Fugit praesentium ut assumenda maiores."
+  },
+  {
+    "log_id": "43874957-d4d6-4370-8645-1ddafbe22c49",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-23 00:32:11.357861",
+    "error_type": "invalid-signal",
+    "details": "Facere aperiam neque quod quos error alias vitae."
+  },
+  {
+    "log_id": "0a53d7c4-f68f-405b-bfe9-efdb4a57b541",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-04 07:19:11.039357",
+    "error_type": "invalid-signal",
+    "details": "Voluptatem placeat non deleniti dolore impedit ab officia."
+  },
+  {
+    "log_id": "e577e1b6-4dd3-4982-bdfa-45fa1da6f0f0",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-02 02:27:06.515759",
+    "error_type": "timeout",
+    "details": "Cumque deleniti sed harum inventore rerum at voluptas."
+  },
+  {
+    "log_id": "871e8c56-cb37-48c2-8144-fe678df5b9a0",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-04 10:27:35.679250",
+    "error_type": "route-loop",
+    "details": "Dolor illum consequuntur repudiandae exercitationem omnis possimus."
+  },
+  {
+    "log_id": "31ae84be-c7be-45c6-b28a-c5fdfc32964b",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-04 10:55:38.618724",
+    "error_type": "invalid-signal",
+    "details": "Perferendis aut maiores maiores suscipit aliquam quasi."
+  },
+  {
+    "log_id": "7a15422e-3cc7-4dc8-8c66-94ab57b53de2",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-05 17:13:35.036153",
+    "error_type": "no-data",
+    "details": "Veniam nulla qui ut corporis dolores est reprehenderit assumenda nobis."
+  },
+  {
+    "log_id": "8cdfb034-e9a8-4c51-aac7-82acdce2ab06",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-03 16:30:40.678339",
+    "error_type": "crash",
+    "details": "Ea dicta excepturi dolores consequatur vitae voluptatibus veniam."
+  },
+  {
+    "log_id": "22f15aad-8752-49fb-a4cb-277fbc95a041",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-16 15:13:05.030323",
+    "error_type": "no-data",
+    "details": "Suscipit pariatur facilis doloremque doloribus veniam."
+  },
+  {
+    "log_id": "3bd6df9b-3643-4f4d-8bce-8eeb684f1e52",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-16 22:39:25.359601",
+    "error_type": "route-loop",
+    "details": "Repellat dolores aspernatur rerum sed."
+  },
+  {
+    "log_id": "b94eb6f8-9d50-4e83-9fd2-4b9aa5279af5",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-11 11:30:15.735730",
+    "error_type": "route-loop",
+    "details": "Libero adipisci voluptatem eaque sint quod hic porro perferendis libero."
+  },
+  {
+    "log_id": "aac23302-1a3b-48d8-8dab-a5071fc7737c",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-11 14:53:45.873145",
+    "error_type": "route-loop",
+    "details": "Illo quae quam voluptatibus quam velit totam excepturi dicta."
+  },
+  {
+    "log_id": "b1a7d537-b0ec-4074-b397-b9875edd3492",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-16 00:41:01.419189",
+    "error_type": "crash",
+    "details": "Ipsa natus voluptatibus earum harum quas quod."
+  },
+  {
+    "log_id": "0c286323-d27f-4d1f-9b0d-faab049f32c7",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-02 05:13:51.732713",
+    "error_type": "route-loop",
+    "details": "Vitae aperiam dignissimos eligendi aspernatur exercitationem fuga modi."
+  },
+  {
+    "log_id": "90809121-fe41-4b81-9e45-295681e4ee99",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-14 18:59:33.551007",
+    "error_type": "route-loop",
+    "details": "Nemo unde vel totam."
+  },
+  {
+    "log_id": "cda42f85-1099-4969-b521-d09594b22af0",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-17 23:34:49.915973",
+    "error_type": "no-data",
+    "details": "Magni repellendus delectus id consequuntur ratione fuga."
+  },
+  {
+    "log_id": "2e89015e-92f7-45e7-8927-db4a4a12d0d4",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-03 00:45:12.395541",
+    "error_type": "crash",
+    "details": "Id sapiente delectus sequi dolores iste voluptatem consequatur."
+  },
+  {
+    "log_id": "fed024cb-b6f3-4bd4-8409-b7c8ef59a4b5",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-03 13:34:39.578094",
+    "error_type": "timeout",
+    "details": "Quod nihil blanditiis delectus commodi repellendus amet pariatur."
+  },
+  {
+    "log_id": "9538e035-4157-4bec-bdec-c58d73fee1a3",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-10 04:00:31.519599",
+    "error_type": "timeout",
+    "details": "Officiis nesciunt dolorum tempore velit repellendus error."
+  },
+  {
+    "log_id": "c1978cb8-6721-4261-aa64-d46bceacd779",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-03 22:45:08.201280",
+    "error_type": "invalid-signal",
+    "details": "Suscipit distinctio repellat iste impedit omnis itaque aut."
+  },
+  {
+    "log_id": "9fafc17e-92a2-419d-b4c7-0241990cb8bf",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-05 02:43:38.279484",
+    "error_type": "route-loop",
+    "details": "Adipisci officia quasi libero."
+  },
+  {
+    "log_id": "c441c3db-6bb5-4af7-a03f-137ff14da3ea",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-03 18:05:00.355801",
+    "error_type": "timeout",
+    "details": "Reprehenderit ullam consequuntur blanditiis fuga molestias at ut eligendi culpa."
+  },
+  {
+    "log_id": "6038e284-cedd-4dec-929d-778e9fde2d5f",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-17 10:16:37.063134",
+    "error_type": "timeout",
+    "details": "Repellendus omnis qui debitis suscipit magnam itaque eaque."
+  },
+  {
+    "log_id": "4be1a297-a822-4853-87d0-12b0de9ccb51",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-11 03:56:07.883076",
+    "error_type": "invalid-signal",
+    "details": "Aliquid libero odit cum officia repellendus ad minus recusandae."
+  },
+  {
+    "log_id": "9acb0045-a449-4efa-8d7d-a747d48d5f9a",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-17 11:00:10.322744",
+    "error_type": "no-data",
+    "details": "Dolore ipsam iste neque id eum."
+  },
+  {
+    "log_id": "bad16e1d-befb-4a15-99ad-f607c26e3dbd",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-16 01:31:20.216721",
+    "error_type": "no-data",
+    "details": "Deserunt a eius aperiam repudiandae unde."
+  },
+  {
+    "log_id": "fb32440e-c2d6-4d46-ada3-b63dad0858c6",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-22 01:39:13.125770",
+    "error_type": "route-loop",
+    "details": "Praesentium repellendus repellendus ut aperiam unde facilis officiis omnis aliquid ad."
+  },
+  {
+    "log_id": "e39f6cc7-16f3-4bed-b4c9-abd9daacfe2b",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-18 07:11:29.532202",
+    "error_type": "route-loop",
+    "details": "Laborum placeat quas aperiam delectus iure."
+  },
+  {
+    "log_id": "890719db-252a-45db-8ba9-008d85afb680",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-22 05:24:28.643322",
+    "error_type": "no-data",
+    "details": "Blanditiis ad error voluptas porro commodi."
+  },
+  {
+    "log_id": "62544d22-944b-4abb-9dbe-0139c89578d9",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-05 12:08:54.835142",
+    "error_type": "no-data",
+    "details": "Quis minus occaecati assumenda voluptatibus tenetur."
+  },
+  {
+    "log_id": "3f8a16b8-919a-4591-b3b2-0598a303d14f",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-15 04:21:18.372965",
+    "error_type": "invalid-signal",
+    "details": "Commodi fugiat exercitationem quae maxime hic."
+  },
+  {
+    "log_id": "1a5a8977-90ba-4d38-9492-112f259d537f",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-17 14:39:11.785576",
+    "error_type": "no-data",
+    "details": "Nobis delectus quas sequi quos."
+  },
+  {
+    "log_id": "801cbac1-c5b5-4b89-8572-2bc54b5e4a40",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-01 20:13:37.662972",
+    "error_type": "no-data",
+    "details": "Consectetur fuga nostrum repudiandae similique placeat tenetur corrupti."
+  },
+  {
+    "log_id": "9e689a6c-91c9-4ab6-8f41-8193e3289c3a",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-14 00:26:33.153513",
+    "error_type": "route-loop",
+    "details": "Odit quo ipsam praesentium deleniti minima."
+  },
+  {
+    "log_id": "31c78a33-db59-43d3-b990-03d8cad413f4",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-10 19:43:02.072229",
+    "error_type": "route-loop",
+    "details": "Cupiditate enim sequi porro repudiandae quos dolore explicabo consectetur incidunt."
+  },
+  {
+    "log_id": "30bc76c4-e3fa-4893-acd4-e76df40ab6cf",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-08 16:17:14.654271",
+    "error_type": "invalid-signal",
+    "details": "Magni voluptas iusto at aliquid."
+  },
+  {
+    "log_id": "c7c40854-d6d4-4b06-af59-2f3e1bbd2513",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-13 04:55:08.047923",
+    "error_type": "no-data",
+    "details": "Aliquid deleniti non ratione blanditiis magni culpa sequi fugit."
+  },
+  {
+    "log_id": "4b5fdf70-3918-4b72-91c1-f266ce9ca015",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-16 00:46:05.108397",
+    "error_type": "invalid-signal",
+    "details": "Accusamus commodi id explicabo sapiente."
+  },
+  {
+    "log_id": "f8179896-c6b9-4ce2-a42b-ba10c7d0b0d1",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-11 08:46:18.668880",
+    "error_type": "route-loop",
+    "details": "Dolore vitae perspiciatis odio delectus at similique pariatur sapiente ipsa."
+  },
+  {
+    "log_id": "8f523f8a-905c-4e00-a77a-72f66e0c42e9",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-20 23:04:11.276183",
+    "error_type": "invalid-signal",
+    "details": "Modi ea illo dicta ipsam ea corporis."
+  },
+  {
+    "log_id": "6866d52e-0e05-426a-b001-e73cf5ebb7f9",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-19 11:13:21.669959",
+    "error_type": "invalid-signal",
+    "details": "Voluptatem voluptatem consequuntur cum quae accusantium."
+  },
+  {
+    "log_id": "fd721fc2-05e0-4019-b31e-120d9f49ab89",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-18 16:18:49.083462",
+    "error_type": "invalid-signal",
+    "details": "Quidem eos voluptatum exercitationem voluptatibus."
+  },
+  {
+    "log_id": "65e2ebba-27ae-4220-b915-0e998ed31834",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-03 08:37:00.810256",
+    "error_type": "invalid-signal",
+    "details": "Culpa repellendus voluptatibus occaecati delectus quasi explicabo animi delectus suscipit."
+  },
+  {
+    "log_id": "c387d8eb-7509-48ba-9e22-ade1a3e6bbfd",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-18 09:35:59.449190",
+    "error_type": "crash",
+    "details": "Distinctio omnis tempore doloribus tempore ratione laboriosam reiciendis."
+  },
+  {
+    "log_id": "07d02e2c-e440-4398-b8eb-71136aeea07a",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-07 10:05:32.000844",
+    "error_type": "invalid-signal",
+    "details": "Sequi beatae animi id recusandae."
+  },
+  {
+    "log_id": "bfd096b4-2c85-4b3f-b126-36bba455ea22",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-03 06:53:04.231237",
+    "error_type": "route-loop",
+    "details": "Autem dolores laborum et sequi veniam quo."
+  },
+  {
+    "log_id": "f16a8348-8fc8-4d53-8f3b-81d63745abe5",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-07 11:24:23.087675",
+    "error_type": "route-loop",
+    "details": "Eum accusamus optio dolor harum illo animi quos optio dolorem."
+  },
+  {
+    "log_id": "851e4fe8-3a65-40b5-b972-5caffea42063",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-18 23:31:07.997123",
+    "error_type": "route-loop",
+    "details": "Omnis harum et eius labore facere dolorum asperiores cupiditate."
+  },
+  {
+    "log_id": "ab8eb995-5366-4145-b86b-f5fc9b52ba4d",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-16 13:10:20.793016",
+    "error_type": "no-data",
+    "details": "Optio fuga incidunt quam asperiores necessitatibus ullam exercitationem incidunt accusantium ut."
+  },
+  {
+    "log_id": "5c9f0999-e869-439a-9a36-e49ea99c706e",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-15 05:39:08.351784",
+    "error_type": "invalid-signal",
+    "details": "Nemo fugiat voluptates nihil iste."
+  },
+  {
+    "log_id": "f3377b9e-e605-47ef-be74-47a2a672d32f",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-04 04:49:17.092158",
+    "error_type": "invalid-signal",
+    "details": "Facere delectus labore a consequatur ducimus ipsa culpa accusamus."
+  },
+  {
+    "log_id": "e5a61a06-a842-4325-a376-3f57852c62ce",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-08 16:12:04.761905",
+    "error_type": "route-loop",
+    "details": "Sint libero consequatur optio corrupti asperiores dicta doloribus quaerat temporibus nulla."
+  },
+  {
+    "log_id": "d6023639-047a-4506-81cb-8d698fa7bdec",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-01 04:46:34.259820",
+    "error_type": "invalid-signal",
+    "details": "Minus officia illo necessitatibus minima dolor cumque laudantium laborum."
+  },
+  {
+    "log_id": "d3f8b32d-48e2-4143-bb1e-aa6ed19b1b23",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-16 03:16:25.471875",
+    "error_type": "route-loop",
+    "details": "Reiciendis voluptates delectus ipsa harum."
+  },
+  {
+    "log_id": "f5c3e7f5-583d-4337-a5b2-3a6d00c9578e",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-23 08:29:46.441061",
+    "error_type": "no-data",
+    "details": "Itaque excepturi nemo minus numquam."
+  },
+  {
+    "log_id": "1e287c97-a9e0-417f-a324-f5db685018bf",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-04 10:01:15.057352",
+    "error_type": "crash",
+    "details": "In dolores odit dignissimos occaecati nemo totam possimus dicta nobis."
+  },
+  {
+    "log_id": "b1f4e511-e6f9-4201-a478-03a1fb4a0283",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-07 12:38:33.075041",
+    "error_type": "timeout",
+    "details": "Quo eveniet deleniti veritatis perferendis quos odio delectus commodi aliquid commodi."
+  },
+  {
+    "log_id": "57620a6f-6f24-464d-9c29-6b7890f6edce",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-03 22:22:21.120370",
+    "error_type": "route-loop",
+    "details": "Explicabo ad expedita rem earum."
+  },
+  {
+    "log_id": "d9563604-cdf9-4cb5-8c9b-caa607aa240c",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-20 02:55:12.689814",
+    "error_type": "no-data",
+    "details": "Natus itaque ullam laboriosam quae a in."
+  },
+  {
+    "log_id": "972bcd8d-67fe-4003-a5b1-ad19c8b93543",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-14 11:06:20.325862",
+    "error_type": "route-loop",
+    "details": "Iure esse molestias quis libero error ipsum ipsum est velit."
+  },
+  {
+    "log_id": "ad32a7c6-8b64-412c-9bd5-37b1c35adde3",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-16 22:46:45.328388",
+    "error_type": "no-data",
+    "details": "Repellendus harum expedita porro alias similique alias illum explicabo."
+  },
+  {
+    "log_id": "441b1a37-a931-4647-af24-2a0f258861bb",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-09 08:21:26.749655",
+    "error_type": "crash",
+    "details": "Iusto alias qui voluptate natus nulla vitae."
+  },
+  {
+    "log_id": "61e72ff5-8cf5-4927-889a-10a317ef71fc",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-23 00:40:46.140206",
+    "error_type": "crash",
+    "details": "Aspernatur sunt natus facere necessitatibus fugit eum amet fuga."
+  },
+  {
+    "log_id": "682c3bb2-583f-46bd-a0d8-039e92aa71d5",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-17 10:13:27.299481",
+    "error_type": "timeout",
+    "details": "Quaerat debitis expedita cum cum impedit dignissimos error voluptates."
+  },
+  {
+    "log_id": "d4476a01-ec67-47b7-92a3-4b04a15ecdba",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-20 02:43:53.507678",
+    "error_type": "route-loop",
+    "details": "Nostrum totam nulla nam necessitatibus excepturi hic ullam."
+  },
+  {
+    "log_id": "7b5fb427-8fd1-4c4e-83d2-a7ca377533ab",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-02 12:04:04.751207",
+    "error_type": "crash",
+    "details": "Omnis dolorum voluptas quidem soluta velit eos dolore."
+  },
+  {
+    "log_id": "ac08f401-1927-4805-ad0b-4f01cf09b990",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-17 21:26:41.571086",
+    "error_type": "no-data",
+    "details": "Quos recusandae esse commodi necessitatibus nobis doloribus."
+  },
+  {
+    "log_id": "254dbefe-e1dd-4d91-af88-239fd4a3218d",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-15 21:56:15.343949",
+    "error_type": "invalid-signal",
+    "details": "Doloribus provident similique eius iste dolorem sunt soluta eaque minima."
+  },
+  {
+    "log_id": "874c146c-cea6-4978-b0b6-9f93c438c125",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-19 08:00:03.203007",
+    "error_type": "timeout",
+    "details": "Cupiditate dolore nihil magnam consectetur quam quam dolor nemo repellendus."
+  },
+  {
+    "log_id": "fb0059ff-563b-46e0-924e-48b4504e4b66",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-05 21:15:15.517154",
+    "error_type": "crash",
+    "details": "Nesciunt ut aut culpa voluptas voluptatum quis ipsum aperiam cupiditate."
+  },
+  {
+    "log_id": "407e8506-1ec4-416d-801b-a459ec7fdc2e",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-16 04:22:52.363228",
+    "error_type": "crash",
+    "details": "Quis laboriosam error sed expedita enim quae impedit excepturi."
+  },
+  {
+    "log_id": "445d3231-c6f7-4c83-b129-97afd7e305d5",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-14 13:43:44.086216",
+    "error_type": "crash",
+    "details": "Consequatur quod alias ab error necessitatibus sed fugit aperiam quam."
+  },
+  {
+    "log_id": "3d980395-2621-4899-8a9d-a702660f44e6",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-03 22:02:33.003247",
+    "error_type": "invalid-signal",
+    "details": "Necessitatibus reprehenderit consequuntur qui explicabo consequatur beatae."
+  },
+  {
+    "log_id": "4f8cd57d-c5ec-423e-8bd9-3d47966db02f",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-16 19:27:56.342979",
+    "error_type": "no-data",
+    "details": "Ex hic explicabo provident hic ex excepturi perspiciatis iusto."
+  },
+  {
+    "log_id": "a0443dc9-459b-456f-824f-df53d98a1a6f",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-12 07:17:20.822915",
+    "error_type": "crash",
+    "details": "Nam inventore rem ullam."
+  },
+  {
+    "log_id": "078a4dcb-dac9-4c5a-8a62-46b9e62476fe",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-01 09:20:10.095854",
+    "error_type": "crash",
+    "details": "Dolor architecto provident mollitia deleniti possimus id dolore asperiores vel mollitia."
+  },
+  {
+    "log_id": "7a798ed4-2a0b-4d9f-b58f-9bddd520aef5",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-03 05:05:12.180666",
+    "error_type": "route-loop",
+    "details": "Suscipit eos delectus repudiandae culpa."
+  },
+  {
+    "log_id": "01aadb80-0040-4b20-b946-ad23c098e2b4",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-23 01:20:24.361940",
+    "error_type": "invalid-signal",
+    "details": "Alias dolorum est eos eaque dignissimos."
+  },
+  {
+    "log_id": "6f2ae2fd-838e-4be4-9a2a-4996aaef7529",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-03 16:49:23.966897",
+    "error_type": "route-loop",
+    "details": "Accusantium doloremque iste neque magnam."
+  },
+  {
+    "log_id": "e29eae63-e847-4ebd-a403-24f099b351a6",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-07 06:29:44.320284",
+    "error_type": "timeout",
+    "details": "Quos molestiae adipisci mollitia temporibus veniam et provident."
+  },
+  {
+    "log_id": "0e1e5ebd-ff99-4e31-9006-e0eb63a84422",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-10 15:34:20.921703",
+    "error_type": "no-data",
+    "details": "Necessitatibus eligendi quidem vero corrupti rem."
+  },
+  {
+    "log_id": "c3649c91-faca-40d4-956e-09491de58d73",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-09 04:08:40.350485",
+    "error_type": "invalid-signal",
+    "details": "Officia voluptas ipsa enim iure."
+  },
+  {
+    "log_id": "1336eb28-33ba-4e1b-80ff-8beb631eb726",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-08 10:27:20.328610",
+    "error_type": "no-data",
+    "details": "Voluptatibus error sapiente animi dolorem recusandae."
+  },
+  {
+    "log_id": "d076ddad-317e-43a4-ab16-b1fd14ca728c",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-09 08:20:14.789822",
+    "error_type": "crash",
+    "details": "Veniam cum repellendus non eligendi hic debitis quibusdam."
+  },
+  {
+    "log_id": "f830aa05-d2d4-4d05-95b8-23649ca4d06c",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-07 23:41:46.183119",
+    "error_type": "invalid-signal",
+    "details": "Dicta consequatur voluptatibus numquam doloremque consequatur."
+  },
+  {
+    "log_id": "0c443b8c-0686-44e7-9abd-385cd2c569ab",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-22 00:49:42.029865",
+    "error_type": "crash",
+    "details": "Ex nemo autem dignissimos ab accusantium."
+  },
+  {
+    "log_id": "871eb65c-600c-4bc0-90f3-f41ff2020876",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-05 19:49:50.853976",
+    "error_type": "crash",
+    "details": "Ducimus iusto architecto porro pariatur incidunt."
+  },
+  {
+    "log_id": "477cbc8c-a5f6-44d7-9cb0-76a20e551d71",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-01 14:46:27.073284",
+    "error_type": "timeout",
+    "details": "Facilis repellendus ipsa incidunt quod non expedita repellendus dolorum."
+  },
+  {
+    "log_id": "9b45caa9-a13e-432a-8b04-50671481b96b",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-22 10:23:06.870963",
+    "error_type": "route-loop",
+    "details": "Cupiditate odit distinctio aspernatur temporibus."
+  },
+  {
+    "log_id": "5246cc34-bcdb-4579-9b9b-318b12bacc10",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-21 05:12:18.250932",
+    "error_type": "timeout",
+    "details": "Quasi nam ea laborum doloremque dolor quaerat."
+  },
+  {
+    "log_id": "c60e35b6-6864-4e6b-b400-c7a10de825b2",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-18 17:20:11.573895",
+    "error_type": "crash",
+    "details": "Aliquid molestiae itaque veniam reiciendis repellat."
+  },
+  {
+    "log_id": "859530c1-a129-4a39-9ce6-ea642d5c4588",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-01 14:00:40.201703",
+    "error_type": "timeout",
+    "details": "At quaerat vero optio."
+  },
+  {
+    "log_id": "f30d6ea3-951c-4200-9f30-f2f53226786f",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-23 12:55:49.471940",
+    "error_type": "no-data",
+    "details": "Eos sunt animi repellendus quam totam."
+  },
+  {
+    "log_id": "a0819bf5-6940-440c-a45e-e904717d0042",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-22 04:11:47.842262",
+    "error_type": "timeout",
+    "details": "Optio molestias quas vero rerum labore odio."
+  },
+  {
+    "log_id": "5e4ce90b-badf-4b75-8ce0-681924c61f93",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-10 14:48:22.785718",
+    "error_type": "no-data",
+    "details": "Eum ea autem ratione nobis similique unde amet facere."
+  },
+  {
+    "log_id": "4526aeed-47a0-4cda-a333-639f387364c1",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-09 05:40:40.248436",
+    "error_type": "timeout",
+    "details": "Dolorem sit ipsam ratione iusto corporis magni ut debitis et."
+  },
+  {
+    "log_id": "70ce68ab-7ec9-4f95-a54d-ce58044e2d9b",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-04 16:28:54.257998",
+    "error_type": "timeout",
+    "details": "Rem nesciunt porro harum quis."
+  },
+  {
+    "log_id": "64076750-4810-4252-994d-4c03715474b9",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-06 06:05:55.650259",
+    "error_type": "no-data",
+    "details": "Quae totam quam corporis dolorum dolorum deleniti."
+  },
+  {
+    "log_id": "f163ebe1-b6dd-4f35-8ee5-03e3298d4c45",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-12 06:21:35.316222",
+    "error_type": "timeout",
+    "details": "Quo asperiores delectus consectetur assumenda aliquid minus vitae aliquam possimus."
+  },
+  {
+    "log_id": "b9dc86a9-23c5-40d2-a2ab-e6e372f34ed1",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-02 08:56:56.937473",
+    "error_type": "invalid-signal",
+    "details": "Impedit ullam nostrum pariatur tempora tempore iste amet repudiandae eos."
+  },
+  {
+    "log_id": "6961a383-dcee-42eb-8351-c35967396010",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-14 15:17:37.174413",
+    "error_type": "crash",
+    "details": "Reiciendis ut nisi explicabo nesciunt."
+  },
+  {
+    "log_id": "231f1676-98a7-477b-a149-90edabe07080",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-02 09:36:35.997018",
+    "error_type": "crash",
+    "details": "Nulla possimus debitis et suscipit quisquam laudantium cupiditate consequuntur laudantium harum."
+  },
+  {
+    "log_id": "cc7570cc-8e32-4bbf-84fb-7e52583475e1",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-17 08:43:51.543809",
+    "error_type": "crash",
+    "details": "Dolorum nam delectus accusantium similique corrupti beatae."
+  },
+  {
+    "log_id": "7df9e116-df58-465f-bef0-e0f11791de3c",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-22 22:40:03.681170",
+    "error_type": "no-data",
+    "details": "Fugiat eum repellat nihil officia sed."
+  },
+  {
+    "log_id": "79613250-d375-4185-a019-89d1b998d301",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-10 19:35:36.270180",
+    "error_type": "timeout",
+    "details": "Tenetur qui a molestiae deserunt voluptate."
+  },
+  {
+    "log_id": "0c35bf2d-ec4f-4141-a26c-d59aec3e83c3",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-20 14:55:29.466381",
+    "error_type": "route-loop",
+    "details": "Error soluta rerum esse saepe libero nobis."
+  },
+  {
+    "log_id": "b30408fa-90bf-447e-a935-72d3fb6333cb",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-01 12:13:38.225653",
+    "error_type": "timeout",
+    "details": "Accusamus iure rem ab fugiat placeat quisquam placeat."
+  },
+  {
+    "log_id": "c4e49929-1119-4b23-9a0f-7242eeb7591f",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-06 04:40:31.008209",
+    "error_type": "no-data",
+    "details": "Nostrum soluta deleniti placeat libero."
+  },
+  {
+    "log_id": "65b411ed-05d1-4737-8377-be10c719f5ea",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-03 21:06:08.980476",
+    "error_type": "route-loop",
+    "details": "Praesentium delectus incidunt omnis cum soluta qui impedit eaque iste libero."
+  },
+  {
+    "log_id": "8895d134-acb4-45c3-8623-a5caefc35842",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-07 09:44:21.038927",
+    "error_type": "timeout",
+    "details": "Recusandae cum facere corrupti in suscipit expedita assumenda."
+  },
+  {
+    "log_id": "31fd1e5e-f865-41ef-9131-45d24346cce5",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-15 19:10:19.062801",
+    "error_type": "crash",
+    "details": "Consequatur omnis nemo unde corrupti enim architecto unde veritatis quisquam."
+  },
+  {
+    "log_id": "3b6bc3b7-7430-4740-b3e1-f2af32ccea25",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-21 12:19:01.740277",
+    "error_type": "no-data",
+    "details": "Aliquam nihil et pariatur neque doloremque."
+  },
+  {
+    "log_id": "f4460236-21f6-4088-afef-124616d4f2f7",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-08 19:03:40.478604",
+    "error_type": "crash",
+    "details": "Iure quam culpa illum repudiandae quam optio."
+  },
+  {
+    "log_id": "b704eced-5b9d-442d-906f-6bc0ee6f5a9c",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-06 22:37:41.937355",
+    "error_type": "route-loop",
+    "details": "Aliquam fugiat excepturi ea maiores officia."
+  },
+  {
+    "log_id": "5840f425-33de-4f96-abd6-f0fbee3c8687",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-20 16:04:01.859003",
+    "error_type": "timeout",
+    "details": "Excepturi deserunt quam dolore modi sed aliquam nemo sequi dolore."
+  },
+  {
+    "log_id": "1bd4a24e-66bc-4735-b605-070bea732391",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-19 20:14:30.776386",
+    "error_type": "timeout",
+    "details": "Aperiam odit debitis corrupti veniam cupiditate."
+  },
+  {
+    "log_id": "14433a8e-ed5a-4ddc-8b70-80c27799f25b",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-16 13:56:28.064642",
+    "error_type": "timeout",
+    "details": "Fuga eos optio sunt quae."
+  },
+  {
+    "log_id": "d97bd00e-3475-4171-82b9-64d676d96b12",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-15 14:46:19.688026",
+    "error_type": "crash",
+    "details": "Corrupti ipsa impedit libero illo tempora aut nesciunt minus ea."
+  },
+  {
+    "log_id": "2a0dc97e-e85a-4565-a62c-54bbff011f14",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-06 01:11:53.488100",
+    "error_type": "invalid-signal",
+    "details": "Animi est esse consequatur saepe a recusandae debitis unde totam."
+  },
+  {
+    "log_id": "9a596f63-141e-4659-9a06-2a0ead938d1a",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-17 04:04:55.347991",
+    "error_type": "route-loop",
+    "details": "Ipsam minima doloribus et eveniet qui harum illo veniam."
+  },
+  {
+    "log_id": "1cd4aa85-613c-426a-801e-700629d374d6",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-07 11:57:20.448998",
+    "error_type": "timeout",
+    "details": "Quibusdam quod blanditiis ipsa consectetur eos debitis nostrum."
+  },
+  {
+    "log_id": "3cebcc1d-6c01-4c07-8016-215d3807ef3a",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-06 16:25:10.168264",
+    "error_type": "timeout",
+    "details": "Repellat debitis deserunt accusantium porro aliquid cum ducimus dolor."
+  },
+  {
+    "log_id": "ab6d0f79-fac3-48c1-8367-4372d33e2b2c",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-03 20:07:32.120687",
+    "error_type": "no-data",
+    "details": "Eligendi laborum maiores sunt quo."
+  },
+  {
+    "log_id": "7ee958ac-77bd-40de-a1e2-19ce51587417",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-15 00:37:11.587401",
+    "error_type": "invalid-signal",
+    "details": "At sint ipsum repudiandae illo."
+  },
+  {
+    "log_id": "584fa41f-f9f7-452c-92cc-adb28bce0c24",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-21 16:03:55.131502",
+    "error_type": "crash",
+    "details": "Nisi nostrum nemo minima officiis maiores dicta quasi accusantium dolor inventore."
+  },
+  {
+    "log_id": "37df79d8-30bd-473a-9f0b-2be660404c51",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-10 05:33:44.596304",
+    "error_type": "no-data",
+    "details": "Accusantium porro cumque a a vel quibusdam molestiae."
+  },
+  {
+    "log_id": "aaf9ee3e-e432-437d-9307-afb6728ea994",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-12 07:11:44.437504",
+    "error_type": "no-data",
+    "details": "Molestias deleniti atque eum aliquid repellat."
+  },
+  {
+    "log_id": "43bcbd12-4e9d-4db6-8bf6-60638b917e2d",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-21 19:28:00.651204",
+    "error_type": "invalid-signal",
+    "details": "Doloribus minus doloremque quae vel mollitia cum."
+  },
+  {
+    "log_id": "f613aed3-b9da-42b4-8c97-560197b1afbd",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-15 13:34:08.160281",
+    "error_type": "invalid-signal",
+    "details": "Sapiente nulla optio natus nostrum animi id possimus cum."
+  },
+  {
+    "log_id": "52b19d01-942c-4a0c-9d53-abe12b2f8082",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-09 09:21:43.543366",
+    "error_type": "crash",
+    "details": "Quidem ut similique debitis nam suscipit sunt magnam tempora."
+  },
+  {
+    "log_id": "65454a72-dd37-4743-a40e-d1db0c3badd8",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-21 07:54:14.807801",
+    "error_type": "invalid-signal",
+    "details": "Dolor laborum tempore assumenda excepturi beatae."
+  },
+  {
+    "log_id": "f91bad40-0b02-4156-82a0-f6e94b44aa71",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-08 00:24:50.919521",
+    "error_type": "route-loop",
+    "details": "Vitae totam quibusdam quisquam debitis iste dolorum mollitia vitae autem voluptate."
+  },
+  {
+    "log_id": "46801378-6e60-4c2f-9832-3765d1452528",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-02 11:26:52.038359",
+    "error_type": "no-data",
+    "details": "Culpa magni culpa tempore quaerat corrupti."
+  },
+  {
+    "log_id": "3c8bc189-0d8a-4cc6-beb3-a85548e61273",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-11 01:55:32.468473",
+    "error_type": "route-loop",
+    "details": "Sed quasi dolore tempore itaque nobis sequi minus eveniet vel."
+  },
+  {
+    "log_id": "400840cb-ae9a-4f14-b473-b11a73a524c1",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-16 09:54:32.485740",
+    "error_type": "route-loop",
+    "details": "Illo tempore laudantium atque."
+  },
+  {
+    "log_id": "786c014f-65fa-44a1-9a03-7833d4fdfad6",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-23 17:16:05.123685",
+    "error_type": "crash",
+    "details": "In occaecati fuga neque ab."
+  },
+  {
+    "log_id": "244b405a-ed7c-420d-9bb8-68d588c023d7",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-09 11:13:18.011726",
+    "error_type": "timeout",
+    "details": "Minima sequi repellendus dolorum asperiores consectetur non vero blanditiis ullam."
+  },
+  {
+    "log_id": "ca7ad5f3-bdac-4371-b694-9bb0e7b0e27d",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-10 16:17:13.496023",
+    "error_type": "timeout",
+    "details": "Explicabo nisi neque modi doloribus."
+  },
+  {
+    "log_id": "2b99f902-836d-443f-aad2-9f817fe99b4f",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-04 22:14:02.213039",
+    "error_type": "timeout",
+    "details": "Expedita libero quasi accusantium quaerat quasi praesentium."
+  },
+  {
+    "log_id": "039663d0-133e-471e-afc8-2f4dea489dae",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-06 14:27:09.803362",
+    "error_type": "timeout",
+    "details": "Fuga veritatis id fugit cupiditate sit nemo atque."
+  },
+  {
+    "log_id": "179ee93b-a399-4919-a956-8d7dd57e4322",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-11 22:00:31.292776",
+    "error_type": "no-data",
+    "details": "Ipsum est magni natus veritatis exercitationem dolore earum."
+  },
+  {
+    "log_id": "d2152070-e4ee-41bc-bdd7-e170e0d0807c",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-03 10:08:38.975253",
+    "error_type": "invalid-signal",
+    "details": "Occaecati ab ipsam error consequatur similique ad eaque labore."
+  },
+  {
+    "log_id": "2eb13e3c-d3cb-4d14-8947-494f96c84002",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-20 01:09:37.211909",
+    "error_type": "crash",
+    "details": "Illum nihil voluptatum aperiam ipsa nulla laborum natus mollitia nisi esse."
+  },
+  {
+    "log_id": "42d757a8-3181-449e-a0d6-04221a32d219",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-06 17:11:07.873290",
+    "error_type": "invalid-signal",
+    "details": "Ducimus explicabo nulla necessitatibus illo asperiores magni rem reiciendis."
+  },
+  {
+    "log_id": "6b7c7396-f942-4cb2-ae3a-da8b84f900cb",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-10 21:12:43.923413",
+    "error_type": "crash",
+    "details": "Beatae iure enim itaque velit exercitationem id."
+  },
+  {
+    "log_id": "5713412e-8bce-4a58-9290-a83a2bef4363",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-03 12:24:12.184567",
+    "error_type": "route-loop",
+    "details": "Modi modi voluptatum eos nesciunt adipisci enim ab non optio."
+  },
+  {
+    "log_id": "c8ce14bb-7dc6-4851-946a-537bbc0b55fe",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-13 15:11:10.401902",
+    "error_type": "invalid-signal",
+    "details": "Rem soluta eveniet cupiditate saepe voluptates cum consequuntur itaque id."
+  },
+  {
+    "log_id": "701c3f0c-9b43-424c-afd0-c396bb31caeb",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-18 12:13:13.892292",
+    "error_type": "no-data",
+    "details": "Mollitia temporibus accusantium molestias earum rerum facere."
+  },
+  {
+    "log_id": "ddd86b0e-6d0f-4ded-8204-52883bde8b66",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-19 03:34:25.848797",
+    "error_type": "crash",
+    "details": "Quo a soluta nemo deleniti."
+  },
+  {
+    "log_id": "d2924079-dfee-44b1-bb4c-0646d38a9b74",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-12 16:55:05.967471",
+    "error_type": "no-data",
+    "details": "Ex esse repellendus mollitia nulla."
+  },
+  {
+    "log_id": "1d6faffb-e06b-4e1f-be37-2c8d8a137d8d",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-01 21:09:35.748154",
+    "error_type": "invalid-signal",
+    "details": "Ea sequi voluptatum mollitia impedit sint accusamus unde ipsum."
+  },
+  {
+    "log_id": "8b239607-2d5e-414d-83ea-b8b5d91b8378",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-01 14:33:26.758012",
+    "error_type": "crash",
+    "details": "Totam aliquid distinctio perspiciatis quam quis illo nihil."
+  },
+  {
+    "log_id": "688e8d5d-5185-4418-bef4-4a33ae78dd3f",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-21 17:58:14.178026",
+    "error_type": "timeout",
+    "details": "Explicabo dignissimos tenetur veniam harum atque ea natus repudiandae voluptatem."
+  },
+  {
+    "log_id": "928a77e5-3a99-4bcb-96a6-0db50776d49a",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-19 00:59:24.492395",
+    "error_type": "no-data",
+    "details": "Inventore necessitatibus magnam laboriosam quam accusantium blanditiis."
+  },
+  {
+    "log_id": "bd210b7d-f5b3-40ab-b31b-d233c011c674",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-13 14:35:10.733321",
+    "error_type": "crash",
+    "details": "Cum soluta rem adipisci occaecati dignissimos fuga porro aliquid."
+  },
+  {
+    "log_id": "b3ebf780-c91d-45c7-be29-d9a105ddffbf",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-03 06:50:23.966158",
+    "error_type": "invalid-signal",
+    "details": "Ullam esse voluptas consectetur nisi aliquam laborum."
+  },
+  {
+    "log_id": "a2fb8131-b81c-4f50-8b6a-cc4396af3fcb",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-10 01:47:30.258337",
+    "error_type": "route-loop",
+    "details": "Veritatis nam ut repellendus fugiat error aliquam consequuntur."
+  },
+  {
+    "log_id": "ed56c7c7-ae45-4311-a71c-ae756dbe934e",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-18 09:05:58.172291",
+    "error_type": "route-loop",
+    "details": "Blanditiis tenetur nostrum ipsa labore et."
+  },
+  {
+    "log_id": "7a7342fc-741d-4857-9e76-7433fe956f4a",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-03 01:09:35.906485",
+    "error_type": "crash",
+    "details": "Quisquam delectus sequi commodi ab doloremque ut officia eos."
+  },
+  {
+    "log_id": "dc6434ef-6714-4ea1-8fa3-8669b33a82a9",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-04 16:26:17.884794",
+    "error_type": "route-loop",
+    "details": "Ea esse tempore esse enim."
+  },
+  {
+    "log_id": "e67ae19a-3c67-46b0-bf18-4a88f02d81dd",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-12 18:03:50.176345",
+    "error_type": "timeout",
+    "details": "Fuga dolore ipsa cupiditate sed repellendus modi est."
+  },
+  {
+    "log_id": "cebf3ea4-c7a6-4982-84ad-d36e67b3a154",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-13 09:24:43.526798",
+    "error_type": "invalid-signal",
+    "details": "Rerum voluptas enim quas dolor cumque repudiandae tempore animi."
+  },
+  {
+    "log_id": "03f54e71-cada-4d4a-9c2f-952c2583eb38",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-12 18:22:35.220149",
+    "error_type": "route-loop",
+    "details": "Hic omnis veniam ut architecto quaerat iusto."
+  },
+  {
+    "log_id": "6049315b-0093-4d5e-83b8-a22b5d764bc4",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-19 11:48:39.832605",
+    "error_type": "invalid-signal",
+    "details": "Odio iure culpa quo modi molestias."
+  },
+  {
+    "log_id": "a8ae5c67-1598-403e-a4c4-e6ca8a661d77",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-16 06:09:12.561852",
+    "error_type": "no-data",
+    "details": "Nulla nam quae eum eveniet debitis pariatur."
+  },
+  {
+    "log_id": "39520c71-2e31-4772-abc2-bdd4d736d90c",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-11 04:37:46.148098",
+    "error_type": "timeout",
+    "details": "Perspiciatis expedita quae est illo voluptate."
+  },
+  {
+    "log_id": "ac83995b-53f0-4378-996b-f99fa1119bb1",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-04 08:55:49.408389",
+    "error_type": "route-loop",
+    "details": "Laudantium nostrum ipsum amet totam minus odio facilis."
+  },
+  {
+    "log_id": "64b30768-fdfd-484e-9610-7d9028c27491",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-01 16:39:12.741524",
+    "error_type": "no-data",
+    "details": "At ipsum esse iusto quisquam odit explicabo consequuntur ipsa minus."
+  },
+  {
+    "log_id": "5db4d496-a8d8-4b3d-9f9a-7704adc25f16",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-17 09:15:03.226309",
+    "error_type": "invalid-signal",
+    "details": "Beatae ratione itaque explicabo error rem necessitatibus."
+  },
+  {
+    "log_id": "8a00c9be-55c5-474b-86fc-40c303cc0a33",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-23 04:14:39.314843",
+    "error_type": "crash",
+    "details": "Ea sed nobis alias doloremque magni."
+  },
+  {
+    "log_id": "1adac950-efe3-455d-b281-1822fd26ce31",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-17 00:47:19.448579",
+    "error_type": "timeout",
+    "details": "Dolore commodi dolor assumenda ratione."
+  },
+  {
+    "log_id": "91c64854-67a9-4ca9-83d1-0cf2afceaf1a",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-11 13:12:13.685312",
+    "error_type": "timeout",
+    "details": "Dolores officia ullam voluptatem incidunt alias."
+  },
+  {
+    "log_id": "85d8acf3-12a7-486c-bb84-711f267cb754",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-05 10:48:05.482506",
+    "error_type": "route-loop",
+    "details": "Magni suscipit repellat nam explicabo cupiditate molestiae deserunt eligendi."
+  },
+  {
+    "log_id": "2c99562c-efe3-4150-8524-a1bea6bbb51c",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-01 23:11:32.780257",
+    "error_type": "route-loop",
+    "details": "Ipsa et aperiam delectus ipsum esse eveniet optio unde quas."
+  },
+  {
+    "log_id": "2384bb95-9214-49e1-bb50-d324129ff56d",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-11 07:28:17.395215",
+    "error_type": "no-data",
+    "details": "Repellat quos amet maiores sint explicabo placeat deleniti eius."
+  },
+  {
+    "log_id": "f80aea02-65de-44ed-915f-bbf953cfff73",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-06 14:40:27.283538",
+    "error_type": "invalid-signal",
+    "details": "Libero quasi ipsam fugiat cum repellat nihil aperiam."
+  },
+  {
+    "log_id": "f473c022-981b-49f9-8145-419c74ebfa0d",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-11 12:22:45.418016",
+    "error_type": "timeout",
+    "details": "Dolore repellendus consequatur non ducimus fugiat recusandae."
+  },
+  {
+    "log_id": "88c53b17-9733-4490-8eba-0d060a186676",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-06 05:12:53.745050",
+    "error_type": "timeout",
+    "details": "Voluptas exercitationem non nemo ratione porro beatae."
+  },
+  {
+    "log_id": "3c375315-44bd-4fcd-ae8e-8200c5c734b4",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-02 19:32:50.537467",
+    "error_type": "no-data",
+    "details": "Nisi excepturi dolorem accusantium temporibus rerum placeat excepturi atque assumenda."
+  },
+  {
+    "log_id": "8ab72eb9-9be4-42ac-9f99-91336e11edc4",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-02 02:06:50.869967",
+    "error_type": "crash",
+    "details": "Illum minima temporibus cumque eos eius vel quod error quibusdam."
+  },
+  {
+    "log_id": "de3a564a-8bf6-4e19-8889-94e749ef1088",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-20 19:26:25.010047",
+    "error_type": "invalid-signal",
+    "details": "Quam nesciunt ipsa natus soluta reprehenderit suscipit eveniet quae expedita maxime."
+  },
+  {
+    "log_id": "207ad1d4-2888-4573-b3fd-80f20423793f",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-09 05:17:40.627429",
+    "error_type": "crash",
+    "details": "Quia sapiente amet corporis ipsam nesciunt quasi non tempore sapiente."
+  },
+  {
+    "log_id": "d9d2c703-09ac-4ba5-ab28-73e6e465aed7",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-13 01:56:20.367701",
+    "error_type": "crash",
+    "details": "Reprehenderit error molestiae odit tenetur."
+  },
+  {
+    "log_id": "f38ef31f-08ae-44bb-8c62-f74854b4a8a6",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-07 06:32:33.182261",
+    "error_type": "no-data",
+    "details": "Tempore iure unde quibusdam minus totam ea eveniet atque."
+  },
+  {
+    "log_id": "3ad41c9a-bac9-4a02-b119-5d169aec319f",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-07 20:01:51.589548",
+    "error_type": "no-data",
+    "details": "Recusandae dignissimos libero soluta minima hic minima."
+  },
+  {
+    "log_id": "6ee2f9bf-8ad3-43b1-977d-d689a98d61ec",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-19 05:37:56.027550",
+    "error_type": "invalid-signal",
+    "details": "Delectus dolor adipisci minus exercitationem."
+  },
+  {
+    "log_id": "b77cff4c-9925-4280-b81c-c43bf99a3620",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-04 23:35:55.570520",
+    "error_type": "crash",
+    "details": "Sed beatae aspernatur doloribus voluptates laudantium molestiae eius totam."
+  },
+  {
+    "log_id": "f814af2e-81e2-4ceb-8032-8c40b1000314",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-17 00:39:29.322276",
+    "error_type": "crash",
+    "details": "Accusamus reprehenderit qui nulla totam vitae quam occaecati cumque autem."
+  },
+  {
+    "log_id": "4c52b95c-2146-47b4-a5fb-9e9a4ab7d5e0",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-01 13:32:37.778933",
+    "error_type": "crash",
+    "details": "Neque fuga corporis similique unde nesciunt dolore ratione at."
+  },
+  {
+    "log_id": "d89c568d-5674-4177-9b08-725ee1eaf0f2",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-13 20:45:11.937548",
+    "error_type": "crash",
+    "details": "Quia modi accusantium quam vero accusamus saepe et."
+  },
+  {
+    "log_id": "8db4daaa-831f-4884-9c17-4363bc44cb36",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-05 03:17:02.242100",
+    "error_type": "no-data",
+    "details": "Perferendis accusantium quia commodi dolores nesciunt."
+  },
+  {
+    "log_id": "1581f33e-a5b3-4959-90e6-81fda127f663",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-13 02:29:02.384804",
+    "error_type": "crash",
+    "details": "Dolorum similique commodi nemo."
+  },
+  {
+    "log_id": "a045d9e6-73ad-462d-98c6-88774897c6e2",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-13 00:32:02.080973",
+    "error_type": "timeout",
+    "details": "Esse officia et commodi quam aliquam animi minus repudiandae."
+  },
+  {
+    "log_id": "f661cfdb-7537-4b16-81ed-ceb38bb27f15",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-09 02:07:57.424893",
+    "error_type": "timeout",
+    "details": "Sequi quaerat aliquam eveniet sunt."
+  },
+  {
+    "log_id": "092a2783-e9b5-4a89-804c-f6e6cf6d28c3",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-10 16:41:25.569360",
+    "error_type": "timeout",
+    "details": "Distinctio itaque id temporibus ut recusandae minus."
+  },
+  {
+    "log_id": "17776760-70ff-4474-a7a3-208eb1fde4de",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-10 18:38:39.951391",
+    "error_type": "invalid-signal",
+    "details": "Fugiat illo totam aspernatur porro magni."
+  },
+  {
+    "log_id": "3c3b5ed7-2dd5-4752-ac74-48f95b6047b0",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-06 18:38:21.784148",
+    "error_type": "crash",
+    "details": "Id doloribus explicabo reiciendis animi ab ex eum soluta quibusdam."
+  },
+  {
+    "log_id": "72948c64-66d2-40a7-8b41-8bdfe52b9187",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-01 16:13:03.204929",
+    "error_type": "no-data",
+    "details": "At odio eos pariatur assumenda ex harum fugiat nesciunt."
+  },
+  {
+    "log_id": "8a0d9af8-322c-419f-ba44-167a63f78edf",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-03 17:49:54.798965",
+    "error_type": "route-loop",
+    "details": "Delectus expedita soluta aut enim hic perspiciatis aliquam consequatur magni."
+  },
+  {
+    "log_id": "2fcf9246-a81f-4e5b-b8dc-2c64c4e43753",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-01 02:59:11.980504",
+    "error_type": "timeout",
+    "details": "Iusto delectus adipisci culpa nisi voluptatum officiis."
+  },
+  {
+    "log_id": "73b6b143-9d96-46dd-af14-5b3606b63727",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-05 12:42:08.140919",
+    "error_type": "timeout",
+    "details": "A totam eos maxime fugiat ducimus architecto provident."
+  },
+  {
+    "log_id": "13f74636-c7be-4406-a165-0f34465fd96b",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-16 06:37:16.747698",
+    "error_type": "route-loop",
+    "details": "Asperiores tempora numquam possimus vero eum tempora ex."
+  },
+  {
+    "log_id": "b82b2b93-1040-4bf3-9d30-b0f7f6a97c38",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-20 20:29:58.534038",
+    "error_type": "crash",
+    "details": "Illum eaque voluptate vitae alias pariatur molestias."
+  },
+  {
+    "log_id": "761eb3ac-f92d-431d-a9e7-bb4fa0b8bebf",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-05 13:28:03.299148",
+    "error_type": "crash",
+    "details": "Laudantium distinctio eaque laborum dignissimos consequatur."
+  },
+  {
+    "log_id": "7e129751-883e-453f-9c45-44437eb1a6f4",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-10 03:56:42.508301",
+    "error_type": "timeout",
+    "details": "Sit ea ea earum blanditiis quidem dolorem et distinctio accusantium."
+  },
+  {
+    "log_id": "db65e8d6-2660-473f-8abe-fd88626cea12",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-19 17:24:38.331859",
+    "error_type": "timeout",
+    "details": "Nemo aliquid libero ea quidem totam similique occaecati."
+  },
+  {
+    "log_id": "6fbc2464-ea52-4c69-9318-84729fa6f3ea",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-21 22:20:05.788813",
+    "error_type": "no-data",
+    "details": "Necessitatibus cupiditate modi similique."
+  },
+  {
+    "log_id": "d8736d60-b7f2-4862-bf4a-3544817c781a",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-11 00:06:11.090201",
+    "error_type": "route-loop",
+    "details": "Magni quisquam sit quidem expedita sequi dolores rerum eveniet quibusdam iste."
+  },
+  {
+    "log_id": "2126180a-d586-4c32-9648-94cd2766fe92",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-06 18:53:27.462405",
+    "error_type": "crash",
+    "details": "Commodi eaque deserunt odit incidunt mollitia nam blanditiis autem."
+  },
+  {
+    "log_id": "32371f14-93a9-41f4-8420-3c0c51f323e6",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-10 23:00:34.772735",
+    "error_type": "invalid-signal",
+    "details": "Saepe reprehenderit quod quisquam alias esse dignissimos magnam."
+  },
+  {
+    "log_id": "09c628dd-bff0-40b9-be83-5c517e70b309",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-09 23:03:08.088085",
+    "error_type": "crash",
+    "details": "Temporibus magni dignissimos iusto officiis facere maiores quasi dolor eligendi."
+  },
+  {
+    "log_id": "517915b7-883a-4ef5-a4af-ade6ca600b2d",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-19 17:44:33.425750",
+    "error_type": "invalid-signal",
+    "details": "Ipsum repudiandae atque quaerat non numquam beatae veritatis deserunt."
+  },
+  {
+    "log_id": "660a3bdb-002a-46c6-863e-3610ae7ae52a",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-02 19:07:27.894247",
+    "error_type": "no-data",
+    "details": "Voluptas delectus consectetur consequatur eaque cumque aliquam ea omnis."
+  },
+  {
+    "log_id": "a00d1e18-aead-403f-afad-3d7ea4bfa846",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-14 07:41:19.776645",
+    "error_type": "crash",
+    "details": "Similique doloremque assumenda alias officiis ipsum."
+  },
+  {
+    "log_id": "0d477c01-5e61-4f62-bccb-9897cadb11c4",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-12 22:37:05.599386",
+    "error_type": "invalid-signal",
+    "details": "Ab quidem architecto animi porro porro."
+  },
+  {
+    "log_id": "07a7611d-e20d-4100-84f2-a0dbb20c651e",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-19 21:50:24.510409",
+    "error_type": "crash",
+    "details": "Aut dolor earum voluptatum dolores mollitia asperiores."
+  },
+  {
+    "log_id": "5c405fa3-de27-42ba-a50c-27d4a9dfbb1d",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-16 22:09:06.552691",
+    "error_type": "crash",
+    "details": "Laboriosam nulla atque odio corporis quibusdam molestias iure nesciunt quasi labore."
+  },
+  {
+    "log_id": "61853b1a-63e1-4924-be95-c8c9c16cd93f",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-11 19:30:46.645760",
+    "error_type": "route-loop",
+    "details": "Voluptatem sint nemo dignissimos debitis aspernatur libero error."
+  },
+  {
+    "log_id": "af844b8f-54f5-42f0-9e9a-1e40ba49ccd5",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-01 17:31:44.722820",
+    "error_type": "timeout",
+    "details": "Delectus accusamus rerum possimus perferendis cupiditate."
+  },
+  {
+    "log_id": "07d7a393-09cf-4063-91b6-aa0174e60f83",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-23 07:18:56.091666",
+    "error_type": "invalid-signal",
+    "details": "Autem repudiandae amet deserunt fugit."
+  },
+  {
+    "log_id": "4793acb1-2afc-487e-9ff4-9019ac4a7701",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-10 04:09:58.060831",
+    "error_type": "timeout",
+    "details": "Aut fugit amet accusamus molestias ipsum officiis animi ut."
+  },
+  {
+    "log_id": "c743d9f1-2d08-413f-8ab1-71e0e6571d38",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-10 16:30:07.316710",
+    "error_type": "no-data",
+    "details": "Adipisci excepturi recusandae hic rem."
+  },
+  {
+    "log_id": "5fe1271f-da3c-4beb-97b6-b27cbf18d74a",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-08 01:41:37.132581",
+    "error_type": "route-loop",
+    "details": "Architecto facere illum molestiae adipisci excepturi."
+  },
+  {
+    "log_id": "ef29c0f7-2ebb-4e0a-804f-04e444b0c797",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-08 12:28:23.417819",
+    "error_type": "invalid-signal",
+    "details": "Non adipisci atque doloribus ex reiciendis vitae ad itaque."
+  },
+  {
+    "log_id": "97f5d628-75ef-4169-a4a7-02798609a880",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-14 09:57:55.529838",
+    "error_type": "timeout",
+    "details": "Itaque deleniti quod omnis cupiditate atque dignissimos repellat necessitatibus quia labore."
+  },
+  {
+    "log_id": "5a5f838f-23ee-4016-b234-15b164e19340",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-18 04:32:18.765447",
+    "error_type": "invalid-signal",
+    "details": "Omnis libero delectus ad reprehenderit."
+  },
+  {
+    "log_id": "4b4e52fd-9c83-42d2-90b2-b078d3936f3e",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-19 02:23:46.053204",
+    "error_type": "route-loop",
+    "details": "Sit quae eius illum beatae libero necessitatibus molestias."
+  },
+  {
+    "log_id": "a24a7b89-3f22-4d74-a367-b5632f894e9b",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-02 03:37:56.996233",
+    "error_type": "timeout",
+    "details": "Labore ab ducimus doloribus amet."
+  },
+  {
+    "log_id": "885f3b06-aefb-486b-a212-b446f39eab73",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-14 09:31:42.258310",
+    "error_type": "no-data",
+    "details": "Repudiandae quis eos ratione temporibus delectus."
+  },
+  {
+    "log_id": "44edbacf-d8c4-4832-9378-38f9bd46bb37",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-16 04:09:18.041273",
+    "error_type": "crash",
+    "details": "At id corporis debitis tenetur earum."
+  },
+  {
+    "log_id": "ddca9cc3-d48f-46c5-a431-d4a9ca1ef8d9",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-03 19:55:21.912432",
+    "error_type": "invalid-signal",
+    "details": "Consequuntur quasi vel quas nesciunt."
+  },
+  {
+    "log_id": "31cf3224-f0cb-4112-9dc5-522838e1e998",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-06 17:51:01.635134",
+    "error_type": "route-loop",
+    "details": "Quia ipsum sapiente sunt fugiat ad perferendis."
+  },
+  {
+    "log_id": "ec7c44a8-e6c9-405e-b5e1-ab658bd296cc",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-01 10:44:03.818081",
+    "error_type": "crash",
+    "details": "Odit explicabo atque ullam iusto aspernatur iure repellendus quam."
+  },
+  {
+    "log_id": "57166f35-1a64-4ed2-af3d-c5a892958d18",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-15 21:54:30.718518",
+    "error_type": "invalid-signal",
+    "details": "Voluptas perspiciatis earum exercitationem porro."
+  },
+  {
+    "log_id": "14611ef1-42bf-48d2-aa17-879a67a79886",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-14 07:55:00.752528",
+    "error_type": "timeout",
+    "details": "Molestiae beatae alias autem nemo beatae veritatis modi ullam at."
+  },
+  {
+    "log_id": "53effcdf-ea7e-49ac-ae37-2e39af396095",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-13 09:08:30.646913",
+    "error_type": "timeout",
+    "details": "Molestiae illo quidem eligendi non modi impedit laboriosam incidunt."
+  },
+  {
+    "log_id": "567fd2e9-c2f1-4bfc-8875-53632fc52298",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-22 10:21:55.952796",
+    "error_type": "no-data",
+    "details": "Perferendis consectetur iure voluptatum tenetur magnam earum itaque ad quibusdam."
+  },
+  {
+    "log_id": "7bb9bc20-eea2-4c48-bd48-1505b8f09270",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-02 13:07:15.070960",
+    "error_type": "crash",
+    "details": "Reprehenderit nam at natus nemo laudantium nulla necessitatibus assumenda."
+  },
+  {
+    "log_id": "57e5d468-f1ed-4e4a-a9f8-e1152d8ac2cc",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-17 06:34:45.766818",
+    "error_type": "route-loop",
+    "details": "Aliquam illo qui quisquam ut quisquam velit."
+  },
+  {
+    "log_id": "935046f4-f7f8-4118-aaed-0848639a851f",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-18 05:44:08.430599",
+    "error_type": "route-loop",
+    "details": "Hic vitae numquam rerum quos voluptatem."
+  },
+  {
+    "log_id": "96d0d89d-f231-4c7d-a755-b2d42bfed52a",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-20 12:42:55.695139",
+    "error_type": "route-loop",
+    "details": "Molestiae magni earum velit aliquam culpa dolore."
+  },
+  {
+    "log_id": "38e6b704-b1d1-4755-9e4b-280138be318f",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-15 08:46:50.727282",
+    "error_type": "route-loop",
+    "details": "Illum earum deleniti quaerat ab aperiam cumque quia laudantium vel."
+  },
+  {
+    "log_id": "c81c597a-9ba1-4be2-879d-19c357e4267e",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-07 03:16:08.909755",
+    "error_type": "route-loop",
+    "details": "Sint facere eveniet soluta quis a."
+  },
+  {
+    "log_id": "393acfff-1a2b-4339-9ebb-b87bafba5ddc",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-01 01:39:13.351056",
+    "error_type": "no-data",
+    "details": "Accusantium maxime dolorum eos."
+  },
+  {
+    "log_id": "8125aedb-f088-4735-bdce-4f12dc4676c7",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-06 16:11:49.836598",
+    "error_type": "invalid-signal",
+    "details": "Iste nisi nostrum a maxime quisquam necessitatibus at."
+  },
+  {
+    "log_id": "6426f2e5-b5ea-4220-8f57-cd9e1b309e97",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-23 16:57:54.449488",
+    "error_type": "route-loop",
+    "details": "Blanditiis reiciendis ad veritatis sed fugit quidem."
+  },
+  {
+    "log_id": "f39dea6f-0691-4b1d-9da5-58735e85f364",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-02 11:56:15.172529",
+    "error_type": "timeout",
+    "details": "Corrupti doloremque placeat dicta itaque rerum perferendis veniam neque itaque quaerat."
+  },
+  {
+    "log_id": "434a1842-84d8-4c6a-bd58-87a5a5548394",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-18 20:34:47.862820",
+    "error_type": "no-data",
+    "details": "Harum molestiae quasi error voluptates."
+  },
+  {
+    "log_id": "d9a19ca8-f317-4bab-a2e3-2fa7f4cd6362",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-01 23:06:30.481507",
+    "error_type": "route-loop",
+    "details": "Velit sint molestias laboriosam ducimus."
+  },
+  {
+    "log_id": "9c215920-0400-4c5d-930a-542a8f05f94e",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-14 21:34:19.087968",
+    "error_type": "no-data",
+    "details": "Aliquam ad nisi sapiente nihil eius dolor."
+  },
+  {
+    "log_id": "c5e38a4e-7cde-4371-8188-6c58520872d3",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-12 10:10:21.646211",
+    "error_type": "timeout",
+    "details": "Blanditiis atque rerum veritatis assumenda atque sunt et optio."
+  },
+  {
+    "log_id": "42ff3b13-d32a-47d1-898c-cdd7ae1b3c1a",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-19 09:21:00.824019",
+    "error_type": "no-data",
+    "details": "Officia possimus ex consequuntur nemo rem corrupti accusantium odio rem."
+  },
+  {
+    "log_id": "4e7e9ac8-31b4-409c-81f2-39e439659c7a",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-07 18:36:22.696013",
+    "error_type": "invalid-signal",
+    "details": "Architecto dignissimos quis eius."
+  },
+  {
+    "log_id": "e0b43a73-1eb6-4d1c-9f88-be6ea0ccfaff",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-19 21:31:58.993218",
+    "error_type": "timeout",
+    "details": "Adipisci eum velit non dolorum neque provident sint."
+  },
+  {
+    "log_id": "d3073295-8326-42dd-a4d4-79e7ace8c3d1",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-19 16:55:59.754996",
+    "error_type": "timeout",
+    "details": "Ipsam quaerat atque mollitia eaque officia accusamus consequuntur quo."
+  },
+  {
+    "log_id": "d517fa40-ed23-4795-9313-104893b3f363",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-22 03:41:30.104579",
+    "error_type": "no-data",
+    "details": "Porro corrupti consequuntur dolore ipsum."
+  },
+  {
+    "log_id": "995821e0-7b31-4f54-a9f4-10c91cfa78a2",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-09 23:48:14.708583",
+    "error_type": "invalid-signal",
+    "details": "Voluptas corrupti tempora consequuntur minus magnam architecto."
+  },
+  {
+    "log_id": "32fb59fd-0c00-48ff-aa31-4f1d7bf7bf91",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-14 19:08:28.123859",
+    "error_type": "invalid-signal",
+    "details": "Porro temporibus iusto ratione facere voluptas illum."
+  },
+  {
+    "log_id": "5567cd27-b466-4f33-9541-18608583d0bb",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-23 12:42:38.597967",
+    "error_type": "invalid-signal",
+    "details": "Veritatis dolore voluptatum accusantium eos cum."
+  },
+  {
+    "log_id": "cb1fa325-44e5-4394-bc6b-ad3494fc712b",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-15 13:02:45.738758",
+    "error_type": "crash",
+    "details": "Voluptatibus nam consequuntur praesentium autem."
+  },
+  {
+    "log_id": "5d3dc371-d6ac-4d84-9604-c33209a61674",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-15 18:02:32.942803",
+    "error_type": "invalid-signal",
+    "details": "Placeat vel occaecati ratione voluptate."
+  },
+  {
+    "log_id": "1694c02c-4ebd-4823-a4ff-f7a635cebda8",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-05 12:32:16.098484",
+    "error_type": "route-loop",
+    "details": "Natus enim sint id sunt aperiam nobis dolor."
+  },
+  {
+    "log_id": "1b869a72-7424-4892-8b2c-a54d53435238",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-14 10:30:48.178514",
+    "error_type": "route-loop",
+    "details": "Incidunt ad assumenda natus minima itaque adipisci."
+  },
+  {
+    "log_id": "33c9bfa1-53e8-4b79-93dd-8cf853a70e7d",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-16 14:19:38.644528",
+    "error_type": "timeout",
+    "details": "Dicta temporibus necessitatibus voluptatibus occaecati architecto."
+  },
+  {
+    "log_id": "2c6b2108-ba9b-419a-b772-d3a31b72ea6c",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-19 12:32:14.006282",
+    "error_type": "invalid-signal",
+    "details": "Commodi omnis eaque minus fugiat."
+  },
+  {
+    "log_id": "36e75939-e2d7-4077-9e8f-a8075db96490",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-09 16:49:20.778723",
+    "error_type": "crash",
+    "details": "Quasi ipsa eveniet veritatis quo quas voluptate ea fugit."
+  },
+  {
+    "log_id": "ba53d4ca-79d1-4cbd-ab63-48f4d14a3950",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-13 16:03:38.521899",
+    "error_type": "invalid-signal",
+    "details": "Voluptas esse debitis corporis ipsam."
+  },
+  {
+    "log_id": "18edc1e6-8647-4182-b35c-02fdd88b4a71",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-07 15:52:03.328988",
+    "error_type": "no-data",
+    "details": "Sequi error repudiandae ad numquam ex ab."
+  },
+  {
+    "log_id": "72840356-6d1e-49b4-8c7e-66de3cf7526e",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-10 08:29:01.594983",
+    "error_type": "crash",
+    "details": "Quaerat reiciendis voluptatem vitae est sapiente ea expedita vero."
+  },
+  {
+    "log_id": "041c4ba3-0bb9-4921-913b-e62ed9ffcacd",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-09 16:42:13.533078",
+    "error_type": "timeout",
+    "details": "Laudantium illum cumque velit quidem."
+  },
+  {
+    "log_id": "f3e62704-4408-4b43-9eea-d5def5b5777f",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-03 06:24:09.672346",
+    "error_type": "timeout",
+    "details": "Repudiandae pariatur delectus iste a hic."
+  },
+  {
+    "log_id": "dd40111a-b276-4819-a651-daa3d8bb1c4e",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-05 22:09:51.098436",
+    "error_type": "crash",
+    "details": "Provident harum expedita praesentium id corrupti consectetur voluptates vero."
+  },
+  {
+    "log_id": "4892111c-1bee-4909-8d68-f11ca4b0190d",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-07 12:36:39.134315",
+    "error_type": "invalid-signal",
+    "details": "Sunt sunt illum molestias magni sapiente ratione eos iusto aspernatur cum."
+  },
+  {
+    "log_id": "164e9cd4-cade-4865-850e-f346f34c8c78",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-02 02:49:39.117906",
+    "error_type": "route-loop",
+    "details": "Odit facere alias voluptate autem."
+  },
+  {
+    "log_id": "2d6527a1-5a96-4960-86bd-ce4309025afd",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-11 22:11:01.423676",
+    "error_type": "invalid-signal",
+    "details": "Esse natus voluptatibus voluptate commodi et earum distinctio amet quas."
+  },
+  {
+    "log_id": "877a71fc-9d9f-4eb3-a207-db6374e5e611",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-07 01:25:16.857803",
+    "error_type": "no-data",
+    "details": "Molestias veniam corrupti excepturi odio sapiente non quibusdam."
+  },
+  {
+    "log_id": "b232398b-1f3c-4a38-bf62-499af2ae7fce",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-06 07:27:37.139573",
+    "error_type": "invalid-signal",
+    "details": "Explicabo nemo cupiditate voluptas optio eius."
+  },
+  {
+    "log_id": "8fbd853a-790f-4b45-8612-944f977bee96",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-04 23:10:11.213996",
+    "error_type": "no-data",
+    "details": "Odit at commodi perferendis nostrum quo molestias."
+  },
+  {
+    "log_id": "d5bccd83-bb85-4c91-9ae5-fbbc0f657cc9",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-08 08:05:44.841273",
+    "error_type": "crash",
+    "details": "Minus iure a pariatur doloremque."
+  },
+  {
+    "log_id": "01b8d47e-7a5f-4d32-81fc-dfc321b2caa6",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-05 03:59:18.400655",
+    "error_type": "crash",
+    "details": "Excepturi nesciunt enim soluta magnam debitis aperiam."
+  },
+  {
+    "log_id": "3c299c68-2138-4e3c-9c69-9e1f458cf41d",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-17 18:38:04.067219",
+    "error_type": "invalid-signal",
+    "details": "Eius reiciendis modi voluptatibus illo sint accusantium sed repellendus voluptatibus."
+  },
+  {
+    "log_id": "8ecc4bd9-86db-41b4-83a6-4431d83e6704",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-23 00:19:56.291866",
+    "error_type": "no-data",
+    "details": "At repellendus fuga deserunt quibusdam aspernatur."
+  },
+  {
+    "log_id": "66f6290a-592b-4112-8459-3083db408797",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-16 05:54:01.982825",
+    "error_type": "timeout",
+    "details": "Doloribus adipisci provident amet nostrum veritatis."
+  },
+  {
+    "log_id": "ef678fc8-2308-461b-a3e3-2e4229ac92f0",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-14 13:08:17.151258",
+    "error_type": "timeout",
+    "details": "A veniam libero aut quas sit harum voluptates dicta."
+  },
+  {
+    "log_id": "e9b3589c-cf21-49f1-8eb2-32b854b56b05",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-14 06:26:29.034529",
+    "error_type": "crash",
+    "details": "Voluptatum dicta nisi mollitia nihil."
+  },
+  {
+    "log_id": "6a846c2c-6d9b-4aa8-869e-b431cf344c15",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-21 18:14:41.025073",
+    "error_type": "timeout",
+    "details": "Totam amet at eius vel distinctio ullam labore blanditiis autem."
+  },
+  {
+    "log_id": "dd315c0b-530f-4e66-b49e-aaa30ef147f7",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-23 15:58:25.784234",
+    "error_type": "timeout",
+    "details": "Quibusdam nihil iure officiis impedit quos autem occaecati harum."
+  },
+  {
+    "log_id": "6a5f09cb-81a6-43db-9564-a7bdc5de72fb",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-11 03:42:15.870460",
+    "error_type": "route-loop",
+    "details": "Quis velit placeat nulla quibusdam amet."
+  },
+  {
+    "log_id": "89f653a9-7324-42bb-8119-2634cad3e250",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-01 08:00:34.536271",
+    "error_type": "route-loop",
+    "details": "Ea neque eligendi voluptatem iure minima sint ullam occaecati."
+  },
+  {
+    "log_id": "dcd2dfd4-4c74-4676-878f-cedd71341dec",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-17 04:42:47.355670",
+    "error_type": "crash",
+    "details": "Dignissimos ipsa dolore minus provident."
+  },
+  {
+    "log_id": "b4c313eb-7e22-4d5c-a362-53032ae72b5d",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-21 17:45:13.261659",
+    "error_type": "invalid-signal",
+    "details": "Labore cumque minus sint."
+  },
+  {
+    "log_id": "fbaff9ca-5658-44d5-829d-03f5567ffe50",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-04 18:13:26.187414",
+    "error_type": "invalid-signal",
+    "details": "Minima a consequuntur iusto quis quaerat iusto veniam autem."
+  },
+  {
+    "log_id": "4794c44d-ab58-4656-a4a6-da33bda53100",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-10 19:21:20.924812",
+    "error_type": "crash",
+    "details": "Mollitia maiores quod iusto rerum."
+  },
+  {
+    "log_id": "bb9e88f8-56eb-483a-a1d6-0cf18a95e0d8",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-23 11:48:27.946471",
+    "error_type": "route-loop",
+    "details": "Tempora perspiciatis soluta nihil voluptates dolorum."
+  },
+  {
+    "log_id": "5d1c153e-f6eb-4acf-ac05-df93969c382a",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-16 00:45:35.755943",
+    "error_type": "no-data",
+    "details": "Quod modi laborum saepe aliquam soluta nam autem temporibus."
+  },
+  {
+    "log_id": "c9a0a9ef-513c-4c4d-9de6-30e0cbee2346",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-01 14:22:21.063973",
+    "error_type": "timeout",
+    "details": "Reiciendis molestias perferendis quaerat facilis explicabo."
+  },
+  {
+    "log_id": "49bc819e-9d18-4608-9771-8c05b671f1b2",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-11 15:17:13.448835",
+    "error_type": "crash",
+    "details": "Adipisci cumque ducimus sint deserunt quisquam distinctio hic delectus."
+  },
+  {
+    "log_id": "4df67205-20ff-422c-8085-1d532d82ab6a",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-12 17:40:36.356567",
+    "error_type": "invalid-signal",
+    "details": "Hic alias voluptatibus nobis quis mollitia."
+  },
+  {
+    "log_id": "1e605b15-e915-48f9-9d48-2c49f53fd2d3",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-19 15:53:46.855567",
+    "error_type": "crash",
+    "details": "Ea pariatur accusantium reiciendis placeat explicabo ipsa porro doloribus."
+  },
+  {
+    "log_id": "b174429c-cffa-4e4d-953e-09baf7b6e34b",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-13 07:19:25.750595",
+    "error_type": "timeout",
+    "details": "Possimus velit velit at amet blanditiis illo error."
+  },
+  {
+    "log_id": "068055f3-5511-4558-bc42-43526d987038",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-04 21:42:45.233815",
+    "error_type": "invalid-signal",
+    "details": "Harum a unde dolor facilis voluptatem."
+  },
+  {
+    "log_id": "019a1843-d9db-4f58-aebd-342d22d91b18",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-03 00:38:11.948488",
+    "error_type": "no-data",
+    "details": "Quisquam tempora culpa sed praesentium possimus nulla sint neque enim."
+  },
+  {
+    "log_id": "27ebe3a5-0af9-4a16-8a16-4306e1eadd41",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-02 06:00:22.662993",
+    "error_type": "invalid-signal",
+    "details": "Magnam dolore ab totam qui nobis repellat."
+  },
+  {
+    "log_id": "a3a051e8-5f5c-4553-8e8d-2654cd3710e6",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-04 14:31:02.773231",
+    "error_type": "no-data",
+    "details": "Et dolorem corporis fuga."
+  },
+  {
+    "log_id": "e0df542d-a5b8-43c2-9619-cf443ac5524f",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-16 03:30:40.051641",
+    "error_type": "invalid-signal",
+    "details": "Fugiat quaerat quis quaerat voluptatibus."
+  },
+  {
+    "log_id": "3c861a6a-f55d-48b9-929f-9fa53b6a38cf",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-01 14:59:08.732868",
+    "error_type": "crash",
+    "details": "Illo recusandae doloremque sint nostrum ex est."
+  },
+  {
+    "log_id": "d368c594-e09b-4f17-a484-be3e2191990c",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-19 06:50:47.995878",
+    "error_type": "timeout",
+    "details": "Atque eveniet reprehenderit sunt eius."
+  },
+  {
+    "log_id": "1da0b6ad-d3bb-447f-bdbf-4aa4e211cc10",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-15 06:58:31.353297",
+    "error_type": "route-loop",
+    "details": "In quisquam culpa magni repellat ratione sequi commodi iusto."
+  },
+  {
+    "log_id": "513f9d0f-de55-4a06-9373-56f2cc9fb7d4",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-03 03:56:41.505320",
+    "error_type": "route-loop",
+    "details": "Excepturi quia totam beatae molestias asperiores ipsum laudantium rem consequatur."
+  },
+  {
+    "log_id": "52f02148-016d-4426-b556-071b11b9e1b1",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-22 04:34:51.715904",
+    "error_type": "crash",
+    "details": "Fuga natus magni exercitationem ea fugiat vel aliquid perferendis nisi."
+  },
+  {
+    "log_id": "8593d3a2-08a6-4a64-bb03-f61b5705a33e",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-22 07:39:12.914126",
+    "error_type": "route-loop",
+    "details": "Dolorem fugit corrupti ratione ipsa qui."
+  },
+  {
+    "log_id": "6cf98cc8-a20c-4fea-a227-ac14343f5341",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-22 11:35:16.821095",
+    "error_type": "timeout",
+    "details": "Quo in iure consequuntur facere ipsam ad dignissimos."
+  },
+  {
+    "log_id": "ae973869-2ea1-41aa-bcf7-bbc28e38440e",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-19 04:37:35.484063",
+    "error_type": "route-loop",
+    "details": "Iure facere rem quidem laboriosam voluptatum quibusdam laboriosam quam."
+  },
+  {
+    "log_id": "48cc02e8-4da2-4b5e-88ae-4aba19b1cec8",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-06 08:30:17.411799",
+    "error_type": "no-data",
+    "details": "Atque et voluptatem minus quod suscipit."
+  },
+  {
+    "log_id": "9dedb853-8658-42e5-8512-3413d9e323be",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-16 13:53:06.397894",
+    "error_type": "route-loop",
+    "details": "Reprehenderit saepe magnam eveniet itaque debitis amet."
+  },
+  {
+    "log_id": "9eb5d8d2-9620-418d-a2c5-78296210b734",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-18 02:15:36.381458",
+    "error_type": "invalid-signal",
+    "details": "Cupiditate ea quibusdam placeat illo corporis iste nam rerum voluptatum."
+  },
+  {
+    "log_id": "24e1ed79-7d99-4386-b77c-1be6febee6a6",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-14 00:16:01.059715",
+    "error_type": "invalid-signal",
+    "details": "Impedit dolorum ab officiis fugiat dignissimos laboriosam architecto rerum."
+  },
+  {
+    "log_id": "b0bb79d9-d9b0-4417-b68d-69797fe4c461",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-14 13:19:50.652994",
+    "error_type": "timeout",
+    "details": "Velit dignissimos molestias ullam labore porro."
+  },
+  {
+    "log_id": "6c4e77f7-38da-48b0-afc8-7fc9fd8efc60",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-21 03:29:00.157749",
+    "error_type": "invalid-signal",
+    "details": "Nobis dolor minus quam saepe non illo perferendis."
+  },
+  {
+    "log_id": "c9f09bd6-a327-45f7-a61c-436872f1f318",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-18 18:09:57.925007",
+    "error_type": "crash",
+    "details": "Reiciendis maxime vel voluptatibus nihil."
+  },
+  {
+    "log_id": "4aec4d62-f30f-45b6-b828-072570e98f08",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-11 05:04:37.084023",
+    "error_type": "invalid-signal",
+    "details": "Debitis possimus quod quod ea expedita ad."
+  },
+  {
+    "log_id": "bf34d889-2653-4bd4-a9cc-aeb0a4a5308d",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-04 08:05:47.549480",
+    "error_type": "route-loop",
+    "details": "Velit nobis corporis dicta in assumenda temporibus nisi ipsum veritatis."
+  },
+  {
+    "log_id": "d8910c36-5dc5-4345-a136-6a4d01a1296e",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-03 13:09:58.791217",
+    "error_type": "invalid-signal",
+    "details": "Et placeat qui illum."
+  },
+  {
+    "log_id": "b424a7a0-bd1e-4e72-bc1b-321783eb9e95",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-23 05:13:59.524831",
+    "error_type": "no-data",
+    "details": "Qui magnam sunt libero excepturi."
+  },
+  {
+    "log_id": "49b4af17-5e6b-4d7a-ab53-62822aeef929",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-22 21:51:43.031764",
+    "error_type": "route-loop",
+    "details": "Culpa sed nesciunt sint dolores quos ea."
+  },
+  {
+    "log_id": "11d0dc7a-f56c-4ffa-b31f-bee0358ae854",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-17 15:21:01.050603",
+    "error_type": "crash",
+    "details": "Labore similique quibusdam consectetur quas debitis."
+  },
+  {
+    "log_id": "d045f17e-ce2d-4215-b7eb-9827869ca44f",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-13 05:39:29.858723",
+    "error_type": "crash",
+    "details": "Cupiditate officia laboriosam autem asperiores iure."
+  },
+  {
+    "log_id": "cec75674-8b19-4320-b523-08212c4176f7",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-15 05:59:12.600351",
+    "error_type": "no-data",
+    "details": "Officiis laudantium non voluptas autem cum quod culpa."
+  },
+  {
+    "log_id": "223bda76-bcaf-4ee3-9b19-b829d0fcb577",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-22 22:59:20.511602",
+    "error_type": "route-loop",
+    "details": "Fuga enim saepe illo mollitia adipisci cupiditate aut incidunt neque."
+  },
+  {
+    "log_id": "2054e592-101b-4c72-961a-4a6930bf9bd2",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-22 02:53:43.156520",
+    "error_type": "invalid-signal",
+    "details": "Nesciunt rem deleniti tempore quia voluptatum."
+  },
+  {
+    "log_id": "e0f02008-24a9-44d7-9b48-c6fb333f117b",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-12 13:39:32.849380",
+    "error_type": "timeout",
+    "details": "Recusandae accusamus voluptatum tempora delectus id libero aspernatur in ad."
+  },
+  {
+    "log_id": "a07d4d6c-01d0-468c-a528-698bd756b927",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-19 13:26:26.267789",
+    "error_type": "crash",
+    "details": "Iste sunt quis ullam rem."
+  },
+  {
+    "log_id": "0f199b92-17b4-46d0-9fc2-e9524e0bec8f",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-20 09:09:12.549024",
+    "error_type": "invalid-signal",
+    "details": "Id deserunt suscipit aliquam exercitationem."
+  },
+  {
+    "log_id": "e2aef508-0213-4090-bd00-ff19608d5135",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-23 02:13:35.922167",
+    "error_type": "crash",
+    "details": "Velit enim dicta delectus."
+  },
+  {
+    "log_id": "6a558ea5-3ea7-4639-8503-e3b717007953",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-22 03:02:38.857430",
+    "error_type": "route-loop",
+    "details": "Delectus totam fugiat dolore beatae repellat cum eius ipsam."
+  },
+  {
+    "log_id": "34368737-28ff-4490-bd52-5a4e432c03e4",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-21 08:30:59.722583",
+    "error_type": "timeout",
+    "details": "Totam a dolore natus qui quidem eveniet."
+  },
+  {
+    "log_id": "585262b1-7693-4d1f-8d80-c2feb7b10072",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-07 22:08:57.954026",
+    "error_type": "timeout",
+    "details": "Culpa expedita quas repellendus mollitia."
+  },
+  {
+    "log_id": "c455da79-2a41-40de-8852-c78e0633a286",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-04 03:31:34.601758",
+    "error_type": "timeout",
+    "details": "Praesentium dolor non consectetur praesentium."
+  },
+  {
+    "log_id": "b4c7573a-84c8-4c23-a76e-34be78bec228",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-18 06:02:01.209090",
+    "error_type": "route-loop",
+    "details": "Debitis similique cum nemo reprehenderit dolore officiis error quo."
+  },
+  {
+    "log_id": "2d4c0413-74be-4766-aa47-bfc8164ba766",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-11 06:33:29.293802",
+    "error_type": "timeout",
+    "details": "Animi rerum quaerat iste officia reprehenderit iste cumque officia."
+  },
+  {
+    "log_id": "599f5901-e65c-4d51-ae40-1311c973c84e",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-21 00:52:31.262431",
+    "error_type": "no-data",
+    "details": "Voluptate nihil eaque quibusdam nesciunt ad quam magni."
+  },
+  {
+    "log_id": "42a5af9b-5223-46bb-b6d9-d64d7ae67ecf",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-09 02:31:28.309107",
+    "error_type": "invalid-signal",
+    "details": "Ipsa repellendus in libero facilis impedit sit cumque molestias pariatur."
+  },
+  {
+    "log_id": "8fe1f050-5cf9-4973-b929-eda0bf30070d",
+    "agent_id": "Agent 4",
+    "timestamp": "2025-07-12 16:21:05.031773",
+    "error_type": "invalid-signal",
+    "details": "Natus sapiente cupiditate aliquid delectus."
+  },
+  {
+    "log_id": "22bb0c8d-7bdc-40ac-8400-592ca0b335c7",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-22 02:30:44.256721",
+    "error_type": "timeout",
+    "details": "Temporibus quod velit sunt dolores."
+  },
+  {
+    "log_id": "923b6567-dcdc-414f-a79e-04e761003856",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-14 00:00:27.140525",
+    "error_type": "timeout",
+    "details": "Eius molestiae totam nesciunt cupiditate."
+  },
+  {
+    "log_id": "2477536f-534f-489b-885e-9e90f12ff03e",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-11 00:34:56.697119",
+    "error_type": "timeout",
+    "details": "Expedita deserunt dignissimos ab cumque facere."
+  },
+  {
+    "log_id": "d111277c-82cc-4039-9719-944c9e5d531a",
+    "agent_id": "Agent 2",
+    "timestamp": "2025-07-12 12:54:39.266358",
+    "error_type": "crash",
+    "details": "Culpa fugiat officiis ex sequi."
+  },
+  {
+    "log_id": "bded3f17-ab76-4aa9-9ad9-5c71c688599b",
+    "agent_id": "Agent 1",
+    "timestamp": "2025-07-10 23:06:54.310885",
+    "error_type": "invalid-signal",
+    "details": "Beatae suscipit dolorem excepturi eveniet."
+  }
+]

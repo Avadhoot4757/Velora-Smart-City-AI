@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "velora-demo",
+    "dev": "velora-agents-testing"
+  },
+  "targets": {},
+  "etags": {}
+}
