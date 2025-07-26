@@ -2,7 +2,7 @@ from vertexai import init
 from vertexai.preview.generative_models import GenerativeModel
 
 # Initialize Vertex AI (update your project and location)
-init(project="velora-neha-agent", location="us-central1")
+init(project="velora-demo", location="asia-south1")
 
 # Try sending a small prompt
 model = GenerativeModel("gemini-1.5-pro")

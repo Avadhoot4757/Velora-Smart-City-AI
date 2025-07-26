@@ -5,7 +5,7 @@ import base64
 from datetime import datetime
 import json
 
-@https_fn.on_request(region='asia-south1')
+@https_fn.on_request(max_instances=10, region='asia-south1')
 def manage_reports(req: https_fn.Request) -> https_fn.Response:
     # CORS headers
     headers = {

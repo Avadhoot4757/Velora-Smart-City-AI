@@ -1,10 +1,10 @@
-# rca_model.py
 import json
+import re
 from vertexai import init
 from vertexai.generative_models import GenerativeModel, GenerationConfig
 
 # Initialize Vertex AI (do this once per process)
-init(project="velora-neha-agent", location="us-central1")
+init(project="velora-demo", location="asia-south1")
 
 class RCAReasoningAgent:
     def __init__(self, pattern_data, reroute_logs=None, incident_reports=None, user_profiles=None):
@@ -60,11 +60,22 @@ Include analysis, overlap detection, affected groups/locations, mitigation advic
             prompt, generation_config=self.generation_config
         )
 
+        # Extract JSON content from Markdown code block
+        response_text = response.text.strip()
+        # Remove ```json and ``` markers, and any surrounding whitespace
+        json_pattern = r"```json\s*(.*?)\s*```"
+        match = re.match(json_pattern, response_text, re.DOTALL)
+        if match:
+            json_content = match.group(1)
+        else:
+            json_content = response_text  # Fallback to raw text if no Markdown
+
         try:
-            result = json.loads(response.text)
-        except Exception:
+            result = json.loads(json_content)
+        except Exception as e:
+            print(f"Failed to parse response as JSON: {str(e)}")
             result = {
-                "summary": response.text.strip(),
+                "summary": response_text,
                 "incident_overlap": "Unknown",
                 "user_impact": "Unknown",
                 "suggestions": "Review data for more details.",

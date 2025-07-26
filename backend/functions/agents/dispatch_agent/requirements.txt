@@ -1,0 +1,6 @@
+google-cloud-pubsub
+google-cloud-firestore
+google-cloud-aiplatform
+geopy
+google-cloud-bigquery
+Flask

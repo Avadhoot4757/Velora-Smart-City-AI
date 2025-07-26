@@ -4,7 +4,7 @@ import os
 import requests
 import json
 
-cred = credentials.Certificate('/home/avadhoot/projects/Velora-Smart-City-AI/backend/functions/service-account.json')
+cred = credentials.Certificate('service-account.json')
 initialize_app(cred, {
     'projectId': 'velora-demo',
     'storageBucket': 'velora-demo.appspot.com',
