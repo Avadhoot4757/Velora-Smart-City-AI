@@ -1,8 +1,10 @@
 from firebase_functions import https_fn
+from core.utils import get_firestore_client
+from agents.commuter_rerouter.maps_api import get_directions, extract_route_info
 import json
 
 @https_fn.on_request(max_instances=10, region='asia-south1')
-def notify_user(req: https_fn.Request) -> https_fn.Response:
+def get_eco_friendly_route(req: https_fn.Request) -> https_fn.Response:
     # CORS headers
     headers = {
         'Access-Control-Allow-Origin': '*',
@@ -23,32 +25,34 @@ def notify_user(req: https_fn.Request) -> https_fn.Response:
             )
 
         # Parse request data
-        request_data = req.get_json(silent=True)
-        if not request_data or not all(key in request_data for key in ['user_id', 'route', 'parking']):
+        request_data = req.get_json()
+        if not request_data or not all(key in request_data for key in ['user_id', 'origin', 'destination']):
             return https_fn.Response(
-                json.dumps({'error': 'Missing required fields: user_id, route, parking'}),
+                json.dumps({'error': 'Missing required parameters: user_id, origin, destination'}),
                 status=400,
                 headers={**headers, 'Content-Type': 'application/json'}
             )
 
         user_id = request_data['user_id']
-        route = request_data['route']
-        parking = request_data['parking']
-        fallback = request_data.get('fallback', False)
+        origin = request_data['origin']
+        destination = request_data['destination']
 
-        # Find first parking spot with availability
-        parking_suggestion = next((p for p in parking if p.get('available', 0) > 0), None)
-
-        # Construct response data
-        response_data = {
-            'user_id': user_id,
-            'reroute': route,
-            'parking_suggestion': parking_suggestion,
-            'fallback': fallback
-        }
-
+        # Get Firestore client using utils
+        db = get_firestore_client()
+        
+        # Fetch environment data
+        env_docs = list(db.collection("env_data").stream())
+        low_aqi_areas = [doc.to_dict() for doc in env_docs if doc.to_dict().get("aqi", 500) < 80]
+        
+        # Optional: build waypoints from low AQI areas, limited to 3
+        waypoints = [f"{a['lat']},{a['lon']}" for a in low_aqi_areas][:3]
+        
+        # Get route information
+        response = get_directions(origin, destination, waypoints=waypoints)
+        route_info = extract_route_info(response)
+        
         return https_fn.Response(
-            json.dumps(response_data),
+            json.dumps({"route": route_info}),
             status=200,
             headers={**headers, 'Content-Type': 'application/json'}
         )

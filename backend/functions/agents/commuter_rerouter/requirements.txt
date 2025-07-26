@@ -4,4 +4,11 @@ firebase-admin
 vertexai 
 googlemaps 
 requests
+polyline
+geopy
+firebase-admin
+firebase-functions
+googlemaps
+google-cloud-firestore
+python-dotenv
 
