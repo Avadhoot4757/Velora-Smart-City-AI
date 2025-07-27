@@ -210,12 +210,29 @@ export default function Dashboard() {
     const q = searchParams.get("q");
     if (q) {
       setQuery(q);
+      // If the query contains any destination-like terms, show routes
       if (
         q.toLowerCase().includes("route") ||
         q.toLowerCase().includes("go to") ||
+        q.toLowerCase().includes("navigate") ||
         q.toLowerCase().includes("whitefield") ||
         q.toLowerCase().includes("mg road") ||
-        q.toLowerCase().includes("electronic city")
+        q.toLowerCase().includes("electronic city") ||
+        q.toLowerCase().includes("koramangala") ||
+        q.toLowerCase().includes("indiranagar") ||
+        q.toLowerCase().includes("jayanagar") ||
+        q.toLowerCase().includes("malleshwaram") ||
+        q.toLowerCase().includes("hebbal") ||
+        q.toLowerCase().includes("marathahalli") ||
+        q.toLowerCase().includes("silk board") ||
+        q.toLowerCase().includes("airport") ||
+        q.toLowerCase().includes("station") ||
+        q.toLowerCase().includes("mall") ||
+        q.toLowerCase().includes("hospital") ||
+        q.toLowerCase().includes("school") ||
+        q.toLowerCase().includes("office") ||
+        q.toLowerCase().includes("work") ||
+        q.toLowerCase().includes("home")
       ) {
         setDestination(extractDestination(q));
         setView("routes");
@@ -226,10 +243,40 @@ export default function Dashboard() {
   }, [searchParams]);
 
   const extractDestination = (query: string) => {
-    if (query.toLowerCase().includes("whitefield")) return "Whitefield";
-    if (query.toLowerCase().includes("mg road")) return "MG Road";
-    if (query.toLowerCase().includes("electronic city")) return "Electronic City";
-    return "Destination";
+    const queryLower = query.toLowerCase();
+    
+    // Specific locations
+    if (queryLower.includes("whitefield")) return "Whitefield";
+    if (queryLower.includes("mg road")) return "MG Road";
+    if (queryLower.includes("electronic city")) return "Electronic City";
+    if (queryLower.includes("koramangala")) return "Koramangala";
+    if (queryLower.includes("indiranagar")) return "Indiranagar";
+    if (queryLower.includes("jayanagar")) return "Jayanagar";
+    if (queryLower.includes("malleshwaram")) return "Malleshwaram";
+    if (queryLower.includes("hebbal")) return "Hebbal";
+    if (queryLower.includes("marathahalli")) return "Marathahalli";
+    if (queryLower.includes("silk board")) return "Silk Board";
+    
+    // Generic destinations
+    if (queryLower.includes("airport")) return "Kempegowda International Airport";
+    if (queryLower.includes("station")) return "Bengaluru Railway Station";
+    if (queryLower.includes("mall")) return "Phoenix MarketCity";
+    if (queryLower.includes("hospital")) return "Apollo Hospital";
+    if (queryLower.includes("school")) return "School";
+    if (queryLower.includes("office") || queryLower.includes("work")) return "Office";
+    if (queryLower.includes("home")) return "Home";
+    
+    // If it's a general navigation request, use the query as destination
+    if (queryLower.includes("go to") || queryLower.includes("navigate") || queryLower.includes("route")) {
+      // Extract the destination from phrases like "go to [destination]"
+      const goToMatch = query.match(/(?:go to|navigate to|route to)\s+(.+)/i);
+      if (goToMatch) {
+        return goToMatch[1];
+      }
+    }
+    
+    // Default: use the query as destination
+    return query;
   };
 
   const handleRouteSelect = (route: any) => {
@@ -259,6 +306,8 @@ export default function Dashboard() {
     mapTypeId: "roadmap",
     styles: theme === "dark" ? darkMapStyle : [],
   };
+
+
 
   return (
     <div className="min-h-screen bg-background">

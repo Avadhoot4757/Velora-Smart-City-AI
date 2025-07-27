@@ -1,6 +1,7 @@
 "use client"
 
 import { useState } from "react"
+import { useRouter } from "next/navigation"
 import { Button } from "@/components/ui/button"
 import { Input } from "@/components/ui/input"
 import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar"
@@ -24,12 +25,25 @@ export function DashboardHeader({ onBack, showReportIssue = true }: DashboardHea
   const [isReportOpen, setIsReportOpen] = useState(false)
   const [isLeaderboardOpen, setIsLeaderboardOpen] = useState(false)
   const [searchQuery, setSearchQuery] = useState("")
+  const router = useRouter()
 
   const handleProtectedAction = (action: () => void) => {
     if (user) {
       action()
     } else {
       setIsLoginOpen(true)
+    }
+  }
+
+  const handleSearch = () => {
+    if (searchQuery.trim()) {
+      router.push(`/dashboard?q=${encodeURIComponent(searchQuery)}`)
+    }
+  }
+
+  const handleKeyPress = (e: React.KeyboardEvent<HTMLInputElement>) => {
+    if (e.key === "Enter" && searchQuery.trim()) {
+      handleSearch()
     }
   }
 
@@ -79,14 +93,25 @@ export function DashboardHeader({ onBack, showReportIssue = true }: DashboardHea
         {/* Search Bar */}
         {!onBack && (
           <div className="flex-1 max-w-md mx-8">
-            <div className="relative">
+            <div className="relative flex items-center">
               <Search className="absolute left-3 top-1/2 transform -translate-y-1/2 text-muted-foreground w-4 h-4" />
               <Input
                 placeholder="Where do you want to go?"
+                type="text"
                 value={searchQuery}
                 onChange={(e) => setSearchQuery(e.target.value)}
-                className="pl-10"
+                onKeyDown={handleKeyPress}
+                className="pl-10 pr-16"
               />
+              <Button
+                variant="default"
+                size="sm"
+                className="absolute right-1 h-8 px-3"
+                onClick={handleSearch}
+                disabled={!searchQuery.trim()}
+              >
+                Go
+              </Button>
             </div>
           </div>
         )}

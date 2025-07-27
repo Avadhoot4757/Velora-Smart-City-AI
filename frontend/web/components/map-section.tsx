@@ -25,7 +25,7 @@ const center = {
 };
 
 const minimalMapStyle = [
-  { featureType: "poi", stylers: [{ visibility: "off" }] },
+  { featureType: "poi", stylers: [{ visibility: "on" }] },
   { featureType: "administrative.neighborhood", elementType: "labels", stylers: [{ visibility: "off" }] },
   { featureType: "administrative.locality", elementType: "labels", stylers: [{ visibility: "on" }, { color: "#333333" }, { weight: 0.8 }] },
   { featureType: "road", elementType: "labels", stylers: [{ visibility: "off" }] },
@@ -154,22 +154,6 @@ export function MapSection({ query }: MapSectionProps) {
           </div>
         )}
       </div>
-
-      <Card className="absolute bottom-4 right-4 p-4 w-80 z-10">
-        <div className="space-y-3">
-          <div className="flex items-center justify-between">
-            <h4 className="font-medium flex items-center">
-              <Clock className="w-4 h-4 mr-2" /> Time Prediction
-            </h4>
-            <Badge variant="outline">{timeSlider[0] === 0 ? "Now" : `+${timeSlider[0]}h`}</Badge>
-          </div>
-          <Slider value={timeSlider} onValueChange={setTimeSlider} max={6} step={1} />
-          <div className="flex justify-between text-xs text-muted-foreground">
-            <span>Now</span>
-            <span>+6h</span>
-          </div>
-        </div>
-      </Card>
     </div>
   );
 }

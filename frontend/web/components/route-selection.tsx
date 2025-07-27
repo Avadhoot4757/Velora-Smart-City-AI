@@ -127,8 +127,8 @@ export function RouteSelection({ destination, currentLocation, onRouteSelect }: 
         new Promise<{ route: typeof routes[0]; result: google.maps.DirectionsResult; index: number } | null>((resolve) => {
           directionsService.route(
             {
-              origin: "Koramangala, Bengaluru",
-              destination: "MG Road, Bengaluru",
+              origin: currentLocation,
+              destination: destination,
               travelMode: google.maps.TravelMode.DRIVING,
               provideRouteAlternatives: true,
               waypoints: route.waypoints,

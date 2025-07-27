@@ -121,7 +121,7 @@ export function RouteDetails({ route, destination, onStartNavigation, onBack }: 
     directionsService.route(
       {
         origin: { query: "Koramangala, Bengaluru" }, // Use query for better geocoding
-        destination: { query: "MG Road, Bengaluru" },
+        destination: { query: destination },
         travelMode: google.maps.TravelMode.DRIVING,
         waypoints: route.waypoints || [],
         optimizeWaypoints: false,

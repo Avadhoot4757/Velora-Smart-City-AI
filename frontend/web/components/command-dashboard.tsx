@@ -1,4 +1,3 @@
-// components/command-dashboard.tsx
 "use client";
 
 import { useState, useEffect, useRef } from "react";
@@ -23,307 +22,6 @@ import {
   Layers,
   Filter,
 } from "lucide-react";
-
-const liveIncidents = [
-  {
-    id: "INC-001",
-    type: "traffic",
-    title: "Heavy Traffic Jam - MG Road",
-    location: "MG Road Junction",
-    severity: "high",
-    time: "2 min ago",
-    status: "verified",
-    reports: 15,
-    sensors: 3,
-    position: { lat: 12.9757, lng: 77.6067 },
-  },
-  {
-    id: "INC-002",
-    type: "civic",
-    title: "Water Pipe Burst",
-    location: "Koramangala 4th Block",
-    severity: "high",
-    time: "5 min ago",
-    status: "pending",
-    reports: 8,
-    sensors: 1,
-    position: { lat: 12.9352, lng: 77.6245 },
-  },
-  {
-    id: "INC-003",
-    type: "safety",
-    title: "Street Light Outage",
-    location: "HSR Layout Sector 2",
-    severity: "medium",
-    time: "12 min ago",
-    status: "verified",
-    reports: 3,
-    sensors: 0,
-    position: { lat: 12.9116, lng: 77.6387 },
-  },
-  {
-    id: "INC-004",
-    type: "traffic",
-    title: "Accident Reported",
-    location: "Outer Ring Road",
-    severity: "high",
-    time: "18 min ago",
-    status: "dispatched",
-    reports: 12,
-    sensors: 2,
-    position: { lat: 12.9293, lng: 77.6848 },
-  },
-  {
-    id: "INC-005",
-    type: "traffic",
-    title: "Congestion - Whitefield",
-    location: "Whitefield Main Road",
-    severity: "high",
-    time: "10 min ago",
-    status: "verified",
-    reports: 10,
-    sensors: 2,
-    position: { lat: 12.9698, lng: 77.7499 },
-  },
-  {
-    id: "INC-006",
-    type: "civic",
-    title: "Pothole Reported",
-    location: "Indiranagar 100 Feet Road",
-    severity: "medium",
-    time: "15 min ago",
-    status: "pending",
-    reports: 5,
-    sensors: 0,
-    position: { lat: 12.9784, lng: 77.6408 },
-  },
-  {
-    id: "INC-007",
-    type: "safety",
-    title: "Suspicious Activity",
-    location: "Jayanagar 4th Block",
-    severity: "high",
-    time: "20 min ago",
-    status: "dispatched",
-    reports: 7,
-    sensors: 1,
-    position: { lat: 12.9308, lng: 77.5838 },
-  },
-  {
-    id: "INC-008",
-    type: "traffic",
-    title: "Signal Malfunction",
-    location: "Electronic City",
-    severity: "medium",
-    time: "25 min ago",
-    status: "verified",
-    reports: 9,
-    sensors: 2,
-    position: { lat: 12.8390, lng: 77.6770 },
-  },
-  {
-    id: "INC-009",
-    type: "civic",
-    title: "Garbage Overflow",
-    location: "Malleshwaram",
-    severity: "medium",
-    time: "30 min ago",
-    status: "pending",
-    reports: 4,
-    sensors: 0,
-    position: { lat: 13.0027, lng: 77.5704 },
-  },
-  {
-    id: "INC-010",
-    type: "safety",
-    title: "Street Flooding",
-    location: "Marathahalli",
-    severity: "high",
-    time: "35 min ago",
-    status: "dispatched",
-    reports: 11,
-    sensors: 3,
-    position: { lat: 12.9592, lng: 77.6974 },
-  },
-  {
-    id: "INC-011",
-    type: "traffic",
-    title: "Road Blockage",
-    location: "Hebbal Flyover",
-    severity: "high",
-    time: "40 min ago",
-    status: "verified",
-    reports: 13,
-    sensors: 2,
-    position: { lat: 13.0359, lng: 77.5970 },
-  },
-  {
-    id: "INC-012",
-    type: "civic",
-    title: "Broken Bench",
-    location: "Cubbon Park",
-    severity: "low",
-    time: "45 min ago",
-    status: "pending",
-    reports: 2,
-    sensors: 0,
-    position: { lat: 12.9756, lng: 77.5929 },
-  },
-  {
-    id: "INC-013",
-    type: "safety",
-    title: "Power Outage",
-    location: "VV Puram",
-    severity: "high",
-    time: "50 min ago",
-    status: "dispatched",
-    reports: 8,
-    sensors: 1,
-    position: { lat: 12.9260, lng: 77.5900 },
-  },
-  {
-    id: "INC-014",
-    type: "traffic",
-    title: "Illegal Parking",
-    location: "Koramangala 5th Block",
-    severity: "medium",
-    time: "55 min ago",
-    status: "verified",
-    reports: 6,
-    sensors: 0,
-    position: { lat: 12.9345, lng: 77.6300 },
-  },
-  {
-    id: "INC-015",
-    type: "civic",
-    title: "Stray Animals",
-    location: "Banashankari",
-    severity: "medium",
-    time: "60 min ago",
-    status: "pending",
-    reports: 3,
-    sensors: 0,
-    position: { lat: 12.9255, lng: 77.5738 },
-  },
-  {
-    id: "INC-016",
-    type: "safety",
-    title: "Fallen Tree",
-    location: "JP Nagar",
-    severity: "high",
-    time: "65 min ago",
-    status: "dispatched",
-    reports: 10,
-    sensors: 2,
-    position: { lat: 12.9062, lng: 77.5856 },
-  },
-];
-
-const heatmapData = [
-  { area: "MG Road", incidents: 23, trend: "up", position: { lat: 12.9757, lng: 77.6067 } },
-  { area: "Electronic City", incidents: 18, trend: "down", position: { lat: 12.8390, lng: 77.6770 } },
-  { area: "Whitefield", incidents: 15, trend: "stable", position: { lat: 12.9698, lng: 77.7499 } },
-  { area: "Koramangala", incidents: 12, trend: "up", position: { lat: 12.9352, lng: 77.6245 } },
-  { area: "Indiranagar", incidents: 20, trend: "up", position: { lat: 12.9784, lng: 77.6408 } },
-  { area: "Jayanagar", incidents: 10, trend: "down", position: { lat: 12.9308, lng: 77.5838 } },
-  { area: "Malleshwaram", incidents: 14, trend: "stable", position: { lat: 13.0027, lng: 77.5704 } },
-  { area: "Marathahalli", incidents: 17, trend: "up", position: { lat: 12.9592, lng: 77.6974 } },
-  { area: "Hebbal", incidents: 19, trend: "up", position: { lat: 13.0359, lng: 77.5970 } },
-  { area: "Cubbon Park", incidents: 8, trend: "down", position: { lat: 12.9756, lng: 77.5929 } },
-  { area: "VV Puram", incidents: 13, trend: "stable", position: { lat: 12.9260, lng: 77.5900 } },
-  { area: "Banashankari", incidents: 11, trend: "down", position: { lat: 12.9255, lng: 77.5738 } },
-  { area: "JP Nagar", incidents: 16, trend: "up", position: { lat: 12.9062, lng: 77.5856 } },
-  { area: "HSR Layout", incidents: 15, trend: "stable", position: { lat: 12.9116, lng: 77.6387 } },
-  { area: "Outer Ring Road", incidents: 22, trend: "up", position: { lat: 12.9293, lng: 77.6848 } },
-  { area: "Koramangala 5th Block", incidents: 9, trend: "down", position: { lat: 12.9345, lng: 77.6300 } },
-];
-
-const serviceVehicles = [
-  {
-    id: "SV-001",
-    type: "police",
-    location: "Near MG Road",
-    status: "active",
-    position: { lat: 12.9760, lng: 77.6050 },
-  },
-  {
-    id: "SV-002",
-    type: "ambulance",
-    location: "Koramangala",
-    status: "dispatched",
-    position: { lat: 12.9340, lng: 77.6250 },
-  },
-  {
-    id: "SV-003",
-    type: "fire",
-    location: "HSR Layout",
-    status: "standby",
-    position: { lat: 12.9120, lng: 77.6390 },
-  },
-  {
-    id: "SV-004",
-    type: "police",
-    location: "Whitefield",
-    status: "active",
-    position: { lat: 12.9700, lng: 77.7480 },
-  },
-  {
-    id: "SV-005",
-    type: "ambulance",
-    location: "Indiranagar",
-    status: "dispatched",
-    position: { lat: 12.9780, lng: 77.6410 },
-  },
-  {
-    id: "SV-006",
-    type: "fire",
-    location: "Jayanagar",
-    status: "standby",
-    position: { lat: 12.9310, lng: 77.5840 },
-  },
-  {
-    id: "SV-007",
-    type: "police",
-    location: "Electronic City",
-    status: "active",
-    position: { lat: 12.8400, lng: 77.6760 },
-  },
-  {
-    id: "SV-008",
-    type: "ambulance",
-    location: "Malleshwaram",
-    status: "dispatched",
-    position: { lat: 13.0030, lng: 77.5710 },
-  },
-  {
-    id: "SV-009",
-    type: "fire",
-    location: "Marathahalli",
-    status: "standby",
-    position: { lat: 12.9600, lng: 77.6980 },
-  },
-  {
-    id: "SV-010",
-    type: "police",
-    location: "Hebbal",
-    status: "active",
-    position: { lat: 13.0360, lng: 77.5960 },
-  },
-  {
-    id: "SV-011",
-    type: "ambulance",
-    location: "Cubbon Park",
-    status: "dispatched",
-    position: { lat: 12.9760, lng: 77.5930 },
-  },
-  {
-    id: "SV-012",
-    type: "fire",
-    location: "VV Puram",
-    status: "standby",
-    position: { lat: 12.9270, lng: 77.5910 },
-  },
-];
 
 const containerStyle = {
   width: "100%",
@@ -374,9 +72,25 @@ const legendData = {
   ],
 };
 
+const serviceVehicles = [
+  { id: "SV-001", type: "police", location: "Near MG Road", status: "active", position: { lat: 12.9760, lng: 77.6050 } },
+  { id: "SV-002", type: "ambulance", location: "Koramangala", status: "dispatched", position: { lat: 12.9340, lng: 77.6250 } },
+  { id: "SV-003", type: "fire", location: "HSR Layout", status: "standby", position: { lat: 12.9120, lng: 77.6390 } },
+  { id: "SV-004", type: "police", location: "Whitefield", status: "active", position: { lat: 12.9700, lng: 77.7480 } },
+  { id: "SV-005", type: "ambulance", location: "Indiranagar", status: "dispatched", position: { lat: 12.9780, lng: 77.6410 } },
+  { id: "SV-006", type: "fire", location: "Jayanagar", status: "standby", position: { lat: 12.9310, lng: 77.5840 } },
+  { id: "SV-007", type: "police", location: "Electronic City", status: "active", position: { lat: 12.8400, lng: 77.6760 } },
+  { id: "SV-008", type: "ambulance", location: "Malleshwaram", status: "dispatched", position: { lat: 13.0030, lng: 77.5710 } },
+  { id: "SV-009", type: "fire", location: "Marathahalli", status: "standby", position: { lat: 12.9600, lng: 77.6980 } },
+  { id: "SV-010", type: "police", location: "Hebbal", status: "active", position: { lat: 13.0360, lng: 77.5960 } },
+  { id: "SV-011", type: "ambulance", location: "Cubbon Park", status: "dispatched", position: { lat: 12.9760, lng: 77.5930 } },
+  { id: "SV-012", type: "fire", location: "VV Puram", status: "standby", position: { lat: 12.9270, lng: 77.5910 } },
+];
+
 export function CommandDashboard() {
   const [mapView, setMapView] = useState<"incidents" | "heatmap" | "services">("incidents");
   const [selectedIncident, setSelectedIncident] = useState<string | null>(null);
+  const [liveIncidents, setLiveIncidents] = useState([]);
   const [isFetching, setIsFetching] = useState(false);
   const { isLoaded } = useGoogleMaps();
   const { theme } = useTheme();
@@ -414,14 +128,52 @@ export function CommandDashboard() {
     console.log(`Dispatching services for: ${incidentId}`);
   };
 
-  useEffect(() => {
+  // Fetch live incidents from the API
+  const fetchIncidents = async () => {
     setIsFetching(true);
-    const timer = setTimeout(() => {
+    try {
+      const response = await fetch("https://asia-south1-velora-demo.cloudfunctions.net/get_all_reports"); // Placeholder URL
+      const data = await response.json();
+      if (data.status === "success") {
+        const incidents = data.reports.map((report: any) => ({
+          id: report.id,
+          type: report.reportType || "unknown",
+          title: report.description || "No description",
+          location: report.geoLocation?.join(", ") || "Unknown location",
+          severity: report.severityScore > 50 ? "high" : report.severityScore > 30 ? "medium" : "low",
+          time: timeAgo(new Date(report.timestamp)),
+          status: report.status || "pending",
+          reports: 1, // Assuming 1 report per document for now
+          sensors: 0, // Placeholder, adjust if sensor data is available
+          position: {
+            lat: report.geoLocation ? parseFloat(report.geoLocation[0]) : center.lat,
+            lng: report.geoLocation ? parseFloat(report.geoLocation[1]) : center.lng,
+          },
+          mediaUrl: report.mediaUrl || null,
+        }));
+        setLiveIncidents(incidents);
+      }
+    } catch (error) {
+      console.error("Failed to fetch incidents:", error);
+    } finally {
       setIsFetching(false);
-      console.log(`Fetched data for mapView: ${mapView}`);
-    }, 1000);
-    return () => clearTimeout(timer);
-  }, [mapView]);
+    }
+  };
+
+  // Polling every 30 seconds
+  useEffect(() => {
+    fetchIncidents();
+    const interval = setInterval(fetchIncidents, 30000);
+    return () => clearInterval(interval);
+  }, []);
+
+  // Helper function to calculate time ago
+  const timeAgo = (date: Date) => {
+    const now = new Date();
+    const diffMs = now.getTime() - date.getTime();
+    const diffMin = Math.floor(diffMs / 60000);
+    return `${diffMin} min ago`;
+  };
 
   const mapOptions = {
     disableDefaultUI: false,
@@ -432,7 +184,7 @@ export function CommandDashboard() {
 
   return (
     <div className="p-6 space-y-6 min-h-screen">
-      {/* Stats Overview */}
+      {/* Stats Overview (Static for now, can be updated with real data later) */}
       <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4">
         <Card>
           <CardContent className="p-4">
@@ -441,54 +193,13 @@ export function CommandDashboard() {
                 <AlertTriangle className="w-5 h-5 text-red-600" />
               </div>
               <div>
-                <div className="text-2xl font-bold">23</div>
+                <div className="text-2xl font-bold">{liveIncidents.length}</div>
                 <div className="text-sm text-muted-foreground">Active Incidents</div>
               </div>
             </div>
           </CardContent>
         </Card>
-
-        <Card>
-          <CardContent className="p-4">
-            <div className="flex items-center space-x-3">
-              <div className="w-10 h-10 bg-blue-100 dark:bg-blue-950/20 rounded-lg flex items-center justify-center">
-                <Users className="w-5 h-5 text-blue-600" />
-              </div>
-              <div>
-                <div className="text-2xl font-bold">156</div>
-                <div className="text-sm text-muted-foreground">Citizen Reports</div>
-              </div>
-            </div>
-          </CardContent>
-        </Card>
-
-        <Card>
-          <CardContent className="p-4">
-            <div className="flex items-center space-x-3">
-              <div className="w-10 h-10 bg-green-100 dark:bg-green-950/20 rounded-lg flex items-center justify-center">
-                <CheckCircle className="w-5 h-5 text-green-600" />
-              </div>
-              <div>
-                <div className="text-2xl font-bold">89</div>
-                <div className="text-sm text-muted-foreground">Resolved Today</div>
-              </div>
-            </div>
-          </CardContent>
-        </Card>
-
-        <Card>
-          <CardContent className="p-4">
-            <div className="flex items-center space-x-3">
-              <div className="w-10 h-10 bg-purple-100 dark:bg-purple-950/20 rounded-lg flex items-center justify-center">
-                <Zap className="w-5 h-5 text-purple-600" />
-              </div>
-              <div>
-                <div className="text-2xl font-bold">12m</div>
-                <div className="text-sm text-muted-foreground">Avg Response</div>
-              </div>
-            </div>
-          </CardContent>
-        </Card>
+        {/* Add other stats cards similarly */}
       </div>
 
       <div className="grid grid-cols-1 lg:grid-cols-3 gap-6">
@@ -537,15 +248,11 @@ export function CommandDashboard() {
           <CardContent className="p-4">
             <div className="relative w-full h-[400px]">
               {isLoaded ? (
-                // loadError ? (
-                //   <div className="h-full bg-muted/20 flex items-center justify-center text-center">
-                //     Map Load Error: {loadError.message}
-                //   </div>
-                // ) : isFetching ? (
-                //   <div className="h-full bg-muted/20 flex items-center justify-center">
-                //     Fetching data...
-                //   </div>
-                // ) : (
+                isFetching ? (
+                  <div className="h-full bg-muted/20 flex items-center justify-center">
+                    Fetching data...
+                  </div>
+                ) : (
                   <GoogleMap
                     mapContainerStyle={containerStyle}
                     center={center}
@@ -563,7 +270,7 @@ export function CommandDashboard() {
                             key={incident.id}
                             position={incident.position}
                             icon={{
-                              url: `http://maps.google.com/mapfiles/ms/icons/${incident.severity === "high" ? "red" : "yellow"}-dot.png`,
+                              url: `http://maps.google.com/mapfiles/ms/icons/${incident.severity === "high" ? "red" : incident.severity === "medium" ? "yellow" : "blue"}-dot.png`,
                               scaledSize: new google.maps.Size(40, 40),
                             }}
                             title={incident.title}
@@ -575,10 +282,24 @@ export function CommandDashboard() {
                               }
                             }}
                           >
+                            {incident.mediaUrl && (
+                              <div
+                                className="absolute -top-16 bg-background/90 px-2 py-1 rounded text-xs"
+                                style={{ display: "none" }}
+                                onMouseEnter={(e) => {
+                                  e.currentTarget.style.display = "block";
+                                }}
+                                onMouseLeave={(e) => {
+                                  e.currentTarget.style.display = "none";
+                                }}
+                              >
+                                <img src={incident.mediaUrl} alt="Incident Media" width="100" />
+                              </div>
+                            )}
                             <div className="absolute -top-10 bg-background/90 px-2 py-1 rounded text-xs">
                               <Badge
                                 variant="secondary"
-                                className={`bg-${incident.severity === "high" ? "red" : "yellow"}-500 text-white text-xs font-medium`}
+                                className={`bg-${incident.severity === "high" ? "red" : incident.severity === "medium" ? "yellow" : "blue"}-500 text-white text-xs font-medium`}
                               >
                                 {incident.title}
                               </Badge>
@@ -649,7 +370,7 @@ export function CommandDashboard() {
                       </div>
                     </div>
                   </GoogleMap>
-                // )
+                )
               ) : (
                 <div className="h-full bg-muted/20 flex items-center justify-center">
                   Loading Map...
@@ -696,10 +417,8 @@ export function CommandDashboard() {
                           </Badge>
                           <div className={`w-3 h-3 rounded-full ${getSeverityColor(incident.severity)}`}></div>
                         </div>
-
                         <h4 className="font-medium text-sm">{incident.title}</h4>
                         <p className="text-xs text-muted-foreground">{incident.location}</p>
-
                         <div className="flex items-center justify-between text-xs">
                           <span className="flex items-center space-x-1">
                             <Clock className="w-3 h-3" />
@@ -707,12 +426,10 @@ export function CommandDashboard() {
                           </span>
                           <Badge className={`text-xs ${getStatusColor(incident.status)}`}>{incident.status}</Badge>
                         </div>
-
                         <div className="flex items-center justify-between text-xs text-muted-foreground">
                           <span>{incident.reports} reports</span>
                           <span>{incident.sensors} sensors</span>
                         </div>
-
                         <div className="flex space-x-1">
                           <Button
                             size="sm"
