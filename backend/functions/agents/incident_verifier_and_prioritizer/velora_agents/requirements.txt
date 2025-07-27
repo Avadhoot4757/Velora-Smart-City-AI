@@ -1,0 +1,9 @@
+google-cloud-aiplatform[agent_engines,adk]
+google-genai
+firebase-admin
+google-cloud-firestore
+google-cloud-storage
+google-cloud-bigquery
+geopy
+cloudpickle==3.1.1
+pydantic==2.11.7

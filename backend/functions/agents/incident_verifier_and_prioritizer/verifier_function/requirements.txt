@@ -1,0 +1,8 @@
+functions-framework==3.*
+google-cloud-firestore==2.16.0
+google-cloud-storage==2.18.0
+google-cloud-pubsub==2.21.1
+google-cloud-aiplatform==1.88.0
+google-generativeai==0.8.3
+firebase-admin==6.5.0
+Flask==3.0.0

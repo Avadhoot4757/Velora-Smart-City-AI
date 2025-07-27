@@ -17,9 +17,10 @@ import { Search, Bell, Settings, LogOut, Trophy, ArrowLeft, Crosshair, Navigatio
 export interface DashboardHeaderProps {
   onBack?: () => void
   showReportIssue?: boolean
+  currentLocation?: string
 }
 
-export function DashboardHeader({ onBack, showReportIssue = true }: DashboardHeaderProps) {
+export function DashboardHeader({ onBack, showReportIssue = true, currentLocation = "Koramangala, Bengaluru" }: DashboardHeaderProps) {
   const { user, logout } = useAuth()
   const [isLoginOpen, setIsLoginOpen] = useState(false)
   const [isReportOpen, setIsReportOpen] = useState(false)
@@ -66,7 +67,7 @@ export function DashboardHeader({ onBack, showReportIssue = true }: DashboardHea
         <div className="flex items-center space-x-4">
           <div className="flex items-center space-x-2 bg-muted/50 px-4 py-2 rounded-full">
             <Crosshair className="w-4 h-4 text-primary animate-pulse" />
-            <span className="font-medium text-sm">Koramangala, Bengaluru</span>
+            <span className="font-medium text-sm">{currentLocation}</span>
             <Button variant="ghost" size="sm" className="h-6 w-6 p-0">
               <Navigation className="w-3 h-3" />
             </Button>

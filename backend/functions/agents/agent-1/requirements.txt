@@ -1,7 +1,0 @@
-google-cloud-aiplatform[adk,agent_engines]
-google-cloud-bigquery
-google-cloud-pubsub
-google-cloud-firestore
-google-auth
-firebase-admin
-google-generativeai

@@ -1,0 +1,7 @@
+functions-framework==3.*
+google-cloud-firestore==2.16.0
+google-cloud-bigquery==3.25.0
+google-cloud-pubsub==2.21.1
+google-cloud-aiplatform==1.88.0
+geopy==2.4.1
+Flask==3.0.0

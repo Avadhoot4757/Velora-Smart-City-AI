@@ -13,6 +13,7 @@ import { useGoogleMaps } from "@/components/GoogleMapsProvider";
 interface RouteDetailsProps {
   route: any;
   destination: string;
+  currentLocation?: string;
   onStartNavigation: () => void;
   onBack: () => void;
 }
@@ -54,7 +55,7 @@ const darkMapStyle = [
   { featureType: "water", elementType: "geometry.fill", stylers: [{ color: "#0e1626" }] },
 ];
 
-export function RouteDetails({ route, destination, onStartNavigation, onBack }: RouteDetailsProps) {
+export function RouteDetails({ route, destination, currentLocation = "Koramangala, Bengaluru", onStartNavigation, onBack }: RouteDetailsProps) {
   const { theme } = useTheme();
   const mapRef = useRef<google.maps.Map | null>(null);
   const [directions, setDirections] = useState<google.maps.DirectionsResult | null>(null);
@@ -120,7 +121,7 @@ export function RouteDetails({ route, destination, onStartNavigation, onBack }: 
     const directionsService = new google.maps.DirectionsService();
     directionsService.route(
       {
-        origin: { query: "Koramangala, Bengaluru" }, // Use query for better geocoding
+        origin: { query: currentLocation }, // Use the passed currentLocation
         destination: { query: destination },
         travelMode: google.maps.TravelMode.DRIVING,
         waypoints: route.waypoints || [],
@@ -141,7 +142,7 @@ export function RouteDetails({ route, destination, onStartNavigation, onBack }: 
         }
       }
     );
-  }, [isLoaded, route]);
+  }, [isLoaded, route, currentLocation]); // Add currentLocation to dependencies
 
   useEffect(() => {
     if (isLoaded && mapRef.current && directions?.routes?.[0]?.legs) {

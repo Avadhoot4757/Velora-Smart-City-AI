@@ -15,6 +15,7 @@ import { useTheme } from "next-themes";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
 import { Calendar, Music, Thermometer, Users, Car, Volume2 } from "lucide-react";
+import { useGeolocation } from "@/hooks/use-geolocation";
 
 type DashboardView = "default" | "routes" | "details" | "navigation";
 
@@ -191,6 +192,9 @@ export default function Dashboard() {
   const [selectedRoute, setSelectedRoute] = useState<any>(null);
   const [destination, setDestination] = useState("");
   const [cityDataWithIcons, setCityDataWithIcons] = useState<any[]>([]);
+  
+  // Get user's current location
+  const { latitude, longitude, address, isLoading: locationLoading, error: locationError } = useGeolocation();
 
   useEffect(() => {
     if (isLoaded && window.google) {
@@ -285,6 +289,9 @@ export default function Dashboard() {
   };
 
   const handleStartNavigation = () => {
+    console.log("Starting navigation with route:", selectedRoute);
+    console.log("Destination:", destination);
+    console.log("Current location:", getCurrentLocation());
     setView("navigation");
   };
 
@@ -307,14 +314,50 @@ export default function Dashboard() {
     styles: theme === "dark" ? darkMapStyle : [],
   };
 
+  // Get current location string for route planning
+  const getCurrentLocation = () => {
+    if (locationLoading) {
+      return "Getting location...";
+    } else if (locationError) {
+      return "Location unavailable";
+    } else if (address) {
+      return address;
+    } else if (latitude && longitude) {
+      return `${latitude.toFixed(4)}, ${longitude.toFixed(4)}`;
+    } else {
+      // Fallback to Koramangala if location is not available
+      return "Koramangala, Bengaluru";
+    }
+  };
+
+  // Show loading state while getting location
+  if (locationLoading && view === "routes") {
+    return (
+      <div className="min-h-screen bg-background">
+        <DashboardHeader onBack={handleBackToDefault} currentLocation="Getting location..." />
+        <div className="flex h-[calc(100vh-80px)] items-center justify-center">
+          <div className="text-center space-y-4">
+            <div className="animate-spin rounded-full h-8 w-8 border-b-2 border-primary mx-auto"></div>
+            <p className="text-muted-foreground">Getting your current location...</p>
+            <p className="text-sm text-muted-foreground">Please allow location access for accurate route planning</p>
+          </div>
+        </div>
+      </div>
+    );
+  }
 
 
   return (
     <div className="min-h-screen bg-background">
-      {view !== "navigation" && <DashboardHeader onBack={view !== "default" ? handleBackToDefault : undefined} />}
+      {view !== "navigation" && <DashboardHeader onBack={view !== "default" ? handleBackToDefault : undefined} currentLocation={getCurrentLocation()} />}
 
       {view === "navigation" ? (
-        <NavigationView route={selectedRoute} onBack={handleBackToRoutes} />
+        <NavigationView 
+          route={selectedRoute} 
+          currentLocation={getCurrentLocation()} 
+          destination={destination}
+          onBack={handleBackToRoutes} 
+        />
       ) : (
         <div className="flex h-[calc(100vh-80px)]">
           {/* Left Sidebar - Insights */}
@@ -392,7 +435,7 @@ export default function Dashboard() {
             {view === "routes" && (
               <RouteSelection
                 destination={destination}
-                currentLocation="Koramangala, Bengaluru"
+                currentLocation={getCurrentLocation()}
                 onRouteSelect={handleRouteSelect}
               />
             )}
@@ -401,6 +444,7 @@ export default function Dashboard() {
               <RouteDetails
                 route={selectedRoute}
                 destination={destination}
+                currentLocation={getCurrentLocation()}
                 onStartNavigation={handleStartNavigation}
                 onBack={handleBackToRoutes}
               />

@@ -22,6 +22,8 @@ import { useGoogleMaps } from "@/components/GoogleMapsProvider"; // Import the r
 
 interface NavigationViewProps {
   route: any;
+  currentLocation?: string;
+  destination?: string;
   onBack: () => void;
 }
 
@@ -43,7 +45,7 @@ const darkMapStyle = [
   { featureType: "water", elementType: "geometry.fill", stylers: [{ color: "#0e1626" }] },
 ];
 
-export function NavigationView({ route, onBack }: NavigationViewProps) {
+export function NavigationView({ route, currentLocation = "Koramangala, Bengaluru", destination = "MG Road, Bengaluru", onBack }: NavigationViewProps) {
   const [isMuted, setIsMuted] = useState(false);
   const [currentStep, setCurrentStep] = useState(0);
   const [eta, setEta] = useState(route.duration);
@@ -53,7 +55,15 @@ export function NavigationView({ route, onBack }: NavigationViewProps) {
 
   const { isLoaded } = useGoogleMaps(); // Use the singleton utility
 
-  const navigationSteps = [
+  // Debug logging
+  useEffect(() => {
+    console.log("NavigationView received route:", route);
+    console.log("NavigationView currentLocation:", currentLocation);
+    console.log("NavigationView destination:", destination);
+  }, [route, currentLocation, destination]);
+
+  // Use route-specific navigation steps if available, otherwise use default
+  const navigationSteps = route.navigationSteps || [
     "Head southeast on Koramangala Ring Road",
     "Turn right onto Outer Ring Road",
     "Continue straight for 8.2 km",
@@ -68,28 +78,51 @@ export function NavigationView({ route, onBack }: NavigationViewProps) {
       setCurrentStep((prev) => (prev + 1) % navigationSteps.length);
     }, 5000);
     return () => clearInterval(interval);
-  }, []);
+  }, [navigationSteps.length]);
 
   useEffect(() => {
     if (isLoaded) {
+      console.log("NavigationView: Fetching directions with:", {
+        origin: currentLocation,
+        destination: destination,
+        waypoints: route.waypoints
+      });
+
       const directionsService = new google.maps.DirectionsService();
+      
+      // Prepare waypoints from route data
+      const waypoints = route.waypoints?.map((wp: any) => ({
+        location: wp.location,
+        stopover: wp.stopover || false
+      })) || [];
+
       directionsService.route(
         {
-          origin: "Koramangala, Bengaluru",
-          destination: "MG Road, Bengaluru",
+          origin: currentLocation,
+          destination: destination,
           travelMode: google.maps.TravelMode.DRIVING,
+          waypoints: waypoints,
+          optimizeWaypoints: false,
         },
         (result, status) => {
+          console.log("NavigationView directions result:", { status, result });
           if (status === google.maps.DirectionsStatus.OK && result) {
             setDirections(result);
             // Update ETA based on Google Maps response
             const duration = result.routes[0].legs[0].duration?.text;
-            if (duration) setEta(duration);
+            if (duration) {
+              console.log("NavigationView: Updated ETA to:", duration);
+              setEta(duration);
+            }
+          } else {
+            console.error("Navigation directions failed:", status);
+            // Fallback to route duration
+            setEta(route.duration);
           }
         }
       );
     }
-  }, [isLoaded]);
+  }, [isLoaded, currentLocation, destination, route.waypoints]);
 
   const mapOptions = {
     disableDefaultUI: true,
