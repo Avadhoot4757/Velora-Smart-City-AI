@@ -37,11 +37,13 @@ const darkMapStyle = [
 export function RouteSelection({ destination, currentLocation, onRouteSelect }: RouteSelectionProps) {
   const [selectedRouteId, setSelectedRouteId] = useState<number | null>(null);
   const [directions, setDirections] = useState<google.maps.DirectionsResult[]>([]);
+  const [isLoadingApi, setIsLoadingApi] = useState(false);
+  const [loadingRoutes, setLoadingRoutes] = useState<number[]>([]);
   const { theme } = useTheme();
   const mapRef = useRef<google.maps.Map | null>(null);
   const { isLoaded } = useGoogleMaps(); // Use the context hook
 
-  const routes = [
+  const [routes, setRoutes] = useState([
     {
       id: 1,
       name: "Fastest Route",
@@ -117,62 +119,161 @@ export function RouteSelection({ destination, currentLocation, onRouteSelect }: 
         carbon: "Eco-friendly",
       },
       waypoints: [{ location: "100 Feet Road, Koramangala, Bengaluru", stopover: false }],
+      apiRoute: null as any,
     },
-  ];
+  ]);
 
   useEffect(() => {
     if (isLoaded) {
       const directionsService = new google.maps.DirectionsService();
-      const routePromises = routes.map((route, index) =>
-        new Promise<{ route: typeof routes[0]; result: google.maps.DirectionsResult; index: number } | null>((resolve) => {
-          directionsService.route(
+      
+      // Fetch fastest route from API
+      const fetchFastestRoute = async () => {
+        try {
+          setIsLoadingApi(true);
+          setLoadingRoutes(prev => [...prev, 1]); // Add route ID 1 to loading
+          const response = await fetch(
+            "https://get-fastest-route-ykdeiw3tha-el.a.run.app",
             {
-              origin: currentLocation,
-              destination: destination,
-              travelMode: google.maps.TravelMode.DRIVING,
-              provideRouteAlternatives: true,
-              waypoints: route.waypoints,
-              optimizeWaypoints: false,
-            },
-            (result, status) => {
-              if (status === google.maps.DirectionsStatus.OK && result) {
-                resolve({ route, result, index });
-              } else {
-                resolve(null);
-              }
+              method: "POST",
+              headers: {
+                "Content-Type": "application/json",
+              },
+              body: JSON.stringify({
+                user_id: "KID9Y7AUE7W9F032916BBW2",
+                origin: currentLocation,
+                destination: destination,
+              }),
             }
           );
-        })
-      );
+          
+          if (response.ok) {
+            const data = await response.json();
+            console.log("Fastest route API response:", data);
+            
+            // Update only the fastest route (index 0) with API data
+            setRoutes(prevRoutes => {
+              const updatedRoutes = [...prevRoutes];
+              updatedRoutes[0] = {
+                ...updatedRoutes[0],
+                duration: data.route?.duration || updatedRoutes[0].duration,
+                distance: data.route?.distance || updatedRoutes[0].distance,
+                analytics: {
+                  ...updatedRoutes[0].analytics,
+                  time: data.route?.duration || updatedRoutes[0].duration,
+                },
+                apiRoute: data.route, // Store the full API response
+              } as typeof updatedRoutes[0];
+              return updatedRoutes;
+            });
+          }
+        } catch (error) {
+          console.error("Failed to fetch fastest route:", error);
+        } finally {
+          setIsLoadingApi(false);
+          setLoadingRoutes(prev => prev.filter(id => id !== 1)); // Remove route ID 1 from loading
+        }
+      };
 
-      Promise.all(routePromises).then((results) => {
-        const validResults = results.filter((r): r is { route: typeof routes[0]; result: google.maps.DirectionsResult; index: number } => r !== null);
-        const updatedDirections = validResults.map(({ result }) => result).slice(0, 4);
-        setDirections(updatedDirections);
+      // Fetch eco-friendly route from API
+      const fetchEcoRoute = async () => {
+        try {
+          setLoadingRoutes(prev => [...prev, 4]); // Add route ID 4 to loading
+          const response = await fetch(
+            "https://get-eco-friendly-route-ykdeiw3tha-el.a.run.app",
+            {
+              method: "POST",
+              headers: {
+                "Content-Type": "application/json",
+              },
+              body: JSON.stringify({
+                user_id: "KID9Y7AUE7W9F032916BBW2",
+                origin: currentLocation,
+                destination: destination,
+              }),
+            }
+          );
+          
+          if (response.ok) {
+            const data = await response.json();
+            console.log("Eco route API response:", data);
+            
+            // Update only the eco route (index 3) with API data
+            setRoutes(prevRoutes => {
+              const updatedRoutes = [...prevRoutes];
+              updatedRoutes[3] = {
+                ...updatedRoutes[3],
+                duration: data.route?.duration || updatedRoutes[3].duration,
+                distance: data.route?.distance || updatedRoutes[3].distance,
+                analytics: {
+                  ...updatedRoutes[3].analytics,
+                  time: data.route?.duration || updatedRoutes[3].duration,
+                },
+                apiRoute: data.route, // Store the full API response
+              } as typeof updatedRoutes[3];
+              return updatedRoutes;
+            });
+          }
+        } catch (error) {
+          console.error("Failed to fetch eco route:", error);
+        } finally {
+          setLoadingRoutes(prev => prev.filter(id => id !== 4)); // Remove route ID 4 from loading
+        }
+      };
 
-        // Update route data with Google Maps results
-        validResults.forEach(({ route, result }, i) => {
-          if (result.routes[0]) {
-            route.duration = result.routes[0].legs[0].duration?.text || route.duration;
-            route.distance = result.routes[0].legs[0].distance?.text || route.distance;
-            route.analytics.time = route.duration;
+      // Fetch both fastest and eco routes, then get other routes
+      Promise.all([fetchFastestRoute(), fetchEcoRoute()]).then(() => {
+        const routePromises = routes.map((route, index) =>
+          new Promise<{ route: typeof routes[0]; result: google.maps.DirectionsResult; index: number } | null>((resolve) => {
+            directionsService.route(
+              {
+                origin: currentLocation,
+                destination: destination,
+                travelMode: google.maps.TravelMode.DRIVING,
+                provideRouteAlternatives: true,
+                waypoints: route.waypoints,
+                optimizeWaypoints: false,
+              },
+              (result, status) => {
+                if (status === google.maps.DirectionsStatus.OK && result) {
+                  resolve({ route, result, index });
+                } else {
+                  resolve(null);
+                }
+              }
+            );
+          })
+        );
+
+        Promise.all(routePromises).then((results) => {
+          const validResults = results.filter((r): r is { route: typeof routes[0]; result: google.maps.DirectionsResult; index: number } => r !== null);
+          const updatedDirections = validResults.map(({ result }) => result).slice(0, 4);
+          setDirections(updatedDirections);
+
+          // Update route data with Google Maps results
+          validResults.forEach(({ route, result }, i) => {
+            if (result.routes[0]) {
+              route.duration = result.routes[0].legs[0].duration?.text || route.duration;
+              route.distance = result.routes[0].legs[0].distance?.text || route.distance;
+              route.analytics.time = route.duration;
+            }
+          });
+
+          // Ensure map zooms to fit all routes
+          if (mapRef.current && validResults.length > 0) {
+            const bounds = new google.maps.LatLngBounds();
+            validResults.forEach(({ result }) => {
+              result.routes[0].legs[0].steps.forEach((step) => {
+                bounds.extend(step.start_location);
+                bounds.extend(step.end_location);
+              });
+            });
+            mapRef.current.fitBounds(bounds);
           }
         });
-
-        // Ensure map zooms to fit all routes
-        if (mapRef.current && validResults.length > 0) {
-          const bounds = new google.maps.LatLngBounds();
-          validResults.forEach(({ result }) => {
-            result.routes[0].legs[0].steps.forEach((step) => {
-              bounds.extend(step.start_location);
-              bounds.extend(step.end_location);
-            });
-          });
-          mapRef.current.fitBounds(bounds);
-        }
       });
     }
-  }, [isLoaded]);
+  }, [isLoaded, currentLocation, destination]);
 
   const mapOptions = {
     disableDefaultUI: true,
@@ -300,8 +401,17 @@ export function RouteSelection({ destination, currentLocation, onRouteSelect }: 
                       {route.name}
                     </CardTitle>
                     <div className="text-right">
-                      <div className="font-bold text-base">{route.duration}</div>
-                      <div className="text-xs text-muted-foreground">{route.distance}</div>
+                      {loadingRoutes.includes(route.id) ? (
+                        <div className="flex items-center space-x-2">
+                          <div className="animate-spin rounded-full h-4 w-4 border-b-2 border-primary"></div>
+                          <span className="text-xs text-muted-foreground">Loading...</span>
+                        </div>
+                      ) : (
+                        <>
+                          <div className="font-bold text-base">{route.duration}</div>
+                          <div className="text-xs text-muted-foreground">{route.distance}</div>
+                        </>
+                      )}
                     </div>
                   </div>
                 </CardHeader>

@@ -1,126 +1,114 @@
 "use client";
 
-import { useState } from "react";
 import { useRouter } from "next/navigation";
 import { Button } from "@/components/ui/button";
-import { Card, CardContent } from "@/components/ui/card";
-import { Route, Leaf, Shield, Heart, Navigation } from "lucide-react";
+import { Route, Leaf, Shield } from "lucide-react";
 
 export default function LandingPage() {
-  const [currentLocation] = useState("Koramangala, Bengaluru");
   const router = useRouter();
 
   const handleGetStarted = () => {
-    router.push(`/dashboard`);
+    router.push('/dashboard');
+  };
+
+  const handleAuthorityLogin = () => {
+    router.push('/authority');
   };
 
   return (
-    <div className="min-h-screen bg-background">
-      <div className="h-full flex items-center justify-center">
-        <div className="text-center space-y-8 max-w-2xl mx-auto px-6">
-          {/* Welcome Section */}
-          <div className="space-y-4">
-            <div className="text-6xl mb-4">🚀</div>
-            <h1 className="text-4xl font-bold tracking-tight">
-              Welcome to <span className="text-primary">Velora</span>
+    <div className="min-h-screen bg-gradient-to-br from-background via-background to-muted/20 relative overflow-hidden flex flex-col">
+      {/* Subtle background pattern */}
+      <div className="absolute inset-0 bg-[radial-gradient(circle_at_50%_50%,rgba(59,130,246,0.05),transparent_50%)] pointer-events-none"></div>
+      
+      {/* Header */}
+      <header className="relative z-10 border-b bg-background/80 backdrop-blur-sm flex-shrink-0">
+        <div className="container mx-auto px-6 py-4 flex items-center justify-between">
+          <div className="flex items-center space-x-2">
+            <div className="w-8 h-8 bg-gradient-to-r from-primary to-primary/80 rounded-lg flex items-center justify-center">
+              <Route className="w-5 h-5 text-white" />
+            </div>
+            <span className="text-xl font-bold">Velora</span>
+          </div>
+          <nav className="hidden md:flex items-center space-x-6">
+            <a href="#about" className="text-sm text-muted-foreground hover:text-foreground transition-colors">About</a>
+            <a href="#features" className="text-sm text-muted-foreground hover:text-foreground transition-colors">Features</a>
+            <a href="#contact" className="text-sm text-muted-foreground hover:text-foreground transition-colors">Contact</a>
+            <Button variant="outline" size="sm" onClick={handleAuthorityLogin}>
+              Authority Login
+            </Button>
+          </nav>
+        </div>
+      </header>
+
+      {/* Main Content */}
+      <main className="relative z-10 flex-1 flex items-center justify-center px-6 py-12">
+        <div className="text-center space-y-8 max-w-4xl mx-auto">
+          {/* Hero Section */}
+          <div className="space-y-6">
+            <h1 className="text-5xl md:text-6xl font-bold tracking-tight">
+              Smart City Intelligence Platform
             </h1>
-            <p className="text-xl text-muted-foreground leading-relaxed">
-              Your intelligent companion for navigating Bengaluru with real-time insights, 
-              smart routing, and city intelligence at your fingertips.
+            <p className="text-xl text-muted-foreground max-w-2xl mx-auto leading-relaxed">
+              Comprehensive city intelligence platform that helps reduce traffic, prevent accidents, and enables authorities to manage efficiently with real-time analytics and route optimization.
             </p>
           </div>
 
-          {/* Features Grid */}
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mt-12">
-            <Card className="p-6 hover:shadow-lg transition-all duration-300 border-2 hover:border-primary/20">
-              <CardContent className="p-0 space-y-4">
-                <div className="w-12 h-12 bg-gradient-to-r from-blue-500 to-blue-600 rounded-lg flex items-center justify-center">
-                  <Route className="w-6 h-6 text-white" />
-                </div>
-                <div>
-                  <h3 className="text-lg font-semibold mb-2">Smart Navigation</h3>
-                  <p className="text-muted-foreground text-sm">
-                    Get intelligent route suggestions with real-time traffic, pollution, and safety data.
-                  </p>
-                </div>
-              </CardContent>
-            </Card>
-
-            <Card className="p-6 hover:shadow-lg transition-all duration-300 border-2 hover:border-primary/20">
-              <CardContent className="p-0 space-y-4">
-                <div className="w-12 h-12 bg-gradient-to-r from-green-500 to-green-600 rounded-lg flex items-center justify-center">
-                  <Leaf className="w-6 h-6 text-white" />
-                </div>
-                <div>
-                  <h3 className="text-lg font-semibold mb-2">Eco-Friendly Routes</h3>
-                  <p className="text-muted-foreground text-sm">
-                    Choose routes that minimize your carbon footprint and exposure to pollution.
-                  </p>
-                </div>
-              </CardContent>
-            </Card>
-
-            <Card className="p-6 hover:shadow-lg transition-all duration-300 border-2 hover:border-primary/20">
-              <CardContent className="p-0 space-y-4">
-                <div className="w-12 h-12 bg-gradient-to-r from-purple-500 to-purple-600 rounded-lg flex items-center justify-center">
-                  <Shield className="w-6 h-6 text-white" />
-                </div>
-                <div>
-                  <h3 className="text-lg font-semibold mb-2">Safety First</h3>
-                  <p className="text-muted-foreground text-sm">
-                    Navigate through well-lit, safe areas with real-time incident alerts.
-                  </p>
-                </div>
-              </CardContent>
-            </Card>
-
-            <Card className="p-6 hover:shadow-lg transition-all duration-300 border-2 hover:border-primary/20">
-              <CardContent className="p-0 space-y-4">
-                <div className="w-12 h-12 bg-gradient-to-r from-orange-500 to-orange-600 rounded-lg flex items-center justify-center">
-                  <Heart className="w-6 h-6 text-white" />
-                </div>
-                <div>
-                  <h3 className="text-lg font-semibold mb-2">Health Conscious</h3>
-                  <p className="text-muted-foreground text-sm">
-                    Routes optimized for lower noise levels and better air quality.
-                  </p>
-                </div>
-              </CardContent>
-            </Card>
-          </div>
-
           {/* Get Started Button */}
-          <div className="mt-12">
+          <div className="space-y-4">
             <Button 
               size="lg" 
               className="bg-gradient-to-r from-primary to-primary/80 hover:from-primary/90 hover:to-primary text-white px-8 py-4 text-lg font-semibold shadow-lg hover:shadow-xl transition-all duration-300"
               onClick={handleGetStarted}
             >
-              <Navigation className="w-5 h-5 mr-2" />
-              Get Started - Plan Your Route
+              Explore City
             </Button>
-            <p className="text-sm text-muted-foreground mt-3">
-              Start exploring Bengaluru with intelligent navigation
-            </p>
           </div>
 
-          {/* Quick Stats */}
-          <div className="grid grid-cols-3 gap-6 mt-12 pt-8 border-t">
-            <div className="text-center">
-              <div className="text-2xl font-bold text-primary">50K+</div>
-              <div className="text-sm text-muted-foreground">Active Users</div>
+          {/* Feature Overview */}
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mt-16 pt-16 border-t">
+            <div className="flex flex-col items-center space-y-3">
+              <div className="w-12 h-12 bg-gradient-to-r from-blue-500 to-blue-600 rounded-lg flex items-center justify-center">
+                <Route className="w-6 h-6 text-white" />
+              </div>
+              <h3 className="font-semibold">Traffic Analytics</h3>
+              <p className="text-sm text-muted-foreground text-center">Real-time traffic monitoring and intelligent route optimization</p>
             </div>
-            <div className="text-center">
-              <div className="text-2xl font-bold text-primary">1M+</div>
-              <div className="text-sm text-muted-foreground">Routes Planned</div>
+            <div className="flex flex-col items-center space-y-3">
+              <div className="w-12 h-12 bg-gradient-to-r from-green-500 to-green-600 rounded-lg flex items-center justify-center">
+                <Shield className="w-6 h-6 text-white" />
+              </div>
+              <h3 className="font-semibold">Accident Prevention</h3>
+              <p className="text-sm text-muted-foreground text-center">Predictive analytics to identify and prevent potential incidents</p>
             </div>
-            <div className="text-center">
-              <div className="text-2xl font-bold text-primary">95%</div>
-              <div className="text-sm text-muted-foreground">User Satisfaction</div>
+            <div className="flex flex-col items-center space-y-3">
+              <div className="w-12 h-12 bg-gradient-to-r from-purple-500 to-purple-600 rounded-lg flex items-center justify-center">
+                <Leaf className="w-6 h-6 text-white" />
+              </div>
+              <h3 className="font-semibold">Authority Tools</h3>
+              <p className="text-sm text-muted-foreground text-center">Comprehensive dashboard for city authorities and emergency services</p>
             </div>
           </div>
         </div>
-      </div>
+      </main>
+
+      {/* Footer */}
+      <footer className="relative z-10 border-t bg-background/80 backdrop-blur-sm flex-shrink-0">
+        <div className="container mx-auto px-6 py-6">
+          <div className="flex flex-col md:flex-row items-center justify-between space-y-4 md:space-y-0">
+            <div className="flex items-center space-x-2">
+              <div className="w-6 h-6 bg-gradient-to-r from-primary to-primary/80 rounded flex items-center justify-center">
+                <Route className="w-4 h-4 text-white" />
+              </div>
+              <span className="font-semibold">Velora</span>
+            </div>
+            <div className="flex items-center space-x-6 text-sm text-muted-foreground">
+              <span>© 2024 Velora. All rights reserved.</span>
+              <a href="#privacy" className="hover:text-foreground transition-colors">Privacy</a>
+              <a href="#terms" className="hover:text-foreground transition-colors">Terms</a>
+            </div>
+          </div>
+        </div>
+      </footer>
     </div>
   );
 }
